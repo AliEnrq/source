@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/PetAcquireList.xsd">
+	<pet type="12">
+		<skill id="49207" lvl="1" reqLvl="40" evolve="1" item="94478" itemAmount="1" />
+		<skill id="49207" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49022" lvl="2" reqLvl="20" evolve="0" />
+		<skill id="49022" lvl="3" reqLvl="30" evolve="0" />
+		<skill id="49022" lvl="4" reqLvl="40" evolve="1" />
+		<skill id="49022" lvl="5" reqLvl="50" evolve="1" />
+		<skill id="49022" lvl="6" reqLvl="60" evolve="1" />
+		<skill id="49022" lvl="7" reqLvl="65" evolve="1" />
+		<skill id="49022" lvl="8" reqLvl="70" evolve="1" />
+		<skill id="49022" lvl="9" reqLvl="75" evolve="1" />
+		<skill id="49022" lvl="10" reqLvl="80" evolve="2" />
+		<skill id="49022" lvl="11" reqLvl="81" evolve="2" item="57" itemAmount="500000" />
+		<skill id="49022" lvl="12" reqLvl="82" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49022" lvl="13" reqLvl="83" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49022" lvl="14" reqLvl="84" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49022" lvl="15" reqLvl="85" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49022" lvl="16" reqLvl="86" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49022" lvl="17" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49022" lvl="18" reqLvl="88" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49022" lvl="19" reqLvl="89" evolve="2" item="57" itemAmount="4500000" />
+		<skill id="49022" lvl="20" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49021" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49021" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49023" lvl="2" reqLvl="60" evolve="1" item="57" itemAmount="1000000" />
+		<skill id="49023" lvl="3" reqLvl="76" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49023" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49023" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49024" lvl="1" reqLvl="76" evolve="2" item="94472" itemAmount="1" />
+		<skill id="49024" lvl="2" reqLvl="77" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49024" lvl="3" reqLvl="78" evolve="2" item="57" itemAmount="1200000" />
+		<skill id="49024" lvl="4" reqLvl="79" evolve="2" item="57" itemAmount="1400000" />
+		<skill id="49024" lvl="5" reqLvl="80" evolve="2" item="57" itemAmount="1600000" />
+		<skill id="49024" lvl="6" reqLvl="81" evolve="2" item="57" itemAmount="1800000" />
+		<skill id="49024" lvl="7" reqLvl="82" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49024" lvl="8" reqLvl="83" evolve="2" item="57" itemAmount="2200000" />
+		<skill id="49024" lvl="9" reqLvl="84" evolve="2" item="57" itemAmount="2400000" />
+		<skill id="49024" lvl="10" reqLvl="85" evolve="2" item="57" itemAmount="2600000" />
+		<skill id="49024" lvl="11" reqLvl="86" evolve="2" item="57" itemAmount="2800000" />
+		<skill id="49024" lvl="12" reqLvl="87" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49024" lvl="13" reqLvl="88" evolve="2" item="57" itemAmount="3300000" />
+		<skill id="49024" lvl="14" reqLvl="89" evolve="2" item="57" itemAmount="3700000" />
+		<skill id="49024" lvl="15" reqLvl="90" evolve="2" item="57" itemAmount="4000000" />
+	</pet>
+	<pet type="13">
+		<skill id="49207" lvl="1" reqLvl="40" evolve="1" item="94478" itemAmount="1" />
+		<skill id="49207" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49032" lvl="2" reqLvl="20" evolve="0" />
+		<skill id="49032" lvl="3" reqLvl="30" evolve="0" />
+		<skill id="49032" lvl="4" reqLvl="40" evolve="1" />
+		<skill id="49032" lvl="5" reqLvl="50" evolve="1" />
+		<skill id="49032" lvl="6" reqLvl="60" evolve="1" />
+		<skill id="49032" lvl="7" reqLvl="65" evolve="1" />
+		<skill id="49032" lvl="8" reqLvl="70" evolve="1" />
+		<skill id="49032" lvl="9" reqLvl="75" evolve="1" />
+		<skill id="49032" lvl="10" reqLvl="80" evolve="2" />
+		<skill id="49032" lvl="11" reqLvl="81" evolve="2" item="57" itemAmount="500000" />
+		<skill id="49032" lvl="12" reqLvl="82" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49032" lvl="13" reqLvl="83" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49032" lvl="14" reqLvl="84" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49032" lvl="15" reqLvl="85" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49032" lvl="16" reqLvl="86" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49032" lvl="17" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49032" lvl="18" reqLvl="88" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49032" lvl="19" reqLvl="89" evolve="2" item="57" itemAmount="4500000" />
+		<skill id="49032" lvl="20" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49031" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49031" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49033" lvl="2" reqLvl="60" evolve="1" item="57" itemAmount="1000000" />
+		<skill id="49033" lvl="3" reqLvl="76" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49033" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49033" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49034" lvl="1" reqLvl="76" evolve="2" item="94476" itemAmount="1" />
+		<skill id="49034" lvl="2" reqLvl="79" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49034" lvl="3" reqLvl="82" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49034" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49034" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49035" lvl="2" reqLvl="50" evolve="1" item="57" itemAmount="200000" />
+		<skill id="49035" lvl="3" reqLvl="60" evolve="1" item="57" itemAmount="300000" />
+		<skill id="49035" lvl="4" reqLvl="70" evolve="1" item="57" itemAmount="500000" />
+		<skill id="49035" lvl="5" reqLvl="75" evolve="1" item="57" itemAmount="1000000" />
+		<skill id="49035" lvl="6" reqLvl="80" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49035" lvl="7" reqLvl="85" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49035" lvl="8" reqLvl="90" evolve="2" item="57" itemAmount="2500000" />
+	</pet>
+	<pet type="14">
+		<skill id="49207" lvl="1" reqLvl="40" evolve="1" item="94478" itemAmount="1" />
+		<skill id="49207" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49012" lvl="2" reqLvl="20" evolve="0" />
+		<skill id="49012" lvl="3" reqLvl="30" evolve="0" />
+		<skill id="49012" lvl="4" reqLvl="40" evolve="1" />
+		<skill id="49012" lvl="5" reqLvl="50" evolve="1" />
+		<skill id="49012" lvl="6" reqLvl="60" evolve="1" />
+		<skill id="49012" lvl="7" reqLvl="65" evolve="1" />
+		<skill id="49012" lvl="8" reqLvl="70" evolve="1" />
+		<skill id="49012" lvl="9" reqLvl="75" evolve="1" />
+		<skill id="49012" lvl="10" reqLvl="80" evolve="2" />
+		<skill id="49012" lvl="11" reqLvl="81" evolve="2" item="57" itemAmount="500000" />
+		<skill id="49012" lvl="12" reqLvl="82" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49012" lvl="13" reqLvl="83" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49012" lvl="14" reqLvl="84" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49012" lvl="15" reqLvl="85" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49012" lvl="16" reqLvl="86" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49012" lvl="17" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49012" lvl="18" reqLvl="88" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49012" lvl="19" reqLvl="89" evolve="2" item="57" itemAmount="4500000" />
+		<skill id="49012" lvl="20" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49011" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49011" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49013" lvl="2" reqLvl="60" evolve="1" item="57" itemAmount="1000000" />
+		<skill id="49013" lvl="3" reqLvl="76" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49013" lvl="4" reqLvl="80" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49013" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49014" lvl="2" reqLvl="80" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49014" lvl="3" reqLvl="82" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49014" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49014" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49016" lvl="1" reqLvl="76" evolve="2" item="94471" itemAmount="1" />
+		<skill id="49016" lvl="2" reqLvl="77" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49016" lvl="3" reqLvl="78" evolve="2" item="57" itemAmount="1250000" />
+		<skill id="49016" lvl="4" reqLvl="79" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49016" lvl="5" reqLvl="80" evolve="2" item="57" itemAmount="1750000" />
+		<skill id="49016" lvl="6" reqLvl="81" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49016" lvl="7" reqLvl="82" evolve="2" item="57" itemAmount="2250000" />
+		<skill id="49016" lvl="8" reqLvl="83" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49016" lvl="9" reqLvl="84" evolve="2" item="57" itemAmount="2750000" />
+		<skill id="49016" lvl="10" reqLvl="85" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49016" lvl="11" reqLvl="86" evolve="2" item="57" itemAmount="3250000" />
+		<skill id="49016" lvl="12" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49016" lvl="13" reqLvl="88" evolve="2" item="57" itemAmount="3750000" />
+		<skill id="49016" lvl="14" reqLvl="89" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49016" lvl="15" reqLvl="90" evolve="2" item="57" itemAmount="4250000" />
+	</pet>
+	<pet type="15">
+		<skill id="49207" lvl="1" reqLvl="40" evolve="1" item="94478" itemAmount="1" />
+		<skill id="49207" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49002" lvl="2" reqLvl="20" evolve="0" />
+		<skill id="49002" lvl="3" reqLvl="30" evolve="0" />
+		<skill id="49002" lvl="4" reqLvl="40" evolve="1" />
+		<skill id="49002" lvl="5" reqLvl="50" evolve="1" />
+		<skill id="49002" lvl="6" reqLvl="60" evolve="1" />
+		<skill id="49002" lvl="7" reqLvl="65" evolve="1" />
+		<skill id="49002" lvl="8" reqLvl="70" evolve="1" />
+		<skill id="49002" lvl="9" reqLvl="75" evolve="1" />
+		<skill id="49002" lvl="10" reqLvl="80" evolve="2" />
+		<skill id="49002" lvl="11" reqLvl="81" evolve="2" item="57" itemAmount="500000" />
+		<skill id="49002" lvl="12" reqLvl="82" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49002" lvl="13" reqLvl="83" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49002" lvl="14" reqLvl="84" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49002" lvl="15" reqLvl="85" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49002" lvl="16" reqLvl="86" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49002" lvl="17" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49002" lvl="18" reqLvl="88" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49002" lvl="19" reqLvl="89" evolve="2" item="57" itemAmount="4500000" />
+		<skill id="49002" lvl="20" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49001" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49001" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49004" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49004" lvl="3" reqLvl="80" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49004" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49004" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49005" lvl="1" reqLvl="76" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49005" lvl="2" reqLvl="78" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49005" lvl="3" reqLvl="80" evolve="2" item="57" itemAmount="6000000" />
+		<skill id="49005" lvl="4" reqLvl="82" evolve="2" item="57" itemAmount="8000000" />
+		<skill id="49005" lvl="5" reqLvl="85" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49006" lvl="1" reqLvl="76" evolve="2" item="94469" itemAmount="1" />
+		<skill id="49006" lvl="2" reqLvl="78" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49006" lvl="3" reqLvl="80" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49006" lvl="4" reqLvl="82" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49006" lvl="5" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+	</pet>
+	<pet type="16">
+		<skill id="49207" lvl="1" reqLvl="40" evolve="1" item="94478" itemAmount="1" />
+		<skill id="49207" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49052" lvl="2" reqLvl="20" evolve="0" />
+		<skill id="49052" lvl="3" reqLvl="30" evolve="0" />
+		<skill id="49052" lvl="4" reqLvl="40" evolve="1" />
+		<skill id="49052" lvl="5" reqLvl="50" evolve="1" />
+		<skill id="49052" lvl="6" reqLvl="60" evolve="1" />
+		<skill id="49052" lvl="7" reqLvl="65" evolve="1" />
+		<skill id="49052" lvl="8" reqLvl="70" evolve="1" />
+		<skill id="49052" lvl="9" reqLvl="75" evolve="1" />
+		<skill id="49052" lvl="10" reqLvl="80" evolve="2" />
+		<skill id="49052" lvl="11" reqLvl="81" evolve="2" item="57" itemAmount="500000" />
+		<skill id="49052" lvl="12" reqLvl="82" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49052" lvl="13" reqLvl="83" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49052" lvl="14" reqLvl="84" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49052" lvl="15" reqLvl="85" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49052" lvl="16" reqLvl="86" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49052" lvl="17" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49052" lvl="18" reqLvl="88" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49052" lvl="19" reqLvl="89" evolve="2" item="57" itemAmount="4500000" />
+		<skill id="49052" lvl="20" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49051" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49051" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49054" lvl="2" reqLvl="60" evolve="1" item="57" itemAmount="2000000" />
+		<skill id="49054" lvl="3" reqLvl="76" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49054" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49054" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49055" lvl="1" reqLvl="76" evolve="2" item="94477" itemAmount="1" />
+		<skill id="49055" lvl="2" reqLvl="79" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49055" lvl="3" reqLvl="82" evolve="2" item="57" itemAmount="7000000" />
+		<skill id="49055" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="8500000" />
+		<skill id="49055" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+	</pet>
+	<pet type="17">
+		<skill id="49207" lvl="1" reqLvl="40" evolve="1" item="94478" itemAmount="1" />
+		<skill id="49207" lvl="2" reqLvl="76" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49042" lvl="2" reqLvl="20" evolve="0" />
+		<skill id="49042" lvl="3" reqLvl="30" evolve="0" />
+		<skill id="49042" lvl="4" reqLvl="40" evolve="1" />
+		<skill id="49042" lvl="5" reqLvl="50" evolve="1" />
+		<skill id="49042" lvl="6" reqLvl="60" evolve="1" />
+		<skill id="49042" lvl="7" reqLvl="65" evolve="1" />
+		<skill id="49042" lvl="8" reqLvl="70" evolve="1" />
+		<skill id="49042" lvl="9" reqLvl="75" evolve="1" />
+		<skill id="49042" lvl="10" reqLvl="80" evolve="2" />
+		<skill id="49042" lvl="11" reqLvl="81" evolve="2" item="57" itemAmount="500000" />
+		<skill id="49042" lvl="12" reqLvl="82" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49042" lvl="13" reqLvl="83" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49042" lvl="14" reqLvl="84" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49042" lvl="15" reqLvl="85" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49042" lvl="16" reqLvl="86" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49042" lvl="17" reqLvl="87" evolve="2" item="57" itemAmount="3500000" />
+		<skill id="49042" lvl="18" reqLvl="88" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49042" lvl="19" reqLvl="89" evolve="2" item="57" itemAmount="4500000" />
+		<skill id="49042" lvl="20" reqLvl="90" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49041" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49041" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="10000000" />
+		<skill id="49043" lvl="2" reqLvl="60" evolve="1" item="57" itemAmount="1000000" />
+		<skill id="49043" lvl="3" reqLvl="76" evolve="2" item="57" itemAmount="1500000" />
+		<skill id="49043" lvl="4" reqLvl="85" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49043" lvl="5" reqLvl="90" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49044" lvl="1" reqLvl="76" evolve="2" item="57" itemAmount="1000000" />
+		<skill id="49044" lvl="2" reqLvl="78" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49044" lvl="3" reqLvl="80" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49044" lvl="4" reqLvl="82" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49044" lvl="5" reqLvl="85" evolve="2" item="57" itemAmount="5000000" />
+		<skill id="49045" lvl="1" reqLvl="76" evolve="2" item="57" itemAmount="1200000" />
+		<skill id="49045" lvl="2" reqLvl="77" evolve="2" item="57" itemAmount="1400000" />
+		<skill id="49045" lvl="3" reqLvl="78" evolve="2" item="57" itemAmount="1600000" />
+		<skill id="49045" lvl="4" reqLvl="79" evolve="2" item="57" itemAmount="1800000" />
+		<skill id="49045" lvl="5" reqLvl="80" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49045" lvl="6" reqLvl="81" evolve="2" item="57" itemAmount="2200000" />
+		<skill id="49045" lvl="7" reqLvl="82" evolve="2" item="57" itemAmount="2400000" />
+		<skill id="49045" lvl="8" reqLvl="83" evolve="2" item="57" itemAmount="2600000" />
+		<skill id="49045" lvl="9" reqLvl="84" evolve="2" item="57" itemAmount="2800000" />
+		<skill id="49045" lvl="10" reqLvl="85" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49045" lvl="11" reqLvl="86" evolve="2" item="57" itemAmount="3200000" />
+		<skill id="49045" lvl="12" reqLvl="87" evolve="2" item="57" itemAmount="3400000" />
+		<skill id="49045" lvl="13" reqLvl="88" evolve="2" item="57" itemAmount="3600000" />
+		<skill id="49045" lvl="14" reqLvl="89" evolve="2" item="57" itemAmount="3800000" />
+		<skill id="49045" lvl="15" reqLvl="90" evolve="2" item="57" itemAmount="4000000" />
+		<skill id="49046" lvl="1" reqLvl="76" evolve="2" item="94475" itemAmount="1" />
+		<skill id="49046" lvl="2" reqLvl="78" evolve="2" item="57" itemAmount="2000000" />
+		<skill id="49046" lvl="3" reqLvl="80" evolve="2" item="57" itemAmount="2500000" />
+		<skill id="49046" lvl="4" reqLvl="82" evolve="2" item="57" itemAmount="3000000" />
+		<skill id="49046" lvl="5" reqLvl="85" evolve="2" item="57" itemAmount="3500000" />
+	</pet>
+</list>

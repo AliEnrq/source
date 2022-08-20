@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance id="213" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<time duration="15" empty="300000" />
+	<locations>
+		<enter type="FIXED">
+			<location x="-50416" y="145363" z="-2825" />
+		</enter>
+		<exit type="TOWN" />
+	</locations>
+	<conditions>
+		<condition type="Level">
+			<param name="min" value="85" />
+			<param name="max" value="91" />
+		</condition>
+		<condition type="Reenter" />
+	</conditions>
+	<reenter apply="ON_FINISH">
+		<reset day="MONDAY" hour="6" minute="30" />
+		<reset day="TUESDAY" hour="6" minute="30" />
+		<reset day="WEDNESDAY" hour="6" minute="30" />
+		<reset day="THURSDAY" hour="6" minute="30" />
+		<reset day="FRIDAY" hour="6" minute="30" />
+		<reset day="SATURDAY" hour="6" minute="30" />
+		<reset day="SUNDAY" hour="6" minute="30" />
+	</reenter>
+	<spawnlist>
+		<group>
+			<npc id="34124" x="-50416" y="145423" z="-2825" heading="48103" /> <!-- Manager Joon -->
+		</group>
+		<group name="monsters" spawnByDefault="false">
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+			<npc id="22275" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Sel Mahum Raider -->
+			<npc id="22276" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Sel Mahum Footman -->
+			<npc id="22277" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Sel Mahum Knight -->
+			<npc id="22292" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Kura -->
+		</group>
+		<group name="treasures" spawnByDefault="false">
+			<npc id="22278" x="-51206" y="145153" z="-2858" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22278" x="-50981" y="144937" z="-2868" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22278" x="-50768" y="144826" z="-2853" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22278" x="-50575" y="144806" z="-2823" heading="48103" /> <!-- Transcendent Treasure Chest -->
+		</group>
+	</spawnlist>
+</instance>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="33325" name="Special Sayha's Cloak">
+		<passive_skill id="54044" level="1" />
+	</option>
+	<option id="33326" name="Special Sayha's Cloak">
+		<!-- P. Def. +5, M. Def. +5, Atk. Spd. +10, Casting Spd. +10, Max HP +100, Max MP +30 -->
+		<passive_skill id="54045" level="1" />
+	</option>
+	<option id="33327" name="Special Sayha's Cloak">
+		<!-- P. Def. +10, M. Def. +10, Atk. Spd. +12, Casting Spd. +12, Max HP +120, Max MP +50. -->
+		<passive_skill id="54045" level="2" />
+	</option>
+	<option id="33328" name="Special Sayha's Cloak">
+		<!-- P. Def. +15, M. Def. +20, Atk. Spd. +15, Casting Spd. +15, Max HP +150, Max MP +70. -->
+		<passive_skill id="54045" level="3" />
+	</option>
+	<option id="33329" name="Special Sayha's Cloak">
+		<!-- P. Def. +20, M. Def. +30, Atk. Spd. +20, Casting Spd. +20, Max HP +180, Max MP +100, Acquired XP/ SP +10%. -->
+		<passive_skill id="54045" level="4" />
+	</option>
+	<option id="33330" name="Special Sayha's Cloak">
+		<!-- P. Atk. +50, M. Atk. +100, P. Def. +30, M. Def. +40, Atk. Spd. +25, Casting Spd. +25, Max HP +220, Max MP +130, Acquired XP/ SP +15%. -->
+		<passive_skill id="54045" level="5" />
+	</option>
+	<option id="33331" name="Special Sayha's Cloak">
+		<!-- P. Atk. +80, M. Atk. +150, P. Def. +40, M. Def. +60, Atk. Spd. +40, Casting Spd. +45, Max HP +260, Max MP +160, Acquired XP/ SP +20%. -->
+		<passive_skill id="54045" level="6" />
+	</option>
+	<option id="33332" name="Special Sayha's Cloak">
+		<!-- P. Atk. +135, M. Atk. +250, P. Def. +60, M. Def. +80, Atk. Spd. +70, Casting Spd. +75, Max HP +520, Max MP +320, Acquired XP/ SP +50%. -->
+		<passive_skill id="54045" level="7" />
+	</option>
+	<option id="33333" name="Special Sayha's Cloak">
+		<!-- P. Atk. +180, M. Atk. +360, P. Def. +80, M. Def. +120, Atk. Spd. +80, Casting Spd. +95, Max HP +640, Max MP +360, Acquired XP/ SP +50%. -->
+		<passive_skill id="54045" level="8" />
+	</option>
+	<option id="33334" name="Special Sayha's Cloak">
+		<!-- P. Atk. +225, M. Atk. +420, P. Def. +120, M. Def. +160, Atk. Spd. +90, Casting Spd. +110, Max HP +910, Max MP +430, Acquired XP/ SP +50%. -->
+		<passive_skill id="54045" level="9" />
+	</option>
+	<option id="33335" name="Special Sayha's Cloak">
+		<!-- P. Atk. +270, M. Atk. +490, P. Def. +160, M. Def. +200, Atk. Spd. +100, Casting Spd. +125, Max HP +1120, Max MP +530, Acquired XP/ SP +50%. -->
+		<passive_skill id="54045" level="10" />
+	</option>
+	<option id="33336" name="Special Sayha's Cloak">
+		<!-- Sayha's Blink -->
+		<passive_skill id="54040" level="1" />
+	</option>
+	<option id="33337" name="Rapid Wind">
+		<!-- Rapid Wind -->
+		<active_skill id="54043" level="1" />
+	</option>
+	<option id="33338" name="Talisman of Aden">
+		<!-- -->
+		<passive_skill id="54047" level="1" />
+	</option>
+	<option id="33339" name="Talisman of Aden">
+		<!-- P. Def. +5, M. Def. +5, Atk. Spd. +10, Casting Spd. +10, Max HP +100, Max MP +30 -->
+		<passive_skill id="54047" level="2" />
+	</option>
+	<option id="33340" name="Talisman of Aden">
+		<!-- P. Def. +10, M. Def. +10, Atk. Spd. +12, Casting Spd. +12, Max HP +120, Max MP +50. -->
+		<passive_skill id="54047" level="3" />
+	</option>
+	<option id="33341" name="Talisman of Aden">
+		<!-- P. Def. +15, M. Def. +20, Atk. Spd. +15, Casting Spd. +15, Max HP +150, Max MP +70. -->
+		<passive_skill id="54047" level="4" />
+	</option>
+	<option id="33342" name="Talisman of Aden">
+		<!-- P. Def. +20, M. Def. +30, Atk. Spd. +20, Casting Spd. +20, Max HP +180, Max MP +100, Acquired XP/ SP +10%. -->
+		<passive_skill id="54047" level="5" />
+	</option>
+	<option id="33343" name="Talisman of Aden">
+		<!-- P. Atk. +50, M. Atk. +100, P. Def. +30, M. Def. +40, Atk. Spd. +25, Casting Spd. +25, Max HP +220, Max MP +130, Acquired XP/ SP +15%. -->
+		<passive_skill id="54047" level="6" />
+	</option>
+	<option id="33344" name="Talisman of Aden">
+		<!-- P. Atk. +80, M. Atk. +150, P. Def. +40, M. Def. +60, Atk. Spd. +40, Casting Spd. +45, Max HP +260, Max MP +160, Acquired XP/ SP +20%. -->
+		<passive_skill id="54047" level="7" />
+	</option>
+	<option id="33345" name="Talisman of Aden">
+		<!-- P. Atk. +135, M. Atk. +250, P. Def. +60, M. Def. +80, Atk. Spd. +70, Casting Spd. +75, Max HP +520, Max MP +320, Acquired XP/ SP +50%. -->
+		<passive_skill id="54047" level="8" />
+	</option>
+	<option id="33346" name="Talisman of Aden">
+		<!-- P. Atk. +180, M. Atk. +360, P. Def. +80, M. Def. +120, Atk. Spd. +80, Casting Spd. +95, Max HP +640, Max MP +360, Acquired XP/ SP +50%. -->
+		<passive_skill id="54047" level="9" />
+	</option>
+	<option id="33347" name="Talisman of Aden">
+		<!-- P. Atk. +225, M. Atk. +420, P. Def. +120, M. Def. +160, Atk. Spd. +90, Casting Spd. +110, Max HP +910, Max MP +430, Acquired XP/ SP +50%. -->
+		<passive_skill id="54047" level="10" />
+	</option>
+	<option id="33348" name="Talisman of Aden">
+		<!-- P. Atk. +270, M. Atk. +490, P. Def. +160, M. Def. +200, Atk. Spd. +100, Casting Spd. +125, Max HP +1120, Max MP +530, Acquired XP/ SP +50%. -->
+		<passive_skill id="54047" level="11" />
+	</option>
+	<option id="33359" name="Dragon_Belt">
+		<!-- Weight Limit +1000 DEX/ WIT +1 -->
+		<passive_skill id="54082" level="1" />
+	</option>
+	<option id="33360" name="Dragon_Belt">
+		<!-- Weight Limit +2000 Inventory Slots +2 DEX/ WIT +1 CON/ MEN +1 -->
+		<passive_skill id="54082" level="2" />
+	</option>
+	<option id="33361" name="Dragon_Belt">
+		<!-- Weight Limit +3000 Inventory Slots +4 STR/ INT +1 DEX/ WIT +1 CON/ MEN +1 -->
+		<passive_skill id="54082" level="3" />
+	</option>
+	<option id="33362" name="Dragon_Belt">
+		<!-- Weight Limit +4000 Inventory Slots +6 STR/ INT +2 DEX/ WIT +2 CON/ MEN +2 -->
+		<passive_skill id="54082" level="4" />
+	</option>
+	<option id="33363" name="Dragon_Belt">
+		<!-- Weight limit +5000 Inventory slots +6 Max HP +100 Max MP +50 Max CP +100 STR/ INT +3 DEX/ WIT +3 CON/ MEN +3 -->
+		<passive_skill id="54082" level="5" />
+	</option>
+	<option id="33364" name="Dragon_Belt">
+		<!-- Weight Limit +6000 Inventory Slots +6 Max HP +150 Max MP +100 Max CP +200 HP Recovery Potions' Effect +80 MP Recovery Potions' Effect +10 P. Def. +30 M. Def. +20 STR/ INT +3 DEX/ WIT +3 CON/ MEN +4 -->
+		<passive_skill id="54082" level="6" />
+	</option>
+	<option id="33365" name="Dragon_Belt">
+		<!-- Weight Limit +7000 Inventory Slots +6 Max HP +200 Max MP +150 Max CP +300 HP Recovery Potions' Effect +100 MP Recovery Potions' Effect +20 P. Def. +40 M. Def. +30 STR/ INT +3 DEX/ WIT +4 CON/ MEN +4 -->
+		<passive_skill id="54082" level="7" />
+	</option>
+	<option id="33366" name="Dragon_Belt">
+		<!-- Weight limit +8000 Inventory slots +8 Max HP +300 Max MP +200 Max CP +500 HP Recovery Potions' Effect +120 MP Recovery Potions' Effect +30 P. Def. +50 M. Def. +40 Atk. Spd. +20 P. Critical Rate/ M. Skill Critical Rate +10 STR/ INT +4 DEX/ WIT +4 CON/ MEN +4 -->
+		<passive_skill id="54082" level="8" />
+	</option>
+	<option id="33367" name="Dragon_Belt">
+		<!-- Weight Limit +9000 Inventory Slots +8 Max HP +400 Max MP +250 Max CP +700 HP Recovery Potions' Effect +150 MP Recovery Potions' Effect +50 P. Def. +80 M. Def. +50 Atk. Spd. +30 P. Critical Rate/ M. Skill Critical Rate +20 Received Healing +5% Received Damage -3% STR/ INT +4 DEX/ WIT +4 CON/ MEN +5 -->
+		<passive_skill id="54082" level="9" />
+	</option>
+	<option id="33368" name="Dragon_Belt">
+		<!-- Weight Limit +10000 Inventory Slots +10 Max HP +600 Max MP +300 Max CP +1000 HP Recovery Potions' Effect +200 MP Recovery Potions' Effect +80 P. Def. +100 M. Def. +80 Atk. Spd. +50 P. Critical Rate/ M. Skill Critical Rate +30 Received Healing +10% Received Damage -5% STR/ INT +4 DEX/ WIT +5 CON/ MEN +5 -->
+		<passive_skill id="54082" level="10" />
+	</option>
+	<option id="33369" name="Dragon_Belt">
+		<!-- Weight Limit +12000 Inventory Slots +12 Max HP +1000 Max MP +500 Max CP +1500 HP Recovery Potions' Effect +300 MP Recovery Potions' Effect +100 P. Def. +150 M. Def. +120 Atk. Spd. +100 P. Critical Rate/ M. Skill Critical Rate +50 Received Healing +20% Received Damage -10% STR/ INT +5 DEX/ WIT +5 CON/ MEN +5 -->
+		<passive_skill id="54082" level="11" />
+	</option>
+	<option id="33376" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="1" />
+	</option>
+	<option id="33377" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="2" />
+	</option>
+	<option id="33378" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="3" />
+	</option>
+	<option id="33379" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="4" />
+	</option>
+	<option id="33380" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="5" />
+	</option>
+	<option id="33381" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="6" />
+	</option>
+	<option id="33382" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="7" />
+	</option>
+	<option id="33383" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="8" />
+	</option>
+	<option id="33384" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="9" />
+	</option>
+	<option id="33385" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="10" />
+	</option>
+	<option id="33386" name="Ring_of_Insolence">
+		<passive_skill id="50189" level="11" />
+	</option>
+	<option id="33387" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="1" />
+	</option>
+	<option id="33388" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="2" />
+	</option>
+	<option id="33389" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="3" />
+	</option>
+	<option id="33390" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="4" />
+	</option>
+	<option id="33391" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="5" />
+	</option>
+	<option id="33392" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="6" />
+	</option>
+	<option id="33393" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="7" />
+	</option>
+	<option id="33394" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="8" />
+	</option>
+	<option id="33395" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="9" />
+	</option>
+	<option id="33396" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="10" />
+	</option>
+	<option id="33397" name="Dragon_Valley_Earring">
+		<passive_skill id="50190" level="11" />
+	</option>
+</list>

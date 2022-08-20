@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_23">
+		<group>
+			<npc id="30012" x="17232" y="170528" z="-3496" heading="53187" respawnTime="60sec" /> <!-- Fishing Guildsman -->
+			<npc id="36738" x="17262" y="169863" z="-3496" heading="15748" respawnTime="60sec" /> <!-- Ludina -->
+			<npc id="36737" x="17278" y="169747" z="-3480" heading="49153" respawnTime="60sec" /> <!-- Gairin -->
+			<npc id="32478" x="17740" y="169800" z="-3496" heading="20126" respawnTime="60sec" /> <!-- Game Assistant -->
+			<npc id="30767" x="18084" y="169964" z="-3488" heading="19790" respawnTime="60sec"> <!-- Auctioneer -->
+				<parameters>
+					<param name="fnAgitMap" value="floran" />
+				</parameters>
+			</npc>
+			<npc id="36740" x="17883" y="170537" z="-3504" heading="48775" respawnTime="60sec" /> <!-- Danif -->
+			<npc id="36739" x="17870" y="170644" z="-3488" heading="15086" respawnTime="60sec" /> <!-- Flon -->
+			<npc id="30616" x="19512" y="192120" z="-3720" heading="15479" respawnTime="60sec" /> <!-- Kepra -->
+			<npc id="30202" x="12549" y="182587" z="-3472" heading="13828" respawnTime="60sec" /> <!-- Leo -->
+			<npc id="22298" x="24040" y="188424" z="-3588" heading="52574" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="24168" y="189112" z="-3596" heading="14022" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="23640" y="189592" z="-3609" heading="25198" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="23496" y="189016" z="-3588" heading="55342" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="23880" y="189032" z="-3602" heading="545" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="24056" y="188792" z="-3598" heading="56010" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="24056" y="189448" z="-3598" heading="19565" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23528" y="189416" z="-3614" heading="9155" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23624" y="189048" z="-3600" heading="51940" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="24104" y="189736" z="-3585" heading="8344" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23704" y="188536" z="-3597" heading="42397" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22299" x="24008" y="189608" z="-3595" heading="23588" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="23640" y="189304" z="-3617" heading="39775" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="23784" y="188648" z="-3600" heading="37973" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="24120" y="188952" z="-3596" heading="7609" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22300" x="23912" y="188488" z="-3593" heading="44817" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="23416" y="187272" z="-3587" heading="34338" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23000" y="186936" z="-3580" heading="39712" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23251" y="186528" z="-3480" heading="44200" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23704" y="186648" z="-3587" heading="1917" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="23944" y="186920" z="-3587" heading="8750" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="23672" y="187192" z="-3584" heading="24405" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="23608" y="186792" z="-3586" heading="47524" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="23032" y="186568" z="-3585" heading="37699" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="23208" y="187144" z="-3585" heading="13368" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="23256" y="186840" z="-3585" heading="50713" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="22968" y="186440" z="-3586" heading="42714" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="23720" y="187240" z="-3586" heading="23862" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22300" x="23224" y="186488" z="-3580" heading="31257" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="24408" y="185736" z="-3500" heading="42792" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="24952" y="185544" z="-3472" heading="62111" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="25496" y="185768" z="-3467" heading="3952" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="25544" y="186440" z="-3468" heading="15541" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="24904" y="186232" z="-3471" heading="36051" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="24584" y="185608" z="-3481" heading="44544" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="24856" y="185688" z="-3475" heading="3099" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="25448" y="186088" z="-3468" heading="13811" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="25816" y="186232" z="-3471" heading="3843" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25256" y="186360" z="-3470" heading="30479" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="24632" y="186056" z="-3487" heading="29361" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="25400" y="185640" z="-3476" heading="248" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="25368" y="186104" z="-3465" heading="17215" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22300" x="24936" y="185992" z="-3470" heading="35306" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="26424" y="187160" z="-3470" heading="60376" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="27048" y="186968" z="-3468" heading="3066" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="27240" y="187640" z="-3457" heading="17956" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="26696" y="187880" z="-3462" heading="21693" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="26232" y="187512" z="-3480" heading="39838" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="26648" y="187448" z="-3450" heading="64034" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="26744" y="186872" z="-3474" heading="50803" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="27128" y="187272" z="-3449" heading="8337" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="27272" y="187800" z="-3467" heading="13630" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="26920" y="187640" z="-3450" heading="37165" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="26392" y="187768" z="-3471" heading="30184" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="27544" y="187144" z="-3479" heading="56387" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="27400" y="187416" z="-3468" heading="21488" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22300" x="26840" y="187480" z="-3448" heading="31549" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="27080" y="188744" z="-3483" heading="52243" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="27928" y="188680" z="-3491" heading="7811" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="27736" y="189352" z="-3484" heading="18766" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="27304" y="189960" z="-3491" heading="44542" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="27240" y="189336" z="-3492" heading="47745" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="27496" y="188824" z="-3490" heading="53996" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="27928" y="189096" z="-3487" heading="5845" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="27608" y="189320" z="-3488" heading="26258" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="27544" y="190040" z="-3492" heading="17433" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="27240" y="189528" z="-3490" heading="43530" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="27128" y="189704" z="-3483" heading="22573" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="27800" y="189800" z="-3484" heading="65493" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="27416" y="189720" z="-3489" heading="34979" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22299" x="27400" y="188696" z="-3483" heading="43701" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="27960" y="188600" z="-3488" heading="63777" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22299" x="27448" y="189096" z="-3487" heading="21384" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22299" x="23720" y="186792" z="-3587" heading="44175" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22301" x="26408" y="189144" z="-3476" heading="4297" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="26424" y="188808" z="-3493" heading="49547" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="26392" y="189000" z="-3485" heading="18106" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="26056" y="188856" z="-3511" heading="36874" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="26088" y="188520" z="-3499" heading="50063" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="25816" y="188264" z="-3509" heading="40585" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25755" y="188052" z="-3504" heading="60121" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="25800" y="187624" z="-3514" heading="50273" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="25976" y="187144" z="-3483" heading="51795" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="25992" y="186856" z="-3480" heading="49964" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="26168" y="186408" z="-3480" heading="52899" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="26376" y="186696" z="-3480" heading="9787" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22298" x="25960" y="186888" z="-3480" heading="28437" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="25672" y="187000" z="-3498" heading="28786" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="25544" y="187512" z="-3525" heading="18795" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25256" y="187224" z="-3526" heading="41031" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="25016" y="186936" z="-3514" heading="31464" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22298" x="25064" y="187592" z="-3546" heading="15583" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="25352" y="187976" z="-3531" heading="9611" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="25704" y="188440" z="-3531" heading="9521" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25784" y="189528" z="-3487" heading="12820" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="26536" y="189576" z="-3482" heading="130" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="25160" y="189688" z="-3499" heading="42546" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="24904" y="189336" z="-3517" heading="42704" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25240" y="189208" z="-3499" heading="61825" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="25048" y="189608" z="-3502" heading="21125" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22300" x="24712" y="188488" z="-3573" heading="40919" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="24968" y="188232" z="-3568" heading="57445" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="25272" y="188200" z="-3554" heading="64370" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25304" y="188728" z="-3526" heading="15636" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22298" x="25528" y="188680" z="-3537" heading="29668" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22300" x="24472" y="187912" z="-3568" heading="38339" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22298" x="24088" y="187896" z="-3596" heading="33290" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="24072" y="187432" z="-3581" heading="48818" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="24456" y="187032" z="-3548" heading="47601" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="24952" y="187016" z="-3526" heading="65054" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="24808" y="187384" z="-3527" heading="20402" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="24808" y="187384" z="-3527" heading="20402" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="24808" y="187384" z="-3527" heading="20402" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="24008" y="186280" z="-3561" heading="40497" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="24008" y="186280" z="-3561" heading="40497" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22299" x="23944" y="185912" z="-3539" heading="47148" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22298" x="24552" y="186776" z="-3522" heading="8688" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="25000" y="188664" z="-3546" heading="7423" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22299" x="25000" y="188664" z="-3546" heading="7423" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="25336" y="186952" z="-3511" heading="47238" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22298" x="24936" y="188056" z="-3561" heading="17690" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="24936" y="188056" z="-3561" heading="17690" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22299" x="24936" y="188056" z="-3561" heading="17690" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="24792" y="187672" z="-3557" heading="45229" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="24792" y="187672" z="-3557" heading="45229" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22299" x="25224" y="187768" z="-3540" heading="2308" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22301" x="25288" y="188296" z="-3557" heading="15130" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="25064" y="188328" z="-3572" heading="31022" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22298" x="25816" y="189144" z="-3493" heading="10772" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22300" x="26136" y="189464" z="-3480" heading="8159" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22298" x="26328" y="189576" z="-3477" heading="5684" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="25880" y="189816" z="-3478" heading="27676" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22301" x="25624" y="189768" z="-3492" heading="50449" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22299" x="25272" y="189448" z="-3512" heading="40400" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22300" x="24584" y="188520" z="-3581" heading="2058" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22298" x="23880" y="187656" z="-3593" heading="31712" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="24024" y="187880" z="-3597" heading="10272" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22300" x="23670" y="187977" z="-3608" heading="57314" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22301" x="23320" y="187672" z="-3581" heading="30535" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22298" x="24424" y="187368" z="-3554" heading="53173" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22300" x="25208" y="186904" z="-3497" heading="60978" respawnTime="60sec" /> <!-- Strong Kima -->
+			<npc id="22299" x="25272" y="187208" z="-3526" heading="11380" respawnTime="60sec" /> <!-- Stubborn Hog -->
+			<npc id="22298" x="25560" y="187672" z="-3522" heading="10616" respawnTime="60sec" /> <!-- Mighty Bear -->
+			<npc id="22301" x="25688" y="187592" z="-3518" heading="60071" respawnTime="60sec" /> <!-- Big Honeybee -->
+			<npc id="22296" x="28648" y="184360" z="-3704" heading="12621" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="28648" y="184360" z="-3704" heading="12621" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="28648" y="184360" z="-3704" heading="12621" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="28648" y="184360" z="-3704" heading="12621" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="28488" y="184344" z="-3704" heading="33826" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="28440" y="184056" z="-3704" heading="47573" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="28504" y="183816" z="-3704" heading="52060" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="28504" y="183816" z="-3704" heading="52060" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="28888" y="183912" z="-3683" heading="2491" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="28888" y="183912" z="-3683" heading="2491" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="28744" y="183832" z="-3693" heading="37928" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="28744" y="183832" z="-3693" heading="37928" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="28808" y="183448" z="-3682" heading="50835" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="28808" y="183448" z="-3682" heading="50835" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="28808" y="183448" z="-3682" heading="50835" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29016" y="183512" z="-3710" heading="2828" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29016" y="183512" z="-3710" heading="2828" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="28856" y="183736" z="-3679" heading="24962" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22295" x="29192" y="183192" z="-3734" heading="54869" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="29192" y="183192" z="-3734" heading="54869" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22294" x="29016" y="183160" z="-3723" heading="34895" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29512" y="182984" z="-3738" heading="61874" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29512" y="182984" z="-3738" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22296" x="29256" y="182696" z="-3725" heading="41748" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29256" y="182696" z="-3725" heading="41748" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22293" x="29448" y="182680" z="-3721" heading="37455" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29512" y="182856" z="-3729" heading="14284" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29736" y="182568" z="-3706" heading="56266" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29736" y="182568" z="-3706" heading="56266" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29960" y="182472" z="-3704" heading="61191" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29960" y="182328" z="-3704" heading="49445" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30040" y="182872" z="-3702" heading="10397" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30040" y="182872" z="-3702" heading="10397" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29896" y="183096" z="-3724" heading="22454" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29896" y="183096" z="-3724" heading="22454" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22296" x="29736" y="183304" z="-3717" heading="22927" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29736" y="183304" z="-3717" heading="22927" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29240" y="183464" z="-3730" heading="35587" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29240" y="183464" z="-3730" heading="35587" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="29224" y="183688" z="-3708" heading="17005" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="29224" y="183688" z="-3708" heading="17005" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29448" y="183800" z="-3701" heading="4744" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29448" y="183800" z="-3701" heading="4744" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29704" y="183544" z="-3711" heading="57324" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29704" y="183544" z="-3711" heading="57324" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30072" y="183256" z="-3708" heading="58589" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30264" y="183176" z="-3703" heading="60972" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="31032" y="183496" z="-3712" heading="6210" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31032" y="183496" z="-3712" heading="6210" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22293" x="31256" y="183656" z="-3702" heading="6465" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="31256" y="183656" z="-3702" heading="6465" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31256" y="183960" z="-3703" heading="16280" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31256" y="183960" z="-3703" heading="16280" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="31336" y="184280" z="-3697" heading="61202" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31144" y="184424" z="-3701" heading="26329" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31144" y="184424" z="-3701" heading="26329" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="30920" y="184296" z="-3700" heading="38198" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="30920" y="184296" z="-3700" heading="38198" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30680" y="184328" z="-3711" heading="33865" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="31176" y="184728" z="-3691" heading="5372" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31400" y="184792" z="-3673" heading="2709" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31400" y="184792" z="-3673" heading="2709" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="31544" y="184744" z="-3659" heading="62670" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="31544" y="184744" z="-3659" heading="62670" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22296" x="31624" y="185000" z="-3634" heading="13159" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31624" y="185000" z="-3634" heading="13159" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31368" y="185144" z="-3653" heading="27758" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="31544" y="185320" z="-3625" heading="11026" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31656" y="185352" z="-3614" heading="2890" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22295" x="31640" y="185560" z="-3613" heading="17623" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31352" y="185608" z="-3651" heading="28759" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="31352" y="185608" z="-3651" heading="28759" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="31496" y="185720" z="-3621" heading="6910" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="31768" y="185816" z="-3604" heading="3159" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="31768" y="185816" z="-3604" heading="3159" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31672" y="186056" z="-3602" heading="20159" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="31800" y="186200" z="-3590" heading="8384" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="31304" y="186120" z="-3630" heading="34324" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="29960" y="184648" z="-3677" heading="41824" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30104" y="184792" z="-3678" heading="8264" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30456" y="185208" z="-3664" heading="8898" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="30456" y="185208" z="-3664" heading="8898" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="30104" y="185176" z="-3673" heading="33807" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30104" y="185176" z="-3673" heading="33807" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="29848" y="184936" z="-3656" heading="40561" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29848" y="184936" z="-3656" heading="40561" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29432" y="184888" z="-3667" heading="34074" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29432" y="184888" z="-3667" heading="34074" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="29160" y="185064" z="-3668" heading="26697" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="29160" y="185064" z="-3668" heading="26697" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22294" x="29048" y="185256" z="-3681" heading="21857" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29048" y="185256" z="-3681" heading="21857" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="29176" y="185560" z="-3700" heading="12152" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29176" y="185560" z="-3700" heading="12152" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="29608" y="185224" z="-3665" heading="60615" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29608" y="185224" z="-3665" heading="60615" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30008" y="185464" z="-3683" heading="19530" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="30008" y="185464" z="-3683" heading="19530" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="30328" y="185480" z="-3670" heading="599" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30328" y="185480" z="-3670" heading="599" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30584" y="185512" z="-3650" heading="949" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="30760" y="185736" z="-3644" heading="18227" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="30664" y="185880" z="-3645" heading="23108" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="30664" y="185880" z="-3645" heading="23108" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30680" y="186024" z="-3642" heading="15011" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22293" x="30584" y="186152" z="-3643" heading="23504" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22293" x="30360" y="186184" z="-3659" heading="31429" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="30360" y="186184" z="-3659" heading="31429" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30200" y="185928" z="-3683" heading="43222" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30200" y="185928" z="-3683" heading="43222" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22295" x="30456" y="185944" z="-3659" heading="922" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="30456" y="185944" z="-3659" heading="922" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="29896" y="186280" z="-3694" heading="27158" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30456" y="186536" z="-3635" heading="4404" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22293" x="30456" y="186536" z="-3635" heading="4404" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="30632" y="186632" z="-3617" heading="5199" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="30264" y="186792" z="-3640" heading="28528" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29896" y="186648" z="-3682" heading="36614" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29896" y="186648" z="-3682" heading="36614" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="29804" y="186817" z="-3680" heading="44136" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="29804" y="186817" z="-3680" heading="44136" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29576" y="186904" z="-3688" heading="28679" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29576" y="186904" z="-3688" heading="28679" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29400" y="186552" z="-3696" heading="44374" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29400" y="186552" z="-3696" heading="44374" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29160" y="186232" z="-3704" heading="42465" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29528" y="186120" z="-3704" heading="62248" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29528" y="186120" z="-3704" heading="62248" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="29176" y="186120" z="-3704" heading="28579" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="29208" y="185832" z="-3691" heading="50177" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22295" x="29208" y="185832" z="-3691" heading="50177" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="29656" y="185832" z="-3704" heading="65374" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22293" x="29656" y="185832" z="-3704" heading="65374" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22295" x="30040" y="186200" z="-3686" heading="7898" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22296" x="30200" y="186248" z="-3672" heading="3193" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22294" x="30200" y="186248" z="-3672" heading="3193" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22295" x="30248" y="185736" z="-3673" heading="49960" respawnTime="60sec" /> <!-- Kima -->
+			<npc id="22294" x="31480" y="185320" z="-3631" heading="62539" respawnTime="60sec" /> <!-- Hog -->
+			<npc id="22296" x="30264" y="183304" z="-3700" heading="45004" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22294" x="29912" y="183816" z="-3691" heading="28971" respawnTime="60sec" /> <!-- Hog -->
+		</group>
+	</spawn>
+</list>

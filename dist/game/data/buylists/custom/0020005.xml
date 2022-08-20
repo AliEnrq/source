@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/buylist.xsd">
+	<item id="21713" price="0" /> <!-- ZakenΓ‚Β΄s Sealed Cloak -->
+	<item id="21716" price="0" /> <!-- ZakenΓ‚Β΄s Cloak -->
+	<item id="90973" price="0" /> <!-- ZakenΓ‚Β΄s Cloak (30-Day) -->
+	<item id="30372" price="0" /> <!-- HeroΓ‚Β΄s Cloak -->
+	<item id="30373" price="0" /> <!-- Glorious Cloak -->
+	<item id="34925" price="0" /> <!-- Cloak of Light -->
+	<item id="34926" price="0" /> <!-- Cloak of Darkness -->
+	<item id="91210" price="0" /> <!-- Black SayhaΓ‚Β΄s Cloak -->
+	<item id="91211" price="0" /> <!-- White SayhaΓ‚Β΄s Cloak -->
+	<item id="91212" price="0" /> <!-- Red SayhaΓ‚Β΄s Cloak -->
+	<item id="91719" price="0" /> <!-- Special Black SayhaΓ‚Β΄s Cloak -->
+	<item id="91720" price="0" /> <!-- Special White SayhaΓ‚Β΄s Cloak -->
+	<item id="91721" price="0" /> <!-- Special Red SayhaΓ‚Β΄s Cloak -->
+	<item id="93041" price="0" /> <!-- AdventurerΓ‚Β΄s Cloak -->
+	<item id="93301" price="0" /> <!-- Cloak of Protection -->
+	<item id="94372" price="0" /> <!-- Death KnightΓ‚Β΄s Cloak BM -->
+	<item id="91227" price="0" /> <!-- SayhaΓ‚Β΄s Cloak Coupon -->
+	<item id="93302" price="0" /> <!-- Scroll: Enchant Cloak of Protection -->
+</list>

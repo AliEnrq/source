@@ -1,0 +1,1309 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="39300" toLevel="1" name="Gracia's Rice Cake">
+		<operateType>A1</operateType>
+		<reuseDelay>600000</reuseDelay>
+	</skill>
+	<skill id="39301" toLevel="1" name="My Teleport Book">
+		<!-- Number of Unoccupied Teleport Devices +1. -->
+		<icon>icon.bookmark_book_i00</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="39302" toLevel="3" name="Baium Doll's Sorcery">
+		<!-- A doll imbued with Baium's power. <Effect> Skill Cooldown $s1 P. Def. $s2 M. Def. $s2 Silence Resistance $s3 Fear Resistance $s3 Paralysis Resistance $s4 Knockback Resistance $s4 Pull Resistance $s4 -->
+		<icon>icon.bm_baium_doll_30d</icon>
+		<operateType>P</operateType>
+		<stayAfterDeath>true</stayAfterDeath>
+		<effects>
+			<effect name="Reuse">
+				<amount>
+					<value level="1">-2</value>
+					<value level="2">-3</value>
+					<value level="3">-4</value>
+				</amount>
+				<mode>PER</mode>
+				<magicType>0</magicType>
+			</effect>
+			<effect name="Reuse">
+				<amount>
+					<value level="1">-2</value>
+					<value level="2">-3</value>
+					<value level="3">-4</value>
+				</amount>
+				<mode>PER</mode>
+				<magicType>1</magicType>
+			</effect>
+			<effect name="PhysicalDefence">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">12</value>
+					<value level="3">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">12</value>
+					<value level="3">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="DefenceTrait">
+				<FEAR>
+					<value level="1">10</value>
+					<value level="2">40</value>
+					<value level="3">45</value>
+				</FEAR>
+				<KNOCKDOWN>
+					<value level="1">5</value>
+					<value level="2">20</value>
+					<value level="3">25</value>
+				</KNOCKDOWN>
+				<PARALYZE>
+					<value level="1">5</value>
+					<value level="2">20</value>
+					<value level="3">25</value>
+				</PARALYZE>
+				<PULL>
+					<value level="1">5</value>
+					<value level="2">20</value>
+					<value level="3">25</value>
+				</PULL>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39303" toLevel="3" name="Queen Ant Doll's Sorcery">
+		<!-- A doll imbued with Queen Ant's power. <Effect> P. Atk. $s1 P. Critical Damage $s2 P. Skill Critical Damage $s2 Max HP $s3 -->
+		<icon>icon.bm_queen_ant_doll_30d</icon>
+		<operateType>P</operateType>
+		<stayAfterDeath>true</stayAfterDeath>
+		<effects>
+			<effect name="PAtk">
+				<amount>
+					<value level="1">2</value>
+					<value level="2">8</value>
+					<value level="3">12</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="CriticalDamage">
+				<amount>
+					<value level="1">3</value>
+					<value level="2">8</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="SkillCriticalDamage">
+				<amount>
+					<value level="1">3</value>
+					<value level="2">8</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxHp">
+				<amount>
+					<value level="1">4</value>
+					<value level="2">12</value>
+					<value level="3">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39304" toLevel="3" name="Orfen Doll's Sorcery">
+		<!-- A doll imbued with Orfen's power. <Effect> M. Atk. $s1 M. Skill Critical Damage $s2 Max MP $s3 -->
+		<icon>icon.bm_orfen_doll_30d</icon>
+		<operateType>P</operateType>
+		<stayAfterDeath>true</stayAfterDeath>
+		<effects>
+			<effect name="MAtk">
+				<amount>
+					<value level="1">2</value>
+					<value level="2">8</value>
+					<value level="3">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicCriticalDamage">
+				<amount>
+					<value level="1">3</value>
+					<value level="2">8</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxMp">
+				<amount>
+					<value level="1">4</value>
+					<value level="2">12</value>
+					<value level="3">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39305" toLevel="3" name="Dark Knight Transformation">
+		<!-- You are transformed into Dark Knight. For 20 min., Max HP/ MP +10%, P. Atk. in PvP +5%, P. Def. in PvP +5%, Paralysis/ Silence/ Fear/ Stun Resistance +5%. The effect remains after death. -->
+		<icon>icon.etc_charm_of_courage_i05</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>HEROIC_HOLY_AVE</abnormalVisualEffect>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>45</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeId>
+			<value level="1">90831</value> <!-- Transformation Scroll: Dark Knight Lv. 3 -->
+			<value level="2">90829</value> <!-- Transformation Scroll: Dark Knight Lv. 2 -->
+			<value level="3">90830</value> <!-- Transformation Scroll: Dark Knight Lv. 1 -->
+		</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount>
+		<effects>
+			<effect name="MaxHp">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxMp">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalAttackDamageBonus">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalSkillDamageBonus">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalAttackDefenceBonus">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalSkillDefenceBonus">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="DefenceTrait">
+				<PARALYZE>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</PARALYZE>
+				<SILENCE>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</SILENCE>
+				<FEAR>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</FEAR>
+				<SHOCK>
+					<value level="1">5</value>
+					<value level="2">7</value>
+					<value level="3">10</value>
+				</SHOCK>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39306" toLevel="1" name="White Assassin Transformation">
+		<!-- You are transformed into White Assassin. For 20 min., Max HP/ MP +7%, P./ M. Accuracy +2, P./ M. Atk. +3%, P./ M. Def. +3%, Atk. Spd. +5%, M. Skill Critical Rate +20, Speed +5. The effect remains after death. -->
+		<icon>icon.scroll_of_verification_i06</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>WHITE_ASSASSIN_SUIT</abnormalVisualEffect>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>45</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeId>90831</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount> <!-- White Assassin Transformation Scroll -->
+		<effects>
+			<effect name="PAtk">
+				<amount>3</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>3</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalDefence">
+				<amount>3</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>3</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxHp">
+				<amount>7</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxMp">
+				<amount>7</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>5</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Accuracy">
+				<amount>2</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicAccuracy">
+				<amount>2</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>20</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39307" toLevel="1" name="Warrior Experience Amulet">
+		<!-- Acquired XP/ SP +50%. -->
+		<icon>icon.skill_exp_sp_up</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39308" toLevel="1" name="Life Control Tower's Scroll of Blessing">
+		<!-- Max HP +5% Max MP +5% Paralysis Resistance +15% Silence Resistance +15% Fear Resistance +15% Acquired XP +30% Acquired SP +30% The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_aidcharm_cancel_valbreath_i00</icon>
+		<operateType>A1</operateType>
+		<isMagic>4</isMagic>
+		<reuseDelay>1800000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="39309" toLevel="1" name="Eva's Stable Scroll: Enchant Hair Accessory">
+		<!-- Enchants Hair Accessory. -->
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="39310" toLevel="1" name="Eva's Enhancement Pack - Hair Accessory">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="39311" toLevel="1" name="Eva's Hair Accessory Pack">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="39312" toLevel="1" name="Enchant Effect: Hair Accessory">
+		<!-- Max HP +2%. -->
+		<icon>icon.etc_scroll_of_enchant_armor_i05</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39313" toLevel="1" name="Enchant Effect: Hair Accessory">
+		<!-- Max HP +4%. -->
+		<icon>icon.etc_scroll_of_enchant_armor_i05</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39314" toLevel="1" name="Enchant Effect: Hair Accessory">
+		<!-- Max HP +8%, Max MP +2%. -->
+		<icon>icon.etc_scroll_of_enchant_armor_i05</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39315" toLevel="1" name="Enchant Effect: Hair Accessory">
+		<!-- Max HP +12%, Max MP +6%, Max CP +6%. -->
+		<icon>icon.etc_scroll_of_enchant_armor_i05</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39316" toLevel="1" name="Enchant Effect: Hair Accessory">
+		<!-- Max HP +16%, Max MP +10%, Max CP +10%. -->
+		<icon>icon.etc_scroll_of_enchant_armor_i05</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39317" toLevel="1" name="Enchant Effect: Hair Accessory">
+		<!-- Max HP +20%, Max MP +14%, Max CP +14%, P./ M. Damage Received -4%. -->
+		<icon>icon.etc_scroll_of_enchant_armor_i05</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="39318" toLevel="3" name="Item Skill: Fear Resistance">
+		<!-- Fear Resistance $s1 -->
+		<icon>icon.skill11825</icon>
+		<magicLevel>1</magicLevel>
+		<operateType>P</operateType>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<effects>
+			<effect name="DefenceTrait">
+				<FEAR>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</FEAR>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39319" toLevel="3" name="Item Skill: Shock Resistance">
+		<!-- Shock Resistance $s1 -->
+		<icon>icon.skill11825</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="DefenceTrait">
+				<SHOCK>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</SHOCK>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39320" toLevel="3" name="Item Skill: Paralysis Resistance">
+		<!-- Paralysis Resistance $s1 -->
+		<icon>icon.skill11825</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="DefenceTrait">
+				<PARALYZE>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</PARALYZE>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39321" toLevel="3" name="Item Skill: Infection Resistance">
+		<!-- Infection Resistance -->
+		<icon>icon.skill11825</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="DefenceTrait">
+				<INFECTION>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</INFECTION>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39322" toLevel="3" name="Item Skill: Silence Resistance">
+		<!-- Silence Resistance $s1 -->
+		<icon>icon.skill11825</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="DefenceTrait">
+				<INFECTION>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</INFECTION>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39323" toLevel="3" name="Item Skill: Hold Resistance">
+		<!-- Hold Resistance $s1 -->
+		<icon>icon.skill11825</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="DefenceTrait">
+				<HOLD>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</HOLD>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39324" toLevel="3" name="Item Skill: Acquired XP">
+		<!-- When in inventory, Acquired XP +$s1. -->
+		<icon>icon.skill11825</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="ExpModify">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">10</value>
+					<value level="3">20</value>
+				</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39325" toLevel="3" name="Arcane Deliverance">
+		<!-- Recovers HP/ MP/ CP after an attack. (20% of Max HP and lower) -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<reuseDelay>900000</reuseDelay>
+	</skill>
+	<skill id="39326" toLevel="3" name="Arcane Speed">
+		<!-- Increases Speed, Atk. Spd. and Casting Spd. after an attack. -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+		<reuseDelay>900000</reuseDelay>
+		<effectPoint>100</effectPoint>
+	</skill>
+	<skill id="39327" toLevel="3" name="Arcane Barrier">
+		<!-- Creates a barrier for a while when damage is taken. -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<reuseDelay>900000</reuseDelay>
+		<effectPoint>100</effectPoint>
+	</skill>
+	<skill id="39328" toLevel="3" name="Arcane Immunity">
+		<!-- Grants immunity to debuffs and anomaly states for a while when damage is taken. -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<reuseDelay>600000</reuseDelay>
+		<effectPoint>100</effectPoint>
+	</skill>
+	<skill id="39329" toLevel="3" name="Arcane Protection">
+		<!-- Increases P./ M. Def for a while when damage is taken. -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<reuseDelay>600000</reuseDelay>
+		<effectPoint>100</effectPoint>
+	</skill>
+	<skill id="39330" toLevel="3" name="Arcane Paralysis">
+		<!-- Temporarily paralyzes the enemy after an attack. -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>300000</reuseDelay>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="39331" toLevel="3" name="Arcane Silence">
+		<!-- Temporarily inflicts Silence on the enemy after an attack. -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>300000</reuseDelay>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="39332" toLevel="3" name="Arcane Critical Sense">
+		<!-- All Critical Rate +3% All Critical Damage +150 -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>300000</reuseDelay>
+		<effectPoint>-671</effectPoint>
+		<mpConsume>43</mpConsume>
+	</skill>
+	<skill id="39333" toLevel="3" name="Arcane Power">
+		<!-- P. Atk. +350 M. Atk. +500 -->
+		<icon>icon.skill10106</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<reuseDelay>600000</reuseDelay>
+		<effectPoint>100</effectPoint>
+	</skill>
+	<skill id="39334" toLevel="1" name="Lucky Fortune">
+		<!-- For 5 min., a party member s HP/ MP Recovery Rate +20%, P. Accuracy +4, P. Evasion +4, P./ M. Atk. +15%, Atk./ Casting Spd. +10%, P. Critical Rate/ M. Skill Critical Rate +15%, P. Critical Damage/ M. Skill Critical Damage +15%. -->
+		<icon>icon.Accessary_middle_ages_i00</icon>
+		<operateType>A1</operateType>
+		<isMagic>4</isMagic>
+		<hitTime>2500</hitTime>
+		<reuseDelay>300000</reuseDelay>
+		<effectPoint>669</effectPoint>
+	</skill>
+	<skill id="39335" toLevel="2" name="Lucky Fortune">
+		<!-- For 5 min., a great spirit grants party members: HP Recovery +20%, Max MP +20%, M. Skill Critical Rate +2, P. Critical Damage +20%, P. Atk. +10%, P. Def. +20%, Atk. Spd. +20%, M. Atk. +20%, M. Def. +20%, Casting Spd. +20%, Debuff Resistance +10%, P. Accuracy +4, Speed -20%. -->
+		<icon>icon.Accessary_middle_ages_i00</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<hitTime>2500</hitTime>
+		<reuseDelay>600000</reuseDelay>
+		<effectPoint>669</effectPoint>
+	</skill>
+	<skill id="39336" toLevel="1" name="Focus - Event">
+		<!-- For 1 h., P. Critical Rate +30%. -->
+		<icon>icon.skill1077</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39337" toLevel="1" name="Death Whisper - Event">
+		<!-- For 1 h., P. Critical Damage +35%. -->
+		<icon>icon.skill1242</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39338" toLevel="1" name="Haste - Event">
+		<!-- For 1 h., Atk. Spd. +33%. -->
+		<icon>icon.skill1086</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39339" toLevel="1" name="Guidance - Event">
+		<!-- For 1 h., P. Accuracy +4. -->
+		<icon>icon.skill1240</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39340" toLevel="1" name="Noble Blessed Body - Event">
+		<!-- Max HP +35% for 1 h. -->
+		<icon>icon.skill1045</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39341" toLevel="1" name="Noble Blessed Soul - Event">
+		<!-- Max MP +35% for 1 h. -->
+		<icon>icon.skill1048</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39342" toLevel="1" name="Agility - Event">
+		<!-- For 1 h., P. Evasion +4. -->
+		<icon>icon.skill1087</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39343" toLevel="1" name="Acumen - Event">
+		<!-- Casting Spd. +30% for 1 h. -->
+		<icon>icon.skill1085</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39344" toLevel="1" name="Decrease Weight - Event">
+		<!-- For 1 h., overweight limit +9000. -->
+		<icon>icon.skill1257</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39345" toLevel="1" name="Might - Event">
+		<!-- For 1 h., P. Atk. +230. -->
+		<icon>icon.skill1068</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39346" toLevel="1" name="Shield - Event">
+		<!-- For 1 h., P. Def. +300. -->
+		<icon>icon.skill1040</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39347" toLevel="1" name="Magic Barrier - Event">
+		<!-- For 1 h., M. Def. +350. -->
+		<icon>icon.skill1036</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39348" toLevel="1" name="Vampiric Rage - Event">
+		<!-- With a certain chance, absorbs 9% of the inflicted damage as HP. Duration: 1 h. -->
+		<icon>icon.skill1268</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39349" toLevel="1" name="Empower - Event">
+		<!-- For 1 h., M. Atk. +75%. -->
+		<icon>icon.skill1059</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39350" toLevel="1" name="Wind Walk - Event">
+		<!-- Speed +33 for 1 h. -->
+		<icon>icon.skill1204</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39351" toLevel="1" name="Berserker Spirit - Event">
+		<!-- For $s1, Max HP/ MP -$s2, P. Atk. +$s3, M. Atk. +$s4, Atk. Spd. +$s5, Casting Spd. +$s6, Speed +$s7. -->
+		<icon>icon.skill1062</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39352" toLevel="1" name="Greater Might - Anniversary">
+		<!-- For 1 h., P. Atk. +10%. -->
+		<icon>icon.skill1388</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39353" toLevel="1" name="Greater Shield - Anniversary">
+		<!-- P. Def. +15% for 1 h. -->
+		<icon>icon.skill1389</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39354" toLevel="1" name="Wild Magic - Event">
+		<!-- M. Skill Critical Rate +20 for 1 h. -->
+		<icon>icon.skill1303</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39355" toLevel="1" name="Clarity - Event">
+		<!-- For 1 h., P. Skill/ Song/ Dance MP Consumption -20%, M. Skill MP Consumption -10%. -->
+		<icon>icon.skill1397</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39356" toLevel="1" name="Prophecy of Water - Anniversary">
+		<!-- For 1 h., for a party member MP +10%, M. Atk. +10%, M. Def. +10%, Casting Spd. +5%, Debuff Resistance +10%. Skill MP Consumption -3%. -->
+		<icon>icon.skill1355</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39357" toLevel="1" name="Prophecy of Fire - Anniversary">
+		<!-- For 1 h., for a party member Max HP +10%, HP Recovery bonus +10%, P. Atk. +10%, P. Def. +10%, Atk. Spd. +5%, Debuff Resistance +10%. -->
+		<icon>icon.skill1356</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39358" toLevel="1" name="Prophecy of Wind - Anniversary">
+		<!-- For 1 h., party member's. P./ M. Accuracy +3, P./ M. Evasion +3, P. Critical Rate/ M. Skill Critical Rate +10%, P. Critical Damage/ M. Skill Critical Damage +15%, Speed +10%, Debuff Resistance +10%, damage to Raid Bosses +15%. -->
+		<icon>icon.skill1357</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<effectPoint>1</effectPoint>
+		<mpConsume>1</mpConsume>
+	</skill>
+	<skill id="39359" toLevel="1" name="Shining Jewelry Box">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>90922</itemConsumeId> <!-- Shining Jewelry Box -->
+		<isMagic>2</isMagic>
+		<reuseDelay>1000</reuseDelay>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>10</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="10.0">
+						<item id="90369" count="1" /> <!-- Topaz Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90370" count="1" /> <!-- Garnet Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90371" count="1" /> <!-- Jade Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90372" count="1" /> <!-- Ruby Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90373" count="1" /> <!-- Sapphire Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90374" count="1" /> <!-- Diamond Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90375" count="1" /> <!-- Pearl Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90376" count="1" /> <!-- Vital Stone Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90936" count="1" /> <!-- Aquamarine Chest -->
+					</item>
+					<item chance="10.0">
+						<item id="90940" count="1" /> <!-- Cat's Eye Jewelry Box -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39360" toLevel="1" name="Greater Jewel Box">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>90935</itemConsumeId> <!-- Jewel Box Lv.4 -->
+		<isMagic>2</isMagic>
+		<reuseDelay>1000</reuseDelay>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>10</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="10.0">
+						<item id="90378" count="1" /> <!-- Topaz Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90381" count="1" /> <!-- Garnet Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90384" count="1" /> <!-- Jade Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90387" count="1" /> <!-- Ruby Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90390" count="1" /> <!-- Sapphire Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90393" count="1" /> <!-- Diamond Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90396" count="1" /> <!-- Pearl Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90399" count="1" /> <!-- Vital Stone Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90938" count="1" /> <!-- Aquamarine Jewelry Box Lv. 4 -->
+					</item>
+					<item chance="10.0">
+						<item id="90942" count="1" /> <!-- Cat's Eye Jewelry Box Lv. 4 -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39361" toLevel="3" name="Master Fisherman's Blessing">
+		<!-- For $s1, Acquired XP/ SP during fishing +100%. Effect remains after death. -->
+		<icon>icon.fishing_zone_ticket</icon>
+		<operateType>A1</operateType>
+		<isMagic>4</isMagic>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="39362" toLevel="1" name="Master Fisherman's Fishing Pack">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>90951</itemConsumeId> <!-- Angler's Fishing Box -->
+		<isMagic>2</isMagic>
+		<reuseDelay>1000</reuseDelay>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>10</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="100.0">
+						<item id="90182" count="30" /> <!-- Shining Golden Bait -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39363" toLevel="1" name="Angler's Silver Box">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>90953</itemConsumeId> <!-- Angler's Silver Box -->
+		<isMagic>2</isMagic>
+		<reuseDelay>1000</reuseDelay>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>10</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="100.0">
+						<item id="90951" count="1" /> <!-- Angler's Fishing Box -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39364" toLevel="1" name="Master Fisherman's Golden Pack">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>90952</itemConsumeId> <!-- Angler's Fishing Box -->
+		<isMagic>2</isMagic>
+		<reuseDelay>1000</reuseDelay>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>10</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="100.0">
+						<item id="90951" count="1" /> <!-- Angler's Fishing Box -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39365" toLevel="1" name="Scroll: Enchant Fishing Weapon">
+		<!-- Can only be used together with fishing weapons. Does not disappear after an unsuccessful Enchant. -->
+		<operateType>A1</operateType>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<magicLevel>1</magicLevel>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ITEM</targetType>
+		<affectScope>SINGLE</affectScope>
+	</skill>
+	<skill id="39366" toLevel="1" name="Improved Scroll: Enchant Fishing Weapon">
+		<operateType>A1</operateType>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<magicLevel>1</magicLevel>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ITEM</targetType>
+		<affectScope>SINGLE</affectScope>
+	</skill>
+	<skill id="39367" toLevel="1" name="Teddy Bear Transformation">
+		<!-- Teddy Bear transformation. Max HP/ MP +20%, Acquired XP/ SP +20% while Sayha's Grace is active. The effect remains after death. -->
+		<icon>icon.gomdori_chest_change</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>CHANGESHAPE_TRANSFORM_6</abnormalVisualEffect>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>45</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeId>90960</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount> <!-- Transformation Scroll: Teddy Bear -->
+		<conditions>
+			<condition name="HasVitalityPoints">
+				<amount>35000</amount>
+			</condition>
+		</conditions>
+		<conditions>
+			<condition name="HasVitalityPoints">
+				<amount>35000</amount>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="DispelBySlot">
+				<dispel>CHANGEBODY,1</dispel>
+			</effect>
+			<effect name="MaxHp">
+				<amount>20</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxMp">
+				<amount>20</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="ExpModify">
+				<amount>20</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>20</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39368" toLevel="1" name="+15 A-grade Weapon Pack">
+		<icon>icon.etc_treasure_box_i07</icon>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<itemConsumeCount>1</itemConsumeCount>
+		<itemConsumeId>90961</itemConsumeId>
+		<magicLevel>1</magicLevel>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="OpEncumbered">
+				<weightPercent>20</weightPercent>
+				<slotsPercent>10</slotsPercent>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="RestorationRandom">
+				<items>
+					<item chance="3">
+						<item id="235" count="1" minEnchant="16" maxEnchant="16" /> <!-- Bloody Orchid -->
+					</item>
+					<item chance="3">
+						<item id="236" count="1" minEnchant="16" maxEnchant="16" /> <!-- Soul Separator -->
+					</item>
+					<item chance="3">
+						<item id="8682" count="1" minEnchant="16" maxEnchant="16" /> <!-- Naga's Storm -->
+					</item>
+					<item chance="3">
+						<item id="80" count="1" minEnchant="16" maxEnchant="16" /> <!-- Tallum Blade -->
+					</item>
+					<item chance="3">
+						<item id="2500" count="1" minEnchant="16" maxEnchant="16" /> <!-- Dark Legion's Edge -->
+					</item>
+					<item chance="3">
+						<item id="8678" count="1" minEnchant="16" maxEnchant="16" /> <!-- Sirra's Blade -->
+					</item>
+					<item chance="3">
+						<item id="7884" count="1" minEnchant="16" maxEnchant="16" /> <!-- Infernal Master -->
+					</item>
+					<item chance="3">
+						<item id="81" count="1" minEnchant="16" maxEnchant="16" /> <!-- Dragon Slayer -->
+					</item>
+					<item chance="3">
+						<item id="8679" count="1" minEnchant="16" maxEnchant="16" /> <!-- Sword of Ipos -->
+					</item>
+					<item chance="3">
+						<item id="288" count="1" minEnchant="16" maxEnchant="16" /> <!-- Carnage Bow -->
+					</item>
+					<item chance="3">
+						<item id="289" count="1" minEnchant="16" maxEnchant="16" /> <!-- Soul Bow -->
+					</item>
+					<item chance="3">
+						<item id="8684" count="1" minEnchant="16" maxEnchant="16" /> <!-- Shyeed's Bow -->
+					</item>
+					<item chance="3">
+						<item id="2504" count="1" minEnchant="16" maxEnchant="16" /> <!-- Meteor Shower -->
+					</item>
+					<item chance="3">
+						<item id="164" count="1" minEnchant="16" maxEnchant="16" /> <!-- Elysian -->
+					</item>
+					<item chance="3">
+						<item id="8680" count="1" minEnchant="16" maxEnchant="16" /> <!-- Barakiel's Axe -->
+					</item>
+					<item chance="3">
+						<item id="7899" count="1" minEnchant="16" maxEnchant="16" /> <!-- Destroyer Hammer -->
+					</item>
+					<item chance="3">
+						<item id="7902" count="1" minEnchant="16" maxEnchant="16" /> <!-- Doom Crusher -->
+					</item>
+					<item chance="3">
+						<item id="8681" count="1" minEnchant="16" maxEnchant="16" /> <!-- Behemoth' Tuning Fork -->
+					</item>
+					<item chance="3">
+						<item id="98" count="1" minEnchant="16" maxEnchant="16" /> <!-- Halberd -->
+					</item>
+					<item chance="3">
+						<item id="305" count="1" minEnchant="16" maxEnchant="16" /> <!-- Tallum Glaive -->
+					</item>
+					<item chance="3">
+						<item id="8683" count="1" minEnchant="16" maxEnchant="16" /> <!-- Tiphon's Spear -->
+					</item>
+					<item chance="3">
+						<item id="269" count="1" minEnchant="16" maxEnchant="16" /> <!-- Blood Tornado -->
+					</item>
+					<item chance="3">
+						<item id="270" count="1" minEnchant="16" maxEnchant="16" /> <!-- Dragon Grinder -->
+					</item>
+					<item chance="3">
+						<item id="8685" count="1" minEnchant="16" maxEnchant="16" /> <!-- Sobekk's Hurricane -->
+					</item>
+					<item chance="3">
+						<item id="150" count="1" minEnchant="16" maxEnchant="16" /> <!-- Elemental Sword -->
+					</item>
+					<item chance="3">
+						<item id="151" count="1" minEnchant="16" maxEnchant="16" /> <!-- Sword of Miracles -->
+					</item>
+					<item chance="3">
+						<item id="8686" count="1" minEnchant="16" maxEnchant="16" /> <!-- Themis' Tongue -->
+					</item>
+					<item chance="3">
+						<item id="212" count="1" minEnchant="16" maxEnchant="16" /> <!-- Dasparion's Staff -->
+					</item>
+					<item chance="3">
+						<item id="213" count="1" minEnchant="16" maxEnchant="16" /> <!-- Branch of the Mother Tree -->
+					</item>
+					<item chance="3">
+						<item id="8688" count="1" minEnchant="16" maxEnchant="16" /> <!-- Daimon Crystal -->
+					</item>
+					<item chance="3">
+						<item id="7894" count="1" minEnchant="16" maxEnchant="16" /> <!-- Spiritual Eye -->
+					</item>
+					<item chance="3">
+						<item id="7895" count="1" minEnchant="16" maxEnchant="16" /> <!-- Flaming Dragon Skull -->
+					</item>
+					<item chance="3">
+						<item id="8687" count="1" minEnchant="16" maxEnchant="16" /> <!-- Cabrio's Hand -->
+					</item>
+				</items>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39369" toLevel="1" name="White Knight Transformation">
+		<!-- You are transformed into White Knight. For 20 min., Max HP/ MP +10%, Paralysis/ Silence/ Fear/ Stun Resistance +5%, PvE damage +5%, received damage -5%. The effect remains after death. -->
+		<icon>icon.etc_charm_of_courage_i00</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>AVE_WHITE_KNIGHT</abnormalVisualEffect>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>45</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeId>90949</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount> <!-- Transformation Scroll: White Knight -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MaxMp">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="DefenceTrait">
+				<PARALYZE>5</PARALYZE>
+				<SILENCE>5</SILENCE>
+				<FEAR>5</FEAR>
+				<SHOCK>5</SHOCK>
+			</effect>
+			<effect name="PveMagicalSkillDamageBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvePhysicalAttackDamageBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvePhysicalSkillDamageBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveRaidMagicalSkillDamageBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveRaidPhysicalAttackDamageBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveRaidPhysicalSkillDamageBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveMagicalSkillDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvePhysicalAttackDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvePhysicalSkillDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpMagicalSkillDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalAttackDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PvpPhysicalSkillDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveRaidMagicalSkillDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveRaidPhysicalAttackDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PveRaidPhysicalSkillDefenceBonus">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="39370" toLevel="1" name="Lucky Charm">
+		<!-- Death XP Penalty -20%. Cannot be used by chaotic characters. -->
+		<icon>icon.bm_freya_rune</icon>
+		<operateType>P</operateType>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="ReduceDropPenalty">
+				<exp>-20</exp>
+				<mode>PER</mode>
+				<type>MOB</type>
+			</effect>
+			<effect name="ReduceDropPenalty">
+				<exp>-20</exp>
+				<mode>PER</mode>
+				<type>RAID</type>
+			</effect>
+		</effects>
+	</skill>
+</list>

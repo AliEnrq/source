@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="30190" name="Dragon_Pendant_Lv1">
+		<passive_skill id="45040" level="1" />
+	</option>
+	<option id="30191" name="Dragon_Pendant_Lv1">
+		<passive_skill id="45040" level="2" />
+	</option>
+	<option id="30192" name="Dragon_Pendant_Lv1">
+		<passive_skill id="45040" level="3" />
+	</option>
+	<option id="30193" name="Dragon_Pendant_Lv1">
+		<passive_skill id="45040" level="4" />
+	</option>
+	<option id="30194" name="Dragon_Pendant_Lv1">
+		<passive_skill id="45040" level="5" />
+	</option>
+	<option id="30195" name="Dragon_Pendant_Lv1">
+		<passive_skill id="45040" level="6" />
+	</option>
+
+	<option id="30196" name="Dragon_Pendant_Lv2">
+		<passive_skill id="45041" level="1" />
+	</option>
+	<option id="30197" name="Dragon_Pendant_Lv2">
+		<passive_skill id="45041" level="2" />
+	</option>
+	<option id="30198" name="Dragon_Pendant_Lv2">
+		<passive_skill id="45041" level="3" />
+	</option>
+	<option id="30199" name="Dragon_Pendant_Lv2">
+		<passive_skill id="45041" level="4" />
+	</option>
+</list>

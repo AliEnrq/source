@@ -1,0 +1,1842 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="95400" name="Elven Necklace" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_elven_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="125000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">45</stat>
+		</stats>
+	</item>
+	<item id="95401" name="Dark Necklace" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_necklace_of_darkness_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="162000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">48</stat>
+		</stats>
+	</item>
+	<item id="95402" name="Aquastone Necklace" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_aquastone_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="207000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">52</stat>
+		</stats>
+	</item>
+	<item id="95403" name="Necklace of Protection" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_necklace_of_protection_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="261000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">56</stat>
+		</stats>
+	</item>
+	<item id="95404" name="Necklace of Mermaid" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_necklace_of_mermaid_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="393000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">60</stat>
+		</stats>
+	</item>
+	<item id="95405" name="Adamantite Necklace" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_adamantite_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="808000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">76</stat>
+		</stats>
+	</item>
+	<item id="95406" name="Blessed Necklace" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_blessed_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="565000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">64</stat>
+		</stats>
+	</item>
+	<item id="95407" name="Tateossian Necklace" additionalName="Sealed" type="Armor">
+		<!-- MP +42. -->
+		<set name="icon" val="icon.accessory_tateossian_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="4361000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">134</stat>
+			<stat type="maxMp">42</stat>
+		</stats>
+	</item>
+	<item id="95408" name="Black Ore Necklace" additionalName="Sealed" type="Armor">
+		<set name="icon" val="icon.accessary_necklace_of_black_ore_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="1230000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">81</stat>
+		</stats>
+	</item>
+	<item id="95409" name="Phoenix Necklace" additionalName="Sealed" type="Armor">
+		<!-- MP +26. -->
+		<set name="icon" val="icon.accessary_phoenixs_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="1340000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">90</stat>
+			<stat type="maxMp">26</stat>
+		</stats>
+	</item>
+	<item id="95410" name="Young Knight's Pistols" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_none" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1560" />
+		<set name="price" val="244000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">16</stat>
+			<stat type="mAtk">6</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95411" name="Jewelry Box - Onyx" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_onyx_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="92066" min="1" max="1" chance="50.0" /> <!-- Onyx Lv. 1 -->
+			<item id="92067" min="1" max="1" chance="40.0" /> <!-- Onyx Lv. 2 -->
+			<item id="92068" min="1" max="1" chance="10.0" /> <!-- Onyx Lv. 3 -->
+		</capsuled_items>
+	</item>
+	<item id="95412" name="Jewelry Box - Coral" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_coral_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="92056" min="1" max="1" chance="50.0" /> <!-- Coral Lv. 1 -->
+			<item id="92057" min="1" max="1" chance="40.0" /> <!-- Coral Lv. 2 -->
+			<item id="92058" min="1" max="1" chance="10.0" /> <!-- Coral Lv. 3 -->
+		</capsuled_items>
+	</item>
+	<item id="95413" name="Jewelry Box - Spinel" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_garnet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="92076" min="1" max="1" chance="50.0" /> <!-- Spinel Lv. 1 -->
+			<item id="92077" min="1" max="1" chance="40.0" /> <!-- Spinel Lv. 2 -->
+			<item id="92078" min="1" max="1" chance="10.0" /> <!-- Spinel Lv. 3 -->
+		</capsuled_items>
+	</item>
+	<item id="95414" name="Wooden Pistols" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_none" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1870" />
+		<set name="price" val="244000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">64</stat>
+			<stat type="mAtk">21</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95415" name="Brass Pistols" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_d" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1810" />
+		<set name="price" val="1800000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">191</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95416" name="Flint Pistols" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_b_low" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1720" />
+		<set name="price" val="6130000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">323</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95417" name="B-Class Firearms (Low-/ Mid-grade)" additionalName="Not Available" type="Weapon">
+		<set name="icon" val="icon.weapon_scallop_jamadhr_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1520" />
+		<set name="price" val="1800000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">397</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95418" name="Volcano" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_b_high" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="CHRYSOLITE" />
+		<set name="weight" val="1700" />
+		<set name="price" val="13100000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">400</stat>
+			<stat type="mAtk">111</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95419" name="Scofield" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_a_low" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1660" />
+		<set name="price" val="20741000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">528</stat>
+			<stat type="mAtk">142</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95420" name="Zephyrus" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_a_high" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1640" />
+		<set name="price" val="26968400" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">570</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95421" name="Boss' Firearms" additionalName="Not Available" type="Weapon">
+		<set name="icon" val="icon.shooter_boss" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1330" />
+		<set name="price" val="26968400" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">610</stat>
+			<stat type="mAtk">160</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95422" name="Anakim's Divine Pistols" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.shooter_boss_anakim" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1640" />
+		<set name="price" val="26968400" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">610</stat>
+			<stat type="mAtk">160</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95423" name="Monster's Firearms (Low-grade)" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.weapon_chakram_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1440" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">397</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95424" name="Monster's Firearms (High-grade)" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.weapon_bellion_cestus_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="1390" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">400</stat>
+			<stat type="mAtk">111</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95425" name="Majestic Earring" additionalName="Sealed" type="Armor">
+		<!-- MP +25. -->
+		<set name="icon" val="icon.accessary_inferno_earing_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="1498000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">71</stat>
+			<stat type="maxMp">25</stat>
+		</stats>
+	</item>
+	<item id="95426" name="Pure Flame Cube (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.ev_firewood_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95427" name="Five-colored Sweets (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Applies the following effect when used. <Effect> All stats +1 Water Attack +40 The buff is renewed every hour. Maximum duration: 24 h. Grants various items with each buff renewal. <Items cannot be obtained if the character is dead.> -->
+		<set name="icon" val="icon.ev_ricecake_potion" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95428" name="Luxury Festival Gift Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.event_six_party_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95429" name="Majestic Necklace" additionalName="Sealed" type="Armor">
+		<!-- MP +33. -->
+		<set name="icon" val="icon.accessary_inferno_necklace_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="neck" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="1998000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">95</stat>
+			<stat type="maxMp">33</stat>
+		</stats>
+	</item>
+	<item id="95430" name="Monster Only: Dragon Infantryman Sword - Not Available" additionalName="Not Available" type="Weapon">
+		<set name="icon" val="icon.weapon_samurai_old_longsword_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1430" />
+		<set name="price" val="2290000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95431" name="Monster Only: Sword of Corruption - Not Available" additionalName="Not Available" type="Weapon">
+		<set name="icon" val="icon.weapon_samurai_old_longsword_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1400" />
+		<set name="price" val="4300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95432" name="Excuro's Staff" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Cruma Tower Purge -->
+		<set name="icon" val="icon.subjugation_wp_staff_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1620" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">140</stat>
+			<stat type="mAtk">137</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95433" name="Torfe's Claw" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Cruma Tower Purge -->
+		<set name="icon" val="icon.subjugation_wp_dualfist_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="FIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="1420" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="95434" name="Giants' Club" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Silent Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_blunt_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1620" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95435" name="Ancient Rapier" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Silent Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_rapier_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1300" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">167</stat>
+			<stat type="mAtk">124</stat>
+			<stat type="pAtkSpd">406</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95436" name="Guardian Messenger's Spear" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Tower of Insolence Purge -->
+		<set name="icon" val="icon.subjugation_wp_pole_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1940" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<skills>
+			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
+		</skills>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="95437" name="Sealed Angel's Hammer" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Tower of Insolence Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandblunt_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1950" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95438" name="Lizardman Shaman's Staff" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Plains of the Lizardmen Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandstaff_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="960" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="95439" name="Lizard Slayer" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Plains of the Lizardmen Purge -->
+		<set name="icon" val="icon.shooter_monster_low" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1440" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">397</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95440" name="Deadman's Dagger" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Dragon Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_dagger_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="740" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">137</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95441" name="Dragon Bone Blade" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Dragon Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_ancientsword_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1530" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pAtk">193</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95442" name="Berserker's Sword" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Sel Mahum Base Purge -->
+		<set name="icon" val="icon.subjugation_wp_sword_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1370" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95443" name="Sel Mahum Sniper" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Sel Mahum Base Purge -->
+		<set name="icon" val="icon.subjugation_wp_bow_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1720" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="4" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">397</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">500</stat>
+		</stats>
+	</item>
+	<item id="95444" name="Turek Orc Prefect's Dual Swords" type="Weapon">
+		<!-- When enchanting dual swords, two-handed swords/ blunts, and fists, the P. Atk. bonus is higher than that of one-handed weapons. <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Orc Barracks Purge -->
+		<set name="icon" val="icon.subjugation_wp_dual_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="2140" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95445" name="Butcher's Long Sword" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Orc Barracks Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandsword_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1930" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95446" name="Excuro's Staff" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Cruma Tower Purge -->
+		<set name="icon" val="icon.subjugation_wp_staff_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1620" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">140</stat>
+			<stat type="mAtk">137</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95447" name="Torfe's Claw" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Cruma Tower Purge -->
+		<set name="icon" val="icon.subjugation_wp_dualfist_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="FIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="1420" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="95448" name="Giants' Club" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Silent Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_blunt_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1620" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95449" name="Ancient Rapier" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Silent Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_rapier_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1300" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">167</stat>
+			<stat type="mAtk">124</stat>
+			<stat type="pAtkSpd">406</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95450" name="Guardian Messenger's Spear" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Tower of Insolence Purge -->
+		<set name="icon" val="icon.subjugation_wp_pole_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1940" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<skills>
+			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
+		</skills>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="95451" name="Sealed Angel's Hammer" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Tower of Insolence Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandblunt_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1950" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95452" name="Lizardman Shaman's Staff" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Plains of the Lizardmen Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandstaff_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="960" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="95453" name="Lizard Slayer" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Plains of the Lizardmen Purge -->
+		<set name="icon" val="icon.shooter_monster_low" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1440" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">397</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">400</stat>
+		</stats>
+	</item>
+	<item id="95454" name="Deadman's Dagger" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Dragon Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_dagger_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="740" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">137</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95455" name="Dragon Bone Blade" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Dragon Valley Purge -->
+		<set name="icon" val="icon.subjugation_wp_ancientsword_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1530" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">193</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95456" name="Berserker's Sword" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Sel Mahum Base Purge -->
+		<set name="icon" val="icon.subjugation_wp_sword_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1370" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95457" name="Sel Mahum Sniper" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Sel Mahum Base Purge -->
+		<set name="icon" val="icon.subjugation_wp_bow_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1720" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="4" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">397</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">500</stat>
+		</stats>
+	</item>
+	<item id="95458" name="Turek Orc Prefect's Dual Swords" additionalName="Sealed" type="Weapon">
+		<!-- When enchanting dual swords, two-handed swords/ blunts, and fists, the P. Atk. bonus is higher than that of one-handed weapons. <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Orc Barracks Purge -->
+		<set name="icon" val="icon.subjugation_wp_dual_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="2140" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95459" name="Butcher's Long Sword" additionalName="Sealed" type="Weapon">
+		<!-- <Equipping effect for pets> Increases P./ M. Atk. <How to acquire> Orc Barracks Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandsword_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1930" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="95460" name="Cruma Tower Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95433" min="1" max="1" chance="16.66" /> <!-- Torfe's CLaw -->
+			<item id="95432" min="1" max="1" chance="16.66" /> <!-- Excuro's Staff -->
+			<item id="95447" min="1" max="1" chance="16.66" /> <!-- Torfe's Claw (Sealed) -->
+			<item id="95446" min="1" max="1" chance="16.66" /> <!-- Excuro's Staff (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="3" max="3" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95461" name="Silent Valley Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95434" min="1" max="1" chance="16.66" /> <!-- Giants' Club -->
+			<item id="95434" min="1" max="1" chance="16.66" /> <!-- Ancient Rapier -->
+			<item id="95448" min="1" max="1" chance="16.66" /> <!-- Giants' Club (Sealed) -->
+			<item id="95449" min="1" max="1" chance="16.66" /> <!-- Ancient Rapier (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="3" max="3" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95462" name="Tower of Insolence Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95436" min="1" max="1" chance="16.66" /> <!-- Guardian Messenger's Spear -->
+			<item id="95437" min="1" max="1" chance="16.66" /> <!-- Sealed Angel's Hammer -->
+			<item id="95450" min="1" max="1" chance="16.66" /> <!-- Guardian Messenger's Spear (Sealed) -->
+			<item id="95451" min="1" max="1" chance="16.66" /> <!-- Sealed Angel's Hammer (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="5" max="5" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95463" name="Plains of the Lizardmen Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95438" min="1" max="1" chance="16.66" /> <!-- Lizardman Shaman's Staff -->
+			<item id="95439" min="1" max="1" chance="16.66" /> <!-- Lizard Slayer -->
+			<item id="95452" min="1" max="1" chance="16.66" /> <!-- Lizardman Shaman's Staff (Sealed) -->
+			<item id="95453" min="1" max="1" chance="16.66" /> <!-- Lizard Slayer (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="5" max="5" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95464" name="Dragon Valley Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95440" min="1" max="1" chance="16.66" /> <!-- Deadman's Dagger -->
+			<item id="95441" min="1" max="1" chance="16.66" /> <!-- Dragon Bone Blade -->
+			<item id="95454" min="1" max="1" chance="16.66" /> <!-- Deadman's Dagger (Sealed) -->
+			<item id="95455" min="1" max="1" chance="16.66" /> <!-- Dragon Bone Blade (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="5" max="5" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95465" name="Sel Mahum Base Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95442" min="1" max="1" chance="16.66" /> <!-- Berserker's Sword -->
+			<item id="95443" min="1" max="1" chance="16.66" /> <!-- Sel Mahum Sniper -->
+			<item id="95456" min="1" max="1" chance="16.66" /> <!-- Berserker's Sword (Sealed) -->
+			<item id="95457" min="1" max="1" chance="16.66" /> <!-- Sel Mahum Sniper (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="5" max="5" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95466" name="Orc Barracks Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="95444" min="1" max="1" chance="16.66" /> <!-- Turek Orc Prefect's Dual Sword -->
+			<item id="95445" min="1" max="1" chance="16.66" /> <!-- Butcher's Long Sword -->
+			<item id="95458" min="1" max="1" chance="16.66" /> <!-- Turek Orc Prefect's Dual Sword (Sealed) -->
+			<item id="95459" min="1" max="1" chance="16.66" /> <!-- Butcher's Long Sword (Sealed) -->
+			<item id="95482" min="1" max="1" chance="16.66" /> <!-- Recipe: Cruma Tower Purge Equipment -->
+			<item id="95481" min="5" max="5" chance="16.66" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95467" name="Low-grade Supply Box - Cruma Tower Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="100" max="100" chance="100" /> <!-- Spirit Ore -->
+			<item id="91912" min="700" max="700" chance="100" /> <!-- HP Potion (Exchangeable) -->
+		</capsuled_items>
+	</item>
+	<item id="95468" name="Low-grade Supply Box - Silent Valley Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="150" max="150" chance="100" /> <!-- Spirit Ore -->
+			<item id="91912" min="200" max="200" chance="100" /> <!-- HP Potion (Exchangeable) -->
+		</capsuled_items>
+	</item>
+	<item id="95469" name="Low-grade Supply Box - Tower of Insolence Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="300" max="300" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="3" max="3" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95470" name="Low-grade Supply Box - Plains of the Lizardmen Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="150" max="150" chance="100" /> <!-- Spirit Ore -->
+			<item id="91912" min="200" max="200" chance="100" /> <!-- HP Potion (Exchangeable) -->
+		</capsuled_items>
+	</item>
+	<item id="95471" name="Low-grade Supply Box - Dragon Valley Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="250" max="250" chance="100" /> <!-- Spirit Ore -->
+			<item id="91912" min="1000" max="1000" chance="100" /> <!-- HP Potion (Exchangeable) -->
+		</capsuled_items>
+	</item>
+	<item id="95472" name="Low-grade Supply Box - Sel Mahum Base Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="94382" min="250" max="250" chance="100" /> <!-- Special HP Recovery Potion (Event) -->
+			<item id="90907" min="7" max="7" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95473" name="Low-grade Supply Box - Orc Barracks Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="300" max="300" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="10" max="10" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95474" name="High-grade Supply Box - Cruma Tower Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="200" max="200" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="2" max="2" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95475" name="High-grade Supply Box - Silent Valley Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="300" max="300" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="3" max="3" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95476" name="High-grade Supply Box - Tower of Insolence Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="94382" min="10" max="10" chance="100" /> <!-- Special HP Recovery Potion (Event) -->
+			<item id="90907" min="5" max="5" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95477" name="High-grade Supply Box - Plains of the Lizardmen Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="300" max="300" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="3" max="3" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95478" name="High-grade Supply Box - Dragon Valley Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="400" max="400" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="4" max="4" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95479" name="High-grade Supply Box - Sel Mahum Base Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="94382" min="20" max="20" chance="100" /> <!-- Special HP Recovery Potion (Event) -->
+			<item id="90907" min="10" max="10" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95480" name="High-grade Supply Box - Orc Barracks Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="94382" min="20" max="20" chance="100" /> <!-- Special HP Recovery Potion (Event) -->
+			<item id="90907" min="10" max="10" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95481" name="Aden Purge Crystal" additionalName="Sealed" type="EtcItem">
+		<!-- A proof of defeating monsters in Aden. -->
+		<set name="icon" val="icon.star_crystal_piece" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="95482" name="Recipe: Cruma Tower Purge Equipment" type="EtcItem">
+		<!-- A recipe for Excuro's Staff and Torfe's Claw. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95483" name="Recipe: Silent Valley Purge Equipment" type="EtcItem">
+		<!-- A recipe for Giants' Club and Ancient Rapier. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95484" name="Recipe: Tower of Insolence Purge Equipment" type="EtcItem">
+		<!-- A recipe for Guardian Messenger's Spear and Sealed Angel's Hammer. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95485" name="Recipe: Plains of the Lizardmen Purge Equipment" type="EtcItem">
+		<!-- A recipe for Lizardman Shaman's Staff and Lizard Slayer. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95486" name="Recipe: Dragon Valley Purge Equipment" type="EtcItem">
+		<!-- A recipe for Deadman's Dagger and Dragon Bone Blade. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95487" name="Recipe: Sel Mahum Base Purge Equipment" type="EtcItem">
+		<!-- A recipe for Berserker's Sword and Sel Mahum Sniper. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95488" name="Recipe: Orc Barracks Purge Equipment" type="EtcItem">
+		<!-- A recipe for Turek Orc Prefect's Dual Swords and Butcher's Long Sword. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95489" name="2nd Class Change Gift Box" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="500" max="500" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="10" max="10" chance="100" /> <!-- Soulshot Ticket -->
+		</capsuled_items>
+	</item>
+	<item id="95490" name="Infinite Wooden Quiver" additionalName="Sealed" type="EtcItem">
+		<!-- Quiver containing arrows made of wood. Used with a No-grade bow. -->
+		<set name="icon" val="br_cashtex.item.br_cash_quiver_of_bone_arrows_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="50000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95491" name="Infinite Bone Quiver" additionalName="Sealed" type="EtcItem">
+		<!-- Quiver containing arrows made of sharply ground bone. Used with a D-grade bow. -->
+		<set name="icon" val="br_cashtex.item.br_cash_quiver_of_bone_arrows_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="300000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95492" name="Ivory Tower's Magic Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain Sayha's Blessing (3 pcs.), a random item from the list and another one of various items. -->
+		<set name="icon" val="icon.bm_sayha_blessed_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95493" name="Infinite Silver Quiver" additionalName="Sealed" type="EtcItem">
+		<!-- Quiver containing steel arrows plated in silver. Used with a B-grade bow. -->
+		<set name="icon" val="br_cashtex.item.br_cash_quiver_of_silver_arrows_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="5000000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95494" name="Infinite Mithril Quiver" additionalName="Sealed" type="EtcItem">
+		<!-- Quiver with arrows coated by mithril. Used with an A-grade bow. -->
+		<set name="icon" val="br_cashtex.item.br_cash_quiver_of_mithril_arrows_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="20000000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95495" name="Buff Expansion Book Lv. 1" additionalName="Sealed" type="EtcItem">
+		<!-- A book for learning the Divine Inspiration Lv. 1 skill. <Classes> All classes after the 2nd class change <Skill effect> Increases the number of buff slots. -->
+		<set name="icon" val="icon.etc_add_buffslot_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="price" val="20000000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95496" name="Buff Expansion Book Lv. 2" additionalName="Sealed" type="EtcItem">
+		<!-- A book for learning the Divine Inspiration Lv. 2 skill. <Classes> All classes after the 2nd class change <Skill effect> Increases the number of buff slots. -->
+		<set name="icon" val="icon.etc_add_buffslot_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="price" val="20000000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95497" name="Infinite Steel Quiver" additionalName="Sealed" type="EtcItem">
+		<!-- Quiver containing arrows made of steel. Used with a C-grade bow. -->
+		<set name="icon" val="br_cashtex.item.br_cash_quiver_of_fine_steel_arrows_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="GOLD" />
+		<set name="price" val="1000000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95498" name="Crystal of Light" additionalName="Sealed" type="EtcItem">
+		<!-- A mysterious crystal that contains the light energy. Required for learning Collect Light Souls Lv. 2. <Classes> All Kamael classes after the 3rd class change <Skill effect> Allows to obtain Light Souls. -->
+		<set name="icon" val="icon.high_energy_condense_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95499" name="Crystal of Shadows" additionalName="Sealed" type="EtcItem">
+		<!-- A mysterious crystal that contains the dark energy. Required for learning Collect Shadow Souls Lv. 2. <Classes> All Kamael classes after the 3rd class change <Skill effect> Allows to obtain Shadow Souls. -->
+		<set name="icon" val="icon.high_energy_condense_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

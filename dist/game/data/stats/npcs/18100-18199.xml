@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="18120" level="85" type="Monster" name="Halisha's Officer">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="5564" sp="57974" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="4091.2833623561" magical="625.557911552422" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="256.958297710649" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18121" level="85" type="Monster" name="Halisha's Officer">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="5564" sp="71460" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="3722.14501387284" magical="515.996921393523" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="233.77409039841" magical="164.003955490182" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
+			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18122" level="85" type="Monster" name="Halisha's Officer">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="5564" sp="75098" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="3390.72114277457" magical="426.782500404924" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18123" level="85" type="Monster" name="Halisha's Officer">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="5564" sp="77826" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="3074.81544624278" magical="352.63110072067" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="193.11772685086" magical="135.481528448411" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18124" level="85" type="Monster" name="Halisha's Officer">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="5564" sp="80459" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="2796.86602737338" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="175.660757192025" magical="123.234610622566" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="17" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="17" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="17" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18125" level="85" type="Monster" name="Halisha's Officer">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="5564" sp="42855" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="4091.2833623561" magical="625.557911552422" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="256.958297710649" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18126" level="80" type="Folk" name="Halisha's Officer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18127" level="80" type="Folk" name="Halisha's Officer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18128" level="80" type="Folk" name="Halisha's Officer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18129" level="80" type="Folk" name="Halisha's Officer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18130" level="80" type="Folk" name="Halisha's Officer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18131" level="80" type="Folk" name="Halisha's Officer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="134" lhand="6721" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="18132" level="85" type="Monster" name="Imperial Healer">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26960" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="170" />
+			</speed>
+			<attack physical="4950.45286845088" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="123.234610622566" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4413" level="17" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="19" />
+			<height normal="54.5" />
+		</collision>
+	</npc>
+	<npc id="18133" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26888" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="170" />
+			</speed>
+			<attack physical="4091.2833623561" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="256.958297710649" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="28" />
+			<height normal="66" />
+		</collision>
+	</npc>
+	<npc id="18134" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26888" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="170" />
+			</speed>
+			<attack physical="4091.2833623561" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="256.958297710649" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="28" />
+			<height normal="66" />
+		</collision>
+	</npc>
+	<npc id="18135" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26888" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="170" />
+			</speed>
+			<attack physical="4091.2833623561" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="256.958297710649" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="28" />
+			<height normal="66" />
+		</collision>
+	</npc>
+	<npc id="18136" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26794" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="170" />
+			</speed>
+			<attack physical="4950.45286845088" magical="515.996921393523" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="28" />
+			<height normal="66" />
+		</collision>
+	</npc>
+	<npc id="18137" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="27210" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+			<attack physical="4950.45286845088" magical="352.63110072067" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4411" level="16" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="18138" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26794" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+			<attack physical="4950.45286845088" magical="515.996921393523" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="18139" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26794" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+			<attack physical="4950.45286845088" magical="515.996921393523" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="18140" level="85" type="Monster" name="Imperial Mosaic">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="26794" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+			<attack physical="4950.45286845088" magical="515.996921393523" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="180.268810580118" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="18141" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="85440" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
+			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18142" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="89663" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18143" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="92781" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18144" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="95740" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4410" level="17" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="17" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="17" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+	</npc>
+	<npc id="18145" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="35023" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18146" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="35179" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18147" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="35267" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4411" level="16" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18148" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="35179" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+	</npc>
+	<npc id="18149" level="85" type="Monster" name="Graveyard Beetle">
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="34236" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="22" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+	</npc>
+	<npc id="18150" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18151" level="85" type="Monster" name="Sacrifice">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="0" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="4950.45286845088" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="14" /> <!-- Humans -->
+		</skillList>
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18152" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18153" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18154" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18155" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18156" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18157" level="80" type="Folk" name="Sacrifice">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18158" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18159" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18160" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18161" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18162" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18163" level="85" type="Monster" name="Halisha's Executioner">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="48922" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="2796.86602737338" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="175.660757192025" magical="123.234610622566" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="17" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="17" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="17" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18164" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18165" level="80" type="Folk" name="Halisha's Executioner">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="31" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="18166" level="85" type="Monster" name="Imperial Guard">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="142" />
+		<acquire exp="5564" sp="43307" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="27" />
+				<run ground="110" />
+			</speed>
+			<attack physical="3390.72114277457" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="29" />
+		</collision>
+	</npc>
+	<npc id="18167" level="85" type="Monster" name="Imperial Guard">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="142" />
+		<acquire exp="5564" sp="43307" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="27" />
+				<run ground="110" />
+			</speed>
+			<attack physical="3390.72114277457" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="29" />
+		</collision>
+	</npc>
+	<npc id="18168" level="85" type="Monster" name="Imperial Guard">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="142" />
+		<acquire exp="5564" sp="43307" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="27" />
+				<run ground="110" />
+			</speed>
+			<attack physical="3390.72114277457" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="29" />
+		</collision>
+	</npc>
+	<npc id="18169" level="85" type="Monster" name="Imperial Guard">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="142" />
+		<acquire exp="5564" sp="42845" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="27" />
+				<run ground="110" />
+			</speed>
+			<attack physical="4950.45286845088" magical="426.782500404924" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="29" />
+		</collision>
+	</npc>
+	<npc id="18170" level="85" type="Monster" name="Imperial Guard">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="43453" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="42" />
+		</collision>
+	</npc>
+	<npc id="18171" level="80" type="Folk" name="Imperial Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="20" />
+			<height normal="42" />
+		</collision>
+	</npc>
+	<npc id="18172" level="85" type="Monster" name="Imperial Guard">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="43453" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="42" />
+		</collision>
+	</npc>
+	<npc id="18173" level="85" type="Monster" name="Halisha's Foreman">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="113401" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="3722.14501387284" magical="515.996921393523" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="233.77409039841" magical="164.003955490182" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
+			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
+			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18174" level="85" type="Monster" name="Halisha's Foreman">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="118795" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="3390.72114277457" magical="426.782500404924" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18175" level="85" type="Monster" name="Halisha's Foreman">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="122693" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="3074.81544624278" magical="352.63110072067" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="193.11772685086" magical="135.481528448411" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4287" level="5" /> <!-- Hold Resistance -->
+			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18176" level="85" type="Monster" name="Halisha's Foreman">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="126302" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="2796.86602737338" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="175.660757192025" magical="123.234610622566" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="17" /> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="17" /> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="17" /> <!-- Very Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18177" level="85" type="Monster" name="Halisha's Foreman">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="128896" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="2313.29573292097" magical="198.979204981816" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="145.28950478032" magical="101.927691963524" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="19" /> <!-- Extremely Strong P. Atk. -->
+			<skill id="4411" level="19" /> <!-- Extremely Strong M. Atk. -->
+			<skill id="4412" level="19" /> <!-- Extremely Strong P. Def. -->
+			<skill id="4413" level="19" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18178" level="85" type="Monster" name="Halisha's Foreman">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="68813" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="2313.29573292097" magical="198.979204981816" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="145.28950478032" magical="101.927691963524" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="19" /> <!-- Extremely Strong P. Atk. -->
+			<skill id="4411" level="19" /> <!-- Extremely Strong M. Atk. -->
+			<skill id="4412" level="19" /> <!-- Extremely Strong P. Def. -->
+			<skill id="4413" level="19" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18179" level="80" type="Folk" name="Halisha's Foreman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18180" level="80" type="Folk" name="Halisha's Foreman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18181" level="80" type="Folk" name="Halisha's Foreman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18182" level="80" type="Folk" name="Halisha's Foreman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18183" level="80" type="Folk" name="Halisha's Foreman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18184" level="80" type="Folk" name="Halisha's Foreman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="44350" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="37" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18185" level="85" type="Monster" name="Evil Astrologer">
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="5129" lhand="5129" />
+		<acquire exp="5564" sp="41942" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="22" />
+				<run ground="150" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="6" />
+			<height normal="12" />
+		</collision>
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="18186" level="85" type="Monster" name="Evil Astrologer">
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="5129" lhand="5129" />
+		<acquire exp="5564" sp="41942" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="22" />
+				<run ground="150" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="6" />
+			<height normal="12" />
+		</collision>
+		<skillList>
+			<skill id="4285" level="5" /> <!-- Sleep Resistance -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="18187" level="85" type="Monster" name="Dark Knight">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="78" />
+		<acquire exp="5564" sp="43307" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="160" />
+			</speed>
+			<attack physical="3390.72114277457" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18188" level="85" type="Monster" name="Dark Knight">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="78" />
+		<acquire exp="5564" sp="43307" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="160" />
+			</speed>
+			<attack physical="3390.72114277457" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18189" level="85" type="Monster" name="Dark Knight">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="78" />
+		<acquire exp="5564" sp="43307" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="160" />
+			</speed>
+			<attack physical="3390.72114277457" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="212.958589198551" magical="218.125260801942" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
+			<skill id="4412" level="15" /> <!-- Strong P. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18190" level="85" type="Monster" name="Dark Knight">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="78" />
+		<acquire exp="5564" sp="42845" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="426.782500404924" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="18191" level="85" type="Monster" name="Witch of Dust">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3939" />
+		<acquire exp="5564" sp="43453" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18192" level="85" type="Monster" name="Witch of Dust">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3939" />
+		<acquire exp="5564" sp="43453" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18193" level="85" type="Monster" name="Witch of Dust">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3939" />
+		<acquire exp="5564" sp="43453" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18194" level="85" type="Monster" name="Witch of Dust">
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3939" />
+		<acquire exp="5564" sp="43453" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="160" />
+			</speed>
+			<attack physical="4950.45286845088" magical="291.793786219341" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="17" /> <!-- Very Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="18195" level="85" type="Monster" name="Emperor's Seal Device">
+		<race>BUG</race>
+		<sex>FEMALE</sex>
+		<acquire exp="5564" sp="42845" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="40504.6242774566" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="60" />
+			</speed>
+			<attack physical="4950.45286845088" magical="426.782500404924" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="149.400863562974" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
+			<skill id="4413" level="15" /> <!-- Strong M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+			<skill id="4438" level="4" /> <!-- Greater Sleep Resistance -->
+			<skill id="4439" level="4" /> <!-- Greater Hold Resistance -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="8" />
+		</collision>
+	</npc>
+	<npc id="18196" level="85" type="Monster" name="Charm of Corner">
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="60292" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="1" />
+				<run ground="1" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15" />
+			<height normal="75" />
+		</collision>
+		<skillList>
+			<skill id="4412" level="20" /> <!-- Extremely Strong P. Def. -->
+			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4436" level="5" /> <!-- Greater Poison Resistance -->
+			<skill id="4437" level="5" /> <!-- Greater Bleed Resistance -->
+		</skillList>
+	</npc>
+	<npc id="18197" level="85" type="Monster" name="Charm of Corner">
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="60292" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="1" />
+				<run ground="1" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15" />
+			<height normal="75" />
+		</collision>
+		<skillList>
+			<skill id="4412" level="20" /> <!-- Extremely Strong P. Def. -->
+			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4436" level="5" /> <!-- Greater Poison Resistance -->
+			<skill id="4437" level="5" /> <!-- Greater Bleed Resistance -->
+		</skillList>
+	</npc>
+	<npc id="18198" level="85" type="Monster" name="Charm of Corner">
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="60292" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="1" />
+				<run ground="1" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15" />
+			<height normal="75" />
+		</collision>
+		<skillList>
+			<skill id="4412" level="20" /> <!-- Extremely Strong P. Def. -->
+			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4436" level="5" /> <!-- Greater Poison Resistance -->
+			<skill id="4437" level="5" /> <!-- Greater Bleed Resistance -->
+		</skillList>
+	</npc>
+	<npc id="18199" level="85" type="Monster" name="Charm of Corner">
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="5564" sp="60292" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="65244.8789571695" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="1" />
+				<run ground="1" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15" />
+			<height normal="75" />
+		</collision>
+		<skillList>
+			<skill id="4412" level="20" /> <!-- Extremely Strong P. Def. -->
+			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4436" level="5" /> <!-- Greater Poison Resistance -->
+			<skill id="4437" level="5" /> <!-- Greater Bleed Resistance -->
+		</skillList>
+	</npc>
+</list>

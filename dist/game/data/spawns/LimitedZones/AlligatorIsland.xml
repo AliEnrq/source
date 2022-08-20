@@ -1,0 +1,1350 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="AlligatorIsland_NPC">
+		<group>
+			<npc id="34202" x="115628" y="191591" z="-3372" heading="32767" respawnTime="20sec" /> <!-- Deton -->
+		</group>
+	</spawn>
+	<spawn name="AlligatorIsland">
+		<group>
+			<npc id="22192" x="121759" y="184615" z="-3368" heading="60136" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="120416" y="191088" z="-3736" heading="53396" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="120136" y="190565" z="-3752" heading="49001" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="119392" y="190720" z="-3752" heading="25350" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="120472" y="190742" z="-3752" heading="60670" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="119271" y="191355" z="-3720" heading="38889" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="119824" y="190384" z="-3752" heading="10930" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="120623" y="190926" z="-3752" heading="24002" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119266" y="190691" z="-3752" heading="58392" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119152" y="190976" z="-3720" heading="19006" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="119472" y="190384" z="-3752" heading="34993" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="119102" y="191472" z="-3720" heading="55384" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="119978" y="190169" z="-3752" heading="15081" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="120048" y="190112" z="-3752" heading="23551" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="119908" y="190060" z="-3752" heading="42126" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="119808" y="190064" z="-3752" heading="39793" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="120512" y="190240" z="-3752" heading="6273" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119589" y="192087" z="-3664" heading="32426" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="120816" y="190502" z="-3752" heading="39022" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="120544" y="190160" z="-3752" heading="18548" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="120528" y="190128" z="-3752" heading="5855" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="120565" y="190145" z="-3752" heading="15556" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="120480" y="190064" z="-3752" heading="41717" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="119482" y="189946" z="-3752" heading="55937" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="118688" y="191072" z="-3720" heading="47814" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="121141" y="190846" z="-3752" heading="33612" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="118704" y="190704" z="-3736" heading="47242" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="119088" y="192064" z="-3648" heading="61479" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="119776" y="189760" z="-3752" heading="53546" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="119062" y="192118" z="-3632" heading="10558" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="120560" y="189776" z="-3752" heading="28341" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="121462" y="190775" z="-3736" heading="47501" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="121518" y="191018" z="-3720" heading="43727" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="118984" y="189728" z="-3752" heading="21007" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="120539" y="189511" z="-3752" heading="6246" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="121440" y="190208" z="-3736" heading="9021" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="118848" y="189616" z="-3752" heading="61745" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="119488" y="189280" z="-3736" heading="31386" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="119664" y="189232" z="-3736" heading="16516" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="120605" y="189229" z="-3688" heading="36948" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="119511" y="189139" z="-3736" heading="47698" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119214" y="189211" z="-3752" heading="33918" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119110" y="188498" z="-3720" heading="54943" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="119120" y="188416" z="-3720" heading="11597" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="119008" y="188448" z="-3720" heading="45952" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="119630" y="188187" z="-3752" heading="56417" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="119696" y="188176" z="-3752" heading="42514" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="119120" y="188240" z="-3752" heading="31510" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="120204" y="188128" z="-3740" heading="57262" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="120125" y="188081" z="-3752" heading="58890" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="117223" y="189658" z="-3736" heading="56436" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="117264" y="189536" z="-3720" heading="60592" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="117056" y="189920" z="-3752" heading="14455" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="117296" y="189280" z="-3736" heading="63958" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="116799" y="190271" z="-3701" heading="2233" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="118176" y="188384" z="-3752" heading="44563" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="116832" y="190176" z="-3752" heading="56676" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="120192" y="187856" z="-3720" heading="52082" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="117120" y="189136" z="-3720" heading="57342" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="116816" y="189696" z="-3752" heading="55512" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="117424" y="188784" z="-3720" heading="27733" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="118362" y="188148" z="-3752" heading="13905" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="117904" y="188238" z="-3752" heading="16371" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="116880" y="188928" z="-3736" heading="9767" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="116743" y="189037" z="-3752" heading="25768" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="118112" y="187936" z="-3752" heading="61394" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119136" y="187792" z="-3752" heading="58221" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="116128" y="189696" z="-3752" heading="58716" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="116224" y="189264" z="-3752" heading="4419" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="116512" y="188736" z="-3752" heading="50186" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="117750" y="187790" z="-3720" heading="37124" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="115984" y="189552" z="-3752" heading="9243" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="118160" y="187648" z="-3752" heading="61129" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="115768" y="189868" z="-3752" heading="22254" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="116286" y="188516" z="-3752" heading="33480" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="118604" y="187430" z="-3752" heading="19316" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="117728" y="187456" z="-3720" heading="46921" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="119360" y="187451" z="-3752" heading="24764" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="119504" y="187424" z="-3752" heading="24974" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="119360" y="187328" z="-3752" heading="39460" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="116309" y="188317" z="-3752" heading="47319" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119500" y="187177" z="-3752" heading="17105" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="117890" y="186960" z="-3752" heading="33131" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="119712" y="187120" z="-3752" heading="17924" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="117789" y="186917" z="-3752" heading="11233" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="118752" y="186816" z="-3736" heading="62572" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="119504" y="186928" z="-3736" heading="27481" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="120066" y="187150" z="-3752" heading="26381" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="118513" y="186641" z="-3720" heading="36553" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119488" y="186800" z="-3736" heading="32611" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="119968" y="187072" z="-3752" heading="52911" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="119296" y="186688" z="-3704" heading="45885" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="117575" y="186829" z="-3752" heading="53409" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="117078" y="187054" z="-3712" heading="46617" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="117414" y="186760" z="-3752" heading="54241" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="117842" y="186560" z="-3704" heading="34493" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="119520" y="186592" z="-3736" heading="61428" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="119600" y="186592" z="-3752" heading="35540" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="117057" y="186826" z="-3736" heading="38693" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="117596" y="186464" z="-3728" heading="34373" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="119563" y="186412" z="-3736" heading="33109" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="115879" y="188292" z="-3752" heading="44307" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="118371" y="185971" z="-3736" heading="57184" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="119221" y="185918" z="-3720" heading="32886" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="117445" y="186137" z="-3704" heading="54658" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="118214" y="185837" z="-3736" heading="38406" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="118610" y="185476" z="-3752" heading="4471" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="118296" y="185473" z="-3752" heading="59884" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="117757" y="185576" z="-3720" heading="12630" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="118136" y="185415" z="-3736" heading="26894" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="119136" y="185344" z="-3752" heading="33305" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="117801" y="185447" z="-3720" heading="7775" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="116738" y="186069" z="-3680" heading="45444" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="117600" y="185432" z="-3720" heading="14716" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="118772" y="185056" z="-3752" heading="34305" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="118665" y="184946" z="-3736" heading="22262" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="116877" y="185619" z="-3672" heading="36" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="119024" y="184800" z="-3752" heading="17561" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="119238" y="184662" z="-3752" heading="21421" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="118298" y="184707" z="-3720" heading="31022" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="118408" y="184656" z="-3720" heading="22919" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="117638" y="184926" z="-3752" heading="63827" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="117161" y="185220" z="-3704" heading="5249" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="116937" y="185439" z="-3672" heading="53590" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="117940" y="184463" z="-3736" heading="61607" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="117566" y="184424" z="-3752" heading="34671" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="118832" y="184144" z="-3752" heading="10667" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="118864" y="184064" z="-3752" heading="5269" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="117892" y="184208" z="-3736" heading="49173" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="117735" y="184275" z="-3752" heading="20886" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="117821" y="184195" z="-3752" heading="60926" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="118078" y="183909" z="-3736" heading="31063" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="116890" y="184823" z="-3712" heading="36348" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="117886" y="183811" z="-3752" heading="16224" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="117072" y="184304" z="-3752" heading="17126" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="117037" y="183679" z="-3720" heading="61069" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="118095" y="183071" z="-3752" heading="7133" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="117997" y="183051" z="-3752" heading="52768" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="118078" y="182968" z="-3736" heading="45423" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="120512" y="183408" z="-3320" heading="39707" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="120656" y="183232" z="-3320" heading="3814" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="121781" y="184206" z="-3288" heading="48040" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="120384" y="182960" z="-3288" heading="43832" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="121600" y="183568" z="-3320" heading="20256" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="122080" y="184240" z="-3304" heading="22372" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="121776" y="183568" z="-3336" heading="32462" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="122240" y="184384" z="-3304" heading="38047" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="122432" y="184464" z="-3304" heading="12247" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="120944" y="182704" z="-3288" heading="11960" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="120848" y="182640" z="-3304" heading="52893" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="120832" y="182608" z="-3312" heading="60201" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="121264" y="182752" z="-3288" heading="24113" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="120149" y="182484" z="-3288" heading="35234" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="121136" y="182688" z="-3272" heading="62152" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="122096" y="182880" z="-3272" heading="3643" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="122758" y="184014" z="-3288" heading="11560" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="122736" y="183952" z="-3288" heading="15217" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="121952" y="182800" z="-3272" heading="3491" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="122528" y="183120" z="-3320" heading="13149" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="120838" y="182374" z="-3336" heading="38523" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="121381" y="182300" z="-3304" heading="37007" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="123136" y="183520" z="-3320" heading="5361" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="122272" y="182604" z="-3312" heading="29752" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="122441" y="182598" z="-3312" heading="12089" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="122891" y="182888" z="-3304" heading="35200" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="122914" y="182879" z="-3304" heading="37424" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="122265" y="182386" z="-3320" heading="49471" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="123320" y="182683" z="-3304" heading="58932" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="123044" y="182408" z="-3336" heading="60434" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="123925" y="183234" z="-3336" heading="58850" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="123941" y="183233" z="-3336" heading="26564" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="121085" y="182234" z="-3336" heading="26671" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="121632" y="182128" z="-3272" heading="9151" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="120841" y="182076" z="-3336" heading="17851" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="121652" y="181908" z="-3272" heading="60375" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="121056" y="181964" z="-3304" heading="47698" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="121678" y="181827" z="-3304" heading="11704" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="120813" y="181858" z="-3320" heading="58156" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="122688" y="181934" z="-3256" heading="29783" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="123825" y="182918" z="-3336" heading="21092" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="121879" y="181618" z="-3272" heading="33141" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="123139" y="182117" z="-3320" heading="23119" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="121885" y="181608" z="-3272" heading="10680" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="123410" y="182321" z="-3288" heading="49914" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="124038" y="183297" z="-3304" heading="14626" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="123274" y="182182" z="-3304" heading="59857" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="122948" y="181944" z="-3272" heading="49131" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="122652" y="181782" z="-3272" heading="36912" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="122033" y="181570" z="-3272" heading="56011" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="123323" y="182135" z="-3320" heading="62180" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="123741" y="182584" z="-3312" heading="26921" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="121482" y="181479" z="-3336" heading="30676" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="121910" y="181474" z="-3288" heading="62599" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="121192" y="181396" z="-3288" heading="28399" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="122146" y="181359" z="-3320" heading="2414" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="121205" y="181302" z="-3320" heading="59346" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="123437" y="181974" z="-3320" heading="42718" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="120480" y="181338" z="-3336" heading="20591" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="122806" y="181400" z="-3320" heading="19452" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="123456" y="181808" z="-3304" heading="61934" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="124126" y="182770" z="-3320" heading="2727" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="120955" y="180855" z="-3320" heading="61952" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="122599" y="181105" z="-3336" heading="39993" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="122062" y="180871" z="-3304" heading="42991" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="119979" y="181196" z="-3272" heading="38484" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="120138" y="181033" z="-3272" heading="25027" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="120979" y="180705" z="-3304" heading="40026" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="120268" y="180815" z="-3272" heading="22890" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="120011" y="180956" z="-3272" heading="46819" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="122887" y="180777" z="-3336" heading="61843" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="120016" y="180751" z="-3272" heading="14500" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22197" x="121659" y="178283" z="-3720" heading="12685" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="121704" y="177926" z="-3728" heading="31687" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="121385" y="178466" z="-3736" heading="4815" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="121571" y="178045" z="-3752" heading="26384" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="121378" y="178331" z="-3752" heading="20509" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="121182" y="178473" z="-3752" heading="27738" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="121554" y="177440" z="-3736" heading="52372" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22194" x="121216" y="178079" z="-3752" heading="7737" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="121049" y="178569" z="-3752" heading="55942" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="121650" y="177070" z="-3736" heading="30302" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="121039" y="178152" z="-3736" heading="3057" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="121663" y="177018" z="-3736" heading="6929" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="120966" y="178234" z="-3752" heading="17840" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="121721" y="176638" z="-3752" heading="51201" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="120967" y="177350" z="-3720" heading="52333" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="120918" y="177348" z="-3704" heading="9478" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="121957" y="176210" z="-3752" heading="26680" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="120838" y="176974" z="-3704" heading="15948" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="120781" y="177195" z="-3720" heading="12002" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="123133" y="176085" z="-3712" heading="29935" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="120595" y="178286" z="-3752" heading="57971" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="120525" y="178245" z="-3752" heading="53620" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="120804" y="176804" z="-3704" heading="15431" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="120490" y="177538" z="-3728" heading="25325" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="120545" y="177310" z="-3736" heading="14077" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="120526" y="177238" z="-3752" heading="41626" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="120792" y="176676" z="-3704" heading="55285" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="120652" y="176867" z="-3704" heading="3898" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="121056" y="176292" z="-3752" heading="4378" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="121572" y="175938" z="-3752" heading="21003" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="120468" y="177089" z="-3752" heading="34948" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="120424" y="177101" z="-3752" heading="33299" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="122513" y="175647" z="-3752" heading="32771" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="123105" y="175671" z="-3752" heading="51585" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="121111" y="176061" z="-3752" heading="55396" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="122926" y="175562" z="-3752" heading="59403" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="120592" y="176545" z="-3736" heading="25548" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="121842" y="175633" z="-3720" heading="29454" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="120116" y="178101" z="-3752" heading="8074" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="122236" y="175502" z="-3720" heading="42669" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="121186" y="175789" z="-3728" heading="45181" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="121399" y="175665" z="-3736" heading="15817" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="120113" y="178818" z="-3736" heading="15329" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="122041" y="175423" z="-3688" heading="44310" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="121639" y="175531" z="-3704" heading="61155" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="119914" y="178048" z="-3752" heading="15216" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="120155" y="176854" z="-3752" heading="37403" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="120237" y="176631" z="-3752" heading="49273" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="123011" y="175265" z="-3752" heading="4874" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="122202" y="175242" z="-3704" heading="52993" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="119884" y="178766" z="-3736" heading="32018" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="121231" y="175452" z="-3704" heading="43872" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="119678" y="178331" z="-3744" heading="52151" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="119649" y="177463" z="-3752" heading="19023" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="120090" y="176171" z="-3752" heading="2048" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="119715" y="178939" z="-3720" heading="40269" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="119450" y="178318" z="-3688" heading="21296" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="119760" y="179063" z="-3704" heading="12303" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="119371" y="178275" z="-3672" heading="14037" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="119694" y="179084" z="-3688" heading="22834" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="119289" y="177760" z="-3688" heading="4658" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="119457" y="176848" z="-3752" heading="9001" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="119426" y="176744" z="-3752" heading="56904" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="119221" y="177993" z="-3672" heading="49760" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="119185" y="177595" z="-3720" heading="44676" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="121350" y="175151" z="-3720" heading="44222" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="119122" y="177757" z="-3688" heading="53608" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="122103" y="175092" z="-3720" heading="56949" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="119273" y="176747" z="-3752" heading="2409" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="119084" y="178034" z="-3672" heading="58997" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="119444" y="176286" z="-3680" heading="55964" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="119236" y="176554" z="-3736" heading="52066" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="120312" y="175264" z="-3544" heading="17524" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="119082" y="176746" z="-3720" heading="49265" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="120757" y="175048" z="-3720" heading="16262" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="120554" y="175008" z="-3688" heading="12598" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="120046" y="175261" z="-3544" heading="16491" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="121426" y="174841" z="-3752" heading="16304" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="118785" y="177373" z="-3752" heading="47413" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="118968" y="176277" z="-3656" heading="6830" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="119034" y="176027" z="-3512" heading="1472" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="120569" y="174759" z="-3704" heading="21484" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="120505" y="174742" z="-3704" heading="18626" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="121543" y="174472" z="-3752" heading="59998" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="121889" y="174571" z="-3720" heading="15862" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="120391" y="174464" z="-3752" heading="47117" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="118974" y="175448" z="-3624" heading="1814" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="119249" y="174922" z="-3592" heading="53253" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="120523" y="174227" z="-3752" heading="17356" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="120525" y="174215" z="-3752" heading="22125" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="119190" y="174914" z="-3608" heading="15735" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="119627" y="174546" z="-3608" heading="19191" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="119556" y="174453" z="-3616" heading="10397" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="119586" y="174111" z="-3672" heading="30777" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22194" x="118773" y="177180" z="-3752" heading="41367" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="118724" y="176085" z="-3704" heading="16835" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="118558" y="177226" z="-3752" heading="19544" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="118446" y="176413" z="-3736" heading="50377" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="118430" y="177026" z="-3736" heading="11254" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="118614" y="175618" z="-3688" heading="26515" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="118356" y="176537" z="-3736" heading="19848" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="118611" y="177779" z="-3752" heading="44844" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="118582" y="175411" z="-3704" heading="27505" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="118220" y="176818" z="-3720" heading="19308" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="118775" y="178221" z="-3688" heading="49183" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="118159" y="176849" z="-3720" heading="48813" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="118056" y="176275" z="-3752" heading="58017" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="118458" y="175096" z="-3736" heading="6117" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="118265" y="177571" z="-3736" heading="43178" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="118016" y="176085" z="-3728" heading="25978" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="118886" y="174519" z="-3736" heading="52980" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="118102" y="175550" z="-3704" heading="60577" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="119390" y="174169" z="-3624" heading="47365" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="119322" y="174198" z="-3624" heading="46797" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="118158" y="175316" z="-3704" heading="10679" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="117716" y="176491" z="-3752" heading="27774" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="117715" y="177252" z="-3704" heading="24734" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="118193" y="178110" z="-3752" heading="6972" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="117829" y="176099" z="-3736" heading="50219" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="118440" y="178619" z="-3736" heading="3212" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="118047" y="178168" z="-3752" heading="14514" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="118203" y="178402" z="-3768" heading="28600" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="117698" y="177471" z="-3720" heading="26879" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="117595" y="176180" z="-3752" heading="1399" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="118141" y="175062" z="-3704" heading="53084" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="118496" y="178828" z="-3736" heading="44185" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="117484" y="176582" z="-3752" heading="33419" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="118196" y="178699" z="-3752" heading="39858" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="117762" y="178115" z="-3736" heading="58857" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="117390" y="176769" z="-3752" heading="9321" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="117325" y="176800" z="-3752" heading="4053" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="117312" y="176933" z="-3752" heading="39864" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="117417" y="177663" z="-3752" heading="44039" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="117749" y="175303" z="-3736" heading="42479" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="117344" y="176070" z="-3752" heading="38274" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="117365" y="177863" z="-3720" heading="54047" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="117119" y="176982" z="-3752" heading="43047" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="117436" y="178167" z="-3720" heading="41416" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="117250" y="177760" z="-3736" heading="13616" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="117172" y="177891" z="-3720" heading="18394" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="116833" y="176716" z="-3752" heading="12215" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="117236" y="175555" z="-3752" heading="28762" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="116884" y="176318" z="-3752" heading="55029" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="117073" y="175724" z="-3752" heading="60160" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="117595" y="175050" z="-3752" heading="59490" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="118059" y="174636" z="-3720" heading="20051" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="117327" y="175122" z="-3752" heading="20382" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="116945" y="175535" z="-3752" heading="10572" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="116776" y="175813" z="-3752" heading="17908" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="117256" y="175062" z="-3752" heading="48459" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="117228" y="175042" z="-3752" heading="26355" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="116617" y="177019" z="-3704" heading="39795" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="116469" y="176702" z="-3736" heading="4926" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="116711" y="175841" z="-3752" heading="39703" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="116546" y="175628" z="-3736" heading="41470" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="116119" y="176544" z="-3752" heading="29033" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="116075" y="177012" z="-3704" heading="41118" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="116200" y="176080" z="-3752" heading="48122" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="116454" y="175554" z="-3704" heading="12023" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="116636" y="175295" z="-3752" heading="24027" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="115939" y="177207" z="-3696" heading="26937" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="117471" y="174537" z="-3752" heading="49892" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="115633" y="176601" z="-3752" heading="6203" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="116207" y="175256" z="-3672" heading="37316" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="115806" y="175494" z="-3688" heading="13447" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="116329" y="174912" z="-3720" heading="56948" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="116953" y="174536" z="-3752" heading="26736" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="115326" y="176395" z="-3752" heading="59787" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="117787" y="174234" z="-3752" heading="19111" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22194" x="115254" y="176509" z="-3752" heading="17644" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="115969" y="175026" z="-3688" heading="25778" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="118246" y="174089" z="-3752" heading="8712" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="116800" y="174344" z="-3752" heading="38712" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="118638" y="174119" z="-3752" heading="9185" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="115413" y="175686" z="-3720" heading="60354" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="116430" y="174378" z="-3752" heading="24497" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="116295" y="174333" z="-3752" heading="1555" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="116529" y="174107" z="-3704" heading="49972" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="115685" y="175081" z="-3688" heading="4231" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="115520" y="175318" z="-3656" heading="54889" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="118255" y="174061" z="-3752" heading="8457" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="118863" y="174072" z="-3720" heading="11317" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="118943" y="174052" z="-3688" heading="20906" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="117957" y="173671" z="-3688" heading="2947" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="118650" y="173436" z="-3688" heading="27812" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="120205" y="173875" z="-3752" heading="18454" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="119778" y="173572" z="-3752" heading="8338" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="119930" y="173632" z="-3752" heading="34510" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="118324" y="173204" z="-3752" heading="32098" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="119745" y="173521" z="-3752" heading="48425" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="120266" y="173783" z="-3752" heading="847" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="120269" y="173673" z="-3752" heading="25474" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="120690" y="173980" z="-3752" heading="41597" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="119892" y="173350" z="-3752" heading="35792" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="119534" y="173179" z="-3688" heading="25725" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="118538" y="173024" z="-3736" heading="14064" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="119930" y="173321" z="-3752" heading="12576" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="119683" y="173201" z="-3736" heading="6486" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="118157" y="173040" z="-3752" heading="57121" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="116717" y="173695" z="-3576" heading="31053" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="116161" y="174187" z="-3736" heading="47086" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="116032" y="174327" z="-3752" heading="47552" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="116514" y="173683" z="-3624" heading="16454" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="116245" y="173689" z="-3656" heading="63232" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="115751" y="174237" z="-3752" heading="35404" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="115464" y="174790" z="-3736" heading="46446" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="115481" y="174729" z="-3736" heading="34400" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="118139" y="172909" z="-3752" heading="43026" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="115904" y="173844" z="-3736" heading="40131" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="115753" y="174001" z="-3752" heading="36055" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="115466" y="174439" z="-3752" heading="6248" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="115593" y="174138" z="-3768" heading="27850" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="116497" y="173234" z="-3656" heading="37118" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="115295" y="174461" z="-3752" heading="4222" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="115070" y="175805" z="-3736" heading="1771" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="115048" y="175532" z="-3688" heading="22680" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="116040" y="173472" z="-3696" heading="8130" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="115280" y="174354" z="-3752" heading="43275" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="116745" y="173038" z="-3632" heading="3438" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="114954" y="176049" z="-3752" heading="23208" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="114940" y="175979" z="-3736" heading="36660" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="114901" y="175564" z="-3688" heading="59" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="115450" y="173639" z="-3768" heading="7634" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="115554" y="173420" z="-3752" heading="11337" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="116615" y="172859" z="-3688" heading="16562" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="114760" y="174508" z="-3736" heading="25367" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="115911" y="173012" z="-3752" heading="52488" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="116828" y="172694" z="-3640" heading="20097" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="115887" y="172910" z="-3752" heading="24740" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="114703" y="174119" z="-3752" heading="41837" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="115147" y="173378" z="-3752" heading="13179" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="115059" y="173454" z="-3752" heading="49441" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="115260" y="173208" z="-3752" heading="31838" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="114585" y="175131" z="-3688" heading="10539" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="114359" y="174530" z="-3704" heading="34346" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="114278" y="174516" z="-3704" heading="38384" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="114233" y="174599" z="-3688" heading="14248" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="114093" y="174995" z="-3720" heading="37123" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="114664" y="173433" z="-3752" heading="23295" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="115570" y="172797" z="-3752" heading="27215" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="114745" y="173324" z="-3752" heading="30509" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="114458" y="173643" z="-3752" heading="57394" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="115888" y="172643" z="-3752" heading="15674" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="115513" y="172704" z="-3752" heading="41158" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="114948" y="172964" z="-3752" heading="17159" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="114759" y="173101" z="-3720" heading="34759" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="114336" y="173480" z="-3736" heading="42719" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="113881" y="174301" z="-3736" heading="36088" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="114512" y="173230" z="-3752" heading="20264" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="113885" y="174070" z="-3704" heading="35655" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="114499" y="173110" z="-3736" heading="61828" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="113638" y="174382" z="-3752" heading="1158" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="115696" y="172382" z="-3720" heading="10923" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="113662" y="174121" z="-3736" heading="5766" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="115780" y="172335" z="-3736" heading="13107" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="113520" y="174478" z="-3752" heading="18520" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="114175" y="173059" z="-3752" heading="8504" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="113479" y="175020" z="-3736" heading="1981" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="114724" y="172584" z="-3736" heading="3904" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="116010" y="172203" z="-3752" heading="54047" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="114199" y="172845" z="-3752" heading="54556" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="113361" y="174551" z="-3752" heading="13753" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="113337" y="175175" z="-3720" heading="15524" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="113577" y="173551" z="-3720" heading="45897" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="113440" y="173635" z="-3720" heading="49026" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="115068" y="172052" z="-3752" heading="58505" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="113190" y="173787" z="-3752" heading="18550" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="113072" y="174647" z="-3736" heading="27659" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="114182" y="172295" z="-3736" heading="9852" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="113107" y="173567" z="-3752" heading="30724" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="113336" y="173033" z="-3752" heading="58245" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="113871" y="172340" z="-3704" heading="23117" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="112929" y="173930" z="-3752" heading="51892" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="112894" y="174667" z="-3736" heading="46227" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="113058" y="173311" z="-3752" heading="20155" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="112961" y="172979" z="-3752" heading="61078" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="112842" y="172757" z="-3752" heading="42635" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="113246" y="172189" z="-3752" heading="12054" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="112608" y="173145" z="-3752" heading="14501" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="112245" y="173873" z="-3752" heading="1117" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="112961" y="172395" z="-3752" heading="554" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="113016" y="172346" z="-3752" heading="2157" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="112970" y="172213" z="-3752" heading="11469" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="112352" y="172912" z="-3752" heading="40526" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="111997" y="173756" z="-3736" heading="58378" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="112019" y="173228" z="-3736" heading="30857" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="112656" y="172236" z="-3752" heading="7316" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="111752" y="173815" z="-3720" heading="61698" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="111787" y="173055" z="-3752" heading="40348" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="111590" y="173723" z="-3752" heading="34595" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="111642" y="173404" z="-3720" heading="3955" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="112222" y="172253" z="-3752" heading="53217" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="112059" y="172414" z="-3752" heading="18964" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="111734" y="173681" z="-3720" heading="60597" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="112164" y="172571" z="-3752" heading="19760" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="114113" y="171727" z="-3752" heading="456" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="115372" y="171936" z="-3720" heading="60298" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="114816" y="171578" z="-3752" heading="8721" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="114764" y="171515" z="-3752" heading="42387" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="115613" y="171881" z="-3736" heading="8077" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="115086" y="171514" z="-3752" heading="9202" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="112586" y="171738" z="-3736" heading="39653" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="115651" y="171796" z="-3736" heading="43306" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="112088" y="172028" z="-3752" heading="18904" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="111779" y="172370" z="-3752" heading="1179" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="114348" y="171959" z="-3752" heading="54191" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="114659" y="172011" z="-3752" heading="40451" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="114049" y="171132" z="-3688" heading="58840" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="114095" y="171106" z="-3688" heading="24117" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="111644" y="172478" z="-3768" heading="50757" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="111196" y="173508" z="-3752" heading="14047" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="111169" y="173934" z="-3736" heading="13062" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="111172" y="172953" z="-3752" heading="24054" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="112336" y="171408" z="-3688" heading="41969" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="110900" y="173548" z="-3752" heading="19272" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="111003" y="172745" z="-3752" heading="45208" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="111219" y="172269" z="-3752" heading="39814" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="112432" y="171152" z="-3544" heading="56604" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="112016" y="171360" z="-3744" heading="3071" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="111984" y="171360" z="-3720" heading="34513" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="111344" y="171952" z="-3752" heading="3505" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="111043" y="172270" z="-3752" heading="59756" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="110732" y="173325" z="-3752" heading="17047" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="111856" y="171248" z="-3720" heading="15141" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="110728" y="173523" z="-3728" heading="59147" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="111248" y="171744" z="-3752" heading="19496" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="111808" y="171088" z="-3664" heading="62030" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="110722" y="172300" z="-3704" heading="38654" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="111296" y="171440" z="-3736" heading="5650" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="110865" y="171992" z="-3736" heading="4374" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="111280" y="171428" z="-3736" heading="2676" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="111008" y="171552" z="-3752" heading="59354" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="110807" y="171474" z="-3752" heading="16780" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="110416" y="171056" z="-3736" heading="19462" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="110192" y="171296" z="-3752" heading="15673" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="110176" y="171248" z="-3752" heading="55353" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="110224" y="171152" z="-3752" heading="48578" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="109591" y="172138" z="-3752" heading="33340" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="109546" y="172344" z="-3752" heading="40908" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="109559" y="172041" z="-3752" heading="18452" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="110144" y="170960" z="-3752" heading="41132" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="110880" y="170992" z="-3656" heading="4491" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="109648" y="171648" z="-3752" heading="17191" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="109404" y="172064" z="-3752" heading="6312" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="109335" y="172658" z="-3752" heading="18228" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="109696" y="171120" z="-3752" heading="5961" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="109222" y="172923" z="-3752" heading="16273" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="109174" y="172854" z="-3752" heading="36506" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="109107" y="172931" z="-3752" heading="33314" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="109023" y="171953" z="-3752" heading="23462" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="109024" y="171600" z="-3752" heading="4555" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="108847" y="172053" z="-3752" heading="32857" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="108950" y="173358" z="-3752" heading="21008" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="108667" y="172480" z="-3752" heading="45240" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="108754" y="173318" z="-3736" heading="51117" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="108665" y="171792" z="-3737" heading="56715" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="108704" y="171584" z="-3752" heading="56989" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="108556" y="172354" z="-3752" heading="7780" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="108387" y="172520" z="-3752" heading="24224" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="108314" y="172350" z="-3752" heading="5594" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="108486" y="173392" z="-3720" heading="20021" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="108488" y="173738" z="-3688" heading="53807" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="107996" y="172346" z="-3736" heading="45829" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="107945" y="172447" z="-3752" heading="43537" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="107944" y="172014" z="-3704" heading="46770" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="108762" y="174274" z="-3688" heading="53911" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="107972" y="171781" z="-3680" heading="32081" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="107953" y="172821" z="-3752" heading="37155" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="108143" y="173554" z="-3704" heading="35088" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="108419" y="174029" z="-3688" heading="46821" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="108388" y="174070" z="-3688" heading="4178" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="108849" y="174537" z="-3704" heading="11657" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="107893" y="173529" z="-3704" heading="12112" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="107594" y="172510" z="-3720" heading="49286" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="107695" y="173197" z="-3720" heading="48961" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="109928" y="169307" z="-3288" heading="12747" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="108848" y="169408" z="-3328" heading="3045" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="110192" y="169072" z="-3272" heading="20575" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="109936" y="169056" z="-3280" heading="34703" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="111296" y="169248" z="-3304" heading="39071" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="111120" y="169162" z="-3304" heading="37216" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="110992" y="169072" z="-3320" heading="20190" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="109008" y="169216" z="-3304" heading="27622" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="110960" y="168880" z="-3336" heading="29322" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="109632" y="168896" z="-3320" heading="41673" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="111056" y="168784" z="-3320" heading="7540" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="111504" y="168928" z="-3336" heading="21883" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="110864" y="168688" z="-3304" heading="4914" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="111328" y="168784" z="-3352" heading="55962" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="109876" y="168351" z="-3336" heading="46564" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="111056" y="168400" z="-3336" heading="3864" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="112192" y="169040" z="-3320" heading="55248" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="108432" y="168976" z="-3320" heading="419" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="110275" y="168630" z="-3297" heading="50656" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="108896" y="169072" z="-3336" heading="27464" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="109472" y="168720" z="-3336" heading="18135" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="108544" y="169296" z="-3304" heading="41225" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="109648" y="168624" z="-3336" heading="60228" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="110080" y="168464" z="-3320" heading="23468" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="111856" y="168864" z="-3336" heading="53067" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="109867" y="168397" z="-3336" heading="13376" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="109444" y="168475" z="-3352" heading="43136" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="108591" y="168621" z="-3320" heading="29310" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="110816" y="168192" z="-3336" heading="18056" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="110032" y="168016" z="-3336" heading="53350" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="111408" y="168384" z="-3352" heading="46834" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="108368" y="168576" z="-3320" heading="7369" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="108544" y="168368" z="-3320" heading="43674" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="111872" y="168544" z="-3352" heading="61754" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="111840" y="168512" z="-3352" heading="52880" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="111600" y="168224" z="-3352" heading="45891" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="111488" y="168112" z="-3336" heading="2700" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="108448" y="168020" z="-3320" heading="3008" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="108368" y="167968" z="-3304" heading="54994" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="108585" y="167878" z="-3320" heading="12808" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="110000" y="167776" z="-3336" heading="21306" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="108944" y="167600" z="-3320" heading="15174" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="110272" y="167792" z="-3336" heading="63663" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="110560" y="167920" z="-3336" heading="25183" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="108336" y="167680" z="-3320" heading="52793" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="108665" y="167551" z="-3320" heading="22107" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="110896" y="167856" z="-3352" heading="57022" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="110448" y="167520" z="-3336" heading="13380" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="110816" y="167568" z="-3336" heading="49313" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="111088" y="167600" z="-3336" heading="47864" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="111456" y="167984" z="-3336" heading="1976" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="111488" y="167744" z="-3336" heading="52841" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="111520" y="167456" z="-3320" heading="63844" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="111744" y="167680" z="-3304" heading="12509" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="111952" y="168176" z="-3320" heading="1481" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="111968" y="167488" z="-3320" heading="57784" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="112544" y="168080" z="-3288" heading="35059" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="112450" y="167314" z="-3352" heading="14298" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="112640" y="168192" z="-3272" heading="23665" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="112704" y="168288" z="-3272" heading="11912" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="112752" y="168544" z="-3288" heading="34081" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="112944" y="168016" z="-3288" heading="8998" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="112800" y="167360" z="-3352" heading="36901" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22194" x="112928" y="168944" z="-3272" heading="3766" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="112800" y="167216" z="-3352" heading="54663" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="113072" y="167536" z="-3320" heading="23153" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="113168" y="167744" z="-3336" heading="55329" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="113120" y="167520" z="-3320" heading="63372" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="113104" y="167360" z="-3304" heading="55955" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="113244" y="168844" z="-3320" heading="51609" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="113488" y="168160" z="-3320" heading="28022" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="113680" y="167680" z="-3352" heading="49073" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="113824" y="168336" z="-3336" heading="46753" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="113824" y="167616" z="-3336" heading="34390" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="113872" y="167856" z="-3336" heading="62823" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="113947" y="168113" z="-3320" heading="8252" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="113952" y="168160" z="-3320" heading="7794" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="114016" y="168368" z="-3336" heading="47864" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22194" x="114125" y="168614" z="-3336" heading="21982" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="114112" y="168752" z="-3336" heading="43170" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="114094" y="167352" z="-3320" heading="30941" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="114240" y="168322" z="-3304" heading="31076" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="114304" y="168673" z="-3320" heading="30847" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="114328" y="169176" z="-3320" heading="58754" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="114717" y="168480" z="-3288" heading="7712" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="114788" y="168120" z="-3288" heading="41196" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="114836" y="168267" z="-3288" heading="38901" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="114904" y="167731" z="-3288" heading="2789" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="115120" y="168644" z="-3328" heading="58828" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="115296" y="168257" z="-3320" heading="8844" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="115308" y="167576" z="-3224" heading="30152" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="115336" y="168435" z="-3336" heading="47552" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="115123" y="169176" z="-3336" heading="30346" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="115278" y="168841" z="-3352" heading="58884" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="115248" y="168933" z="-3352" heading="303" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="115469" y="168569" z="-3352" heading="30499" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="115447" y="169208" z="-3320" heading="8923" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="115469" y="169278" z="-3304" heading="52481" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="115631" y="169107" z="-3304" heading="57944" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="115822" y="168864" z="-3336" heading="25540" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="115863" y="169113" z="-3304" heading="37867" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="116219" y="169082" z="-3336" heading="58080" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="116454" y="168894" z="-3352" heading="9739" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="116514" y="169059" z="-3352" heading="55256" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="116532" y="169128" z="-3352" heading="31365" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="116813" y="168707" z="-3320" heading="38446" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="116975" y="168592" z="-3304" heading="40166" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="117038" y="168486" z="-3304" heading="15830" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="117094" y="168644" z="-3304" heading="23810" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="117059" y="169073" z="-3352" heading="23649" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="117009" y="167388" z="-3304" heading="44731" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="117083" y="169618" z="-3336" heading="42602" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="117020" y="169816" z="-3352" heading="25346" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="117283" y="167782" z="-3352" heading="17382" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="117383" y="168868" z="-3352" heading="46111" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="117249" y="169525" z="-3352" heading="21255" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="117481" y="168710" z="-3352" heading="34312" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="117308" y="167538" z="-3320" heading="5411" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="117421" y="167777" z="-3352" heading="45676" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="117371" y="169497" z="-3352" heading="49375" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="117487" y="167911" z="-3352" heading="16312" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="117460" y="167643" z="-3336" heading="4107" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="117201" y="169979" z="-3352" heading="27081" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="117708" y="168973" z="-3352" heading="50214" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="117592" y="167544" z="-3336" heading="44533" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="117730" y="169074" z="-3352" heading="24022" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="117737" y="169135" z="-3336" heading="42133" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="117731" y="169256" z="-3328" heading="6050" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="117959" y="168451" z="-3336" heading="4832" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="117751" y="169613" z="-3304" heading="17954" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="117936" y="167707" z="-3352" heading="53913" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="118025" y="169063" z="-3320" heading="11169" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="118191" y="168442" z="-3320" heading="57251" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="117957" y="167279" z="-3336" heading="17239" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="118378" y="168655" z="-3304" heading="33340" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="118359" y="168076" z="-3352" heading="43596" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="118445" y="168205" z="-3336" heading="29355" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="118451" y="168199" z="-3336" heading="35120" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="118432" y="168940" z="-3288" heading="55694" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="118352" y="167618" z="-3336" heading="23744" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="118394" y="167475" z="-3336" heading="18179" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="118578" y="167618" z="-3320" heading="54596" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="118697" y="169090" z="-3272" heading="48519" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="118745" y="168021" z="-3320" heading="2553" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="118903" y="168147" z="-3304" heading="16833" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="118978" y="168169" z="-3304" heading="53411" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="119024" y="168145" z="-3304" heading="52213" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="118831" y="167450" z="-3320" heading="42488" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="119129" y="168329" z="-3336" heading="30701" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="119122" y="168747" z="-3320" heading="1542" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="119166" y="167985" z="-3304" heading="16501" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="119082" y="167615" z="-3304" heading="10525" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="119064" y="167312" z="-3304" heading="34047" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="119286" y="169014" z="-3320" heading="32994" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="119705" y="167706" z="-3336" heading="40855" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="119790" y="168211" z="-3352" heading="47240" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="120008" y="168310" z="-3352" heading="13990" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="119961" y="167764" z="-3336" heading="55264" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="120056" y="167651" z="-3336" heading="15696" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="120768" y="168256" z="-3336" heading="20415" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="120521" y="168276" z="-3352" heading="21077" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="120554" y="168119" z="-3352" heading="54975" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="121440" y="168320" z="-3288" heading="6667" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="121516" y="167768" z="-3320" heading="57388" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="121456" y="168752" z="-3328" heading="23044" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="121600" y="168032" z="-3336" heading="3969" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="121600" y="168288" z="-3304" heading="9762" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="121607" y="167889" z="-3336" heading="2361" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="121680" y="167856" z="-3336" heading="32340" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="120896" y="167648" z="-3296" heading="49294" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="121056" y="167904" z="-3320" heading="26073" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="121792" y="168320" z="-3304" heading="35650" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="121776" y="168480" z="-3304" heading="38179" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="121872" y="168272" z="-3320" heading="5176" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="121744" y="168912" z="-3336" heading="47503" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="121904" y="167904" z="-3336" heading="33736" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="121888" y="167712" z="-3320" heading="31333" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="121984" y="168016" z="-3336" heading="62769" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="121984" y="168528" z="-3320" heading="33511" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="122128" y="168464" z="-3320" heading="45768" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="122191" y="168473" z="-3320" heading="62800" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="122448" y="168288" z="-3336" heading="35093" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="122832" y="168624" z="-3352" heading="7647" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="122656" y="169232" z="-3304" heading="61970" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="120576" y="170768" z="-3752" heading="12706" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="121048" y="170736" z="-3752" heading="48604" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="121136" y="170784" z="-3752" heading="25656" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="120000" y="170896" z="-3736" heading="5742" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="120480" y="171024" z="-3752" heading="6440" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="123344" y="168224" z="-3336" heading="43570" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="123248" y="169152" z="-3320" heading="25471" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="123360" y="168608" z="-3352" heading="24455" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="123328" y="168992" z="-3320" heading="23799" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="123264" y="169264" z="-3304" heading="19698" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="123584" y="168592" z="-3320" heading="24484" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="122928" y="168528" z="-3352" heading="17835" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="122960" y="168912" z="-3336" heading="22459" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="123069" y="168426" z="-3336" heading="52736" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="123136" y="168032" z="-3320" heading="49069" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="123168" y="169232" z="-3320" heading="45159" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="123776" y="168736" z="-3320" heading="53136" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="123872" y="169024" z="-3304" heading="32197" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="123968" y="168560" z="-3320" heading="33775" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="124016" y="168656" z="-3320" heading="3481" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="124240" y="168336" z="-3368" heading="23855" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="124272" y="168448" z="-3352" heading="39648" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="124288" y="168800" z="-3376" heading="33740" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22194" x="121104" y="171280" z="-3720" heading="43430" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="124544" y="168880" z="-3448" heading="4115" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="124544" y="169136" z="-3448" heading="33607" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="124592" y="169040" z="-3464" heading="19027" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="125040" y="168896" z="-3544" heading="21355" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="125008" y="169488" z="-3552" heading="18820" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="125120" y="169408" z="-3560" heading="47882" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="125188" y="169386" z="-3544" heading="1071" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="125344" y="168960" z="-3528" heading="18422" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="120560" y="171280" z="-3752" heading="9345" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="107669" y="173432" z="-3704" heading="51326" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="107649" y="173887" z="-3688" heading="34370" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="107876" y="174052" z="-3672" heading="18115" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="107818" y="174082" z="-3672" heading="54672" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="108005" y="174305" z="-3672" heading="40366" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="107487" y="174224" z="-3704" heading="24546" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="107428" y="174231" z="-3704" heading="39763" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="108141" y="174739" z="-3736" heading="2259" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="108155" y="174789" z="-3736" heading="48938" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="107151" y="174436" z="-3704" heading="40036" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="106979" y="174446" z="-3752" heading="53541" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="107594" y="174859" z="-3672" heading="54728" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="108698" y="175187" z="-3704" heading="10860" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="107786" y="175104" z="-3736" heading="7967" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="108838" y="175204" z="-3720" heading="26984" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="107909" y="174798" z="-3728" heading="53831" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="108326" y="175263" z="-3744" heading="47803" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="107652" y="175449" z="-3736" heading="40884" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="108540" y="175709" z="-3752" heading="18640" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22195" x="107793" y="175674" z="-3752" heading="62887" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="106992" y="175275" z="-3656" heading="40849" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="107212" y="175433" z="-3656" heading="27260" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="107502" y="175599" z="-3720" heading="47067" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="106265" y="175089" z="-3752" heading="41522" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="106429" y="175284" z="-3736" heading="7625" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="107769" y="175988" z="-3752" heading="60643" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="108453" y="176025" z="-3752" heading="49008" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="109254" y="175861" z="-3736" heading="61044" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="108393" y="176086" z="-3752" heading="13425" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="105999" y="174863" z="-3752" heading="30027" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="106689" y="175602" z="-3688" heading="59029" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="106168" y="175120" z="-3752" heading="32575" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="108887" y="176113" z="-3752" heading="63896" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="109178" y="176074" z="-3752" heading="14894" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="106929" y="175356" z="-3656" heading="40108" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="106704" y="175326" z="-3688" heading="24646" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="106915" y="175540" z="-3656" heading="48299" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22199" x="108199" y="175935" z="-3752" heading="58595" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="108707" y="175934" z="-3752" heading="42247" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="109595" y="175888" z="-3720" heading="13431" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="106432" y="175589" z="-3736" heading="62368" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="106253" y="175454" z="-3752" heading="6128" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="105788" y="174848" z="-3736" heading="59399" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="105781" y="174890" z="-3736" heading="60130" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="105670" y="174673" z="-3704" heading="22058" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="105895" y="175493" z="-3752" heading="55026" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="105533" y="175233" z="-3752" heading="56271" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="105451" y="175089" z="-3728" heading="27337" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22194" x="108351" y="176169" z="-3752" heading="26024" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="107524" y="176279" z="-3752" heading="2639" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="108509" y="176211" z="-3752" heading="43358" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="107325" y="176362" z="-3720" heading="34506" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="106855" y="176288" z="-3704" heading="20660" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="107553" y="176486" z="-3752" heading="14709" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="106675" y="176320" z="-3720" heading="1355" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="107237" y="176530" z="-3704" heading="4664" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22199" x="106563" y="176309" z="-3736" heading="7985" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="108114" y="176634" z="-3768" heading="12448" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22196" x="106738" y="176488" z="-3720" heading="3815" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="109159" y="176243" z="-3752" heading="34723" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="105680" y="175858" z="-3752" heading="55770" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="107300" y="176846" z="-3736" heading="62261" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="106496" y="176599" z="-3736" heading="28494" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="106844" y="176766" z="-3720" heading="18140" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="107802" y="176979" z="-3752" heading="22660" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="108381" y="176897" z="-3752" heading="61457" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22194" x="105772" y="176215" z="-3728" heading="53162" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22195" x="105912" y="176382" z="-3704" heading="7494" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="105105" y="175309" z="-3720" heading="40402" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="106474" y="176800" z="-3752" heading="58182" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="107506" y="177075" z="-3768" heading="36351" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="106181" y="176644" z="-3736" heading="8947" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="105213" y="175857" z="-3720" heading="21795" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="107642" y="177275" z="-3768" heading="14225" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="108067" y="177218" z="-3744" heading="49236" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="104919" y="174938" z="-3656" heading="37051" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="105394" y="176431" z="-3752" heading="10189" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="105388" y="176505" z="-3752" heading="49522" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="109344" y="176681" z="-3752" heading="59054" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="107286" y="177516" z="-3752" heading="54236" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="109540" y="176532" z="-3752" heading="39776" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="107947" y="177484" z="-3704" heading="47705" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="106455" y="176912" z="-3736" heading="24896" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="106987" y="177133" z="-3752" heading="48513" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22199" x="108519" y="177308" z="-3704" heading="52879" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="104889" y="175942" z="-3688" heading="62396" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="107907" y="177585" z="-3704" heading="30786" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="105795" y="177193" z="-3704" heading="50947" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="108809" y="177279" z="-3736" heading="11551" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22198" x="104827" y="175949" z="-3672" heading="17515" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="106094" y="177568" z="-3672" heading="29823" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="106094" y="177573" z="-3672" heading="42634" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="107042" y="177856" z="-3752" heading="9187" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="107083" y="177868" z="-3752" heading="37134" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="105210" y="176911" z="-3752" heading="38309" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="105694" y="177456" z="-3704" heading="2953" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22198" x="108851" y="177480" z="-3720" heading="13917" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="106991" y="178051" z="-3752" heading="48919" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="105435" y="177441" z="-3736" heading="20087" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="104976" y="177261" z="-3752" heading="3707" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22196" x="105203" y="177550" z="-3752" heading="31217" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22195" x="105136" y="177579" z="-3752" heading="40007" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22195" x="104491" y="176724" z="-3752" heading="27158" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="104481" y="177117" z="-3752" heading="5987" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="104726" y="177823" z="-3752" heading="46852" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22194" x="106803" y="178401" z="-3736" heading="34213" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22197" x="104389" y="176910" z="-3752" heading="62880" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="104173" y="176674" z="-3752" heading="8727" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="107312" y="178450" z="-3688" heading="36546" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22199" x="104742" y="177944" z="-3736" heading="50626" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22196" x="104148" y="176824" z="-3752" heading="62347" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="107522" y="178478" z="-3608" heading="51513" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22198" x="104067" y="176919" z="-3752" heading="17919" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="103921" y="176740" z="-3752" heading="15652" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="104344" y="177832" z="-3752" heading="10959" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22198" x="104195" y="177712" z="-3736" heading="23423" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22197" x="106699" y="178272" z="-3720" heading="38891" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="104009" y="177849" z="-3752" heading="10023" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22194" x="103727" y="177571" z="-3768" heading="58794" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22196" x="104306" y="178467" z="-3720" heading="21324" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22198" x="103721" y="178006" z="-3752" heading="57248" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22199" x="103315" y="176873" z="-3736" heading="42315" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22195" x="103440" y="177544" z="-3752" heading="16258" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22194" x="103675" y="178052" z="-3752" heading="11199" respawnTime="20sec" /> <!-- Crokian Lad Warrior -->
+			<npc id="22199" x="103544" y="177873" z="-3752" heading="39069" respawnTime="20sec" /> <!-- Swamp Warrior -->
+			<npc id="22197" x="103234" y="176854" z="-3736" heading="27297" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22196" x="103604" y="178082" z="-3752" heading="24236" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22196" x="103206" y="176782" z="-3696" heading="8881" respawnTime="20sec" /> <!-- Nos Lad -->
+			<npc id="22197" x="103863" y="178553" z="-3752" heading="24620" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="103655" y="178304" z="-3752" heading="21711" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22197" x="103159" y="177182" z="-3752" heading="30268" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22198" x="102844" y="177258" z="-3544" heading="33093" respawnTime="20sec" /> <!-- Swamp Alligator -->
+			<npc id="22195" x="103119" y="178539" z="-3672" heading="26431" respawnTime="20sec" /> <!-- Farhite Lad -->
+			<npc id="22197" x="102827" y="178140" z="-3752" heading="36672" respawnTime="20sec" /> <!-- Swamp Tribe -->
+			<npc id="22189" x="111537" y="180550" z="-3736" heading="40186" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="111262" y="180942" z="-3736" heading="1857" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="111484" y="180976" z="-3752" heading="7558" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="108207" y="181487" z="-3304" heading="46389" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="111674" y="180893" z="-3752" heading="10975" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="111699" y="181148" z="-3752" heading="12912" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="111776" y="181180" z="-3752" heading="20056" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="111434" y="181848" z="-3720" heading="41432" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="111809" y="181843" z="-3752" heading="44422" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="111761" y="182005" z="-3752" heading="36349" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="111941" y="181919" z="-3752" heading="32633" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="112638" y="181017" z="-3752" heading="13059" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="109115" y="182255" z="-3224" heading="29034" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="111629" y="182213" z="-3736" heading="8300" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="111314" y="182307" z="-3672" heading="51095" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="111238" y="182645" z="-3712" heading="1200" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="112193" y="182135" z="-3752" heading="3539" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="112144" y="182462" z="-3752" heading="6940" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="111621" y="182859" z="-3752" heading="33831" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="112253" y="182707" z="-3752" heading="51342" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="111842" y="182965" z="-3752" heading="63338" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="112923" y="180624" z="-3720" heading="39399" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="112663" y="181518" z="-3736" heading="44494" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="112887" y="181351" z="-3752" heading="31053" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="113024" y="181103" z="-3752" heading="46581" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="112885" y="181838" z="-3696" heading="20520" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="113024" y="181619" z="-3688" heading="940" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="112684" y="182346" z="-3736" heading="34655" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="112873" y="182235" z="-3688" heading="47391" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="113353" y="181608" z="-3696" heading="14271" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="113520" y="181397" z="-3744" heading="40626" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="113444" y="181624" z="-3704" heading="47952" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="111514" y="183204" z="-3752" heading="32477" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="113062" y="182383" z="-3688" heading="38462" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="113560" y="181669" z="-3720" heading="36699" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="113244" y="182237" z="-3656" heading="22468" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="111657" y="183308" z="-3752" heading="1292" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="113058" y="182597" z="-3720" heading="34710" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="113798" y="181389" z="-3752" heading="58237" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="112449" y="183091" z="-3752" heading="4937" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="112591" y="183022" z="-3752" heading="47772" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="113308" y="182542" z="-3728" heading="56058" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="112789" y="183037" z="-3752" heading="46341" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="111239" y="183488" z="-3752" heading="59572" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="112029" y="183468" z="-3752" heading="34339" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="113039" y="183000" z="-3752" heading="24816" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="113567" y="182478" z="-3752" heading="52293" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="113970" y="181856" z="-3752" heading="38921" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="113545" y="182621" z="-3752" heading="24785" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="113079" y="183121" z="-3752" heading="55979" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="113864" y="182589" z="-3752" heading="62973" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="111516" y="183671" z="-3752" heading="45251" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="111496" y="183785" z="-3752" heading="34203" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="113336" y="183432" z="-3752" heading="39848" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="113931" y="183006" z="-3752" heading="33880" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="113475" y="183539" z="-3752" heading="56616" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="114353" y="182888" z="-3736" heading="49570" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="113904" y="183583" z="-3752" heading="29493" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="110805" y="183856" z="-3744" heading="52296" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="113532" y="183939" z="-3736" heading="60283" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="114127" y="183786" z="-3752" heading="2204" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="114494" y="183390" z="-3752" heading="42979" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="114653" y="183205" z="-3752" heading="4173" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="113748" y="184103" z="-3736" heading="3701" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="114662" y="183531" z="-3752" heading="19891" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="114840" y="183030" z="-3752" heading="51691" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="114746" y="183716" z="-3704" heading="49882" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="115222" y="183539" z="-3704" heading="60618" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="115452" y="182904" z="-3752" heading="20266" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="115356" y="183391" z="-3728" heading="60467" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="111603" y="184396" z="-3752" heading="30463" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="111154" y="184371" z="-3752" heading="36362" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="114362" y="184505" z="-3696" heading="57743" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="110868" y="184386" z="-3752" heading="51822" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="112163" y="185163" z="-3464" heading="8925" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="111176" y="184748" z="-3752" heading="2126" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="114664" y="184683" z="-3656" heading="42006" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="114753" y="184675" z="-3680" heading="41438" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="115085" y="184329" z="-3752" heading="37015" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="114897" y="184587" z="-3752" heading="19202" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="114228" y="185094" z="-3528" heading="28657" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="115393" y="184032" z="-3720" heading="8123" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="114453" y="185265" z="-3512" heading="11976" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="114470" y="185302" z="-3512" heading="42612" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="115662" y="183965" z="-3696" heading="13302" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="114613" y="185365" z="-3496" heading="29720" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="114687" y="185359" z="-3496" heading="47576" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="112789" y="185734" z="-3416" heading="22846" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="114918" y="185258" z="-3448" heading="3370" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="112039" y="185497" z="-3488" heading="919" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="115890" y="184168" z="-3720" heading="17840" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="112673" y="185834" z="-3416" heading="827" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="116036" y="183975" z="-3688" heading="9312" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="112606" y="186054" z="-3480" heading="41559" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="112036" y="185825" z="-3496" heading="37341" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="116122" y="182931" z="-3752" heading="40263" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="116171" y="183404" z="-3752" heading="31269" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="110533" y="183970" z="-3720" heading="24647" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="110772" y="184992" z="-3704" heading="20587" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="110299" y="184122" z="-3704" heading="1051" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="110291" y="184135" z="-3704" heading="25652" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="110519" y="184942" z="-3704" heading="24329" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="110428" y="184875" z="-3672" heading="21394" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="110940" y="185799" z="-3752" heading="31770" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="110600" y="185704" z="-3752" heading="22688" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="110124" y="185453" z="-3752" heading="60999" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="110300" y="185671" z="-3752" heading="23864" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="109331" y="185287" z="-3720" heading="57635" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="110633" y="185896" z="-3752" heading="6302" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="110166" y="185624" z="-3752" heading="35215" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="111000" y="186224" z="-3712" heading="52919" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="110788" y="186169" z="-3736" heading="5468" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="110573" y="186124" z="-3752" heading="60006" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="109708" y="185383" z="-3752" heading="9864" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="109410" y="185240" z="-3720" heading="3999" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="109718" y="185905" z="-3752" heading="17655" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="109111" y="182987" z="-3256" heading="54004" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="109115" y="185935" z="-3752" heading="2823" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="108922" y="185694" z="-3720" heading="47939" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="111008" y="186536" z="-3656" heading="15802" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="111456" y="186558" z="-3640" heading="63870" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="111572" y="186532" z="-3640" heading="7718" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="111078" y="186909" z="-3624" heading="13769" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="109638" y="186637" z="-3752" heading="36394" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="112223" y="186639" z="-3640" heading="23009" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="109704" y="186838" z="-3768" heading="49746" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="109493" y="186768" z="-3752" heading="10762" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="109870" y="186994" z="-3752" heading="51562" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="109822" y="186979" z="-3752" heading="33561" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="111689" y="187101" z="-3672" heading="38500" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="110884" y="187277" z="-3624" heading="50693" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="111298" y="187277" z="-3640" heading="60951" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="108690" y="185580" z="-3720" heading="37289" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="108576" y="186187" z="-3752" heading="49921" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="108641" y="186289" z="-3752" heading="31028" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="108798" y="186474" z="-3752" heading="47506" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="108760" y="182807" z="-3336" heading="42624" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="110764" y="187360" z="-3624" heading="35945" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="109427" y="187027" z="-3752" heading="9583" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="110395" y="187373" z="-3672" heading="32888" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="108422" y="182708" z="-3352" heading="28016" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="108535" y="183010" z="-3352" heading="52209" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="108151" y="183407" z="-3368" heading="57097" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="108358" y="182967" z="-3352" heading="35704" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="108278" y="185943" z="-3736" heading="20470" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="107921" y="185934" z="-3736" heading="21383" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="107695" y="183051" z="-3384" heading="14844" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="107691" y="183004" z="-3384" heading="24435" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="107835" y="182548" z="-3368" heading="36284" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="108141" y="186364" z="-3752" heading="218" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="107715" y="182455" z="-3368" heading="41349" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="107728" y="182370" z="-3368" heading="60385" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="107093" y="183196" z="-3336" heading="61450" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="107341" y="182450" z="-3384" heading="38171" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="107136" y="182634" z="-3384" heading="22035" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="107703" y="186165" z="-3752" heading="5977" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="107667" y="186211" z="-3752" heading="1432" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="107230" y="185863" z="-3704" heading="32643" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="106889" y="182470" z="-3384" heading="33801" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="107549" y="181651" z="-3368" heading="59604" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="106871" y="182213" z="-3352" heading="31541" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="107350" y="181595" z="-3352" heading="8186" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="107392" y="181551" z="-3352" heading="10604" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="107270" y="181798" z="-3368" heading="8727" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="106855" y="181795" z="-3352" heading="31403" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="107027" y="181494" z="-3336" heading="4740" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="106527" y="181912" z="-3336" heading="45154" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="106589" y="181722" z="-3336" heading="16291" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="106514" y="181362" z="-3352" heading="19235" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="106388" y="182592" z="-3384" heading="61384" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="106413" y="183039" z="-3384" heading="36801" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="106304" y="182829" z="-3384" heading="29862" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="105799" y="182826" z="-3320" heading="25881" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="105759" y="182371" z="-3352" heading="53679" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="105650" y="182773" z="-3304" heading="45886" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="105684" y="183291" z="-3288" heading="50538" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="105537" y="182501" z="-3288" heading="35447" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="105736" y="181504" z="-3384" heading="39649" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="105944" y="181498" z="-3384" heading="63747" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="105273" y="182844" z="-3288" heading="24678" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="105224" y="181529" z="-3384" heading="59729" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="105239" y="181436" z="-3368" heading="32940" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="105021" y="182143" z="-3320" heading="4237" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="105141" y="181456" z="-3384" heading="28201" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="105066" y="181470" z="-3384" heading="23748" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="105019" y="182989" z="-3320" heading="20271" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="105018" y="183052" z="-3312" heading="44158" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="104901" y="182956" z="-3328" heading="55607" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="104751" y="182471" z="-3360" heading="1123" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="104654" y="182209" z="-3336" heading="47066" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="104429" y="181609" z="-3384" heading="44012" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="104356" y="181812" z="-3352" heading="40204" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="104345" y="182538" z="-3384" heading="20401" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="104063" y="182331" z="-3384" heading="49289" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="104139" y="181374" z="-3392" heading="35742" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="104040" y="181701" z="-3384" heading="6677" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="103872" y="182437" z="-3384" heading="53573" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="103862" y="182349" z="-3384" heading="43618" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="103740" y="182033" z="-3384" heading="55941" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="103942" y="183205" z="-3320" heading="17368" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="103701" y="182376" z="-3384" heading="38195" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="103634" y="182689" z="-3384" heading="6073" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="103433" y="182979" z="-3336" heading="7937" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="103494" y="181830" z="-3384" heading="27383" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="103482" y="181822" z="-3384" heading="30942" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="103324" y="182150" z="-3384" heading="53087" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="103452" y="181371" z="-3352" heading="51500" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="103168" y="181939" z="-3384" heading="43773" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22193" x="103383" y="181059" z="-3336" heading="15014" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="103300" y="181023" z="-3336" heading="44729" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="102588" y="181259" z="-3288" heading="30361" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="102703" y="180922" z="-3304" heading="35633" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="102539" y="180521" z="-3256" heading="9944" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="102428" y="180584" z="-3272" heading="44894" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="106604" y="186735" z="-3720" heading="27326" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="106776" y="186776" z="-3704" heading="17306" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="107333" y="186928" z="-3752" heading="40738" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="108217" y="186714" z="-3752" heading="17894" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="107509" y="186388" z="-3736" heading="9277" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="106311" y="187227" z="-3632" heading="46213" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="108071" y="187036" z="-3752" heading="7698" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="106323" y="187340" z="-3592" heading="30778" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="108759" y="186786" z="-3752" heading="19182" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="107438" y="187337" z="-3768" heading="30501" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="107277" y="187496" z="-3752" heading="40537" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="108330" y="187353" z="-3752" heading="55245" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="106480" y="187439" z="-3560" heading="58075" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="107676" y="187643" z="-3752" heading="11867" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="107625" y="187651" z="-3752" heading="1052" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="108799" y="187213" z="-3752" heading="26186" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="108379" y="187477" z="-3752" heading="62291" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="106897" y="187669" z="-3704" heading="6945" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="108937" y="187412" z="-3720" heading="19225" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="107411" y="187942" z="-3736" heading="11045" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="109213" y="187612" z="-3704" heading="55849" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="109468" y="187668" z="-3720" heading="48202" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="108863" y="188050" z="-3752" heading="5130" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="108622" y="188127" z="-3752" heading="27894" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="109404" y="187818" z="-3720" heading="35999" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="108578" y="188214" z="-3752" heading="58132" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="109471" y="187865" z="-3720" heading="33918" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="109803" y="187801" z="-3736" heading="38482" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="109057" y="188273" z="-3752" heading="23342" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="110333" y="187576" z="-3720" heading="48813" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="109116" y="188371" z="-3752" heading="40786" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="107363" y="188265" z="-3704" heading="37560" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="110309" y="187796" z="-3736" heading="15127" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="109860" y="187579" z="-3752" heading="21138" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="110117" y="188240" z="-3752" heading="59773" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="111179" y="187399" z="-3632" heading="60873" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="110496" y="188248" z="-3752" heading="56628" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="110532" y="188324" z="-3752" heading="9151" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="111564" y="187357" z="-3656" heading="4255" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="111025" y="188295" z="-3752" heading="33067" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="111098" y="188226" z="-3736" heading="33722" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="111485" y="187805" z="-3688" heading="38669" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="111522" y="187865" z="-3704" heading="33287" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="109522" y="188547" z="-3752" heading="7609" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="109901" y="188497" z="-3736" heading="31632" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="109276" y="188563" z="-3752" heading="4266" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="110154" y="188427" z="-3736" heading="59731" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="109005" y="188782" z="-3752" heading="11055" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="110021" y="188907" z="-3704" heading="36256" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="108703" y="189016" z="-3752" heading="6043" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="111869" y="187328" z="-3688" heading="42350" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="111480" y="188150" z="-3704" heading="2993" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="108578" y="189048" z="-3752" heading="33089" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="108481" y="189046" z="-3752" heading="54605" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="107771" y="188705" z="-3736" heading="565" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="112015" y="187301" z="-3752" heading="10292" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="111117" y="188732" z="-3736" heading="29803" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="111743" y="188329" z="-3736" heading="58257" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="111721" y="188367" z="-3736" heading="54069" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="111071" y="188981" z="-3696" heading="43936" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="111777" y="188580" z="-3752" heading="15621" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="111526" y="188883" z="-3752" heading="36450" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22190" x="112489" y="187836" z="-3752" heading="56798" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="112809" y="186714" z="-3752" heading="39871" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="112821" y="186803" z="-3752" heading="45003" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="112885" y="186914" z="-3752" heading="5760" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="112892" y="187143" z="-3752" heading="56040" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="112887" y="187163" z="-3752" heading="59003" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="112444" y="188308" z="-3752" heading="19016" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="113152" y="187492" z="-3752" heading="58020" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="113494" y="186616" z="-3752" heading="60519" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="112103" y="188874" z="-3752" heading="62208" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="113268" y="187708" z="-3752" heading="55783" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="113698" y="186619" z="-3752" heading="15946" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="111803" y="189079" z="-3736" heading="60597" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="113215" y="188092" z="-3704" heading="11882" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="113846" y="186763" z="-3752" heading="47364" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="112990" y="188358" z="-3696" heading="6984" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="113223" y="188145" z="-3704" heading="62721" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="113720" y="187684" z="-3752" heading="58460" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="114145" y="186744" z="-3752" heading="62893" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="114166" y="187321" z="-3752" heading="33643" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="114298" y="187410" z="-3752" heading="25153" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="114428" y="187149" z="-3720" heading="95" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="114339" y="187596" z="-3752" heading="10976" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="114531" y="187321" z="-3720" heading="30635" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="114140" y="187988" z="-3752" heading="11337" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="114159" y="188003" z="-3752" heading="39404" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="114709" y="186894" z="-3720" heading="15923" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="114742" y="187390" z="-3704" heading="44735" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="114931" y="187272" z="-3720" heading="55122" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="115018" y="187341" z="-3736" heading="31063" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="114582" y="187742" z="-3752" heading="12781" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="114796" y="187720" z="-3752" heading="54094" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="114512" y="187861" z="-3752" heading="20729" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="116117" y="184261" z="-3752" heading="7371" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="116353" y="184680" z="-3680" heading="7409" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="116378" y="183434" z="-3736" heading="42936" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="116506" y="185800" z="-3600" heading="33327" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="116540" y="184963" z="-3592" heading="359" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="116564" y="185814" z="-3616" heading="17940" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="116198" y="183990" z="-3688" heading="33017" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="116714" y="184976" z="-3624" heading="19646" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="116714" y="184665" z="-3720" heading="5965" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="116458" y="183360" z="-3736" heading="35513" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="116761" y="183530" z="-3704" heading="15137" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="116703" y="183333" z="-3736" heading="23722" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="116151" y="182806" z="-3752" heading="20672" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="116390" y="182920" z="-3752" heading="53" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="116657" y="183127" z="-3752" heading="48701" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="116680" y="182919" z="-3752" heading="39543" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="116213" y="182570" z="-3752" heading="28224" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="116761" y="182843" z="-3752" heading="50246" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="116794" y="182744" z="-3752" heading="11592" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22189" x="117513" y="182947" z="-3752" heading="3691" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="116923" y="182304" z="-3752" heading="13087" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="117187" y="181999" z="-3752" heading="10328" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="117091" y="181737" z="-3752" heading="22084" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="116999" y="181669" z="-3752" heading="49404" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="117279" y="181361" z="-3752" heading="31919" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="116458" y="181030" z="-3752" heading="27459" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="116415" y="180972" z="-3752" heading="29120" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="116492" y="180948" z="-3752" heading="22947" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="116351" y="180861" z="-3752" heading="45347" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="115861" y="180812" z="-3736" heading="192" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="115821" y="180814" z="-3720" heading="23215" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="116429" y="180431" z="-3752" heading="43355" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="115979" y="180401" z="-3752" heading="24930" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="116526" y="180215" z="-3752" heading="20741" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="115776" y="188992" z="-3736" heading="39609" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22191" x="115636" y="189710" z="-3752" heading="31071" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="115810" y="188506" z="-3736" heading="25886" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="115654" y="188599" z="-3720" heading="42062" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="115456" y="189952" z="-3720" heading="6323" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="115310" y="188706" z="-3752" heading="7891" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="115303" y="188541" z="-3752" heading="57213" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="114992" y="189232" z="-3752" heading="32388" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="114976" y="188800" z="-3752" heading="63087" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="114899" y="188432" z="-3752" heading="17472" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="114736" y="188572" z="-3752" heading="58568" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="114608" y="189088" z="-3752" heading="34235" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="114630" y="188786" z="-3736" heading="24330" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="114578" y="188861" z="-3736" heading="59010" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="114180" y="188595" z="-3752" heading="4830" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="113854" y="188649" z="-3704" heading="32092" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="113966" y="188398" z="-3752" heading="1636" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="113866" y="188518" z="-3720" heading="52778" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22193" x="113612" y="188950" z="-3568" heading="2130" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="113577" y="188707" z="-3576" heading="53520" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22190" x="113790" y="188372" z="-3720" heading="52281" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="113410" y="188919" z="-3544" heading="58044" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22191" x="112005" y="189253" z="-3704" heading="43480" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22192" x="108907" y="189512" z="-3616" heading="52868" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="108767" y="189303" z="-3688" heading="34405" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22189" x="107769" y="189603" z="-3640" heading="35032" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="107883" y="189821" z="-3600" heading="39735" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="107442" y="188553" z="-3720" heading="41845" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="107438" y="188569" z="-3720" heading="35490" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="107363" y="188582" z="-3704" heading="62473" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="107225" y="189037" z="-3720" heading="24367" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="107228" y="189230" z="-3672" heading="28735" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22190" x="107430" y="189806" z="-3592" heading="23224" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="107141" y="189130" z="-3688" heading="48204" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="106965" y="189317" z="-3640" heading="54085" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="107007" y="189993" z="-3512" heading="21446" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="106501" y="189378" z="-3616" heading="47510" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22191" x="106630" y="190125" z="-3440" heading="32948" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22189" x="106475" y="190182" z="-3416" heading="49835" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22192" x="105964" y="188744" z="-3576" heading="42133" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22193" x="106250" y="190023" z="-3448" heading="31049" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="105637" y="188559" z="-3496" heading="8139" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="105689" y="189645" z="-3496" heading="61117" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22192" x="105618" y="189363" z="-3544" heading="52387" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="105445" y="188653" z="-3464" heading="48694" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22189" x="105506" y="190101" z="-3384" heading="40313" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="105526" y="190216" z="-3336" heading="54822" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22191" x="105138" y="189775" z="-3352" heading="3593" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="105092" y="190197" z="-3368" heading="46334" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="105149" y="188628" z="-3416" heading="21824" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22193" x="105036" y="188818" z="-3400" heading="10682" respawnTime="20sec" /> <!-- Dailaon -->
+			<npc id="22192" x="104936" y="188870" z="-3368" heading="27048" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22190" x="105304" y="188203" z="-3480" heading="5585" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22191" x="104913" y="188752" z="-3384" heading="23453" respawnTime="20sec" /> <!-- Nos -->
+			<npc id="22190" x="104813" y="188228" z="-3448" heading="58903" respawnTime="20sec" /> <!-- Crokian -->
+			<npc id="22192" x="104675" y="188370" z="-3424" heading="39718" respawnTime="20sec" /> <!-- Crokian Warrior -->
+			<npc id="22189" x="104625" y="188163" z="-3480" heading="3187" respawnTime="20sec" /> <!-- Alligator -->
+			<npc id="22193" x="104432" y="188991" z="-3336" heading="62593" respawnTime="20sec" /> <!-- Dailaon -->
+		</group>
+	</spawn>
+</list>

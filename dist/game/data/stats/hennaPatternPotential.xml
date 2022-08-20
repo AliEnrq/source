@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/hennaPatternPotential.xsd">
+	<enchantFees>
+		<fee step="1">
+			<requiredItem id="57" count="500000" />
+			<dailyCount>5</dailyCount>
+			<enchantExp count="0" chance="50" />
+			<enchantExp count="1" chance="50" />
+		</fee>
+		<fee step="2">
+			<requiredItem id="57" count="2000000" />
+			<dailyCount>5</dailyCount>
+			<enchantExp count="1" chance="90" />
+			<enchantExp count="2" chance="29" />
+			<enchantExp count="3" chance="1" />
+		</fee>
+		<fee step="3">
+			<requiredItem id="96623" count="1" />
+			<dailyCount>10</dailyCount>
+			<enchantExp count="1" chance="10" />
+			<enchantExp count="2" chance="75" />
+			<enchantExp count="3" chance="12" />
+			<enchantExp count="4" chance="2" />
+			<enchantExp count="5" chance="1" />
+		</fee>
+	</enchantFees>
+	<experiencePoints>
+		<hiddenPower level="1" exp="20" /> <!-- 1 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="2" exp="30" /> <!-- 2 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="3" exp="40" /> <!-- 3 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="4" exp="50" /> <!-- 4 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="5" exp="100" /> <!-- 5 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="6" exp="110" /> <!-- 6 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="7" exp="120" /> <!-- 7 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="8" exp="130" /> <!-- 8 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="9" exp="140" /> <!-- 9 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="10" exp="150" /> <!-- 10 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="11" exp="170" /> <!-- 11 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="12" exp="190" /> <!-- 12 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="13" exp="210" /> <!-- 13 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="14" exp="230" /> <!-- 14 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="15" exp="250" /> <!-- 15 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="16" exp="300" /> <!-- 16 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="17" exp="350" /> <!-- 17 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="18" exp="400" /> <!-- 18 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="19" exp="450" /> <!-- 19 window, how many points do you need to fill a skillbonus. -->
+		<hiddenPower level="20" exp="500" /> <!-- 20 window, how many points do you need to fill a skillbonus. -->
+	</experiencePoints>
+	<hiddenPotentials>
+		<poten id="1" slotId="1" maxSkillLevel="20" skillId="83001" /> <!-- P and M. Atk. -->
+		<poten id="2" slotId="1" maxSkillLevel="20" skillId="83002" /> <!-- P and M. Def. -->
+		<poten id="3" slotId="1" maxSkillLevel="20" skillId="83003" /> <!-- Atk Spdeed and Casting Spdpeed. -->
+		<poten id="4" slotId="2" maxSkillLevel="20" skillId="83004" /> <!-- Skill damage bonus in PvE -->
+		<poten id="5" slotId="2" maxSkillLevel="20" skillId="83005" /> <!-- You Received skill damage in PvE -->
+		<poten id="6" slotId="2" maxSkillLevel="20" skillId="83006" /> <!-- Skill Damage Bonus in PvP -->
+		<poten id="7" slotId="2" maxSkillLevel="20" skillId="83007" /> <!-- Received skill damage in PvP -->
+		<poten id="8" slotId="3" maxSkillLevel="20" skillId="83008" /> <!-- Skill Critical Damage -->
+		<poten id="9" slotId="3" maxSkillLevel="20" skillId="83009" /> <!-- Skill Critical Rate -->
+		<poten id="10" slotId="3" maxSkillLevel="20" skillId="83010" /> <!-- You Received Skill Critical Damage -->
+		<poten id="11" slotId="3" maxSkillLevel="20" skillId="83011" /> <!-- You Received Skill Critical Rate -->
+		<poten id="12" slotId="4" maxSkillLevel="20" skillId="83012" /> <!-- Soulshot and Spiritshot damage -->
+		<poten id="13" slotId="4" maxSkillLevel="20" skillId="83013" /> <!-- Soulshot and Spiritshot Damage Resistance -->
+		<poten id="14" slotId="4" maxSkillLevel="20" skillId="83014" /> <!-- Damage decrease -->
+		<poten id="15" slotId="4" maxSkillLevel="20" skillId="83015" /> <!-- Damage decrease ignore -->
+		<poten id="16" slotId="4" maxSkillLevel="20" skillId="83016" /> <!-- Anomaly Atk Rate -->
+	</hiddenPotentials>
+</list>

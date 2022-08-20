@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<npcs>
+		<npc>30936</npc> <!-- Pona -->
+	</npcs>
+	<item>
+		<ingredient count="1500000" id="57" /> <!-- Adena -->
+		<production count="1" id="91077" /> <!-- Venir's Talisman Lv.1 -->
+	</item>
+	<item>
+		<ingredient count="2000000" id="57" /> <!-- Adena -->
+		<production count="1" id="92403" /> <!-- Talisman of Speed -->
+	</item>
+	<item>
+		<ingredient count="2000" id="57" /> <!-- Adena -->
+		<production count="1" id="92402" /> <!-- Scroll: Enchant Talisman of Speed -->
+	</item>
+	<item>
+		<ingredient count="1000000" id="57" /> <!-- Adena -->
+		<production count="1" id="91076" /> <!-- Venir's Talisman Fragment -->
+	</item>
+</list>

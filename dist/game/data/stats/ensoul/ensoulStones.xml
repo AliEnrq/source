@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/ensoulStones.xsd">
+	<stone id="90534" slotType="1">
+		<option id="400" />
+		<option id="420" />
+	</stone>
+	<stone id="90535" slotType="1">
+		<option id="401" />
+		<option id="421" />
+	</stone>
+	<stone id="90536" slotType="1">
+		<option id="402" />
+		<option id="422" />
+	</stone>
+	<stone id="90537" slotType="1">
+		<option id="403" />
+		<option id="423" />
+	</stone>
+	<stone id="90538" slotType="1">
+		<option id="404" />
+		<option id="424" />
+	</stone>
+	<stone id="90539" slotType="1">
+		<option id="405" />
+		<option id="425" />
+	</stone>
+	<stone id="90540" slotType="1">
+		<option id="406" />
+		<option id="426" />
+	</stone>
+	<stone id="90541" slotType="1">
+		<option id="407" />
+		<option id="427" />
+	</stone>
+	<stone id="90542" slotType="1">
+		<option id="408" />
+		<option id="428" />
+	</stone>
+	<stone id="90543" slotType="1">
+		<option id="409" />
+		<option id="429" />
+	</stone>
+	<stone id="90544" slotType="1">
+		<option id="410" />
+		<option id="430" />
+	</stone>
+	<stone id="90545" slotType="1">
+		<option id="411" />
+		<option id="431" />
+	</stone>
+	<stone id="90546" slotType="1">
+		<option id="412" />
+		<option id="432" />
+	</stone>
+	<stone id="90547" slotType="1">
+		<option id="413" />
+		<option id="433" />
+	</stone>
+	<stone id="90548" slotType="1">
+		<option id="414" />
+		<option id="434" />
+	</stone>
+	<stone id="90549" slotType="1">
+		<option id="415" />
+		<option id="435" />
+	</stone>
+	<stone id="90550" slotType="1">
+		<option id="416" />
+		<option id="436" />
+	</stone>
+	<stone id="90551" slotType="1">
+		<option id="417" />
+		<option id="437" />
+	</stone>
+	<stone id="90552" slotType="1">
+		<option id="418" />
+		<option id="438" />
+	</stone>
+	<stone id="90553" slotType="1">
+		<option id="419" />
+		<option id="439" />
+	</stone>
+	<stone id="90554" slotType="1">
+		<option id="440" />
+		<option id="460" />
+	</stone>
+	<stone id="90555" slotType="1">
+		<option id="441" />
+		<option id="461" />
+	</stone>
+	<stone id="90556" slotType="1">
+		<option id="442" />
+		<option id="462" />
+	</stone>
+	<stone id="90557" slotType="1">
+		<option id="443" />
+		<option id="463" />
+	</stone>
+	<stone id="90558" slotType="1">
+		<option id="444" />
+		<option id="464" />
+	</stone>
+	<stone id="90559" slotType="1">
+		<option id="445" />
+		<option id="465" />
+	</stone>
+	<stone id="90560" slotType="1">
+		<option id="446" />
+		<option id="466" />
+	</stone>
+	<stone id="90561" slotType="1">
+		<option id="447" />
+		<option id="467" />
+	</stone>
+	<stone id="90562" slotType="1">
+		<option id="448" />
+		<option id="468" />
+	</stone>
+	<stone id="90563" slotType="1">
+		<option id="449" />
+		<option id="469" />
+	</stone>
+	<stone id="90564" slotType="1">
+		<option id="450" />
+		<option id="470" />
+	</stone>
+	<stone id="90565" slotType="1">
+		<option id="451" />
+		<option id="471" />
+	</stone>
+	<stone id="90566" slotType="1">
+		<option id="452" />
+		<option id="472" />
+	</stone>
+	<stone id="90567" slotType="1">
+		<option id="453" />
+		<option id="473" />
+	</stone>
+	<stone id="90568" slotType="1">
+		<option id="454" />
+		<option id="474" />
+	</stone>
+	<stone id="90569" slotType="1">
+		<option id="455" />
+		<option id="475" />
+	</stone>
+	<stone id="90570" slotType="1">
+		<option id="456" />
+		<option id="476" />
+	</stone>
+	<stone id="90571" slotType="1">
+		<option id="457" />
+		<option id="477" />
+	</stone>
+	<stone id="90572" slotType="1">
+		<option id="458" />
+		<option id="478" />
+	</stone>
+	<stone id="90573" slotType="1">
+		<option id="459" />
+		<option id="479" />
+	</stone>
+	<stone id="90574" slotType="1">
+		<option id="480" />
+		<option id="500" />
+	</stone>
+	<stone id="90575" slotType="1">
+		<option id="481" />
+		<option id="501" />
+	</stone>
+	<stone id="90576" slotType="1">
+		<option id="482" />
+		<option id="502" />
+	</stone>
+	<stone id="90577" slotType="1">
+		<option id="483" />
+		<option id="503" />
+	</stone>
+	<stone id="90578" slotType="1">
+		<option id="484" />
+		<option id="504" />
+	</stone>
+	<stone id="90579" slotType="1">
+		<option id="485" />
+		<option id="505" />
+	</stone>
+	<stone id="90580" slotType="1">
+		<option id="486" />
+		<option id="506" />
+	</stone>
+	<stone id="90581" slotType="1">
+		<option id="487" />
+		<option id="507" />
+	</stone>
+	<stone id="90582" slotType="1">
+		<option id="488" />
+		<option id="508" />
+	</stone>
+	<stone id="90583" slotType="1">
+		<option id="489" />
+		<option id="509" />
+	</stone>
+	<stone id="90584" slotType="1">
+		<option id="490" />
+		<option id="510" />
+	</stone>
+	<stone id="90585" slotType="1">
+		<option id="491" />
+		<option id="511" />
+	</stone>
+	<stone id="90586" slotType="1">
+		<option id="492" />
+		<option id="512" />
+	</stone>
+	<stone id="90587" slotType="1">
+		<option id="493" />
+		<option id="513" />
+	</stone>
+	<stone id="90588" slotType="1">
+		<option id="494" />
+		<option id="514" />
+	</stone>
+	<stone id="90589" slotType="1">
+		<option id="495" />
+		<option id="515" />
+	</stone>
+	<stone id="90590" slotType="1">
+		<option id="496" />
+		<option id="516" />
+	</stone>
+	<stone id="90591" slotType="1">
+		<option id="497" />
+		<option id="517" />
+	</stone>
+	<stone id="90592" slotType="1">
+		<option id="498" />
+		<option id="518" />
+	</stone>
+	<stone id="90593" slotType="1">
+		<option id="499" />
+		<option id="519" />
+	</stone>
+	<stone id="90594" slotType="1">
+		<option id="520" />
+		<option id="540" />
+	</stone>
+	<stone id="90595" slotType="1">
+		<option id="521" />
+		<option id="541" />
+	</stone>
+	<stone id="90596" slotType="1">
+		<option id="522" />
+		<option id="542" />
+	</stone>
+	<stone id="90597" slotType="1">
+		<option id="523" />
+		<option id="543" />
+	</stone>
+	<stone id="90598" slotType="1">
+		<option id="524" />
+		<option id="544" />
+	</stone>
+	<stone id="90599" slotType="1">
+		<option id="525" />
+		<option id="545" />
+	</stone>
+	<stone id="90600" slotType="1">
+		<option id="526" />
+		<option id="546" />
+	</stone>
+	<stone id="90601" slotType="1">
+		<option id="527" />
+		<option id="547" />
+	</stone>
+	<stone id="90602" slotType="1">
+		<option id="528" />
+		<option id="548" />
+	</stone>
+	<stone id="90603" slotType="1">
+		<option id="529" />
+		<option id="549" />
+	</stone>
+	<stone id="90604" slotType="1">
+		<option id="530" />
+		<option id="550" />
+	</stone>
+	<stone id="90605" slotType="1">
+		<option id="531" />
+		<option id="551" />
+	</stone>
+	<stone id="90606" slotType="1">
+		<option id="532" />
+		<option id="552" />
+	</stone>
+	<stone id="90607" slotType="1">
+		<option id="533" />
+		<option id="553" />
+	</stone>
+	<stone id="90608" slotType="1">
+		<option id="534" />
+		<option id="554" />
+	</stone>
+	<stone id="90609" slotType="1">
+		<option id="535" />
+		<option id="555" />
+	</stone>
+	<stone id="90610" slotType="1">
+		<option id="536" />
+		<option id="556" />
+	</stone>
+	<stone id="90611" slotType="1">
+		<option id="537" />
+		<option id="557" />
+	</stone>
+	<stone id="90612" slotType="1">
+		<option id="538" />
+		<option id="558" />
+	</stone>
+	<stone id="90613" slotType="1">
+		<option id="539" />
+		<option id="559" />
+	</stone>
+	<stone id="90614" slotType="1">
+		<option id="560" />
+		<option id="580" />
+	</stone>
+	<stone id="90615" slotType="1">
+		<option id="561" />
+		<option id="581" />
+	</stone>
+	<stone id="90616" slotType="1">
+		<option id="562" />
+		<option id="582" />
+	</stone>
+	<stone id="90617" slotType="1">
+		<option id="563" />
+		<option id="583" />
+	</stone>
+	<stone id="90618" slotType="1">
+		<option id="564" />
+		<option id="584" />
+	</stone>
+	<stone id="90619" slotType="1">
+		<option id="565" />
+		<option id="585" />
+	</stone>
+	<stone id="90620" slotType="1">
+		<option id="566" />
+		<option id="586" />
+	</stone>
+	<stone id="90621" slotType="1">
+		<option id="567" />
+		<option id="587" />
+	</stone>
+	<stone id="90622" slotType="1">
+		<option id="568" />
+		<option id="588" />
+	</stone>
+	<stone id="90623" slotType="1">
+		<option id="569" />
+		<option id="589" />
+	</stone>
+	<stone id="90624" slotType="1">
+		<option id="570" />
+		<option id="590" />
+	</stone>
+	<stone id="90625" slotType="1">
+		<option id="571" />
+		<option id="591" />
+	</stone>
+	<stone id="90626" slotType="1">
+		<option id="572" />
+		<option id="592" />
+	</stone>
+	<stone id="90627" slotType="1">
+		<option id="573" />
+		<option id="593" />
+	</stone>
+	<stone id="90628" slotType="1">
+		<option id="574" />
+		<option id="594" />
+	</stone>
+	<stone id="90629" slotType="1">
+		<option id="575" />
+		<option id="595" />
+	</stone>
+	<stone id="90630" slotType="1">
+		<option id="576" />
+		<option id="596" />
+	</stone>
+	<stone id="90631" slotType="1">
+		<option id="577" />
+		<option id="597" />
+	</stone>
+	<stone id="90632" slotType="1">
+		<option id="578" />
+		<option id="598" />
+	</stone>
+	<stone id="90633" slotType="1">
+		<option id="579" />
+		<option id="599" />
+	</stone>
+	<stone id="90634" slotType="1">
+		<option id="600" />
+		<option id="620" />
+	</stone>
+	<stone id="90635" slotType="1">
+		<option id="601" />
+		<option id="621" />
+	</stone>
+	<stone id="90636" slotType="1">
+		<option id="602" />
+		<option id="622" />
+	</stone>
+	<stone id="90637" slotType="1">
+		<option id="603" />
+		<option id="623" />
+	</stone>
+	<stone id="90638" slotType="1">
+		<option id="604" />
+		<option id="624" />
+	</stone>
+	<stone id="90639" slotType="1">
+		<option id="605" />
+		<option id="625" />
+	</stone>
+	<stone id="90640" slotType="1">
+		<option id="606" />
+		<option id="626" />
+	</stone>
+	<stone id="90641" slotType="1">
+		<option id="607" />
+		<option id="627" />
+	</stone>
+	<stone id="90642" slotType="1">
+		<option id="608" />
+		<option id="628" />
+	</stone>
+	<stone id="90643" slotType="1">
+		<option id="609" />
+		<option id="629" />
+	</stone>
+	<stone id="90644" slotType="1">
+		<option id="610" />
+		<option id="630" />
+	</stone>
+	<stone id="90645" slotType="1">
+		<option id="611" />
+		<option id="631" />
+	</stone>
+	<stone id="90646" slotType="1">
+		<option id="612" />
+		<option id="632" />
+	</stone>
+	<stone id="90647" slotType="1">
+		<option id="613" />
+		<option id="633" />
+	</stone>
+	<stone id="90648" slotType="1">
+		<option id="614" />
+		<option id="634" />
+	</stone>
+	<stone id="90649" slotType="1">
+		<option id="615" />
+		<option id="635" />
+	</stone>
+	<stone id="90650" slotType="1">
+		<option id="616" />
+		<option id="636" />
+	</stone>
+	<stone id="90651" slotType="1">
+		<option id="617" />
+		<option id="637" />
+	</stone>
+	<stone id="90652" slotType="1">
+		<option id="618" />
+		<option id="638" />
+	</stone>
+	<stone id="90653" slotType="1">
+		<option id="619" />
+		<option id="639" />
+	</stone>
+	<stone id="90654" slotType="1">
+		<option id="640" />
+		<option id="660" />
+	</stone>
+	<stone id="90655" slotType="1">
+		<option id="641" />
+		<option id="661" />
+	</stone>
+	<stone id="90656" slotType="1">
+		<option id="642" />
+		<option id="662" />
+	</stone>
+	<stone id="90657" slotType="1">
+		<option id="643" />
+		<option id="663" />
+	</stone>
+	<stone id="90658" slotType="1">
+		<option id="644" />
+		<option id="664" />
+	</stone>
+	<stone id="90659" slotType="1">
+		<option id="645" />
+		<option id="665" />
+	</stone>
+	<stone id="90660" slotType="1">
+		<option id="646" />
+		<option id="666" />
+	</stone>
+	<stone id="90661" slotType="1">
+		<option id="647" />
+		<option id="667" />
+	</stone>
+	<stone id="90662" slotType="1">
+		<option id="648" />
+		<option id="668" />
+	</stone>
+	<stone id="90663" slotType="1">
+		<option id="649" />
+		<option id="669" />
+	</stone>
+	<stone id="90664" slotType="1">
+		<option id="650" />
+		<option id="670" />
+	</stone>
+	<stone id="90665" slotType="1">
+		<option id="651" />
+		<option id="671" />
+	</stone>
+	<stone id="90666" slotType="1">
+		<option id="652" />
+		<option id="672" />
+	</stone>
+	<stone id="90667" slotType="1">
+		<option id="653" />
+		<option id="673" />
+	</stone>
+	<stone id="90668" slotType="1">
+		<option id="654" />
+		<option id="674" />
+	</stone>
+	<stone id="90669" slotType="1">
+		<option id="655" />
+		<option id="675" />
+	</stone>
+	<stone id="90670" slotType="1">
+		<option id="656" />
+		<option id="676" />
+	</stone>
+	<stone id="90671" slotType="1">
+		<option id="657" />
+		<option id="677" />
+	</stone>
+	<stone id="90672" slotType="1">
+		<option id="658" />
+		<option id="678" />
+	</stone>
+	<stone id="90673" slotType="1">
+		<option id="659" />
+		<option id="679" />
+	</stone>
+	<stone id="90674" slotType="1">
+		<option id="680" />
+		<option id="700" />
+	</stone>
+	<stone id="90675" slotType="1">
+		<option id="681" />
+		<option id="701" />
+	</stone>
+	<stone id="90676" slotType="1">
+		<option id="682" />
+		<option id="702" />
+	</stone>
+	<stone id="90677" slotType="1">
+		<option id="683" />
+		<option id="703" />
+	</stone>
+	<stone id="90678" slotType="1">
+		<option id="684" />
+		<option id="704" />
+	</stone>
+	<stone id="90679" slotType="1">
+		<option id="685" />
+		<option id="705" />
+	</stone>
+	<stone id="90680" slotType="1">
+		<option id="686" />
+		<option id="706" />
+	</stone>
+	<stone id="90681" slotType="1">
+		<option id="687" />
+		<option id="707" />
+	</stone>
+	<stone id="90682" slotType="1">
+		<option id="688" />
+		<option id="708" />
+	</stone>
+	<stone id="90683" slotType="1">
+		<option id="689" />
+		<option id="709" />
+	</stone>
+	<stone id="90684" slotType="1">
+		<option id="690" />
+		<option id="710" />
+	</stone>
+	<stone id="90685" slotType="1">
+		<option id="691" />
+		<option id="711" />
+	</stone>
+	<stone id="90686" slotType="1">
+		<option id="692" />
+		<option id="712" />
+	</stone>
+	<stone id="90687" slotType="1">
+		<option id="693" />
+		<option id="713" />
+	</stone>
+	<stone id="90688" slotType="1">
+		<option id="694" />
+		<option id="714" />
+	</stone>
+	<stone id="90689" slotType="1">
+		<option id="695" />
+		<option id="715" />
+	</stone>
+	<stone id="90690" slotType="1">
+		<option id="696" />
+		<option id="716" />
+	</stone>
+	<stone id="90691" slotType="1">
+		<option id="697" />
+		<option id="717" />
+	</stone>
+	<stone id="90692" slotType="1">
+		<option id="698" />
+		<option id="718" />
+	</stone>
+	<stone id="90693" slotType="1">
+		<option id="699" />
+		<option id="719" />
+	</stone>
+	<stone id="91173" slotType="2">
+		<option id="1011" />
+	</stone>
+	<stone id="91174" slotType="2">
+		<option id="1012" />
+	</stone>
+	<stone id="91175" slotType="2">
+		<option id="1013" />
+	</stone>
+	<stone id="91176" slotType="2">
+		<option id="1014" />
+	</stone>
+	<stone id="91177" slotType="2">
+		<option id="1015" />
+	</stone>
+	<stone id="91178" slotType="2">
+		<option id="1016" />
+	</stone>
+	<stone id="91179" slotType="2">
+		<option id="1017" />
+	</stone>
+	<stone id="91180" slotType="2">
+		<option id="1018" />
+	</stone>
+	<stone id="91181" slotType="2">
+		<option id="1019" />
+	</stone>
+	<stone id="91182" slotType="2">
+		<option id="1020" />
+	</stone>
+	<stone id="91163" slotType="2">
+		<option id="1001" />
+	</stone>
+	<stone id="91164" slotType="2">
+		<option id="1002" />
+	</stone>
+	<stone id="91165" slotType="2">
+		<option id="1003" />
+	</stone>
+	<stone id="91166" slotType="2">
+		<option id="1004" />
+	</stone>
+	<stone id="91167" slotType="2">
+		<option id="1005" />
+	</stone>
+	<stone id="91168" slotType="2">
+		<option id="1006" />
+	</stone>
+	<stone id="91169" slotType="2">
+		<option id="1007" />
+	</stone>
+	<stone id="91170" slotType="2">
+		<option id="1008" />
+	</stone>
+	<stone id="91171" slotType="2">
+		<option id="1009" />
+	</stone>
+	<stone id="91172" slotType="2">
+		<option id="1010" />
+	</stone>
+	<stone id="92920" slotType="2">
+		<option id="1026" /> <!-- Lilith' Power -->
+	</stone>
+	<stone id="92921" slotType="2">
+		<option id="1027" /> <!-- Lilith' Power -->
+	</stone>
+	<stone id="92922" slotType="2">
+		<option id="1028" /> <!-- Lilith' Power -->
+	</stone>
+	<stone id="92923" slotType="2">
+		<option id="1029" /> <!-- Lilith' Power -->
+	</stone>
+	<stone id="92924" slotType="2">
+		<option id="1030" /> <!-- Lilith' Power -->
+	</stone>
+	<stone id="92925" slotType="2">
+		<option id="1021" /> <!-- Anakim's Power -->
+	</stone>
+	<stone id="92926" slotType="2">
+		<option id="1022" /> <!-- Anakim's Power -->
+	</stone>
+	<stone id="92927" slotType="2">
+		<option id="1023" /> <!-- Anakim's Power -->
+	</stone>
+	<stone id="92928" slotType="2">
+		<option id="1024" /> <!-- Anakim's Power -->
+	</stone>
+	<stone id="92929" slotType="2">
+		<option id="1025" /> <!-- Anakim's Power -->
+	</stone>
+	<stone id="95783" slotType="1">
+		<option id="1101" /> <!-- Health Increase -->
+		<option id="1151" /> <!-- Mana Boost -->
+		<option id="1201" /> <!-- Physical Attack -->
+		<option id="1251" /> <!-- Magic Attack -->
+		<option id="1301" /> <!-- Physical Speed -->
+		<option id="1351" /> <!-- Magical Speed -->
+		<option id="1401" /> <!-- Movement Speed -->
+		<option id="1451" /> <!-- Physical Critical Rate -->
+		<option id="1501" /> <!-- Physical Skill Critical Rate -->
+		<option id="1551" /> <!-- Magical Skill Critical Rate -->
+		<option id="1601" /> <!-- Physical Critical Damage -->
+		<option id="1651" /> <!-- Physical Skill Critical Damage -->
+		<option id="1701" /> <!-- Magical Skill Critical Damage -->
+		<option id="1751" /> <!-- Shock Attack -->
+		<option id="1801" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95784" slotType="1">
+		<option id="1102" /> <!-- Health Increase -->
+		<option id="1152" /> <!-- Mana Boost -->
+		<option id="1202" /> <!-- Physical Attack -->
+		<option id="1252" /> <!-- Magic Attack -->
+		<option id="1302" /> <!-- Physical Speed -->
+		<option id="1352" /> <!-- Magical Speed -->
+		<option id="1402" /> <!-- Movement Speed -->
+		<option id="1452" /> <!-- Physical Critical Rate -->
+		<option id="1502" /> <!-- Physical Skill Critical Rate -->
+		<option id="1552" /> <!-- Magical Skill Critical Rate -->
+		<option id="1602" /> <!-- Physical Critical Damage -->
+		<option id="1652" /> <!-- Physical Skill Critical Damage -->
+		<option id="1702" /> <!-- Magical Skill Critical Damage -->
+		<option id="1752" /> <!-- Shock Attack -->
+		<option id="1802" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95785" slotType="1">
+		<option id="1103" /> <!-- Health Increase -->
+		<option id="1153" /> <!-- Mana Boost -->
+		<option id="1203" /> <!-- Physical Attack -->
+		<option id="1253" /> <!-- Magic Attack -->
+		<option id="1303" /> <!-- Physical Speed -->
+		<option id="1353" /> <!-- Magical Speed -->
+		<option id="1403" /> <!-- Movement Speed -->
+		<option id="1453" /> <!-- Physical Critical Rate -->
+		<option id="1503" /> <!-- Physical Skill Critical Rate -->
+		<option id="1553" /> <!-- Magical Skill Critical Rate -->
+		<option id="1603" /> <!-- Physical Critical Damage -->
+		<option id="1653" /> <!-- Physical Skill Critical Damage -->
+		<option id="1703" /> <!-- Magical Skill Critical Damage -->
+		<option id="1753" /> <!-- Shock Attack -->
+		<option id="1803" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95786" slotType="1">
+		<option id="1104" /> <!-- Health Increase -->
+		<option id="1154" /> <!-- Mana Boost -->
+		<option id="1204" /> <!-- Physical Attack -->
+		<option id="1254" /> <!-- Magic Attack -->
+		<option id="1304" /> <!-- Physical Speed -->
+		<option id="1354" /> <!-- Magical Speed -->
+		<option id="1404" /> <!-- Movement Speed -->
+		<option id="1454" /> <!-- Physical Critical Rate -->
+		<option id="1504" /> <!-- Physical Skill Critical Rate -->
+		<option id="1554" /> <!-- Magical Skill Critical Rate -->
+		<option id="1604" /> <!-- Physical Critical Damage -->
+		<option id="1654" /> <!-- Physical Skill Critical Damage -->
+		<option id="1704" /> <!-- Magical Skill Critical Damage -->
+		<option id="1754" /> <!-- Shock Attack -->
+		<option id="1804" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95787" slotType="1">
+		<option id="1105" /> <!-- Health Increase -->
+		<option id="1155" /> <!-- Mana Boost -->
+		<option id="1205" /> <!-- Physical Attack -->
+		<option id="1255" /> <!-- Magic Attack -->
+		<option id="1305" /> <!-- Physical Speed -->
+		<option id="1355" /> <!-- Magical Speed -->
+		<option id="1405" /> <!-- Movement Speed -->
+		<option id="1455" /> <!-- Physical Critical Rate -->
+		<option id="1505" /> <!-- Physical Skill Critical Rate -->
+		<option id="1555" /> <!-- Magical Skill Critical Rate -->
+		<option id="1605" /> <!-- Physical Critical Damage -->
+		<option id="1655" /> <!-- Physical Skill Critical Damage -->
+		<option id="1705" /> <!-- Magical Skill Critical Damage -->
+		<option id="1755" /> <!-- Shock Attack -->
+		<option id="1805" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95788" slotType="1">
+		<option id="1106" /> <!-- Health Increase -->
+		<option id="1156" /> <!-- Mana Boost -->
+		<option id="1206" /> <!-- Physical Attack -->
+		<option id="1256" /> <!-- Magic Attack -->
+		<option id="1306" /> <!-- Physical Speed -->
+		<option id="1356" /> <!-- Magical Speed -->
+		<option id="1406" /> <!-- Movement Speed -->
+		<option id="1456" /> <!-- Physical Critical Rate -->
+		<option id="1506" /> <!-- Physical Skill Critical Rate -->
+		<option id="1556" /> <!-- Magical Skill Critical Rate -->
+		<option id="1606" /> <!-- Physical Critical Damage -->
+		<option id="1656" /> <!-- Physical Skill Critical Damage -->
+		<option id="1706" /> <!-- Magical Skill Critical Damage -->
+		<option id="1756" /> <!-- Shock Attack -->
+		<option id="1806" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95789" slotType="1">
+		<option id="1107" /> <!-- Health Increase -->
+		<option id="1157" /> <!-- Mana Boost -->
+		<option id="1207" /> <!-- Physical Attack -->
+		<option id="1257" /> <!-- Magic Attack -->
+		<option id="1307" /> <!-- Physical Speed -->
+		<option id="1357" /> <!-- Magical Speed -->
+		<option id="1407" /> <!-- Movement Speed -->
+		<option id="1457" /> <!-- Physical Critical Rate -->
+		<option id="1507" /> <!-- Physical Skill Critical Rate -->
+		<option id="1557" /> <!-- Magical Skill Critical Rate -->
+		<option id="1607" /> <!-- Physical Critical Damage -->
+		<option id="1657" /> <!-- Physical Skill Critical Damage -->
+		<option id="1707" /> <!-- Magical Skill Critical Damage -->
+		<option id="1757" /> <!-- Shock Attack -->
+		<option id="1807" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95790" slotType="1">
+		<option id="1108" /> <!-- Health Increase -->
+		<option id="1158" /> <!-- Mana Boost -->
+		<option id="1208" /> <!-- Physical Attack -->
+		<option id="1258" /> <!-- Magic Attack -->
+		<option id="1308" /> <!-- Physical Speed -->
+		<option id="1358" /> <!-- Magical Speed -->
+		<option id="1408" /> <!-- Movement Speed -->
+		<option id="1458" /> <!-- Physical Critical Rate -->
+		<option id="1508" /> <!-- Physical Skill Critical Rate -->
+		<option id="1558" /> <!-- Magical Skill Critical Rate -->
+		<option id="1608" /> <!-- Physical Critical Damage -->
+		<option id="1658" /> <!-- Physical Skill Critical Damage -->
+		<option id="1708" /> <!-- Magical Skill Critical Damage -->
+		<option id="1758" /> <!-- Shock Attack -->
+		<option id="1808" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95791" slotType="1">
+		<option id="1109" /> <!-- Health Increase -->
+		<option id="1159" /> <!-- Mana Boost -->
+		<option id="1209" /> <!-- Physical Attack -->
+		<option id="1259" /> <!-- Magic Attack -->
+		<option id="1309" /> <!-- Physical Speed -->
+		<option id="1359" /> <!-- Magical Speed -->
+		<option id="1409" /> <!-- Movement Speed -->
+		<option id="1459" /> <!-- Physical Critical Rate -->
+		<option id="1509" /> <!-- Physical Skill Critical Rate -->
+		<option id="1559" /> <!-- Magical Skill Critical Rate -->
+		<option id="1609" /> <!-- Physical Critical Damage -->
+		<option id="1659" /> <!-- Physical Skill Critical Damage -->
+		<option id="1709" /> <!-- Magical Skill Critical Damage -->
+		<option id="1759" /> <!-- Shock Attack -->
+		<option id="1809" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95792" slotType="1">
+		<option id="1110" /> <!-- Health Increase -->
+		<option id="1160" /> <!-- Mana Boost -->
+		<option id="1210" /> <!-- Physical Attack -->
+		<option id="1260" /> <!-- Magic Attack -->
+		<option id="1310" /> <!-- Physical Speed -->
+		<option id="1360" /> <!-- Magical Speed -->
+		<option id="1410" /> <!-- Movement Speed -->
+		<option id="1460" /> <!-- Physical Critical Rate -->
+		<option id="1510" /> <!-- Physical Skill Critical Rate -->
+		<option id="1560" /> <!-- Magical Skill Critical Rate -->
+		<option id="1610" /> <!-- Physical Critical Damage -->
+		<option id="1660" /> <!-- Physical Skill Critical Damage -->
+		<option id="1710" /> <!-- Magical Skill Critical Damage -->
+		<option id="1760" /> <!-- Shock Attack -->
+		<option id="1810" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95793" slotType="1">
+		<option id="1111" /> <!-- Health Increase -->
+		<option id="1161" /> <!-- Mana Boost -->
+		<option id="1211" /> <!-- Physical Attack -->
+		<option id="1261" /> <!-- Magic Attack -->
+		<option id="1311" /> <!-- Physical Speed -->
+		<option id="1361" /> <!-- Magical Speed -->
+		<option id="1411" /> <!-- Movement Speed -->
+		<option id="1461" /> <!-- Physical Critical Rate -->
+		<option id="1511" /> <!-- Physical Skill Critical Rate -->
+		<option id="1561" /> <!-- Magical Skill Critical Rate -->
+		<option id="1611" /> <!-- Physical Critical Damage -->
+		<option id="1661" /> <!-- Physical Skill Critical Damage -->
+		<option id="1711" /> <!-- Magical Skill Critical Damage -->
+		<option id="1761" /> <!-- Shock Attack -->
+		<option id="1811" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95794" slotType="1">
+		<option id="1112" /> <!-- Health Increase -->
+		<option id="1162" /> <!-- Mana Boost -->
+		<option id="1212" /> <!-- Physical Attack -->
+		<option id="1262" /> <!-- Magic Attack -->
+		<option id="1312" /> <!-- Physical Speed -->
+		<option id="1362" /> <!-- Magical Speed -->
+		<option id="1412" /> <!-- Movement Speed -->
+		<option id="1462" /> <!-- Physical Critical Rate -->
+		<option id="1512" /> <!-- Physical Skill Critical Rate -->
+		<option id="1562" /> <!-- Magical Skill Critical Rate -->
+		<option id="1612" /> <!-- Physical Critical Damage -->
+		<option id="1662" /> <!-- Physical Skill Critical Damage -->
+		<option id="1712" /> <!-- Magical Skill Critical Damage -->
+		<option id="1762" /> <!-- Shock Attack -->
+		<option id="1812" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95795" slotType="1">
+		<option id="1113" /> <!-- Health Increase -->
+		<option id="1163" /> <!-- Mana Boost -->
+		<option id="1213" /> <!-- Physical Attack -->
+		<option id="1263" /> <!-- Magic Attack -->
+		<option id="1313" /> <!-- Physical Speed -->
+		<option id="1363" /> <!-- Magical Speed -->
+		<option id="1413" /> <!-- Movement Speed -->
+		<option id="1463" /> <!-- Physical Critical Rate -->
+		<option id="1513" /> <!-- Physical Skill Critical Rate -->
+		<option id="1563" /> <!-- Magical Skill Critical Rate -->
+		<option id="1613" /> <!-- Physical Critical Damage -->
+		<option id="1663" /> <!-- Physical Skill Critical Damage -->
+		<option id="1713" /> <!-- Magical Skill Critical Damage -->
+		<option id="1763" /> <!-- Shock Attack -->
+		<option id="1813" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95796" slotType="1">
+		<option id="1114" /> <!-- Health Increase -->
+		<option id="1164" /> <!-- Mana Boost -->
+		<option id="1214" /> <!-- Physical Attack -->
+		<option id="1264" /> <!-- Magic Attack -->
+		<option id="1314" /> <!-- Physical Speed -->
+		<option id="1364" /> <!-- Magical Speed -->
+		<option id="1414" /> <!-- Movement Speed -->
+		<option id="1464" /> <!-- Physical Critical Rate -->
+		<option id="1514" /> <!-- Physical Skill Critical Rate -->
+		<option id="1564" /> <!-- Magical Skill Critical Rate -->
+		<option id="1614" /> <!-- Physical Critical Damage -->
+		<option id="1664" /> <!-- Physical Skill Critical Damage -->
+		<option id="1714" /> <!-- Magical Skill Critical Damage -->
+		<option id="1764" /> <!-- Shock Attack -->
+		<option id="1814" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95797" slotType="1">
+		<option id="1115" /> <!-- Health Increase -->
+		<option id="1165" /> <!-- Mana Boost -->
+		<option id="1215" /> <!-- Physical Attack -->
+		<option id="1265" /> <!-- Magic Attack -->
+		<option id="1315" /> <!-- Physical Speed -->
+		<option id="1365" /> <!-- Magical Speed -->
+		<option id="1415" /> <!-- Movement Speed -->
+		<option id="1465" /> <!-- Physical Critical Rate -->
+		<option id="1515" /> <!-- Physical Skill Critical Rate -->
+		<option id="1565" /> <!-- Magical Skill Critical Rate -->
+		<option id="1615" /> <!-- Physical Critical Damage -->
+		<option id="1665" /> <!-- Physical Skill Critical Damage -->
+		<option id="1715" /> <!-- Magical Skill Critical Damage -->
+		<option id="1765" /> <!-- Shock Attack -->
+		<option id="1815" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95798" slotType="1">
+		<option id="1116" /> <!-- Health Increase -->
+		<option id="1166" /> <!-- Mana Boost -->
+		<option id="1216" /> <!-- Physical Attack -->
+		<option id="1266" /> <!-- Magic Attack -->
+		<option id="1316" /> <!-- Physical Speed -->
+		<option id="1366" /> <!-- Magical Speed -->
+		<option id="1416" /> <!-- Movement Speed -->
+		<option id="1466" /> <!-- Physical Critical Rate -->
+		<option id="1516" /> <!-- Physical Skill Critical Rate -->
+		<option id="1566" /> <!-- Magical Skill Critical Rate -->
+		<option id="1616" /> <!-- Physical Critical Damage -->
+		<option id="1666" /> <!-- Physical Skill Critical Damage -->
+		<option id="1716" /> <!-- Magical Skill Critical Damage -->
+		<option id="1766" /> <!-- Shock Attack -->
+		<option id="1816" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95799" slotType="1">
+		<option id="1117" /> <!-- Health Increase -->
+		<option id="1167" /> <!-- Mana Boost -->
+		<option id="1217" /> <!-- Physical Attack -->
+		<option id="1267" /> <!-- Magic Attack -->
+		<option id="1317" /> <!-- Physical Speed -->
+		<option id="1367" /> <!-- Magical Speed -->
+		<option id="1417" /> <!-- Movement Speed -->
+		<option id="1467" /> <!-- Physical Critical Rate -->
+		<option id="1517" /> <!-- Physical Skill Critical Rate -->
+		<option id="1567" /> <!-- Magical Skill Critical Rate -->
+		<option id="1617" /> <!-- Physical Critical Damage -->
+		<option id="1667" /> <!-- Physical Skill Critical Damage -->
+		<option id="1717" /> <!-- Magical Skill Critical Damage -->
+		<option id="1767" /> <!-- Shock Attack -->
+		<option id="1817" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95800" slotType="1">
+		<option id="1118" /> <!-- Health Increase -->
+		<option id="1168" /> <!-- Mana Boost -->
+		<option id="1218" /> <!-- Physical Attack -->
+		<option id="1268" /> <!-- Magic Attack -->
+		<option id="1318" /> <!-- Physical Speed -->
+		<option id="1368" /> <!-- Magical Speed -->
+		<option id="1418" /> <!-- Movement Speed -->
+		<option id="1468" /> <!-- Physical Critical Rate -->
+		<option id="1518" /> <!-- Physical Skill Critical Rate -->
+		<option id="1568" /> <!-- Magical Skill Critical Rate -->
+		<option id="1618" /> <!-- Physical Critical Damage -->
+		<option id="1668" /> <!-- Physical Skill Critical Damage -->
+		<option id="1718" /> <!-- Magical Skill Critical Damage -->
+		<option id="1768" /> <!-- Shock Attack -->
+		<option id="1818" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95801" slotType="1">
+		<option id="1119" /> <!-- Health Increase -->
+		<option id="1169" /> <!-- Mana Boost -->
+		<option id="1219" /> <!-- Physical Attack -->
+		<option id="1269" /> <!-- Magic Attack -->
+		<option id="1319" /> <!-- Physical Speed -->
+		<option id="1369" /> <!-- Magical Speed -->
+		<option id="1419" /> <!-- Movement Speed -->
+		<option id="1469" /> <!-- Physical Critical Rate -->
+		<option id="1519" /> <!-- Physical Skill Critical Rate -->
+		<option id="1569" /> <!-- Magical Skill Critical Rate -->
+		<option id="1619" /> <!-- Physical Critical Damage -->
+		<option id="1669" /> <!-- Physical Skill Critical Damage -->
+		<option id="1719" /> <!-- Magical Skill Critical Damage -->
+		<option id="1769" /> <!-- Shock Attack -->
+		<option id="1819" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95802" slotType="1">
+		<option id="1120" /> <!-- Health Increase -->
+		<option id="1170" /> <!-- Mana Boost -->
+		<option id="1220" /> <!-- Physical Attack -->
+		<option id="1270" /> <!-- Magic Attack -->
+		<option id="1320" /> <!-- Physical Speed -->
+		<option id="1370" /> <!-- Magical Speed -->
+		<option id="1420" /> <!-- Movement Speed -->
+		<option id="1470" /> <!-- Physical Critical Rate -->
+		<option id="1520" /> <!-- Physical Skill Critical Rate -->
+		<option id="1570" /> <!-- Magical Skill Critical Rate -->
+		<option id="1620" /> <!-- Physical Critical Damage -->
+		<option id="1670" /> <!-- Physical Skill Critical Damage -->
+		<option id="1720" /> <!-- Magical Skill Critical Damage -->
+		<option id="1770" /> <!-- Shock Attack -->
+		<option id="1820" /> <!-- Silence Attack -->
+	</stone>
+	<stone id="95803" slotType="2">
+		<option id="1851" /> <!-- Physical Abilities -->
+		<option id="1901" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95804" slotType="2">
+		<option id="1852" /> <!-- Physical Abilities -->
+		<option id="1902" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95805" slotType="2">
+		<option id="1853" /> <!-- Physical Abilities -->
+		<option id="1903" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95806" slotType="2">
+		<option id="1854" /> <!-- Physical Abilities -->
+		<option id="1904" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95807" slotType="2">
+		<option id="1855" /> <!-- Physical Abilities -->
+		<option id="1905" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95808" slotType="2">
+		<option id="1856" /> <!-- Physical Abilities -->
+		<option id="1906" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95809" slotType="2">
+		<option id="1857" /> <!-- Physical Abilities -->
+		<option id="1907" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95810" slotType="2">
+		<option id="1858" /> <!-- Physical Abilities -->
+		<option id="1908" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95811" slotType="2">
+		<option id="1859" /> <!-- Physical Abilities -->
+		<option id="1909" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95812" slotType="2">
+		<option id="1860" /> <!-- Physical Abilities -->
+		<option id="1910" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95813" slotType="2">
+		<option id="1861" /> <!-- Physical Abilities -->
+		<option id="1911" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95814" slotType="2">
+		<option id="1862" /> <!-- Physical Abilities -->
+		<option id="1912" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95815" slotType="2">
+		<option id="1863" /> <!-- Physical Abilities -->
+		<option id="1913" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95816" slotType="2">
+		<option id="1864" /> <!-- Physical Abilities -->
+		<option id="1914" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95817" slotType="2">
+		<option id="1865" /> <!-- Physical Abilities -->
+		<option id="1915" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95818" slotType="2">
+		<option id="1866" /> <!-- Physical Abilities -->
+		<option id="1916" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95819" slotType="2">
+		<option id="1867" /> <!-- Physical Abilities -->
+		<option id="1917" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95820" slotType="2">
+		<option id="1868" /> <!-- Physical Abilities -->
+		<option id="1918" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95821" slotType="2">
+		<option id="1869" /> <!-- Physical Abilities -->
+		<option id="1919" /> <!-- Magical Abilities -->
+	</stone>
+	<stone id="95822" slotType="2">
+		<option id="1870" /> <!-- Physical Abilities -->
+		<option id="1920" /> <!-- Magical Abilities -->
+	</stone>
+</list>

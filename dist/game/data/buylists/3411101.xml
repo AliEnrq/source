@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+	<npcs>
+		<npc>34111</npc> <!-- Reahen -->
+	</npcs>
+	<item id="91927" price="28" /> <!-- Soulshot -->
+	<item id="91930" price="84" /> <!-- Blessed Spiritshot -->
+	<item id="6645" price="28" /> <!-- Beast Soulshot -->
+	<item id="6646" price="70" /> <!-- Beast Spiritshot -->
+	<item id="91912" price="34" /> <!-- HP Potion -->
+	<item id="3031" price="560" /> <!-- Spirit Ore -->
+	<item id="2508" price="420" /> <!-- Cursed Bone -->
+	<item id="736" price="560" /> <!-- Scroll of Teleport -->
+	<item id="93966" price="2800" /> <!-- Pet food -->
+	<item id="93967" price="168" /> <!-- Pet HP Potion (Tradable) -->
+	<item id="17" price="1" /> <!-- Wooden Arrow -->
+	<item id="1341" price="1" /> <!-- Bone Arrow -->
+	<item id="94891" price="140000" /> <!-- No-Grade Elemental Ord (Sealed) -->
+	<item id="94892" price="280000" /> <!-- D-Grade Elemental Ord (Sealed) -->
+	<item id="94185" price="2800000" /> <!-- Life Stone Lv.1 - Weapon -->
+	<item id="94187" price="1260000" /> <!-- Life Stone Lv.1 - Armor -->
+	<item id="1831" price="90" /> <!-- Antidote -->
+	<item id="1833" price="90" /> <!-- Bandage -->
+	<item id="734" price="1440" /> <!-- Haste Potion -->
+	<item id="735" price="2880" /> <!-- Haste Potion Atk. -->
+	<item id="6035" price="2880" /> <!-- Speed Increase Potion Magician -->
+	<item id="1785" price="300" /> <!-- SoulStone -->
+	<item id="5589" price="120" /> <!-- Energy Stone -->
+	<item id="5192" price="140" /> <!-- Magic Rope: D-grade -->
+	<item id="5193" price="210" /> <!-- Magic Rope: C-grade -->
+	<item id="5194" price="350" /> <!-- Magic Rope: B-grade -->
+	<item id="5195" price="560" /> <!-- Magic Rope: A-grade -->
+	<item id="93662" price="980" /> <!-- Appearance Potion - A -->
+	<item id="93663" price="980" /> <!-- Appearance Potion - B -->
+	<item id="93664" price="980" /> <!-- Appearance Potion - C -->
+	<item id="93665" price="980" /> <!-- Dye Potion - A -->
+	<item id="93666" price="980" /> <!-- Dye Potion - B -->
+	<item id="93667" price="980" /> <!-- Dye Potion - C -->
+	<item id="93668" price="980" /> <!-- Dye Potion - D -->
+	<item id="93669" price="980" /> <!-- Hair Style Potion - A -->
+	<item id="93670" price="980" /> <!-- Hair Style Potion - B -->
+	<item id="93671" price="980" /> <!-- Hair Style Potion - C -->
+	<item id="93672" price="980" /> <!-- Hair Style Potion - D -->
+	<item id="93673" price="980" /> <!-- Hair Style Potion - E -->
+	<item id="93674" price="980" /> <!-- Hair Style Potion - F -->
+	<item id="93675" price="980" /> <!-- Hair Style Potion - G -->
+</list>

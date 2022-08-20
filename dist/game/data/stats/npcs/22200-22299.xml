@@ -1,0 +1,3246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="22200" level="65" type="Monster" name="Porta" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="7170" sp="212" attributeExp="22" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="5620.23121387283" hpRegen="10.5" mp="1285.80858085809" mpRegen="3.6" />
+			<speed>
+				<walk ground="23" />
+				<run ground="23" />
+			</speed>
+			<attack physical="367.275422872161" magical="80.8169973141629" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="163.636363636364" magical="87.008700870087" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4116" level="3" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="281" max="657" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="6.747" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="6.734" /> <!-- Old Resources -->
+				<item id="92909" min="1" max="1" chance="1.348" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.337" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92690" min="1" max="1" chance="0.003" /> <!-- Demon's Staff Head -->
+				<item id="92689" min="1" max="1" chance="0.003" /> <!-- Ghoul's Staff Head -->
+				<item id="92688" min="1" max="1" chance="0.003" /> <!-- Deadman's Staff Head -->
+				<item id="92687" min="1" max="1" chance="0.003" /> <!-- Samurai Long Sword Blade -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="86.31" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="17.35" /> <!-- Unknown Resources -->
+				<item id="92999" min="1" max="1" chance="1.648" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22201" level="66" type="Monster" name="Excuro" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="7306" sp="218" attributeExp="23" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="5752.02312138728" hpRegen="10.5" mp="1319.47194719472" mpRegen="3.6" />
+			<speed>
+				<walk ground="90" />
+				<run ground="174" />
+			</speed>
+			<attack physical="398.38350988785" magical="88.2228587418453" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="162.58064516129" magical="92.835089960609" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="11" />
+			<height normal="20" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="2380" min="1" max="1" chance="0.0009" /> <!-- Blue Wolf Gaiters -->
+				<item id="2381" min="1" max="1" chance="0.0009" /> <!-- Doom Plate Armor -->
+				<item id="2392" min="1" max="1" chance="0.0009" /> <!-- Doom Leather Armor -->
+				<item id="57" min="289" max="673" chance="70" /> <!-- Adena -->
+				<item id="92996" min="1" max="1" chance="6.856" /> <!-- Old Resources -->
+				<item id="92908" min="1" max="1" chance="6.826" /> <!-- Material: Lump of Wood -->
+				<item id="92997" min="1" max="1" chance="1.354" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="1.309" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92769" min="1" max="1" chance="0.03" /> <!-- Blue Wolf Gaiter Material -->
+				<item id="92772" min="1" max="1" chance="0.0075" /> <!-- Doom Leather Armor Design -->
+				<item id="92770" min="1" max="1" chance="0.003" /> <!-- Doom Plate Armor Temper -->
+				<item id="92988" min="1" max="1" chance="0.0009" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="81.47" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="17.45" /> <!-- Unknown Resources -->
+				<item id="92999" min="1" max="1" chance="1.636" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22202" level="67" type="Monster" name="Mordeo" element="FIRE">
+		<race>BEAST</race>
+		<sex>FEMALE</sex>
+		<acquire exp="7656" sp="225" attributeExp="25" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="5881.50289017341" hpRegen="10.5" mp="1352.47524752475" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="174" />
+			</speed>
+			<attack physical="407.709414381023" magical="89.8639684292209" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="164.102564102564" magical="93.5093509350935" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="14" />
+			<height normal="14.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="304" max="711" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="6.773" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="6.707" /> <!-- Old Resources -->
+				<item id="3031" min="1" max="1" chance="1.717" /> <!-- Spirit Ore -->
+				<item id="92909" min="1" max="1" chance="1.394" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.319" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="90.35" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="17.48" /> <!-- Unknown Resources -->
+				<item id="92999" min="1" max="1" chance="1.746" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22203" level="68" type="Monster" name="Ricenseo" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="7580" sp="232" attributeExp="26" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6011.56069364162" hpRegen="10.5" mp="1386.79867986799" mpRegen="3.6" />
+			<speed>
+				<walk ground="90" />
+				<run ground="174" />
+			</speed>
+			<attack physical="375.838672666235" magical="93.1998192042514" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="179.617834394904" magical="88.7095078934645" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="43" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="304" max="711" chance="70" /> <!-- Adena -->
+				<item id="92996" min="1" max="1" chance="7.237" /> <!-- Old Resources -->
+				<item id="92908" min="1" max="1" chance="7.211" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="1.442" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.398" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="91.955" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="18.44" /> <!-- Unknown Resources -->
+				<item id="92999" min="1" max="1" chance="1.804" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22204" level="69" type="Monster" name="Krator" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="7708" sp="239" attributeExp="28" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6137.57225433526" hpRegen="10.5" mp="1421.12211221122" mpRegen="3.6" />
+			<speed>
+				<walk ground="23" />
+				<run ground="23" />
+			</speed>
+			<attack physical="343.433016486661" magical="92.7657621073254" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="170.886075949367" magical="93.9967414462965" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4116" level="3" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="310" max="724" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="7.431" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="7.376" /> <!-- Old Resources -->
+				<item id="92909" min="1" max="1" chance="1.52" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.443" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="88.56" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="17.45" /> <!-- Unknown Resources -->
+				<item id="92999" min="1" max="1" chance="1.873" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22205" level="70" type="Monster" name="Catherok" element="FIRE">
+		<race>HUMANOID</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="144" />
+		<acquire exp="7933" sp="245" attributeExp="30" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6263.5838150289" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="174" />
+			</speed>
+			<attack physical="360.854301579087" magical="94.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="172.327044025157" magical="95.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="10" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="372" max="870" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="6.758" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="6.752" /> <!-- Old Resources -->
+				<item id="92909" min="1" max="1" chance="1.35" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.271" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="91035" min="1" max="1" chance="0.075" /> <!-- Water Spirit Ore -->
+				<item id="91036" min="1" max="1" chance="0.075" /> <!-- Fire Spirit Ore -->
+				<item id="91037" min="1" max="1" chance="0.075" /> <!-- Wind Spirit Ore -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="91038" min="1" max="1" chance="0.075" /> <!-- Earth Spirit Ore -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="83.18" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="16.88" /> <!-- Unknown Resources -->
+				<item id="92999" min="1" max="1" chance="1.709" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22206" level="71" type="Monster" name="Premo" element="FIRE">
+		<race>GIANT</race>
+		<sex>FEMALE</sex>
+		<acquire exp="8963" sp="505" attributeExp="32" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6387.8612716763" hpRegen="10.5" mp="1489.76897689769" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<attack physical="402.149740548555" magical="95.8909801792651" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="185" magical="91.5841584158416" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="422" max="985" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="7.535" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="7.519" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="1.567" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="1.454" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92792" min="1" max="1" chance="0.003" /> <!-- Keshanberk Blade -->
+				<item id="92791" min="1" max="1" chance="0.003" /> <!-- Spirit's Staff Head -->
+				<item id="92790" min="1" max="1" chance="0.003" /> <!-- Heavy War Axe Head -->
+				<item id="92789" min="1" max="1" chance="0.003" /> <!-- Great Sword Blade -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="69.34" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="13.73" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="7.001" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.354" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22207" level="72" type="Monster" name="Validus" element="FIRE">
+		<race>BEAST</race>
+		<sex>FEMALE</sex>
+		<acquire exp="9129" sp="519" attributeExp="34" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6508.09248554913" hpRegen="10.5" mp="1524.75247524752" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="424.97548218372" magical="97.8926873074313" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="183.229813664596" magical="95.115101572269" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="29" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="358" min="1" max="1" chance="0.0009" /> <!-- Blue Wolf Breastplate -->
+				<item id="2391" min="1" max="1" chance="0.0009" /> <!-- Blue Wolf Leather Armor -->
+				<item id="57" min="430" max="1005" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="7.793" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="7.715" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="1.583" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="1.537" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92768" min="1" max="1" chance="0.03" /> <!-- Blue Wolf Breastplate Part -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92771" min="1" max="1" chance="0.0075" /> <!-- Blue Wolf Leather Armor Texture -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="70.98" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="14.42" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="7.114" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.411" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22208" level="73" type="Monster" name="Dicor" element="FIRE">
+		<race>PLANT</race>
+		<sex>FEMALE</sex>
+		<acquire exp="9294" sp="533" attributeExp="36" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6626.58959537572" hpRegen="10.5" mp="1559.73597359736" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="174" />
+			</speed>
+			<attack physical="377.508717019466" magical="95.7472890089901" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="178.395061728395" magical="97.7875565334311" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="5" /> <!-- Plants -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="426" max="997" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="7.146" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="7.066" /> <!-- Old Resources -->
+				<item id="3031" min="1" max="1" chance="1.821" /> <!-- Spirit Ore -->
+				<item id="92909" min="1" max="1" chance="1.478" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.463" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="71.04" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="14.2" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="7.15" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.48" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22209" level="74" type="Monster" name="Perum" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="9422" sp="548" attributeExp="38" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6743.93063583815" hpRegen="10.5" mp="1594.71947194719" mpRegen="3.6" />
+			<speed>
+				<walk ground="20" />
+				<run ground="20" />
+			</speed>
+			<attack physical="412.48459435983" magical="96.0667463911656" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="179.141104294479" magical="96.7826844034097" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4116" level="3" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="18" />
+			<height normal="34" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="423" max="988" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="7.642" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="7.547" /> <!-- Old Resources -->
+				<item id="92909" min="1" max="1" chance="1.505" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.456" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="69.83" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="14.64" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="6.98" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.337" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22210" level="75" type="Monster" name="Torfe" element="FIRE">
+		<race>BEAST</race>
+		<sex>FEMALE</sex>
+		<acquire exp="9599" sp="563" attributeExp="41" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6858.95953757225" hpRegen="10.5" mp="1631.02310231023" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="343.072556003544" magical="92.9903099408827" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="190.243902439024" magical="91.7652740883845" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="29" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="421" max="984" chance="70" /> <!-- Adena -->
+				<item id="92996" min="1" max="1" chance="7.527" /> <!-- Old Resources -->
+				<item id="92908" min="1" max="1" chance="7.519" /> <!-- Material: Lump of Wood -->
+				<item id="92997" min="1" max="1" chance="1.521" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="1.517" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="71.47" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="13.39" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="6.928" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.425" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22211" level="75" type="Monster" name="Death Lord" element="FIRE">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="75" />
+		<acquire exp="9599" sp="563" attributeExp="41" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="6858.95953757225" hpRegen="10.5" mp="1631.02310231023" mpRegen="3.6" />
+			<speed>
+				<walk ground="27" />
+				<run ground="174" />
+			</speed>
+			<attack physical="343.072556003544" magical="92.9903099408827" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="190.243902439024" magical="91.7652740883845" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="29" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="421" max="984" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="7.616" /> <!-- Material: Lump of Wood -->
+				<item id="92996" min="1" max="1" chance="7.512" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="1.496" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="1.456" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="91038" min="1" max="1" chance="0.075" /> <!-- Earth Spirit Ore -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="91035" min="1" max="1" chance="0.075" /> <!-- Water Spirit Ore -->
+				<item id="91036" min="1" max="1" chance="0.075" /> <!-- Fire Spirit Ore -->
+				<item id="91037" min="1" max="1" chance="0.075" /> <!-- Wind Spirit Ore -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+				<item id="91031" min="1" max="1" chance="0.0009" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.0009" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="91033" min="1" max="1" chance="0.0009" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+				<item id="92988" min="1" max="1" chance="0.0009" /> <!-- Orcish Treasure -->
+				<item id="91034" min="1" max="1" chance="0.0009" /> <!-- Earth Spirit Evolution Stone -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="70.45" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="14.13" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="6.931" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.356" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22212" level="85" type="Monster" name="Knoriks' Knight" element="EARTH">
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="1472" />
+		<acquire exp="557678" sp="3441" attributeExp="1470" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="26867.0520231214" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="100" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4086" level="1" /> <!-- Critical Chance -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="45" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5312" min="1" max="1" chance="0.03" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5313" min="1" max="1" chance="0.03" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5314" min="1" max="1" chance="0.03" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5315" min="1" max="1" chance="0.03" /> <!-- Sealed Shield of Nightmare -->
+				<item id="57" min="32476" max="75778" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="5.408" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="1.1" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.75" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.75" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="62.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="31.54" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="3.077" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22213" level="85" type="Folk" name="Artisan">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="23928" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="22214" level="85" type="Folk" name="Scavenger">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="23928" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="22215" level="85" type="Folk" name="Dwarven Soldier">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="23928" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22216" level="85" type="Folk" name="Dwarven Hunter">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15304" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="22800" hpRegen="10.5" mp="23928" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="20" />
+		</collision>
+	</npc>
+	<npc id="22217" level="85" type="Folk" name="Dwarven Mage">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="22800" hpRegen="10.5" mp="23928" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22218" level="85" type="Folk" name="Dwarven Berserker">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="22800" hpRegen="10.5" mp="23928" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="25" />
+		</collision>
+	</npc>
+	<npc id="22219" level="85" type="Folk" name="Battle Golem">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="26600" hpRegen="10.5" mp="25074" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="22220" level="85" type="Folk" name="Battle Golem">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="26600" hpRegen="10.5" mp="25074" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="22221" level="85" type="Folk" name="Battle Golem">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="26600" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="22222" level="85" type="Folk" name="Lurin" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="30400" hpRegen="10.5" mp="25074" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="22223" level="85" type="Folk" name="Lurin" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="30400" hpRegen="10.5" mp="25074" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="22224" level="85" type="Folk" name="Lurin" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="30400" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="22225" level="85" type="Folk" name="Artisan" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="22226" level="85" type="Folk" name="Scavenger" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="22227" level="85" type="Folk" name="Dwarven Soldier" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22228" level="85" type="Folk" name="Dwarven Hunter" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15304" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="20" />
+		</collision>
+	</npc>
+	<npc id="22229" level="85" type="Folk" name="Dwarven Mage" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22230" level="85" type="Folk" name="Dwarven Berserker" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="25" />
+		</collision>
+	</npc>
+	<npc id="22231" level="85" type="Folk" name="Battle Golem" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25074" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="22232" level="85" type="Folk" name="Battle Golem" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="22233" level="85" type="Folk" name="Battle Golem" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="25" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="22234" level="85" type="Folk" name="Lurin" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25074" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="22235" level="85" type="Folk" name="Lurin" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="22236" level="85" type="Folk" name="Lurin" title="Black Anvil Guild">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19000" hpRegen="10.5" mp="25848" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="22237" level="85" type="Monster" name="Sel Mahum Sniper" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="284" />
+		<acquire exp="228691" sp="18165" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="18960.6936416185" hpRegen="10.5" mp="12252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="1405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="15.6" />
+			<height normal="33" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="945" max="2206" chance="70" /> <!-- Adena -->
+				<item id="3031" min="1" max="1" chance="8.434" /> <!-- Spirit Ore -->
+				<item id="92476" min="1" max="1" chance="6.707" /> <!-- Metal Ingot -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="1.741" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22238" level="85" type="Monster" name="Sel Mahum Raider" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="66" />
+		<acquire exp="231133" sp="8858" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="15.6" />
+			<height normal="31.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5295" min="1" max="1" chance="0.003" /> <!-- Sealed Tallum Gloves -->
+				<item id="5296" min="1" max="1" chance="0.003" /> <!-- Sealed Tallum Boots -->
+				<item id="5294" min="1" max="1" chance="0.0009" /> <!-- Sealed Tallum Helmet -->
+				<item id="57" min="1027" max="2397" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92822" min="1" max="1" chance="0.075" /> <!-- Sealed Tallum Boot Lining -->
+				<item id="92826" min="1" max="1" chance="0.075" /> <!-- Sealed Tallum Glove Design -->
+				<item id="92835" min="1" max="1" chance="0.03" /> <!-- Sealed Tallum Helmet Design -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="1.96" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22239" level="85" type="Monster" name="Sel Mahum Berserker" element="FIRE">
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<equipment rhand="95430" />
+		<acquire exp="38539" sp="10968" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="15187.2832369942" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
+			<clanList>
+				<clan>SEL_MAHUM</clan>
+			</clanList>
+		</ai>
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="38" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5290" min="1" max="1" chance="0.003" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="1" max="1" chance="0.003" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5292" min="1" max="1" chance="0.003" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5289" min="1" max="1" chance="0.0009" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="57" min="1261" max="2941" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92821" min="1" max="1" chance="0.075" /> <!-- Sealed Dark Crystal Boot Lining -->
+				<item id="92825" min="1" max="1" chance="0.075" /> <!-- Sealed Dark Crystal Glove Design -->
+				<item id="92819" min="1" max="1" chance="0.075" /> <!-- Sealed Dark Crystal Shield Fragment -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92834" min="1" max="1" chance="0.03" /> <!-- Sealed Dark Crystal Helmet Design -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.322" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.179" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22240" level="85" type="Monster" name="Sel Mahum Mage" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="5798" />
+		<acquire exp="228691" sp="28165" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="8960.6936416185" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="34" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="945" max="2206" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="1.807" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22241" level="85" type="Monster" name="Sel Mahum Thief" title="Avenger" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="148" />
+		<acquire exp="231133" sp="28858" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="5062.42774566474" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="13" />
+			<height normal="28" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1027" max="2397" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+				<item id="92988" min="1" max="1" chance="0.003" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="1.895" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22242" level="85" type="Monster" name="Sel Mahum Wizard" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="233459" sp="29523" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="49" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="29" />
+			<height normal="33.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5295" min="1" max="1" chance="0.003" /> <!-- Sealed Tallum Gloves -->
+				<item id="5296" min="1" max="1" chance="0.003" /> <!-- Sealed Tallum Boots -->
+				<item id="5294" min="1" max="1" chance="0.0009" /> <!-- Sealed Tallum Helmet -->
+				<item id="57" min="971" max="2265" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92822" min="1" max="1" chance="0.075" /> <!-- Sealed Tallum Boot Lining -->
+				<item id="92826" min="1" max="1" chance="0.075" /> <!-- Sealed Tallum Glove Design -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92835" min="1" max="1" chance="0.03" /> <!-- Sealed Tallum Helmet Design -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="1.775" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22243" level="85" type="Monster" name="Sel Mahum Knight" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="241761" sp="11886" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="15187.2832369942" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="29" />
+			<height normal="37" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5290" min="1" max="1" chance="0.003" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="1" max="1" chance="0.003" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5292" min="1" max="1" chance="0.003" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5289" min="1" max="1" chance="0.0009" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="57" min="1218" max="2842" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92821" min="1" max="1" chance="0.075" /> <!-- Sealed Dark Crystal Boot Lining -->
+				<item id="92825" min="1" max="1" chance="0.075" /> <!-- Sealed Dark Crystal Glove Design -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92834" min="1" max="1" chance="0.03" /> <!-- Sealed Dark Crystal Helmet Design -->
+				<item id="92819" min="1" max="1" chance="0.03" /> <!-- Sealed Dark Crystal Shield Fragment -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.27" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.129" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22244" level="85" type="Monster" name="Sel Mahum Footman" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="79" />
+		<acquire exp="249456" sp="14075" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="13" />
+			<height normal="32" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1438" max="3356" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+				<item id="92988" min="1" max="1" chance="0.0075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.742" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.336" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22245" level="85" type="Monster" name="Sel Mahum Bowman" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="233156" sp="9436" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="27" />
+			<height normal="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="971" max="2265" chance="70" /> <!-- Adena -->
+				<item id="3031" min="1" max="1" chance="7.617" /> <!-- Spirit Ore -->
+				<item id="92476" min="1" max="1" chance="6.004" /> <!-- Metal Ingot -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="1.789" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22247" level="85" type="Monster" name="Sel Mahum Leader" title="Crimson Blood Base" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="101591" sp="28908" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="30374.5664739884" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="37.7" />
+			<height normal="49" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="2962" max="6912" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92988" min="1" max="1" chance="0.03" /> <!-- Orcish Treasure -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="5.69" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="2.867" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22248" level="85" type="Monster" name="Sel Mahum Legionary" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="95594" sp="27203" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="29" />
+			<height normal="37" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="2787" max="6504" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="1.217" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.3" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="5.251" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="2.607" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22249" level="85" type="Monster" name="Sel Mahum Senior Watchman" title="Crimson Blood Base" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="148" />
+		<acquire exp="87734" sp="24963" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="25312.1387283237" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="19.5" />
+			<height normal="43.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="2376" max="5543" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.0075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="4.44" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="2.312" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22250" level="85" type="Monster" name="Sel Mahum Warrior" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="160" />
+		<acquire exp="79215" sp="22542" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="15187.2832369942" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="15.6" />
+			<height normal="31.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="2145" max="5005" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.3" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.075" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="4.058" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.995" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22251" level="85" type="Monster" name="Sel Mahum Commander" title="Crimson Blood Base" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="5128" />
+		<acquire exp="57215" sp="16278" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="67" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="23" />
+			<height normal="61" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1668" max="3893" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+				<item id="92988" min="1" max="1" chance="0.0075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="3.209" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.549" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22252" level="85" type="Monster" name="Sel Mahum Fighter" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="127" />
+		<acquire exp="44579" sp="12688" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7391.32947976879" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="37" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1579" max="3684" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.3" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.075" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.98" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.454" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22253" level="85" type="Monster" name="Sel Mahum Elder" title="Jisra's Escort" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="241826" sp="11712" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="49" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="29" />
+			<height normal="33.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1085" max="2531" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.075" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.064" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22254" level="85" type="Monster" name="Sel Mahum Knight Captain" title="Jisra's Escort" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="252201" sp="14617" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="15187.2832369942" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="29" />
+			<height normal="37" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1361" max="3176" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.3" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.075" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.524" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.29" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22255" level="85" type="Monster" name="Sel Mahum Escort Captain" title="Jisra's Escort" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="79" />
+		<acquire exp="261818" sp="17312" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="13" />
+			<height normal="32" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1607" max="3751" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.0075" /> <!-- Material: Metal Ingot -->
+				<item id="92988" min="1" max="1" chance="0.0075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.0009" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="3.067" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.533" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22256" level="85" type="Monster" name="Sel Mahum Archer" title="Jisra's Escort" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="241443" sp="11604" attributeExp="1215" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="27" />
+			<height normal="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1085" max="2531" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.03" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="2.018" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="1.019" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22257" level="80" type="Monster" name="Timo" title="Garden Prowler" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="123718" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="13" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="8.4" />
+			<height normal="16.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1054" max="2463" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22258" level="80" type="Monster" name="Dire Soldier" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="119899" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="17381.50289017341" hpRegen="10.5" mp="12169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="23.25" />
+			<height normal="35.25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="885" max="2067" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22259" level="80" type="Monster" name="Dire Guard" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="123718" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="20" />
+				<run ground="154" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="48" />
+			<height normal="37" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1054" max="2463" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22260" level="80" type="Monster" name="Dire Archer" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="94359" />
+		<acquire exp="123718" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="22.5" />
+			<height normal="38.25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1054" max="2463" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22261" level="80" type="Monster" name="Dire Warrior" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="123718" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="12169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="51" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="30" />
+			<height normal="39" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1054" max="2463" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22262" level="80" type="Monster" name="Dire Spearman" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="123718" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="57" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="35" />
+			<height normal="46.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1054" max="2463" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22263" level="80" type="Monster" name="Kastia's Soldier" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="134154" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="23.25" />
+			<height normal="35.25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1120" max="2616" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22264" level="80" type="Monster" name="Kastia's Warrior" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="128654" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="29" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="30" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="939" max="2194" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22265" level="80" type="Monster" name="Kastia's Mystic" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="134154" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="35" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1120" max="2616" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22266" level="80" type="Monster" name="Kastia's Captain" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="134154" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="30" />
+			<height normal="49.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1120" max="2616" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22267" level="80" type="Monster" name="Kastia's Archer" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="94359" />
+		<acquire exp="134154" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="1208.284023668639" magical="196.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="22.5" />
+			<height normal="38.25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1120" max="2616" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22268" level="80" type="Monster" name="Kastia's Archmage" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="134154" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="2108.284023668639" magical="916.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="35" />
+			<height normal="33" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1120" max="2616" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.075" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.03" /> <!-- Enria -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22269" level="80" type="Monster" name="Kalix" title="Swift Hunter" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="134052" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="22143.9306358382" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="200" />
+			</speed>
+			<attack physical="4167.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="2108.284023668639" magical="916.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="43.2" />
+			<height normal="60.6" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1514" max="3537" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.0075" /> <!-- Enria -->
+				<item id="92974" min="1" max="1" chance="0.003" /> <!-- Stone of Purity -->
+				<item id="94136" min="1" max="1" chance="0.0009" /> <!-- Master's Book: Shield -->
+				<item id="94135" min="1" max="1" chance="0.0009" /> <!-- Master's Book: Might -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22270" level="80" type="Monster" name="Kastia's Elite Captain" title="Swift Hunter" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="149035" sp="13601" attributeExp="1040" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="22143.9306358382" hpRegen="10.5" mp="2169.63696369637" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="4167.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="2108.284023668639" magical="916.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="4416" level="24" /> <!-- Unknown Creature -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="44" />
+			<height normal="49" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="1607" max="3755" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="0.03" /> <!-- Asofe -->
+				<item id="92993" min="1" max="1" chance="0.0075" /> <!-- Enria -->
+				<item id="94136" min="1" max="1" chance="0.003" /> <!-- Master's Book: Shield -->
+				<item id="94135" min="1" max="1" chance="0.003" /> <!-- Master's Book: Might -->
+				<item id="92974" min="1" max="1" chance="0.003" /> <!-- Stone of Purity -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22271" level="80" type="Monster" name="Corrupted Fairy">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="18925" sp="1991" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<collision>
+			<radius normal="8.1" />
+			<height normal="40.2" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="342" max="799" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22272" level="80" type="Monster" name="Corrupted Fairy">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="77984" sp="8218" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="22143.9306358382" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="28" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="410" max="959" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22273" level="80" type="Monster" name="Ruip" title="Corrupted Fairy Captain">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="210471" sp="22189" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="38844.5086705202" hpRegen="10.5" mp="2042.90429042904" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="120" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<collision>
+			<radius normal="19" />
+			<height normal="53" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="513" max="1198" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22274" level="85" type="Folk" name="Small Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="3646" hpRegen="10.5" mp="2512" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="12" />
+		</collision>
+	</npc>
+	<npc id="22275" level="85" type="Monster" name="Sel Mahum Raider">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="66" />
+		<acquire exp="231133" sp="8858" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="13" />
+			<height normal="26" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="92915" min="1" max="1" chance="100" /> <!-- Material: Bag of Low-grade Stuff -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22276" level="85" type="Monster" name="Sel Mahum Footman">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="79" />
+		<acquire exp="249456" sp="14075" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="13" />
+			<height normal="32" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="92915" min="1" max="1" chance="100" /> <!-- Material: Bag of Low-grade Stuff -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22277" level="85" type="Monster" name="Sel Mahum Knight">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="241761" sp="11886" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="15187.2832369942" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+		</skillList>
+		<collision>
+			<radius normal="29" />
+			<height normal="37" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="92915" min="1" max="1" chance="100" /> <!-- Material: Bag of Low-grade Stuff -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22278" level="85" type="Monster" name="Transcendent Treasure Chest">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="227443" sp="63682" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<ai isAggressive="true" aggroRange="500" clanHelpRange="500" />
+		<skillList>
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+		</skillList>
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="92915" min="1" max="1" chance="100" /> <!-- Material: Bag of Low-grade Stuff -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22279" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="1248" hpRegen="10.5" mp="610" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<ai isAggressive="true" aggroRange="500" clanHelpRange="500" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22280" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="1764" hpRegen="10.5" mp="889" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22281" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2313" hpRegen="10.5" mp="1188" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22282" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2823" hpRegen="10.5" mp="1507" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22283" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="3038" hpRegen="10.5" mp="1674" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22284" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4041" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22285" level="85" type="Folk" name="Transcendent Treasure Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="5543" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="22286" level="85" type="Folk" name="Sping" title="Herald of Spring">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="37462" hpRegen="10.5" mp="610" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="91" />
+		</collision>
+	</npc>
+	<npc id="22287" level="85" type="Folk" name="Sping" title="Herald of Spring">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="52944" hpRegen="10.5" mp="889" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="91" />
+		</collision>
+	</npc>
+	<npc id="22288" level="85" type="Folk" name="Sping" title="Herald of Spring">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="69412" hpRegen="10.5" mp="1188" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="91" />
+		</collision>
+	</npc>
+	<npc id="22289" level="85" type="Folk" name="Sping" title="Herald of Spring">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="84704" hpRegen="10.5" mp="1507" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="91" />
+		</collision>
+	</npc>
+	<npc id="22290" level="85" type="Folk" name="Sping" title="Herald of Spring">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="91151" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="91" />
+		</collision>
+	</npc>
+	<npc id="22291" level="85" type="Folk" name="Sping" title="Herald of Spring">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="121231" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="91" />
+		</collision>
+	</npc>
+	<npc id="22292" level="85" type="Monster" name="Beast Guardian" title="Transcendent Guardian">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="72" />
+		<acquire exp="249456" sp="14075" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="3405.85106382979" magical="1297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<ai isAggressive="true" aggroRange="500" clanHelpRange="500" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<collision>
+			<radius normal="30" />
+			<height normal="58.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="92915" min="1" max="1" chance="100" /> <!-- Material: Bag of Low-grade Stuff -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22293" level="70" type="Monster" name="Bear">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="211096" sp="21490" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12526.5895953757" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3360.854301579087" magical="1294.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3172.327044025157" magical="1295.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="34" />
+			<height normal="32.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="324" max="757" chance="70" /> <!-- Adena -->
+				<item id="92997" min="1" max="1" chance="4.261" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="4.25" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="2.104" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="2.082" /> <!-- Shining Resources -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="54.45" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.93" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.332" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.05" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22294" level="70" type="Monster" name="Hog">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="211096" sp="12490" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12526.5895953757" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3360.854301579087" magical="1294.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3172.327044025157" magical="1295.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="35" />
+			<height normal="27" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="324" max="757" chance="70" /> <!-- Adena -->
+				<item id="92997" min="1" max="1" chance="4.234" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="4.197" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92998" min="1" max="1" chance="2.147" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="2.143" /> <!-- Material: Rags -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="54.32" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.64" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.377" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.106" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22295" level="70" type="Monster" name="Kima">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="211096" sp="490" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12526.5895953757" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3360.854301579087" magical="1294.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3172.327044025157" magical="1295.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="25" />
+			<height normal="30" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="324" max="757" chance="70" /> <!-- Adena -->
+				<item id="92909" min="1" max="1" chance="4.246" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="4.23" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="2.151" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="2.063" /> <!-- Shining Resources -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="54.73" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.52" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.403" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.084" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22296" level="70" type="Monster" name="Honeybee">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="211096" sp="490" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12526.5895953757" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3360.854301579087" magical="1294.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3172.327044025157" magical="1295.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="8" />
+			<height normal="20" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="324" max="757" chance="70" /> <!-- Adena -->
+				<item id="92997" min="1" max="1" chance="4.254" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="4.21" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="2.167" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="2.123" /> <!-- Shining Resources -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="54.25" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="11.06" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.362" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.057" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22297" level="70" type="Monster" name="Tag" title="Slayer">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="236961" sp="490" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="25053.7572254335" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="56" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3360.854301579087" magical="1294.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3172.327044025157" magical="1295.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="23" />
+			<height normal="30.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="356" max="833" chance="70" /> <!-- Adena -->
+				<item id="92997" min="1" max="1" chance="4.685" /> <!-- Unknown Resources -->
+				<item id="92909" min="1" max="1" chance="4.593" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92998" min="1" max="1" chance="2.28" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="2.262" /> <!-- Material: Rags -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="58.8" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="11.85" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.886" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.207" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22298" level="80" type="Monster" name="Mighty Bear">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="217600" sp="25815" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3208.284023668639" magical="1296.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="21" />
+			<height normal="40" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="598" max="1397" chance="70" /> <!-- Adena -->
+				<item id="92910" min="1" max="1" chance="2.615" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="2.563" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.75" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.75" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="53.29" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.42" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.348" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.991" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22299" level="80" type="Monster" name="Stubborn Hog">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="217600" sp="5815" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3208.284023668639" magical="1296.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="44" />
+			<height normal="32" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="598" max="1397" chance="70" /> <!-- Adena -->
+				<item id="92998" min="1" max="1" chance="2.575" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="2.574" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.75" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.75" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="53.41" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.3" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.373" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.036" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+			</spoil>
+		</dropLists>
+	</npc>
+</list>

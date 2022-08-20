@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="35422" name="Queen Ant's Ring">
+		<passive_skill id="50444" level="1" />
+	</option>
+	<option id="35423" name="Queen Ant's Ring">
+		<passive_skill id="50444" level="2" />
+	</option>
+	<option id="35424" name="Queen Ant's Ring">
+		<passive_skill id="50444" level="3" />
+	</option>
+	<option id="35425" name="Queen Ant's Ring">
+		<passive_skill id="50444" level="4" />
+	</option>
+	<option id="35426" name="Queen Ant's Ring">
+		<passive_skill id="50444" level="5" />
+	</option>
+	<option id="35427" name="Queen Ant's Ring">
+		<passive_skill id="50444" level="6" />
+	</option>
+	<option id="35428" name="Ring of Core">
+		<passive_skill id="50445" level="1" />
+	</option>
+	<option id="35429" name="Ring of Core">
+		<passive_skill id="50445" level="2" />
+	</option>
+	<option id="35430" name="Ring of Core">
+		<passive_skill id="50445" level="3" />
+	</option>
+	<option id="35431" name="Ring of Core">
+		<passive_skill id="50445" level="4" />
+	</option>
+	<option id="35432" name="Ring of Core">
+		<passive_skill id="50445" level="5" />
+	</option>
+	<option id="35433" name="Ring of Core">
+		<passive_skill id="50445" level="6" />
+	</option>
+	<option id="35434" name="Baium's Ring">
+		<passive_skill id="50446" level="1" />
+	</option>
+	<option id="35435" name="Baium's Ring">
+		<passive_skill id="50446" level="2" />
+	</option>
+	<option id="35436" name="Baium's Ring">
+		<passive_skill id="50446" level="3" />
+	</option>
+	<option id="35437" name="Baium's Ring">
+		<passive_skill id="50446" level="4" />
+	</option>
+	<option id="35438" name="Baium's Ring">
+		<passive_skill id="50446" level="5" />
+	</option>
+	<option id="35439" name="Baium's Ring">
+		<passive_skill id="50446" level="6" />
+	</option>
+	<option id="35440" name="Orfen's Earring">
+		<passive_skill id="50447" level="1" />
+	</option>
+	<option id="35441" name="Orfen's Earring">
+		<passive_skill id="50447" level="2" />
+	</option>
+	<option id="35442" name="Orfen's Earring">
+		<passive_skill id="50447" level="3" />
+	</option>
+	<option id="35443" name="Orfen's Earring">
+		<passive_skill id="50447" level="4" />
+	</option>
+	<option id="35444" name="Orfen's Earring">
+		<passive_skill id="50447" level="5" />
+	</option>
+	<option id="35445" name="Orfen's Earring">
+		<passive_skill id="50447" level="6" />
+	</option>
+	<option id="35446" name="Zaken's Earring">
+		<passive_skill id="50448" level="1" />
+	</option>
+	<option id="35447" name="Zaken's Earring">
+		<passive_skill id="50448" level="2" />
+	</option>
+	<option id="35448" name="Zaken's Earring">
+		<passive_skill id="50448" level="3" />
+	</option>
+	<option id="35449" name="Zaken's Earring">
+		<passive_skill id="50448" level="4" />
+	</option>
+	<option id="35450" name="Zaken's Earring">
+		<passive_skill id="50448" level="5" />
+	</option>
+	<option id="35451" name="Zaken's Earring">
+		<passive_skill id="50448" level="6" />
+	</option>
+	<option id="35452" name="Antharas Earring">
+		<passive_skill id="50449" level="1" />
+	</option>
+	<option id="35453" name="Antharas Earring">
+		<passive_skill id="50449" level="2" />
+	</option>
+	<option id="35454" name="Antharas Earring">
+		<passive_skill id="50449" level="3" />
+	</option>
+	<option id="35455" name="Antharas Earring">
+		<passive_skill id="50449" level="4" />
+	</option>
+	<option id="35456" name="Antharas Earring">
+		<passive_skill id="50449" level="5" />
+	</option>
+	<option id="35457" name="Antharas Earring">
+		<passive_skill id="50449" level="6" />
+	</option>
+	<option id="35458" name="Frintezza's Necklace">
+		<passive_skill id="50450" level="1" />
+	</option>
+	<option id="35459" name="Frintezza's Necklace">
+		<passive_skill id="50450" level="2" />
+	</option>
+	<option id="35460" name="Frintezza's Necklace">
+		<passive_skill id="50450" level="3" />
+	</option>
+	<option id="35461" name="Frintezza's Necklace">
+		<passive_skill id="50450" level="4" />
+	</option>
+	<option id="35462" name="Frintezza's Necklace">
+		<passive_skill id="50450" level="5" />
+	</option>
+	<option id="35463" name="Frintezza's Necklace">
+		<passive_skill id="50450" level="6" />
+	</option>
+</list>

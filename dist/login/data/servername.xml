@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="servername.xsd">
+	<server id="1" name="Bartz" />
+	<server id="2" name="Sieghardt" />
+	<server id="3" name="Kain" />
+	<server id="4" name="Lionna" />
+	<server id="5" name="Erica" />
+	<server id="6" name="Gustin" />
+	<server id="7" name="Devianne" />
+	<server id="8" name="Hindemith" />
+	<server id="9" name="Teon" />
+	<server id="10" name="Franz" />
+	<server id="11" name="Luna" />
+	<server id="12" name="Kastien" />
+	<server id="13" name="Airin (+Erica)" />
+	<server id="14" name="Staris" />
+	<server id="15" name="Ceriel" />
+	<server id="16" name="Fehyshar" />
+	<server id="17" name="Elhwynna" />
+	<server id="18" name="Ellikia" />
+	<server id="19" name="Shikken" />
+	<server id="20" name="Scryde" />
+	<server id="21" name="Frikios" />
+	<server id="22" name="Atlant" />
+	<server id="23" name="Shakdun" />
+	<server id="24" name="Tarziph" />
+	<server id="25" name="Ramona" />
+	<server id="26" name="Esenn" />
+	<server id="27" name="Lancer + Elcardia" />
+	<server id="28" name="Yiana" />
+	<server id="29" name="Seresin" />
+	<server id="30" name="Tarkai" />
+	<server id="31" name="Khadia" />
+	<server id="32" name="Roien" />
+	<server id="33" name="Kallint (Non-PvP)" />
+	<server id="34" name="Baium" />
+	<server id="35" name="Kamael" />
+	<server id="36" name="Beleth" />
+	<server id="37" name="Anakim" />
+	<server id="38" name="Lilith" />
+	<server id="39" name="Tiat" />
+	<server id="40" name="Lithra" />
+	<server id="41" name="Lockirin" />
+	<server id="42" name="Kakai" />
+	<server id="43" name="Cadmus (+Kain)" />
+	<server id="44" name="Athebaldt" />
+	<server id="45" name="Blackbird + Ramsheart" />
+	<server id="46" name="Ramsheart" />
+	<server id="47" name="Athebaldt + Esthus" />
+	<server id="48" name="Vasper" />
+	<server id="49" name="Lancer" />
+	<server id="50" name="Ashton" />
+	<server id="51" name="Waytrel" />
+	<server id="52" name="Waltner" />
+	<server id="53" name="Tahnford" />
+	<server id="54" name="PTS2" />
+	<server id="55" name="Dewell" />
+	<server id="56" name="Rodemaye" />
+	<server id="57" name="Ken Rauhel" />
+	<server id="58" name="Ken Abigail" />
+	<server id="59" name="Ken Orwen" />
+	<server id="60" name="Red" />
+	<server id="61" name="Desperion" />
+	<server id="62" name="Einhovant" />
+	<server id="63" name="Blue" />
+	<server id="64" name="Red" />
+	<server id="65" name="Tor" />
+	<server id="66" name="Carneiar" />
+	<server id="67" name="Dwyllios" />
+	<server id="68" name="Baium" />
+	<server id="69" name="Hallate" />
+	<server id="70" name="Zaken" />
+	<server id="71" name="Core (+Tiat)" />
+	<server id="72" name="Ember" />
+	<server id="73" name="Skelth" />
+	<server id="74" name="Sirius" />
+	<server id="75" name="Vortex" />
+	<server id="76" name="Titan" />
+	<server id="77" name="Indigo" />
+	<server id="78" name="Lyra" />
+	<server id="79" name="Olympia" />
+	<server id="80" name="Orion" />
+	<server id="81" name="Aquarius" />
+	<server id="82" name="Libra" />
+	<server id="83" name="Taurus" />
+	<server id="84" name="Aries" />
+	<server id="85" name="Cerberus" />
+	<server id="86" name="Demos" />
+	<server id="87" name="Kasius" />
+	<server id="88" name="Osiris" />
+	<server id="89" name="Thanatos" />
+	<server id="90" name="Xander" />
+	<server id="91" name="Zalaran" />
+	<server id="92" name="Gran Kain" />
+	<server id="93" name="Einhasad" />
+	<server id="94" name="Shillien" />
+	<server id="95" name="Paagrio" />
+	<server id="96" name="Sayha" />
+	<server id="97" name="Maphr" />
+	<server id="98" name="Eva" />
+	<server id="99" name="Server #99" />
+	<server id="100" name="Server #100" />
+	<server id="101" name="Server #101" />
+	<server id="102" name="Server #102" />
+	<server id="103" name="Server #103" />
+	<server id="104" name="Server #104" />
+	<server id="105" name="Server #105" />
+	<server id="106" name="Server #106" />
+	<server id="107" name="Server #107" />
+	<server id="108" name="Server #108" />
+	<server id="109" name="Server #109" />
+	<server id="110" name="Server #110" />
+	<server id="111" name="Server #111" />
+	<server id="112" name="Server #112" />
+	<server id="113" name="Server #113" />
+	<server id="114" name="Server #114" />
+	<server id="115" name="Server #115" />
+	<server id="116" name="Server #116" />
+	<server id="117" name="Server #117" />
+	<server id="118" name="Server #118" />
+	<server id="119" name="Server #119" />
+	<server id="120" name="Server #120" />
+	<server id="121" name="Server #121" />
+	<server id="122" name="Server #122" />
+	<server id="123" name="Server #123" />
+	<server id="124" name="Server #124" />
+	<server id="125" name="PTS1" />
+	<server id="126" name="Test Server" />
+	<server id="127" name="Broadcasting" />
+</servers_list>

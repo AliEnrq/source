@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="96800" name="+0 ~ +5 Talisman of Eva Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96801" name="100,000 Adena Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain 100,000 adena. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96802" name="500,000 Adena Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain 500,000 adena. -->
+		<set name="icon" val="icon.event_hero_treasure_box_silver" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96803" name="5 Million Adena Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain 5 million adena. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96804" name="Package: Full Plate Boots' Hassle Collection (Exchangeable)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.armor_t62_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96805" name="Package: Full Plate Boots' Hassle Collection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.armor_t62_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96806" name="Ancient Coin (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be used for creating ancient weapons and armor through the Special Craft. Ancient equipment can be used to replace some items in certain collections. They can be added to a collection if they have the corresponding enchant value. -->
+		<set name="icon" val="icon.etc_coins_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96807" name="High-grade Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Mace and Majestic Circlets: Majestic Circlet (Heavy), Majestic Circlet (Light), Majestic Circlet (Robe) <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96808" name="Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Tallum Stockings, Tallum Tunic, Tallum Boots (Robe), Tallum Gloves (Robe) <font color=bbaa88><Defense></font> Fashion Fanatic II: Tallum Boots (Heavy), Tallum Gloves (Heavy) Fashion Fanatic III: Tallum Plate Armor Fashion Fanatic V: Dark Crystal Gloves (Light) <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96809" name="High-grade Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Beat'n'Cut: Doom Gloves (Heavy) <font color=bbaa88><Defense></font> Blue Wolf Upper and Lower Armor: Blue Wolf Breastplate, Blue Wolf Stockings, Blue Wolf Tunic, Blue Wolf Leather Armor, Blue Wolf Gaiters Fashion Fanatic V: Doom Boots (Heavy) Fashion Fanatic III: Blue Wolf Helmet (Heavy) Fashion Fanatic II: Blue Wolf Breastplate, Blue Wolf Helmet (Light), Blue Wolf Gaiters <font color=bbaa88><Support></font> Doom vs Zubei: Doom Leather Armor, Doom Gloves (Light) <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96810" name="Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Avadon Robe Lost Equipment: Avadon Boots (Light), Avadon Gloves (Light) <font color=bbaa88><Defense></font> Fashion Fanatic V: Avadon Leather Armor Fashion Fanatic III: Avadon Boots (Heavy), Avadon Gloves (Heavy) Zubei's Upper and Lower Armor: Zubei's Stockings, Zubei's Tunic, Zubei's Breastplate, Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Zubei's Boots and Gauntlets: Zubei's Boots (Heavy), Zubei's Boots (Light), Zubei's Boots (Robe), Zubei's Gauntlets (Heavy), Zubei's Gauntlets (Light), Zubei's Gauntlets (Robe) <font color=bbaa88><Support></font> Doom vs Zubei: Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96811" name="High-grade Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Divine Earring, Divine Earring <font color=bbaa88><Defense></font> Fashion Fanatic V: Mithril Helmet Hand Protection: Divine Gloves, Gauntlets of Ghost, Blessed Gloves <font color=bbaa88><Support></font> All Equipment to +6 II: Full Plate Helmet, Full Plate Gauntlets, Adamantite Boots, Drake Leather Boots Unknown Victory II: Forgotten Boots, Shining Circlet <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96812" name="Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Importance of Magic Attack: Chain Gloves <font color=bbaa88><Defense></font> Light Armor and Shield: Plated Leather Boots, Plated Leather Gloves, Plated Leather Gaiters Sturdy Head Equipment: Steel Plate Helmet Energy of Pa'agrio: Pa'agrio Hand Sturdy Head Equipment: Chain Hood, Chain Helmet Hand Protection: Gloves of Seal Light Armor and Shield: Dwarven Chain Shield Sturdy Head Equipment: Great Helmet <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96813" name="Ancient Armor - D-grade (Time-limited)" additionalName="Sealed" type="Armor">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Rags, Sage's Worn Gloves Hunter's Durable Equipment: Puma Skin Shirt Sturdy Head Equipment: Bronze Helmet Hunter's Durable Equipment: Ogre Power Gauntlets, Lion Skin Shirt Sturdy Head Equipment: Bone Helmet <font color=bbaa88><Support></font> Ant Nest's Memento: Brigandine, Brigandine Gaiters, Manticore Skin Boots, Dwarven Scale Gaiters <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="100" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96814" name="Ancient Weapon - A-grade (Time-limited)" additionalName="Sealed" type="Weapon">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Meteor Shower Mace and Majestic Circlets: Meteor Shower <font color=bbaa88><Defense></font> A-grade Weapon Set II: Destroyer Hammer, Tallum Blade, Spiritual Eye, Bloody Tornado, White Lightning <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">10</stat>
+			<stat type="mAtk">10</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96815" name="Ancient Weapon - B-grade (Time-limited)" additionalName="Sealed" type="Weapon">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Importance of Physical Attack: Military Fleuret, Volcano Importance of Magic Attack: Ice Storm Hammer, Arthro Nail, Guardian's Sword Too Hard: Heavy War Axe, Military Fleuret Beat'n'Cut: Kris <font color=bbaa88><Support></font> Unknown Victory II: Innominate Victory <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">10</stat>
+			<stat type="mAtk">10</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96816" name="High-grade Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="Weapon">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> C-grade Weapon Set III: Paradia Staff, Yaksa Mace, Dwarven Hammer, Grace Dagger Ghoul's Embrace: Ghoul's Staff Too Hard: Blinzlasher Hunter's Durable Equipment: War Axe Mid-grade Weapon Set II: Crystal Dagger, Orcish Poleaxe, Eminence Bow, Admiral's Estoc, Samurai Long Sword, Great Pata Mid-grade Two-handed Blunt Set I: Ecliptic Axe, Mace of Underworld, Club of Nature, Nirvana Axe, Stick of Eternity <font color=bbaa88><Defense></font> Energy of Pa'agrio: Pa'agrio Hammer, Pa'agrio Axe, Pa'agrio Sword Sage's Ascesis: Sage's Staff <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">10</stat>
+			<stat type="mAtk">10</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96817" name="Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="Weapon">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Too Hard: Heavy Doom Axe Lost Equipment: Flamberge, Big Hammer, Stormbringer, Wolverine Fang Importance of Physical Attack: Cursed Staff, Chevalier Rapier Importance of Magic Attack: Stiletto Mid-grade Spear Set II: Orcish Glaive, Scythe, Bec de Corbin Mid-grade Two-handed Blunt Set I: Stick of Faith Beat'n'Cut: Schlager, Raid Sword C-grade Weapon Set III: Noble Elven Bow <font color=bbaa88><Defense></font> Hunter's Durable Equipment: Battle Axe <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">10</stat>
+			<stat type="mAtk">10</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96818" name="Ancient Weapon - D-grade (Time-limited)" additionalName="Sealed" type="Weapon">
+		<!-- Can be used to replace some items in the following collections. <font color=bbaa88><Attack></font> Primary Weapon Set IV: Elven Long Sword, Atuba Mace, Vajra Wand <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Blood <font color=bbaa88><Support></font> Ant Nest's Memento: Dwarven Pike <font color=bbaa88><Special></font> +9 D-grade Weapons: Hand Axe, Poniard Dagger, Tomahawk, Bagh-Nakh, Dwarven Pike <font color=EEAA22>Can be enchanted with an enchant scroll of the corresponding grade.</font> -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="100" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pAtk">10</stat>
+			<stat type="mAtk">10</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96819" name="Extra Pass: Ancient Pirates' Tomb" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to get an extra pass to Ancient Pirates' Tomb. Note! Can be used once a day outside of instance zones. Can only be used when Ancient Pirates' Tomb is on cooldown. -->
+		<set name="icon" val="icon.etc_ticket_red_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96820" name="Pack of Seals (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain Giran Seal, a random item from the list and another one of various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96821" name="Kit: Pack of Seals (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.present_of_destination_event" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96822" name="Package: +5 High-grade Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collection. <font color=bbaa88><Attack></font> Mace and Majestic Circlets: Majestic Circlet (Heavy), Majestic Circlet (Light), Majestic Circlet (Robe) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96823" name="Package: +4 High-grade Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collection. <font color=bbaa88><Attack></font> Mace and Majestic Circlets: Majestic Circlet (Heavy), Majestic Circlet (Light), Majestic Circlet (Robe) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96824" name="Package: High-grade Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collection. <font color=bbaa88><Attack></font> Mace and Majestic Circlets: Majestic Circlet (Heavy), Majestic Circlet (Light), Majestic Circlet (Robe) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96825" name="Package: +5 Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Tallum Stockings, Tallum Tunic, Tallum Boots (Robe), Tallum Gloves (Robe) <font color=bbaa88><Defense></font> Fashion Fanatic II: Tallum Boots (Heavy), Tallum Gloves (Heavy) Fashion Fanatic III: Tallum Plate Armor Fashion Fanatic V: Dark Crystal Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96826" name="Package: +4 Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Tallum Stockings, Tallum Tunic, Tallum Boots (Robe), Tallum Gloves (Robe) <font color=bbaa88><Defense></font> Fashion Fanatic II: Tallum Boots (Heavy), Tallum Gloves (Heavy) Fashion Fanatic III: Tallum Plate Armor Fashion Fanatic V: Dark Crystal Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96827" name="Package: Ancient Armor - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Tallum Stockings, Tallum Tunic, Tallum Boots (Robe), Tallum Gloves (Robe) <font color=bbaa88><Defense></font> Fashion Fanatic II: Tallum Boots (Heavy), Tallum Gloves (Heavy) Fashion Fanatic III: Tallum Plate Armor Fashion Fanatic V: Dark Crystal Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96828" name="Package: +6 High-grade Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Beat'n'Cut: Doom Gloves (Heavy) <font color=bbaa88><Defense></font> Blue Wolf Upper and Lower Armor: Blue Wolf Breastplate, Blue Wolf Stockings, Blue Wolf Tunic, Blue Wolf Leather Armor, Blue Wolf Gaiters Fashion Fanatic V: Doom Boots (Heavy) Fashion Fanatic III: Blue Wolf Helmet (Heavy) Fashion Fanatic II: Blue Wolf Breastplate, Blue Wolf Helmet (Light), Blue Wolf Gaiters <font color=bbaa88><Support></font> Doom vs Zubei: Doom Leather Armor, Doom Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96829" name="Package: +5 High-grade Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Beat'n'Cut: Doom Gloves (Heavy) <font color=bbaa88><Defense></font> Blue Wolf Upper and Lower Armor: Blue Wolf Breastplate, Blue Wolf Stockings, Blue Wolf Tunic, Blue Wolf Leather Armor, Blue Wolf Gaiters Fashion Fanatic V: Doom Boots (Heavy) Fashion Fanatic III: Blue Wolf Helmet (Heavy) Fashion Fanatic II: Blue Wolf Breastplate, Blue Wolf Helmet (Light), Blue Wolf Gaiters <font color=bbaa88><Support></font> Doom vs Zubei: Doom Leather Armor, Doom Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96830" name="Package: +4 High-grade Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Beat'n'Cut: Doom Gloves (Heavy) <font color=bbaa88><Defense></font> Blue Wolf Upper and Lower Armor: Blue Wolf Breastplate, Blue Wolf Stockings, Blue Wolf Tunic, Blue Wolf Leather Armor, Blue Wolf Gaiters Fashion Fanatic V: Doom Boots (Heavy) Fashion Fanatic III: Blue Wolf Helmet (Heavy) Fashion Fanatic II: Blue Wolf Breastplate, Blue Wolf Helmet (Light), Blue Wolf Gaiters <font color=bbaa88><Support></font> Doom vs Zubei: Doom Leather Armor, Doom Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96831" name="Package: High-grade Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Beat'n'Cut: Doom Gloves (Heavy) <font color=bbaa88><Defense></font> Blue Wolf Upper and Lower Armor: Blue Wolf Breastplate, Blue Wolf Stockings, Blue Wolf Tunic, Blue Wolf Leather Armor, Blue Wolf Gaiters Fashion Fanatic V: Doom Boots (Heavy) Fashion Fanatic III: Blue Wolf Helmet (Heavy) Fashion Fanatic II: Blue Wolf Breastplate, Blue Wolf Helmet (Light), Blue Wolf Gaiters <font color=bbaa88><Support></font> Doom vs Zubei: Doom Leather Armor, Doom Gloves (Light) Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96832" name="Package: +6 Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Avadon Robe Lost Equipment: Avadon Boots (Light), Avadon Gloves (Light) <font color=bbaa88><Defense></font> Fashion Fanatic V: Avadon Leather Armor Fashion Fanatic III: Avadon Boots (Heavy), Avadon Gloves (Heavy) Zubei's Upper and Lower Armor: Zubei's Stockings, Zubei's Tunic, Zubei's Breastplate, Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Zubei's Boots and Gauntlets: Zubei's Boots (Heavy), Zubei's Boots (Light), Zubei's Boots (Robe), Zubei's Gauntlets (Heavy), Zubei's Gauntlets (Light), Zubei's Gauntlets (Robe) <font color=bbaa88><Support></font> Doom vs Zubei: Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96833" name="Package: +5 Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Avadon Robe Lost Equipment: Avadon Boots (Light), Avadon Gloves (Light) <font color=bbaa88><Defense></font> Fashion Fanatic V: Avadon Leather Armor Fashion Fanatic III: Avadon Boots (Heavy), Avadon Gloves (Heavy) Zubei's Upper and Lower Armor: Zubei's Stockings, Zubei's Tunic, Zubei's Breastplate, Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Zubei's Boots and Gauntlets: Zubei's Boots (Heavy), Zubei's Boots (Light), Zubei's Boots (Robe), Zubei's Gauntlets (Heavy), Zubei's Gauntlets (Light), Zubei's Gauntlets (Robe) <font color=bbaa88><Support></font> Doom vs Zubei: Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96834" name="Package: +4 Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Avadon Robe Lost Equipment: Avadon Boots (Light), Avadon Gloves (Light) <font color=bbaa88><Defense></font> Fashion Fanatic V: Avadon Leather Armor Fashion Fanatic III: Avadon Boots (Heavy), Avadon Gloves (Heavy) Zubei's Upper and Lower Armor: Zubei's Stockings, Zubei's Tunic, Zubei's Breastplate, Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Zubei's Boots and Gauntlets: Zubei's Boots (Heavy), Zubei's Boots (Light), Zubei's Boots (Robe), Zubei's Gauntlets (Heavy), Zubei's Gauntlets (Light), Zubei's Gauntlets (Robe) <font color=bbaa88><Support></font> Doom vs Zubei: Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96835" name="Package: +3 Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Avadon Robe Lost Equipment: Avadon Boots (Light), Avadon Gloves (Light) <font color=bbaa88><Defense></font> Fashion Fanatic V: Avadon Leather Armor Fashion Fanatic III: Avadon Boots (Heavy), Avadon Gloves (Heavy) Zubei's Upper and Lower Armor: Zubei's Stockings, Zubei's Tunic, Zubei's Breastplate, Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Zubei's Boots and Gauntlets: Zubei's Boots (Heavy), Zubei's Boots (Light), Zubei's Boots (Robe), Zubei's Gauntlets (Heavy), Zubei's Gauntlets (Light), Zubei's Gauntlets (Robe) <font color=bbaa88><Support></font> Doom vs Zubei: Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96836" name="Package: Ancient Armor - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Avadon Robe Lost Equipment: Avadon Boots (Light), Avadon Gloves (Light) <font color=bbaa88><Defense></font> Fashion Fanatic V: Avadon Leather Armor Fashion Fanatic III: Avadon Boots (Heavy), Avadon Gloves (Heavy) Zubei's Upper and Lower Armor: Zubei's Stockings, Zubei's Tunic, Zubei's Breastplate, Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Zubei's Boots and Gauntlets: Zubei's Boots (Heavy), Zubei's Boots (Light), Zubei's Boots (Robe), Zubei's Gauntlets (Heavy), Zubei's Gauntlets (Light), Zubei's Gauntlets (Robe) <font color=bbaa88><Support></font> Doom vs Zubei: Zubei's Gaiters, Zubei's Leather Shirt, Zubei's Leather Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96837" name="Package: +6 High-grade Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Divine Earring, Divine Earring <font color=bbaa88><Defense></font> Fashion Fanatic V: Mithril Helmet Hand Protection: Divine Gloves, Gauntlets of Ghost, Blessed Gloves <font color=bbaa88><Support></font> All Equipment to +6 II: Full Plate Helmet, Full Plate Gauntlets, Adamantite Boots, Drake Leather Boots Unknown Victory II: Forgotten Boots, Shining Circlet Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96838" name="Package: +4 High-grade Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Divine Earring, Divine Earring <font color=bbaa88><Defense></font> Fashion Fanatic V: Mithril Helmet Hand Protection: Divine Gloves, Gauntlets of Ghost, Blessed Gloves <font color=bbaa88><Support></font> All Equipment to +6 II: Full Plate Helmet, Full Plate Gauntlets, Adamantite Boots, Drake Leather Boots Unknown Victory II: Forgotten Boots, Shining Circlet Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96839" name="High-grade Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Ghoul's Embrace: Divine Earring, Divine Earring <font color=bbaa88><Defense></font> Fashion Fanatic V: Mithril Helmet Hand Protection: Divine Gloves, Gauntlets of Ghost, Blessed Gloves <font color=bbaa88><Support></font> All Equipment to +6 II: Full Plate Helmet, Full Plate Gauntlets, Adamantite Boots, Drake Leather Boots Unknown Victory II: Forgotten Boots, Shining Circlet Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96840" name="Package: +4 Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Importance of Magic Attack: Chain Gloves <font color=bbaa88><Defense></font> Light Armor and Shield: Plated Leather Boots, Plated Leather Gloves, Plated Leather Gaiters Sturdy Head Equipment: Steel Plate Helmet Energy of Pa'agrio: Pa'agrio Hand Sturdy Head Equipment: Chain Hood, Chain Helmet Hand Protection: Gloves of Seal Light Armor and Shield: Dwarven Chain Shield Sturdy Head Equipment: Great Helmet Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96841" name="Package: Ancient Armor - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Importance of Magic Attack: Chain Gloves <font color=bbaa88><Defense></font> Light Armor and Shield: Plated Leather Boots, Plated Leather Gloves, Plated Leather Gaiters Sturdy Head Equipment: Steel Plate Helmet Energy of Pa'agrio: Pa'agrio Hand Sturdy Head Equipment: Chain Hood, Chain Helmet Hand Protection: Gloves of Seal Light Armor and Shield: Dwarven Chain Shield Sturdy Head Equipment: Great Helmet Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96842" name="Package: +5 Ancient Armor - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collection. <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Rags, Sage's Worn Gloves Hunter's Durable Equipment: Puma Skin Shirt Sturdy Head Equipment: Bronze Helmet Hunter's Durable Equipment: Ogre Power Gauntlets, Lion Skin Shirt Sturdy Head Equipment: Bone Helmet <font color=bbaa88><Support></font> Ant Nest's Memento: Brigandine, Brigandine Gaiters, Manticore Skin Boots, Dwarven Scale Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96843" name="Package: +4 Ancient Armor - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collection. <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Rags, Sage's Worn Gloves Hunter's Durable Equipment: Puma Skin Shirt Sturdy Head Equipment: Bronze Helmet Hunter's Durable Equipment: Ogre Power Gauntlets, Lion Skin Shirt Sturdy Head Equipment: Bone Helmet <font color=bbaa88><Support></font> Ant Nest's Memento: Brigandine, Brigandine Gaiters, Manticore Skin Boots, Dwarven Scale Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96844" name="Package: Ancient Armor - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collection. <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Rags, Sage's Worn Gloves Hunter's Durable Equipment: Puma Skin Shirt Sturdy Head Equipment: Bronze Helmet Hunter's Durable Equipment: Ogre Power Gauntlets, Lion Skin Shirt Sturdy Head Equipment: Bone Helmet <font color=bbaa88><Support></font> Ant Nest's Memento: Brigandine, Brigandine Gaiters, Manticore Skin Boots, Dwarven Scale Gaiters Double-click to obtain the following. -->
+		<set name="icon" val="icon.pirate_crew_change" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96845" name="Package: +5 Ancient Weapon - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Meteor Shower Mace and Majestic Circlets: Meteor Shower <font color=bbaa88><Defense></font> A-grade Weapon Set II: Destroyer Hammer, Tallum Blade, Spiritual Eye, Bloody Tornado, White Lightning Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96846" name="Package: +4 Ancient Weapon - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Meteor Shower Mace and Majestic Circlets: Meteor Shower <font color=bbaa88><Defense></font> A-grade Weapon Set II: Destroyer Hammer, Tallum Blade, Spiritual Eye, Bloody Tornado, White Lightning Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96847" name="Package Ancient Weapon - A-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Not a Fighter: Meteor Shower Mace and Majestic Circlets: Meteor Shower <font color=bbaa88><Defense></font> A-grade Weapon Set II: Destroyer Hammer, Tallum Blade, Spiritual Eye, Bloody Tornado, White Lightning Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96848" name="Package: +9 Ancient Weapon - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Importance of Physical Attack: Military Fleuret, Volcano Importance of Magic Attack: Ice Storm Hammer, Arthro Nail, Guardian's Sword Too Hard: Heavy War Axe, Military Fleuret Beat'n'Cut: Kris <font color=bbaa88><Support></font> Unknown Victory II: Innominate Victory Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96849" name="Package: +4 Ancient Weapon - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Importance of Physical Attack: Military Fleuret, Volcano Importance of Magic Attack: Ice Storm Hammer, Arthro Nail, Guardian's Sword Too Hard: Heavy War Axe, Military Fleuret Beat'n'Cut: Kris <font color=bbaa88><Support></font> Unknown Victory II: Innominate Victory Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96850" name="Package: Ancient Weapon - B-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Importance of Physical Attack: Military Fleuret, Volcano Importance of Magic Attack: Ice Storm Hammer, Arthro Nail, Guardian's Sword Too Hard: Heavy War Axe, Military Fleuret Beat'n'Cut: Kris <font color=bbaa88><Support></font> Unknown Victory II: Innominate Victory Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96851" name="Package: +12 High-grade Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> C-grade Weapon Set III: Paradia Staff, Yaksa Mace, Dwarven Hammer, Grace Dagger Ghoul's Embrace: Ghoul's Staff Too Hard: Blinzlasher Hunter's Durable Equipment: War Axe Mid-grade Weapon Set II: Crystal Dagger, Orcish Poleaxe, Eminence Bow, Admiral's Estoc, Samurai Long Sword, Great Pata Mid-grade Two-handed Blunt Set I: Ecliptic Axe, Mace of Underworld, Club of Nature, Nirvana Axe, Stick of Eternity <font color=bbaa88><Defense></font> Energy of Pa'agrio: Pa'agrio Hammer, Pa'agrio Axe, Pa'agrio Sword Sage's Ascesis: Sage's Staff Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96852" name="Package: +10 High-grade Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> C-grade Weapon Set III: Paradia Staff, Yaksa Mace, Dwarven Hammer, Grace Dagger Ghoul's Embrace: Ghoul's Staff Too Hard: Blinzlasher Hunter's Durable Equipment: War Axe Mid-grade Weapon Set II: Crystal Dagger, Orcish Poleaxe, Eminence Bow, Admiral's Estoc, Samurai Long Sword, Great Pata Mid-grade Two-handed Blunt Set I: Ecliptic Axe, Mace of Underworld, Club of Nature, Nirvana Axe, Stick of Eternity <font color=bbaa88><Defense></font> Energy of Pa'agrio: Pa'agrio Hammer, Pa'agrio Axe, Pa'agrio Sword Sage's Ascesis: Sage's Staff Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96853" name="Package: +5 High-grade Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> C-grade Weapon Set III: Paradia Staff, Yaksa Mace, Dwarven Hammer, Grace Dagger Ghoul's Embrace: Ghoul's Staff Too Hard: Blinzlasher Hunter's Durable Equipment: War Axe Mid-grade Weapon Set II: Crystal Dagger, Orcish Poleaxe, Eminence Bow, Admiral's Estoc, Samurai Long Sword, Great Pata Mid-grade Two-handed Blunt Set I: Ecliptic Axe, Mace of Underworld, Club of Nature, Nirvana Axe, Stick of Eternity <font color=bbaa88><Defense></font> Energy of Pa'agrio: Pa'agrio Hammer, Pa'agrio Axe, Pa'agrio Sword Sage's Ascesis: Sage's Staff Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96854" name="Package: +4 High-grade Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> C-grade Weapon Set III: Paradia Staff, Yaksa Mace, Dwarven Hammer, Grace Dagger Ghoul's Embrace: Ghoul's Staff Too Hard: Blinzlasher Hunter's Durable Equipment: War Axe Mid-grade Weapon Set II: Crystal Dagger, Orcish Poleaxe, Eminence Bow, Admiral's Estoc, Samurai Long Sword, Great Pata Mid-grade Two-handed Blunt Set I: Ecliptic Axe, Mace of Underworld, Club of Nature, Nirvana Axe, Stick of Eternity <font color=bbaa88><Defense></font> Energy of Pa'agrio: Pa'agrio Hammer, Pa'agrio Axe, Pa'agrio Sword Sage's Ascesis: Sage's Staff Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96855" name="Package: High-grade Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> C-grade Weapon Set III: Paradia Staff, Yaksa Mace, Dwarven Hammer, Grace Dagger Ghoul's Embrace: Ghoul's Staff Too Hard: Blinzlasher Hunter's Durable Equipment: War Axe Mid-grade Weapon Set II: Crystal Dagger, Orcish Poleaxe, Eminence Bow, Admiral's Estoc, Samurai Long Sword, Great Pata Mid-grade Two-handed Blunt Set I: Ecliptic Axe, Mace of Underworld, Club of Nature, Nirvana Axe, Stick of Eternity <font color=bbaa88><Defense></font> Energy of Pa'agrio: Pa'agrio Hammer, Pa'agrio Axe, Pa'agrio Sword Sage's Ascesis: Sage's Staff Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96856" name="Package: +9 Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Too Hard: Heavy Doom Axe Lost Equipment: Flamberge, Big Hammer, Stormbringer, Wolverine Fang Importance of Physical Attack: Cursed Staff, Chevalier Rapier Importance of Magic Attack: Stiletto Mid-grade Spear Set II: Orcish Glaive, Scythe, Bec de Corbin Mid-grade Two-handed Blunt Set I: Stick of Faith Beat'n'Cut: Schlager, Raid Sword C-grade Weapon Set III: Noble Elven Bow <font color=bbaa88><Defense></font> Hunter's Durable Equipment: Battle Axe Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96857" name="Package: +7 Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Too Hard: Heavy Doom Axe Lost Equipment: Flamberge, Big Hammer, Stormbringer, Wolverine Fang Importance of Physical Attack: Cursed Staff, Chevalier Rapier Importance of Magic Attack: Stiletto Mid-grade Spear Set II: Orcish Glaive, Scythe, Bec de Corbin Mid-grade Two-handed Blunt Set I: Stick of Faith Beat'n'Cut: Schlager, Raid Sword C-grade Weapon Set III: Noble Elven Bow <font color=bbaa88><Defense></font> Hunter's Durable Equipment: Battle Axe Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96858" name="Package: +5 Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Too Hard: Heavy Doom Axe Lost Equipment: Flamberge, Big Hammer, Stormbringer, Wolverine Fang Importance of Physical Attack: Cursed Staff, Chevalier Rapier Importance of Magic Attack: Stiletto Mid-grade Spear Set II: Orcish Glaive, Scythe, Bec de Corbin Mid-grade Two-handed Blunt Set I: Stick of Faith Beat'n'Cut: Schlager, Raid Sword C-grade Weapon Set III: Noble Elven Bow <font color=bbaa88><Defense></font> Hunter's Durable Equipment: Battle Axe Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96859" name="Package: +4 Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Too Hard: Heavy Doom Axe Lost Equipment: Flamberge, Big Hammer, Stormbringer, Wolverine Fang Importance of Physical Attack: Cursed Staff, Chevalier Rapier Importance of Magic Attack: Stiletto Mid-grade Spear Set II: Orcish Glaive, Scythe, Bec de Corbin Mid-grade Two-handed Blunt Set I: Stick of Faith Beat'n'Cut: Schlager, Raid Sword C-grade Weapon Set III: Noble Elven Bow <font color=bbaa88><Defense></font> Hunter's Durable Equipment: Battle Axe Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96860" name="Package: Ancient Weapon - C-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Too Hard: Heavy Doom Axe Lost Equipment: Flamberge, Big Hammer, Stormbringer, Wolverine Fang Importance of Physical Attack: Cursed Staff, Chevalier Rapier Importance of Magic Attack: Stiletto Mid-grade Spear Set II: Orcish Glaive, Scythe, Bec de Corbin Mid-grade Two-handed Blunt Set I: Stick of Faith Beat'n'Cut: Schlager, Raid Sword C-grade Weapon Set III: Noble Elven Bow <font color=bbaa88><Defense></font> Hunter's Durable Equipment: Battle Axe Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96861" name="Package: +9 Ancient Weapon - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Primary Weapon Set IV: Elven Long Sword, Atuba Mace, Vajra Wand <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Blood <font color=bbaa88><Support></font> Ant Nest's Memento: Dwarven Pike <font color=bbaa88><Special></font> +9 D-grade Weapons: Hand Axe, Poniard Dagger, Tomahawk, Bagh-Nakh, Dwarven Pike Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96862" name="Package: +7 Ancient Weapon - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Primary Weapon Set IV: Elven Long Sword, Atuba Mace, Vajra Wand <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Blood <font color=bbaa88><Support></font> Ant Nest's Memento: Dwarven Pike <font color=bbaa88><Special></font> +9 D-grade Weapons: Hand Axe, Poniard Dagger, Tomahawk, Bagh-Nakh, Dwarven Pike Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96863" name="Package: +4 Ancient Weapon - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Primary Weapon Set IV: Elven Long Sword, Atuba Mace, Vajra Wand <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Blood <font color=bbaa88><Support></font> Ant Nest's Memento: Dwarven Pike <font color=bbaa88><Special></font> +9 D-grade Weapons: Hand Axe, Poniard Dagger, Tomahawk, Bagh-Nakh, Dwarven Pike Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96864" name="Package: Ancient Weapon - D-grade (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Contains replacement items for the following collections. <font color=bbaa88><Attack></font> Primary Weapon Set IV: Elven Long Sword, Atuba Mace, Vajra Wand <font color=bbaa88><Defense></font> Sage's Ascesis: Sage's Blood <font color=bbaa88><Support></font> Ant Nest's Memento: Dwarven Pike <font color=bbaa88><Special></font> +9 D-grade Weapons: Hand Axe, Poniard Dagger, Tomahawk, Bagh-Nakh, Dwarven Pike Double-click to obtain the following. -->
+		<set name="icon" val="icon.weapon_pasis_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

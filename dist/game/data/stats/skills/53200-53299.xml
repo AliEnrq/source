@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="53201" toLevel="6" name="Whiplash">
+		<!-- Cannot move due to shock. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="53202" toLevel="14" name="Cursed Strike">
+		<!-- Cannot move due to shock. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="53203" toLevel="6" name="Dark Curse">
+		<!-- Atk. Spd. -23% Casting Spd. -23% -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+</list>

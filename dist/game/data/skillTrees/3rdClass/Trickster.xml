@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
+	<skillTree type="classSkillTree" classId="134" parentClassId="130">
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="46" getLevel="76" levelUpSp="8000000" />
+		<skill skillName="Weapon Mastery" skillId="463" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Armor Mastery" skillId="464" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Mental Panic" skillId="627" skillLevel="1" getLevel="76" levelUpSp="8000000">
+			<item id="91924" count="1" /> <!-- Scroll: Mental Panic -->
+		</skill>
+		<skill skillName="Soul Stigma" skillId="792" skillLevel="1" getLevel="76" levelUpSp="8000000">
+			<item id="91925" count="1" /> <!-- Scroll: Soul Stigma -->
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="3" getLevel="76" levelUpSp="8000000">
+			<item id="8620" count="1" /> <!-- Buff Expansion Book Lv. 3 -->
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="8621" count="1" /> <!-- Buff Expansion Book Lv. 4 -->
+		</skill>
+		<skill skillName="Soul Focus" skillId="45139" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94363" count="1" /> <!-- Master's Book: Focus -->
+		</skill>
+		<skill skillName="Soul Death Whisper" skillId="45140" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94364" count="1" /> <!-- Master's Book: Death Whisper -->
+		</skill>
+		<skill skillName="Soul Haste" skillId="45141" skillLevel="3" getLevel="76" levelUpSp="8000000">
+			<item id="94369" count="1" /> <!-- Master's Book: Haste -->
+		</skill>
+		<skill skillName="Soul Wind Walk" skillId="45142" skillLevel="3" getLevel="76" levelUpSp="8000000">
+			<item id="94365" count="1" /> <!-- Master's Book: Wind Walk -->
+		</skill>
+		<skill skillName="Soul Magic Barrier" skillId="45143" skillLevel="3" getLevel="76" levelUpSp="8000000">
+			<item id="94362" count="1" /> <!-- Master's Book: Magic Barrier -->
+		</skill>
+		<skill skillName="Soul Might" skillId="45144" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94135" count="1" /> <!-- Master's Book: Might -->
+		</skill>
+		<skill skillName="Soul Shield" skillId="45145" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94136" count="1" /> <!-- Master's Book: Shield -->
+		</skill>
+		<skill skillName="Soul Acumen" skillId="45146" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94370" count="1" /> <!-- Master's Book: Acumen -->
+		</skill>
+		<skill skillName="Soul Empower" skillId="45147" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94361" count="1" /> <!-- Master's Book: Empower -->
+		</skill>
+		<skill skillName="Soul Wild Magic" skillId="45148" skillLevel="3" getLevel="76" levelUpSp="8000000">
+			<item id="94368" count="1" /> <!-- Master's Book: Wild Magic -->
+		</skill>
+		<skill skillName="Soul Berserker Spirit" skillId="45149" skillLevel="3" getLevel="76" levelUpSp="8000000">
+			<item id="94366" count="1" /> <!-- Master's Book: Berserker Spirit -->
+		</skill>
+		<skill skillName="Soul Clarity" skillId="45150" skillLevel="4" getLevel="76" levelUpSp="8000000">
+			<item id="94367" count="1" /> <!-- Master's Book: Clarity -->
+		</skill>
+		<skill skillName="Collect Light Souls" skillId="45151" skillLevel="2" getLevel="76" levelUpSp="8000000">
+			<item id="4347" count="1" /> <!-- Crystal of Light -->
+		</skill>
+		<skill skillName="Collect Shadow Souls" skillId="45152" skillLevel="2" getLevel="76" levelUpSp="8000000">
+			<item id="91943" count="1" /> <!-- Crystal of Shadows -->
+		</skill>
+		<skill skillName="Evolution Defense" skillId="45188" skillLevel="1" getLevel="76">
+			<item id="57" count="5000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Expanded Potential of Dyes" skillId="45269" skillLevel="1" getLevel="76" levelUpSp="0">
+			<item id="96613" count="1" /> <!-- Pattern Slot Expansion Ticket -->
+		</skill>
+		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="1" getLevel="76" levelUpSp="0">
+			<item id="57" count="10000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Detect Darkness" skillId="53005" skillLevel="1" getLevel="76" levelUpSp="8000000">
+			<item id="91482" count="1" /> <!-- Scroll: Detect Darkness -->
+		</skill>
+		<skill skillName="Mount Griffin" skillId="62002" skillLevel="1" getLevel="76" levelUpSp="8000000" />
+		
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="47" getLevel="77" levelUpSp="10000000" />
+		
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="48" getLevel="78" levelUpSp="12000000" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="4" getLevel="78" levelUpSp="12000000" />
+		<skill skillName="Mental Panic" skillId="627" skillLevel="2" getLevel="78" levelUpSp="12000000" />
+		<skill skillName="Soul Stigma" skillId="792" skillLevel="2" getLevel="78" levelUpSp="12000000" />
+		<skill skillName="Death Mark" skillId="1435" skillLevel="4" getLevel="78" levelUpSp="12000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="49" getLevel="79" levelUpSp="15000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="50" getLevel="80" levelUpSp="18000000" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="8" getLevel="80" levelUpSp="18000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Mental Panic" skillId="627" skillLevel="3" getLevel="80" levelUpSp="18000000" />
+		<skill skillName="Bow Mastery" skillId="767" skillLevel="8" getLevel="80" levelUpSp="18000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Critical Shot" skillId="790" skillLevel="3" getLevel="80" levelUpSp="18000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Soul Stigma" skillId="792" skillLevel="3" getLevel="80" levelUpSp="18000000" />
+		<skill skillName="Twin Shot" skillId="45168" skillLevel="8" getLevel="80" levelUpSp="18000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Multiple Shot" skillId="45170" skillLevel="6" getLevel="80" levelUpSp="18000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Sharp Aiming" skillId="45172" skillLevel="9" getLevel="80" levelUpSp="18000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Evolution Power" skillId="45189" skillLevel="1" getLevel="80">
+			<item id="57" count="10000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="2" getLevel="80" levelUpSp="0">
+			<item id="57" count="40000000" /> <!-- Adena -->
+		</skill>
+		
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="51" getLevel="81" levelUpSp="160000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="52" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Mental Panic" skillId="627" skillLevel="4" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Soul Stigma" skillId="792" skillLevel="4" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Dragon Slayer Appearance" skillId="54231" skillLevel="1" getLevel="82" levelUpSp="0">
+			<item id="96300" count="1" /> <!-- Spellbook: Dragon Slayer -->
+		</skill>
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="53" getLevel="83" levelUpSp="240000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="54" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Mental Panic" skillId="627" skillLevel="5" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Soul Stigma" skillId="792" skillLevel="5" getLevel="84" levelUpSp="240000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="55" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Weapon Mastery" skillId="463" skillLevel="5" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="2000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Armor Mastery" skillId="464" skillLevel="5" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="2000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="9" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="5000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Critical Sense" skillId="626" skillLevel="5" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Bow Mastery" skillId="767" skillLevel="9" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="5000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Death Mark" skillId="1435" skillLevel="5" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="2000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Twin Shot" skillId="45168" skillLevel="9" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="5000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Multiple Shot" skillId="45170" skillLevel="7" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="5000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Sharp Aiming" skillId="45172" skillLevel="10" getLevel="85" levelUpSp="840000000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="3" getLevel="85" levelUpSp="0">
+			<item id="57" count="100000000" /> <!-- Adena -->
+		</skill>
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="56" getLevel="86" levelUpSp="840000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="57" getLevel="87" levelUpSp="840000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="58" getLevel="88" levelUpSp="840000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="59" getLevel="89" levelUpSp="840000000" />
+
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="60" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="10" getLevel="90" levelUpSp="840000000">
+			<item id="57" count="10000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Bow Mastery" skillId="767" skillLevel="10" getLevel="90" levelUpSp="840000000">
+			<item id="57" count="10000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Twin Shot" skillId="45168" skillLevel="10" getLevel="90" levelUpSp="840000000">
+			<item id="57" count="10000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Multiple Shot" skillId="45170" skillLevel="8" getLevel="90" levelUpSp="840000000">
+			<item id="57" count="10000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">
+			<item id="57" count="200000000" /> <!-- Adena -->
+		</skill>
+	</skillTree>
+</list>

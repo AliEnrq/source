@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="33819" name="Cloak_of_Protection">
+		<!-- Max HP +3%, Max MP +3% Bow Resistance +1%. -->
+		<passive_skill id="50339" level="1" />
+	</option>
+	<option id="33820" name="Cloak_of_Protection">
+		<!-- Max HP +4%, Max MP +4% Bow Resistance +1%. -->
+		<passive_skill id="50340" level="1" />
+	</option>
+	<option id="33821" name="Cloak_of_Protection">
+		<!-- Max HP +5%, Max MP +5% Bow Resistance +2%, Acquired XP +3%, Acquired SP +3%. -->
+		<passive_skill id="50340" level="2" />
+	</option>
+	<option id="33822" name="Cloak_of_Protection">
+		<!-- Max HP +6%, Max MP +6% Bow Resistance +2%, Acquired XP +5%, Acquired SP +5%. -->
+		<passive_skill id="50340" level="3" />
+	</option>
+	<option id="33823" name="Cloak_of_Protection">
+		<!-- Max HP +7%, Max MP +7% Bow Resistance +3%, Acquired XP +7%, Acquired SP +7%, P. Def. +2%, M. Def. +2%. -->
+		<passive_skill id="50340" level="4" />
+	</option>
+	<option id="33824" name="Cloak_of_Protection">
+		<!-- Max HP +9%, Max MP +9% Bow Resistance +3%, Acquired XP +10%, Acquired SP +10%, P. Def. +4%, M. Def. +4%. -->
+		<passive_skill id="50340" level="5" />
+	</option>
+	<option id="33825" name="Cloak_of_Protection">
+		<!-- Max HP +11%, Max MP +11% Bow Resistance +4%, Acquired XP +15%, Acquired SP +15%, P. Def. +6%, M. Def. +6%. -->
+		<passive_skill id="50340" level="6" />
+	</option>
+	<option id="33826" name="Cloak_of_Protection">
+		<!-- Max HP +13%, Max MP +13% Bow Resistance +6%, Acquired XP +20%, Acquired SP +20%, P. Def. +8%, M. Def. +8%, All Critical Damage +5%. -->
+		<passive_skill id="50340" level="7" />
+	</option>
+	<option id="33827" name="Cloak_of_Protection">
+		<!-- Max HP +15%, Max MP +15% Bow Resistance +9%, Acquired XP +25%, Acquired SP +25%, P. Def. +10%, M. Def. +10%, All Critical Damage +7%, All received Critical Rate -3%, All recived Critical Damage -3%. -->
+		<passive_skill id="50340" level="8" />
+	</option>
+	<option id="33828" name="Cloak_of_Protection">
+		<!-- Max HP +18%, Max MP +18% Bow Resistance +12%, Acquired XP +30%, Acquired SP +30%, P. Def. +12%, M. Def. +12%, All Critical Damage +10%, All received Critical Rate -5%, All recived Critical Damage -5%. -->
+		<passive_skill id="50340" level="9" />
+	</option>
+	<option id="33829" name="Cloak_of_Protection">
+		<!-- Max HP +20%, Max MP +20% Bow Resistance +15%, Acquired XP +30%, Acquired SP +30%, P. Def. +15%, M. Def. +15%, All Critical Damage +15%, All received Critical Rate -10%, All recived Critical Damage -10%. -->
+		<passive_skill id="50340" level="10" />
+	</option>
+	<option id="33852" name="Talisman of Authority">
+		<!-- P. Atk. +50 M. Atk. +50 P. Def. +10 M. Def. +10 Max HP +50 Max MP +30 -->
+		<passive_skill id="50352" level="1" />
+	</option>
+	<option id="33853" name="Talisman of Authority">
+		<!-- P. Atk. +80 M. Atk. +80 P. Def. +13 M. Def. +13 Max HP +100 Max MP +80 -->
+		<passive_skill id="50352" level="2" />
+	</option>
+	<option id="33854" name="Talisman of Authority">
+		<!-- P. Atk. +110 M. Atk. +110 P. Def. +16 M. Def. +16 Max HP +150 Max MP +130 -->
+		<passive_skill id="50352" level="3" />
+	</option>
+	<option id="33855" name="Talisman of Authority">
+		<!-- P. Atk. +160 M. Atk. +160 P. Def. +19 M. Def. +19 Max HP +200 Max MP +180 P. Skill Critical Damage +50 M. Skill Critical Damage +50 -->
+		<passive_skill id="50352" level="4" />
+	</option>
+	<option id="33856" name="Talisman of Authority">
+		<!-- P. Atk. +210 M. Atk. +210 P. Def. +22 M. Def. +22 Max HP +300 Max MP +280 P. Skill Critical Damage +100 M. Skill Critical Damage +100 P. Skill Power +2% M. Skill Power +2% -->
+		<passive_skill id="50352" level="5" />
+	</option>
+	<option id="33857" name="Talisman of Authority">
+		<!-- P. Atk. +290 M. Atk. +290 P. Def. +27 M. Def. +27 Max HP +400 Max MP +380 P. Skill Critical Damage +200 M. Skill Critical Damage +200 P. Skill Power +4% M. Skill Power +4% -->
+		<passive_skill id="50352" level="6" />
+	</option>
+	<option id="33858" name="Talisman of Authority">
+		<!-- P. Atk. +370 M. Atk. +370 P. Def. +32 M. Def. +32 Max HP +500 Max MP +480 P. Skill Critical Damage +300 M. Skill Critical Damage +300 P. Skill Power +6% M. Skill Power +6% -->
+		<passive_skill id="50352" level="7" />
+	</option>
+	<option id="33859" name="Talisman of Authority">
+		<!-- P. Atk. +470 M. Atk. +470 P. Def. +40 M. Def. +40 Max HP +1000 Max MP +880 P. Skill Critical Damage +400 M. Skill Critical Damage +400 P. Skill Power +8% M. Skill Power +8% -->
+		<passive_skill id="50352" level="8" />
+	</option>
+	<option id="33860" name="Talisman of Authority">
+		<!-- P. Atk. +570 M. Atk. +570 P. Def. +48 M. Def. +48 Max HP +1500 Max MP +1280 P. Skill Critical Damage +500 M. Skill Critical Damage +500 P. Skill Power +10% M. Skill Power +10% -->
+		<passive_skill id="50352" level="9" />
+	</option>
+	<option id="33861" name="Talisman of Authority">
+		<!-- P. Atk. +770 M. Atk. +770 P. Def. +56 M. Def. +56 Max HP +2500 Max MP +1780 P. Skill Critical Damage +700 M. Skill Critical Damage +700 P. Skill Power +12% M. Skill Power +12% -->
+		<passive_skill id="50352" level="10" />
+	</option>
+	<option id="33862" name="Talisman of Authority">
+		<!-- P. Atk. +1000 M. Atk. +1000 P. Def. +70 M. Def. +70 Max HP +4000 Max MP +2780 P. Skill Critical Damage +1000 M. Skill Critical Damage +1000 P. Skill Power +15% M. Skill Power +15% -->
+		<passive_skill id="50352" level="11" />
+	</option>
+	<option id="33885" name="A Death Knight's flame sword cursed by Valakas">
+		<passive_skill id="50364" level="1" />
+	</option>
+	<option id="33886" name="A Death Knight's flame sword cursed by Valakas +1">
+		<passive_skill id="50365" level="1" />
+	</option>
+	<option id="33887" name="A Death Knight's flame sword cursed by Valakas +2">
+		<passive_skill id="50365" level="2" />
+	</option>
+	<option id="33888" name="A Death Knight's flame sword cursed by Valakas +3">
+		<passive_skill id="50365" level="3" />
+	</option>
+	<option id="33889" name="A Death Knight's flame sword cursed by Valakas +4">
+		<passive_skill id="50365" level="4" />
+	</option>
+	<option id="33890" name="A Death Knight's flame sword cursed by Valakas +5">
+		<passive_skill id="50365" level="5" />
+	</option>
+	<option id="33891" name="A Death Knight's flame sword cursed by Valakas +6">
+		<passive_skill id="50365" level="6" />
+	</option>
+	<option id="33892" name="A Death Knight's flame sword cursed by Valakas +7">
+		<passive_skill id="50365" level="7" />
+	</option>
+	<option id="33893" name="A Death Knight's flame sword cursed by Valakas +8">
+		<passive_skill id="50365" level="8" />
+	</option>
+	<option id="33894" name="A Death Knight's flame sword cursed by Valakas +9">
+		<passive_skill id="50365" level="9" />
+	</option>
+	<option id="33895" name="A Death Knight's flame sword cursed by Valakas +10">
+		<passive_skill id="50365" level="10" />
+	</option>
+</list>

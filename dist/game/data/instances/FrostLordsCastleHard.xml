@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance id="1014" maxWorlds="80" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<time duration="60" empty="0" />
+	<removeBuffs type="ALL" />
+	<locations>
+		<enter type="FIXED">
+			<location x="114717" y="-116855" z="-11082" />
+		</enter>
+		<exit type="ORIGIN" />
+	</locations>
+	<conditions>
+		<condition type="Party" />
+		<condition type="CommandChannel" />
+		<condition type="CommandChannelLeader" />
+		<condition type="GroupMin">
+			<param name="limit" value="20" />
+		</condition>
+		<condition type="GroupMax">
+			<param name="limit" value="100" />
+		</condition>
+		<condition type="Level">
+			<param name="min" value="85" />
+			<param name="max" value="99" />
+		</condition>
+		<condition type="Distance" />
+		<condition type="Reenter" />
+	</conditions>
+	<reenter apply="ON_FINISH">
+		<reset day="TUESDAY" hour="6" minute="30" />
+		<reset day="THURSDAY" hour="6" minute="30" />
+		<reset day="SATURDAY" hour="6" minute="30" />
+	</reenter>
+	<spawnlist>
+		<group>
+			<npc id="22350" x="113139" y="-115081" z="-10963" heading="48697" /> <!-- Emperor Sniper -->
+			<npc id="22348" x="114524" y="-114312" z="-11207" heading="50417" /> <!-- Emperor Knight -->
+			<npc id="22348" x="114205" y="-114887" z="-11207" heading="44654" /> <!-- Emperor Knight -->
+			<npc id="22348" x="115281" y="-115093" z="-11207" heading="5429" /> <!-- Emperor Knight -->
+			<npc id="22348" x="115379" y="-114533" z="-11207" heading="11168" /> <!-- Emperor Knight -->
+			<npc id="22349" x="114147" y="-115442" z="-11206" heading="13828" /> <!-- Emperor Mage -->
+			<npc id="22349" x="113916" y="-114084" z="-11204" heading="2892" /> <!-- Emperor Mage -->
+			<npc id="22349" x="115241" y="-113964" z="-11205" heading="57174" /> <!-- Emperor Mage -->
+			<npc id="22350" x="116234" y="-115644" z="-10988" heading="7270" /> <!-- Emperor Sniper -->
+			<npc id="22350" x="116330" y="-114662" z="-10988" heading="17543" /> <!-- Emperor Sniper -->
+			<npc id="22350" x="115942" y="-114794" z="-11074" heading="34766" /> <!-- Emperor Sniper -->
+			<npc id="22352" x="116145" y="-113879" z="-10988" heading="23193" /> <!-- Emperor Archer -->
+			<npc id="22352" x="115542" y="-113298" z="-10988" heading="29329" /> <!-- Emperor Archer -->
+			<npc id="22352" x="114830" y="-113197" z="-10988" heading="32301" /> <!-- Emperor Archer -->
+			<npc id="22350" x="113639" y="-113506" z="-10988" heading="41760" /> <!-- Emperor Sniper -->
+		</group>
+	</spawnlist>
+</instance>

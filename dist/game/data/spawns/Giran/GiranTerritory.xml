@@ -1,0 +1,976 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_041" minZ="-3742" maxZ="-3342">
+				<node x="88840" y="131531" />
+				<node x="92412" y="131567" />
+				<node x="92824" y="132595" />
+				<node x="89588" y="132879" />
+			</territory>
+		</territories>
+		<npc id="20199" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Amber Basilisk -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_040" minZ="-3734" maxZ="-3334">
+				<node x="95349" y="134485" />
+				<node x="97445" y="133497" />
+				<node x="97273" y="136309" />
+				<node x="95933" y="136705" />
+			</territory>
+		</territories>
+		<npc id="20199" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Amber Basilisk -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_039" minZ="-3767" maxZ="-3167">
+				<node x="95483" y="148332" />
+				<node x="97547" y="147012" />
+				<node x="97551" y="149976" />
+				<node x="95587" y="150732" />
+			</territory>
+		</territories>
+		<npc id="20199" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Amber Basilisk -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_001" minZ="-3888" maxZ="-3488">
+				<node x="65689" y="131232" />
+				<node x="70017" y="131200" />
+				<node x="70285" y="133172" />
+				<node x="69161" y="133608" />
+				<node x="65693" y="132844" />
+			</territory>
+		</territories>
+		<npc id="20176" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Wyrm -->
+		<npc id="20550" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Guardian Basilisk -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_010" minZ="-3769" maxZ="-3269">
+				<node x="65720" y="145925" />
+				<node x="67340" y="145441" />
+				<node x="66720" y="149689" />
+				<node x="65740" y="150137" />
+			</territory>
+		</territories>
+		<npc id="20191" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_tt22_22_011" minZ="-3788" maxZ="-3188">
+				<node x="66327" y="149777" />
+				<node x="67447" y="150953" />
+				<node x="65655" y="154077" />
+				<node x="65711" y="150121" />
+			</territory>
+		</territories>
+		<npc id="20191" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_012" minZ="-3783" maxZ="-2933">
+				<node x="67709" y="155098" />
+				<node x="68585" y="155586" />
+				<node x="69869" y="160642" />
+				<node x="65701" y="161590" />
+				<node x="65825" y="155466" />
+			</territory>
+		</territories>
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20191" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_003" minZ="-3785" maxZ="-3185">
+				<node x="87482" y="131194" />
+				<node x="96118" y="131206" />
+				<node x="93554" y="133302" />
+				<node x="88718" y="133330" />
+			</territory>
+		</territories>
+		<npc id="20267" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc -->
+		<npc id="20268" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc Archer -->
+		<npc id="20271" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc Warrior -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_002" minZ="-3757" maxZ="-2757">
+				<node x="70840" y="131233" />
+				<node x="78424" y="131257" />
+				<node x="76744" y="133405" />
+				<node x="72988" y="134097" />
+			</territory>
+		</territories>
+		<npc id="20176" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Wyrm -->
+		<npc id="20550" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Guardian Basilisk -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_005" minZ="-3709" maxZ="-3109">
+				<node x="96206" y="131377" />
+				<node x="98010" y="131317" />
+				<node x="97966" y="136893" />
+				<node x="96066" y="137553" />
+				<node x="94854" y="137037" />
+				<node x="94754" y="132681" />
+			</territory>
+		</territories>
+		<npc id="20267" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc -->
+		<npc id="20268" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc Archer -->
+		<npc id="20271" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc Warrior -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_004" minZ="-3668" maxZ="-3268">
+				<node x="88643" y="134140" />
+				<node x="89579" y="133516" />
+				<node x="90191" y="134600" />
+				<node x="89315" y="135392" />
+			</territory>
+		</territories>
+		<npc id="20270" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Breka Orc Prefect -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_028" minZ="-3711" maxZ="-3111">
+				<node x="72362" y="131529" />
+				<node x="76550" y="131573" />
+				<node x="75070" y="132945" />
+				<node x="73102" y="132721" />
+			</territory>
+		</territories>
+		<npc id="20551" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Road Scavenger -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_009" minZ="-3807" maxZ="-3107">
+				<node x="65767" y="139450" />
+				<node x="70151" y="141342" />
+				<node x="69983" y="144754" />
+				<node x="65823" y="145886" />
+			</territory>
+		</territories>
+		<npc id="20191" count="9" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_014" minZ="-3555" maxZ="-2755">
+				<node x="74261" y="158065" />
+				<node x="76405" y="156901" />
+				<node x="79577" y="157457" />
+				<node x="78149" y="160153" />
+				<node x="75081" y="160425" />
+			</territory>
+		</territories>
+		<npc id="20191" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+		<npc id="20168" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_013" minZ="-3522" maxZ="-1922">
+				<node x="65787" y="161627" />
+				<node x="67379" y="161267" />
+				<node x="67703" y="163559" />
+				<node x="65715" y="163491" />
+			</territory>
+		</territories>
+		<npc id="20191" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_016" minZ="-3595" maxZ="-2995">
+				<node x="81413" y="154704" />
+				<node x="83497" y="155596" />
+				<node x="83309" y="156560" />
+				<node x="81701" y="158176" />
+				<node x="80665" y="156504" />
+			</territory>
+		</territories>
+		<npc id="20068" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Monster Eye Destroyer -->
+		<npc id="20250" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Glass Jaguar -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_015" minZ="-3595" maxZ="-2995">
+				<node x="78156" y="153322" />
+				<node x="80284" y="155014" />
+				<node x="79508" y="157438" />
+				<node x="76468" y="156902" />
+				<node x="76488" y="156046" />
+			</territory>
+		</territories>
+		<npc id="20068" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Monster Eye Destroyer -->
+		<npc id="20250" count="5" respawnTime="95sec" respawnRandom="0sec" /> <!-- Glass Jaguar -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_030" minZ="-3841" maxZ="-3241">
+				<node x="66356" y="141015" />
+				<node x="68936" y="141951" />
+				<node x="67636" y="144455" />
+				<node x="66392" y="144643" />
+			</territory>
+		</territories>
+		<npc id="20168" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_032" minZ="-3563" maxZ="-3063">
+				<node x="76477" y="157430" />
+				<node x="78669" y="157842" />
+				<node x="77689" y="159358" />
+				<node x="75681" y="159126" />
+			</territory>
+		</territories>
+		<npc id="20168" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_031" minZ="-3740" maxZ="-3340">
+				<node x="66104" y="156543" />
+				<node x="67892" y="156707" />
+				<node x="67560" y="159023" />
+				<node x="66216" y="160311" />
+			</territory>
+		</territories>
+		<npc id="20168" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_025" minZ="-3723" maxZ="-2923">
+				<node x="89014" y="151701" />
+				<node x="90406" y="149809" />
+				<node x="91378" y="150273" />
+				<node x="91394" y="152109" />
+				<node x="89578" y="152357" />
+			</territory>
+		</territories>
+		<npc id="20191" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+		<npc id="20168" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_024" minZ="-3766" maxZ="-2566">
+				<node x="94871" y="147897" />
+				<node x="97947" y="145501" />
+				<node x="97931" y="152657" />
+				<node x="94947" y="152985" />
+			</territory>
+		</territories>
+		<npc id="20191" count="9" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_027" minZ="-3679" maxZ="-2879">
+				<node x="78243" y="139076" />
+				<node x="80855" y="139068" />
+				<node x="80295" y="140744" />
+				<node x="78447" y="140648" />
+				<node x="77275" y="139800" />
+			</territory>
+		</territories>
+		<npc id="20191" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="1" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+		<npc id="20168" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn>
+		<territories>
+			<territory name="giran_t22_22_026" minZ="-3636" maxZ="-3036">
+				<node x="85694" y="139720" />
+				<node x="89270" y="139592" />
+				<node x="89922" y="141016" />
+				<node x="89446" y="142740" />
+				<node x="87794" y="142916" />
+				<node x="85582" y="141840" />
+			</territory>
+		</territories>
+		<npc id="20191" count="3" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Raider -->
+		<npc id="20190" count="2" respawnTime="95sec" respawnRandom="0sec" /> <!-- Skeleton Marauder -->
+		<npc id="20168" count="4" respawnTime="95sec" respawnRandom="0sec" /> <!-- Silenos -->
+	</spawn>
+	<spawn name="23_21">
+		<group>
+			<npc id="20145" x="103900" y="131070" z="-3656" heading="0" respawnTime="27sec" /> <!-- Harpy -->
+			<npc id="20145" x="95131" y="131019" z="-3458" heading="32768" respawnTime="27sec" /> <!-- Harpy -->
+			<npc id="20248" x="98710" y="128977" z="-2637" heading="6677" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="98710" y="128977" z="-2637" heading="6677" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="99110" y="129320" z="-2693" heading="11160" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="99110" y="129320" z="-2693" heading="11160" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="99314" y="129737" z="-2808" heading="12071" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="99334" y="129780" z="-2821" heading="12071" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="99551" y="130032" z="-2888" heading="5354" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="99594" y="130056" z="-2893" heading="5354" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="100111" y="130259" z="-2915" heading="3462" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="100111" y="130259" z="-2915" heading="3462" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="100728" y="130397" z="-2905" heading="1083" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="100728" y="130397" z="-2905" heading="1083" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="101263" y="130489" z="-2926" heading="2137" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="101751" y="130568" z="-2950" heading="1370" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="101800" y="130575" z="-2952" heading="1370" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="102341" y="130619" z="-2974" heading="291" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="102341" y="130619" z="-2974" heading="291" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="102835" y="130626" z="-2994" heading="57" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="102835" y="130626" z="-2994" heading="57" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="103379" y="130638" z="-3016" heading="387" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="103379" y="130638" z="-3016" heading="387" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="104021" y="130662" z="-3041" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="104070" y="130667" z="-3042" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="104564" y="130710" z="-3052" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="104564" y="130710" z="-3052" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="105107" y="130757" z="-3063" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="105107" y="130757" z="-3063" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="105748" y="130813" z="-3085" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="105748" y="130813" z="-3085" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="106340" y="130864" z="-3109" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="106390" y="130868" z="-3111" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="106883" y="130911" z="-3131" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="106883" y="130911" z="-3131" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="107474" y="130963" z="-3161" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="107474" y="130963" z="-3161" heading="905" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="103844" y="131005" z="-3112" heading="30689" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="101030" y="131003" z="-3057" heading="47396" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="100499" y="130914" z="-3077" heading="30314" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="113714" y="131040" z="-2984" heading="38511" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="113629" y="130988" z="-2981" heading="38511" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="113044" y="130608" z="-2967" heading="38917" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113003" y="130580" z="-2966" heading="38917" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="112962" y="130553" z="-2966" heading="38917" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="112673" y="130360" z="-2962" heading="38917" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="110040" y="131028" z="-3091" heading="37382" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="109996" y="131007" z="-3093" heading="37382" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="109951" y="130986" z="-3095" heading="37382" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="109862" y="130943" z="-3099" heading="37382" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="108922" y="130660" z="-3106" heading="38646" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="108880" y="130634" z="-3101" heading="38646" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="108796" y="130583" z="-3091" heading="38646" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="108584" y="130456" z="-3066" heading="38646" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="107899" y="130361" z="-3036" heading="33049" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="107850" y="130360" z="-3038" heading="33049" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="107800" y="130358" z="-3040" heading="33049" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="107652" y="130354" z="-3046" heading="33049" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="107056" y="130368" z="-3060" heading="31647" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="106958" y="130379" z="-3063" heading="31647" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="106662" y="130410" z="-3075" heading="31647" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="105969" y="130226" z="-3042" heading="40318" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="105969" y="130226" z="-3042" heading="40318" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20176" x="105864" y="130136" z="-3021" heading="40318" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="105732" y="130131" z="-3016" heading="19256" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="105732" y="130131" z="-3016" heading="19256" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="105732" y="130131" z="-3016" heading="19256" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="105732" y="130131" z="-3016" heading="19256" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="117288" y="130594" z="-3401" heading="54169" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117311" y="130550" z="-3398" heading="54169" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117334" y="130506" z="-3395" heading="54169" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117380" y="130419" z="-3389" heading="54169" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="117441" y="129476" z="-3215" heading="43190" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117441" y="129476" z="-3215" heading="43190" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117415" y="129436" z="-3202" heading="43190" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117287" y="129234" z="-3137" heading="43190" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="116308" y="128637" z="-2925" heading="22987" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="116308" y="128637" z="-2925" heading="22987" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="116251" y="128714" z="-2949" heading="22987" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="116193" y="128790" z="-2973" heading="22987" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20550" x="98534" y="98553" z="-3671" heading="48832" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20550" x="100264" y="98440" z="-3730" heading="29992" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="99825" y="98520" z="-3703" heading="30928" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20552" x="99773" y="98810" z="-3694" heading="8191" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100181" y="99079" z="-3701" heading="3617" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="100368" y="99141" z="-3704" heading="2042" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100853" y="99073" z="-3698" heading="63238" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="101318" y="98912" z="-3644" heading="62488" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="101460" y="98871" z="-3625" heading="62536" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="101696" y="99001" z="-3610" heading="24703" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="101854" y="99063" z="-3594" heading="64989" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102332" y="99075" z="-3516" heading="3149" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="102584" y="99144" z="-3494" heading="3149" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="102776" y="99192" z="-3447" heading="1913" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="102776" y="99192" z="-3447" heading="1913" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="102578" y="99638" z="-3518" heading="20234" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20552" x="102649" y="100000" z="-3543" heading="6845" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102615" y="100403" z="-3556" heading="22567" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="102544" y="100469" z="-3559" heading="27264" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102179" y="100803" z="-3568" heading="24402" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="102160" y="100848" z="-3568" heading="20584" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="101898" y="101264" z="-3566" heading="23324" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="101836" y="101342" z="-3564" heading="23324" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="101445" y="101641" z="-3552" heading="27536" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="101269" y="101734" z="-3543" heading="27770" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100870" y="102020" z="-3504" heading="21150" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="100728" y="102536" z="-3442" heading="16752" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="100736" y="102634" z="-3432" heading="15455" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100863" y="103089" z="-3395" heading="7567" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="101223" y="103424" z="-3401" heading="6693" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="101638" y="103690" z="-3422" heading="5496" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20552" x="102057" y="103603" z="-3465" heading="62325" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102431" y="103306" z="-3512" heading="56567" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="102667" y="102875" z="-3539" heading="53437" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="102725" y="102738" z="-3548" heading="53437" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102519" y="102289" z="-3552" heading="43410" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="102044" y="102232" z="-3544" heading="32651" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="101545" y="102399" z="-3510" heading="25419" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="101203" y="102683" z="-3464" heading="25643" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="101150" y="102909" z="-3440" heading="16238" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="101387" y="103209" z="-3444" heading="4686" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="101838" y="103405" z="-3478" heading="4272" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="101983" y="103859" z="-3450" heading="14002" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="102243" y="104261" z="-3434" heading="8718" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="102408" y="104446" z="-3429" heading="8718" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102507" y="104850" z="-3385" heading="22586" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="102104" y="104864" z="-3337" heading="36959" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="101733" y="104675" z="-3295" heading="38713" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="101326" y="104392" z="-3285" heading="38932" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="101046" y="104183" z="-3275" heading="40008" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100615" y="103992" z="-3236" heading="29936" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="100236" y="104045" z="-3169" heading="43898" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="100272" y="103611" z="-3248" heading="49534" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="99924" y="103325" z="-3266" heading="32356" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="99507" y="103558" z="-3182" heading="23901" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="99299" y="103760" z="-3114" heading="24886" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="99088" y="104163" z="-2990" heading="18067" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="99198" y="104527" z="-2913" heading="7776" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="99661" y="104797" z="-2922" heading="3754" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="100097" y="105022" z="-2955" heading="5408" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="100561" y="105496" z="-2962" heading="11890" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100630" y="105956" z="-2892" heading="19727" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="100352" y="106333" z="-2737" heading="21936" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="100519" y="106621" z="-2703" heading="5357" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20552" x="100608" y="106661" z="-2714" heading="4533" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="100945" y="106919" z="-2740" heading="2630" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="101178" y="106982" z="-2777" heading="1749" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="101626" y="106845" z="-2876" heading="60686" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="102049" y="106746" z="-2965" heading="53996" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="102339" y="106369" z="-3078" heading="57369" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="102622" y="105936" z="-3199" heading="57228" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="102622" y="105936" z="-3199" heading="57228" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102981" y="105607" z="-3282" heading="58417" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="103315" y="105254" z="-3360" heading="55261" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="103544" y="104826" z="-3436" heading="54827" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="103962" y="104664" z="-3481" heading="63746" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="104259" y="104694" z="-3506" heading="17720" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="104355" y="104856" z="-3495" heading="8779" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="104727" y="105168" z="-3480" heading="7732" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="104797" y="105236" z="-3479" heading="8345" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="104786" y="105575" z="-3454" heading="27188" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="104491" y="105753" z="-3416" heading="26134" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="104253" y="106103" z="-3362" heading="18693" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="104350" y="106258" z="-3359" heading="4380" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="104821" y="106397" z="-3388" heading="2283" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="105132" y="106622" z="-3408" heading="17156" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20552" x="105128" y="106671" z="-3405" heading="17156" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="105256" y="106755" z="-3420" heading="57678" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="105343" y="106438" z="-3439" heading="45051" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="105504" y="106024" z="-3468" heading="54042" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="105467" y="105846" z="-3471" heading="40537" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="105277" y="105533" z="-3477" heading="51588" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="105359" y="105354" z="-3494" heading="54956" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="105519" y="104915" z="-3548" heading="50039" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="105902" y="104920" z="-3573" heading="3935" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="106251" y="105250" z="-3598" heading="9971" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="106543" y="105647" z="-3619" heading="9484" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="106791" y="106290" z="-3610" heading="14929" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="106917" y="106758" z="-3575" heading="17341" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="106772" y="106955" z="-3557" heading="25714" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="106557" y="106831" z="-3522" heading="15039" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20552" x="106557" y="106831" z="-3528" heading="10417" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20552" x="106557" y="106831" z="-3528" heading="26158" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20552" x="106557" y="106831" z="-3528" heading="31602" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20552" x="106557" y="106831" z="-3528" heading="33450" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20176" x="104252" y="106911" z="-3278" heading="43957" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="104072" y="106584" z="-3288" heading="55647" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="107145" y="107016" z="-3561" heading="18437" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="106825" y="107374" z="-3508" heading="26968" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="106384" y="107182" z="-3519" heading="34711" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="105974" y="107297" z="-3484" heading="22444" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="106108" y="107352" z="-3488" heading="8551" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="106375" y="108124" z="-3421" heading="9481" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="106157" y="108342" z="-3384" heading="33120" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="105774" y="108176" z="-3386" heading="50336" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="105622" y="107796" z="-3409" heading="33545" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="105176" y="107896" z="-3334" heading="38388" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="105180" y="107621" z="-3351" heading="56731" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="104771" y="107468" z="-3297" heading="31443" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="104453" y="107827" z="-3227" heading="25480" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="104047" y="108074" z="-3153" heading="34765" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20552" x="103717" y="107966" z="-3113" heading="36621" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="103263" y="107768" z="-3052" heading="35237" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="102875" y="107560" z="-3006" heading="39115" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="102468" y="107275" z="-2972" heading="39754" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="102538" y="106330" z="-3126" heading="49661" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="102579" y="105337" z="-3287" heading="58838" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="102949" y="105018" z="-3357" heading="57547" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="103316" y="104624" z="-3423" heading="56698" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="103641" y="104256" z="-3483" heading="56718" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="103817" y="103861" z="-3539" heading="42737" respawnTime="60sec" /> <!-- Road Scavenger -->
+			<npc id="20552" x="103967" y="102986" z="-3621" heading="377" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="104395" y="103179" z="-3636" heading="7885" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="104759" y="103515" z="-3636" heading="62799" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="105237" y="103431" z="-3546" heading="64458" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20552" x="105455" y="103329" z="-3542" heading="60991" respawnTime="60sec" /> <!-- Fettered Soul -->
+			<npc id="20553" x="105929" y="103282" z="-3471" heading="2603" respawnTime="60sec" /> <!-- Windsus -->
+			<npc id="20550" x="106393" y="103384" z="-3342" heading="2215" respawnTime="60sec" /> <!-- Guardian Basilisk -->
+			<npc id="20176" x="106903" y="103423" z="-3193" heading="4678" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20551" x="107337" y="103497" z="-3066" heading="64941" respawnTime="60sec" /> <!-- Road Scavenger -->
+		</group>
+	</spawn>
+	<spawn name="23_22">
+		<group>
+			<npc id="20248" x="100856" y="135768" z="-3554" heading="29895" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="100050" y="135636" z="-3569" heading="36251" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="100003" y="135620" z="-3571" heading="36251" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="99577" y="135257" z="-3582" heading="40978" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="99175" y="135408" z="-3573" heading="24494" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="98870" y="135733" z="-3552" heading="24051" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="98837" y="135769" z="-3549" heading="24051" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="98339" y="136163" z="-3529" heading="25104" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="98430" y="132910" z="-3533" heading="58541" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="98430" y="132910" z="-3533" heading="58541" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="99055" y="132300" z="-3464" heading="52912" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="99055" y="132300" z="-3464" heading="52912" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="98678" y="131488" z="-3374" heading="33609" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="98629" y="131484" z="-3377" heading="33609" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="108306" y="131128" z="-3224" heading="27350" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="108306" y="131128" z="-3224" heading="27350" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="106367" y="132546" z="-3456" heading="29656" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="106367" y="132546" z="-3456" heading="29656" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="105676" y="132997" z="-3467" heading="25109" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="105639" y="133030" z="-3468" heading="25109" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="103802" y="132740" z="-3415" heading="40248" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="103802" y="132740" z="-3415" heading="40248" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="103491" y="132292" z="-3355" heading="52538" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="103491" y="132292" z="-3355" heading="52538" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="102996" y="131659" z="-3225" heading="29984" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="102996" y="131659" z="-3225" heading="29984" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="102320" y="131175" z="-3115" heading="45780" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="102303" y="131129" z="-3106" heading="45780" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="101056" y="132093" z="-3305" heading="16277" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="101056" y="132093" z="-3305" heading="16277" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="100908" y="134254" z="-3555" heading="23662" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="100908" y="134254" z="-3555" heading="23662" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="101164" y="134781" z="-3623" heading="3654" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="101210" y="134799" z="-3625" heading="3654" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="101681" y="134823" z="-3637" heading="62846" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="102222" y="134601" z="-3632" heading="58714" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="103038" y="134312" z="-3601" heading="50" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="103038" y="134312" z="-3601" heading="50" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="102750" y="135146" z="-3628" heading="60845" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="103219" y="135182" z="-3626" heading="4879" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="105777" y="133398" z="-3522" heading="61993" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="106104" y="133000" z="-3493" heading="51506" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="105879" y="132253" z="-3401" heading="46759" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="105813" y="131842" z="-3348" heading="42291" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105749" y="131767" z="-3334" heading="41984" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="105421" y="131336" z="-3246" heading="42156" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="104353" y="131114" z="-3157" heading="27756" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="103286" y="131606" z="-3218" heading="16481" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="102459" y="131628" z="-3205" heading="29731" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="101432" y="131522" z="-3169" heading="32661" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="99532" y="131143" z="-3246" heading="30294" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="98894" y="131974" z="-3419" heading="23534" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="98608" y="134516" z="-3610" heading="55487" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="98840" y="134384" z="-3596" heading="64990" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="99286" y="134535" z="-3585" heading="7437" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="99483" y="134811" z="-3582" heading="12618" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="99947" y="134792" z="-3590" heading="63077" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="100338" y="134773" z="-3600" heading="606" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="103370" y="135382" z="-3636" heading="63672" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="106857" y="136730" z="-3434" heading="2595" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="107015" y="137458" z="-3469" heading="16172" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="107347" y="137968" z="-3498" heading="9848" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="107502" y="138716" z="-3532" heading="17386" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="106857" y="138810" z="-3549" heading="37604" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="106098" y="139471" z="-3547" heading="17020" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="106125" y="138397" z="-3520" heading="45636" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105793" y="138285" z="-3516" heading="29227" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105802" y="138032" z="-3500" heading="1526" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="106168" y="138056" z="-3502" heading="2555" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="106850" y="136662" z="-3420" heading="57311" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="107322" y="136451" z="-3332" heading="1820" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="107657" y="136698" z="-3279" heading="9524" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="113142" y="135953" z="-3617" heading="18319" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113142" y="135953" z="-3617" heading="18319" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="112946" y="136762" z="-3570" heading="16511" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="112945" y="136812" z="-3569" heading="16511" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113076" y="137379" z="-3576" heading="10931" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="113076" y="137379" z="-3576" heading="10931" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="113643" y="137680" z="-3562" heading="125" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113692" y="137681" z="-3559" heading="125" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="114424" y="137758" z="-3510" heading="2325" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="114424" y="137758" z="-3510" heading="2325" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20176" x="115142" y="137644" z="-3478" heading="62056" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="115762" y="137500" z="-3461" heading="455" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="116298" y="137892" z="-3395" heading="6983" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="116359" y="138575" z="-3349" heading="21571" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="116936" y="138152" z="-3339" heading="59063" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="117528" y="137272" z="-3404" heading="54878" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117528" y="137272" z="-3404" heading="54878" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117528" y="137272" z="-3404" heading="54878" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117528" y="137272" z="-3404" heading="54878" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="117771" y="136539" z="-3479" heading="49392" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117771" y="136539" z="-3479" heading="49392" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117772" y="136440" z="-3487" heading="49392" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117774" y="136342" z="-3496" heading="49392" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="117733" y="135699" z="-3527" heading="47308" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="117724" y="135650" z="-3527" heading="47308" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="117706" y="135552" z="-3527" heading="47308" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117697" y="135504" z="-3527" heading="47308" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="117422" y="134565" z="-3487" heading="43626" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117398" y="134523" z="-3480" heading="43626" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117373" y="134481" z="-3473" heading="43626" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117323" y="134396" z="-3459" heading="43626" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="116834" y="133716" z="-3360" heading="41830" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="116802" y="133679" z="-3355" heading="41830" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="116739" y="133603" z="-3345" heading="41830" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="116675" y="133528" z="-3335" heading="41830" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="116029" y="132533" z="-3254" heading="43487" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="116029" y="132533" z="-3254" heading="43487" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="115978" y="132448" z="-3249" heading="43487" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="115927" y="132363" z="-3244" heading="43487" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="115606" y="131433" z="-3213" heading="49014" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="115605" y="131383" z="-3213" heading="49014" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="115605" y="131334" z="-3213" heading="49014" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="115603" y="131185" z="-3213" heading="49014" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="114791" y="131176" z="-3088" heading="27621" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="114747" y="131199" z="-3081" heading="27621" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="114704" y="131222" z="-3073" heading="27621" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="114618" y="131268" z="-3058" heading="27621" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="113798" y="131092" z="-2987" heading="38511" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113798" y="131092" z="-2987" heading="38511" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="112221" y="131117" z="-2922" heading="23682" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="112189" y="131155" z="-2923" heading="23682" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="112158" y="131193" z="-2924" heading="23682" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="111247" y="131425" z="-2988" heading="35939" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="111247" y="131425" z="-2988" heading="35939" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="111200" y="131410" z="-2992" heading="35939" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="110964" y="131336" z="-3012" heading="35939" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="104456" y="132056" z="-3342" heading="19256" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="104456" y="132056" z="-3342" heading="19256" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="104456" y="132056" z="-3342" heading="19256" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="104456" y="132056" z="-3342" heading="19256" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="102168" y="136120" z="-3632" heading="18396" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="101848" y="135560" z="-3651" heading="43799" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="100152" y="134520" z="-3597" heading="39497" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="100152" y="134520" z="-3597" heading="39497" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="100468" y="134084" z="-3565" heading="55208" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="100855" y="133785" z="-3551" heading="55715" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="100863" y="133366" z="-3524" heading="40927" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="102027" y="133588" z="-3521" heading="63049" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="102758" y="133556" z="-3517" heading="63477" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="103784" y="133945" z="-3558" heading="11473" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104292" y="134118" z="-3549" heading="7695" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104499" y="134249" z="-3539" heading="5581" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="106831" y="135989" z="-3381" heading="62670" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="106831" y="135989" z="-3381" heading="62670" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="106878" y="135976" z="-3372" heading="62670" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="107522" y="135444" z="-3268" heading="55794" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="107522" y="135444" z="-3268" heading="55794" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="107583" y="135366" z="-3265" heading="55794" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="107996" y="134983" z="-3273" heading="58306" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="107996" y="134983" z="-3273" heading="58306" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="108034" y="134952" z="-3277" heading="58306" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="108224" y="134314" z="-3369" heading="47599" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="108224" y="134314" z="-3369" heading="47599" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="108217" y="134266" z="-3378" heading="47599" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="108706" y="133794" z="-3516" heading="3323" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="108751" y="133811" z="-3525" heading="3323" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="108797" y="133828" z="-3535" heading="3323" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="109710" y="134277" z="-3506" heading="6742" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="109710" y="134277" z="-3506" heading="6742" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="109750" y="134307" z="-3503" heading="6742" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="109976" y="134740" z="-3367" heading="13498" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="109988" y="134785" z="-3350" heading="13498" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="109988" y="134785" z="-3350" heading="13498" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="110441" y="135071" z="-3315" heading="2329" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="110441" y="135071" z="-3315" heading="2329" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="110489" y="135082" z="-3319" heading="2329" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="111281" y="134179" z="-3420" heading="54060" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="111281" y="134179" z="-3420" heading="54060" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="111303" y="134135" z="-3416" heading="54060" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="111445" y="133672" z="-3287" heading="51893" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="111445" y="133672" z="-3287" heading="51893" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="111457" y="133626" z="-3272" heading="51893" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="111643" y="133207" z="-3163" heading="55463" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="111643" y="133207" z="-3163" heading="55463" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="111699" y="133127" z="-3146" heading="55463" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="111592" y="132728" z="-3088" heading="47016" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="111592" y="132728" z="-3088" heading="47016" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="111562" y="132584" z="-3061" heading="47016" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="111409" y="132203" z="-3020" heading="42549" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="111409" y="132203" z="-3020" heading="42549" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="111380" y="132163" z="-3020" heading="42549" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="112388" y="132298" z="-2937" heading="10704" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="112388" y="132298" z="-2937" heading="10704" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="112414" y="132341" z="-2939" heading="10704" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="112802" y="132635" z="-2935" heading="5807" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="112802" y="132635" z="-2935" heading="5807" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="112844" y="132662" z="-2934" heading="5807" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="113168" y="132655" z="-2921" heading="59817" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="113574" y="132300" z="-2911" heading="56948" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113608" y="132264" z="-2912" heading="56948" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="113643" y="132228" z="-2913" heading="56948" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="113779" y="132085" z="-2917" heading="56948" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="114809" y="131900" z="-3060" heading="6097" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="114809" y="131900" z="-3060" heading="6097" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="114890" y="131954" z="-3074" heading="6097" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="115064" y="132072" z="-3110" heading="6097" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="116640" y="131342" z="-3354" heading="59578" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="116640" y="131342" z="-3354" heading="59578" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="116722" y="131290" z="-3372" heading="59578" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="116804" y="131237" z="-3390" heading="59578" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="117817" y="134047" z="-3474" heading="17543" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="117813" y="134095" z="-3485" heading="17543" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="117808" y="134143" z="-3496" heading="17543" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="118682" y="135412" z="-3520" heading="1707" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="118730" y="135420" z="-3522" heading="1707" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="118779" y="135428" z="-3525" heading="1707" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="119635" y="134921" z="-3518" heading="53293" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="120044" y="134694" z="-3419" heading="2735" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="120044" y="134694" z="-3419" heading="2735" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="120092" y="134707" z="-3415" heading="2735" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="120682" y="134645" z="-3378" heading="57122" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="120717" y="134610" z="-3374" heading="57122" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="120728" y="134600" z="-3373" heading="57122" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="121227" y="135059" z="-3479" heading="7200" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="121227" y="135059" z="-3479" heading="7200" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="121265" y="135090" z="-3487" heading="7200" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="121714" y="135425" z="-3535" heading="16681" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="121714" y="135425" z="-3535" heading="16681" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="121710" y="135524" z="-3532" heading="16681" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="121712" y="136162" z="-3458" heading="16148" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="121714" y="136211" z="-3451" heading="16148" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="121715" y="136260" z="-3444" heading="16148" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="121720" y="136408" z="-3425" heading="16148" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="122050" y="136827" z="-3405" heading="7089" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="122247" y="137725" z="-3258" heading="14635" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="122274" y="137868" z="-3225" heading="14635" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="122274" y="137868" z="-3225" heading="14635" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="122291" y="137963" z="-3204" heading="14635" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="122445" y="138578" z="-3170" heading="12906" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="122445" y="138578" z="-3170" heading="12906" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="122461" y="138625" z="-3174" heading="12906" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20176" x="122606" y="139045" z="-3210" heading="12906" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="122650" y="139752" z="-3282" heading="22691" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="122622" y="139793" z="-3287" heading="22691" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="122374" y="140158" z="-3340" heading="22691" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="122294" y="140570" z="-3372" heading="14194" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="122314" y="140667" z="-3382" heading="14194" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20176" x="122394" y="141052" z="-3422" heading="14194" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="123142" y="140988" z="-3387" heading="56205" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="123174" y="140950" z="-3385" heading="56205" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="123174" y="140950" z="-3385" heading="56205" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="123420" y="140251" z="-3370" heading="52101" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="123420" y="140251" z="-3370" heading="52101" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="123434" y="140204" z="-3370" heading="52101" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="123650" y="139653" z="-3368" heading="55807" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="123680" y="139613" z="-3368" heading="55807" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="123709" y="139574" z="-3368" heading="55807" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="124180" y="139252" z="-3365" heading="62630" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="124228" y="139239" z="-3364" heading="62630" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="124276" y="139226" z="-3363" heading="62630" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="124468" y="139175" z="-3361" heading="62630" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="124933" y="138806" z="-3366" heading="60235" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="124977" y="138782" z="-3368" heading="60235" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="125020" y="138758" z="-3370" heading="60235" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20176" x="125336" y="138584" z="-3392" heading="60235" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="126035" y="138359" z="-3475" heading="2613" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="126083" y="138371" z="-3480" heading="2613" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="126370" y="138443" z="-3510" heading="2613" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="126795" y="138194" z="-3586" heading="45920" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="126795" y="138194" z="-3586" heading="45920" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="126780" y="138147" z="-3589" heading="45920" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="126582" y="137328" z="-3641" heading="46903" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="126343" y="136869" z="-3676" heading="31047" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="126294" y="136877" z="-3676" heading="31047" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="126245" y="136885" z="-3676" heading="31047" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="125904" y="136953" z="-3668" heading="30365" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="125264" y="137000" z="-3626" heading="32767" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="125264" y="137000" z="-3626" heading="32767" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="125215" y="137000" z="-3622" heading="32767" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="124492" y="136708" z="-3590" heading="38969" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="124492" y="136708" z="-3590" heading="38969" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="124451" y="136680" z="-3591" heading="38969" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="124196" y="136526" z="-3601" heading="38121" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="123609" y="136544" z="-3575" heading="26593" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="123609" y="136544" z="-3575" heading="26593" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="123527" y="136598" z="-3563" heading="26593" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="123552" y="135683" z="-3658" heading="54546" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="123552" y="135683" z="-3658" heading="54546" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="123600" y="135598" z="-3674" heading="54546" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="123640" y="135528" z="-3690" heading="54546" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="123361" y="134676" z="-3688" heading="45801" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="123329" y="134582" z="-3687" heading="45801" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="123314" y="134535" z="-3687" heading="45801" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="123298" y="134488" z="-3686" heading="45801" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="122472" y="134636" z="-3609" heading="32418" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="120769" y="134182" z="-3388" heading="40646" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="118703" y="133111" z="-3408" heading="42305" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="118703" y="133111" z="-3408" heading="42305" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="118640" y="133034" z="-3410" heading="42305" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="118600" y="132984" z="-3414" heading="42305" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="118354" y="132497" z="-3445" heading="43257" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="118354" y="132497" z="-3445" heading="43257" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="118327" y="132456" z="-3449" heading="43257" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="118246" y="132333" z="-3464" heading="43257" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="117880" y="131918" z="-3482" heading="33981" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117830" y="131911" z="-3480" heading="33981" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117781" y="131905" z="-3477" heading="33981" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="117634" y="131887" z="-3470" heading="33981" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20145" x="116632" y="132152" z="-3374" heading="3295" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="116632" y="132152" z="-3374" heading="3295" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="116632" y="132152" z="-3374" heading="3295" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20249" x="117016" y="135272" z="-3488" heading="32680" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117016" y="135272" z="-3488" heading="32680" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117016" y="135272" z="-3488" heading="32680" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="117016" y="135272" z="-3488" heading="25380" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="117016" y="135272" z="-3488" heading="25380" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="117016" y="135272" z="-3488" heading="25380" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="116230" y="135619" z="-3505" heading="21685" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="116207" y="135662" z="-3508" heading="21685" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="116207" y="135662" z="-3508" heading="21685" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="115406" y="135864" z="-3532" heading="26192" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="115384" y="135880" z="-3537" heading="26192" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="115384" y="135880" z="-3537" heading="26192" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="113902" y="135850" z="-3628" heading="33640" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="113853" y="135845" z="-3629" heading="33640" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="113804" y="135841" z="-3630" heading="33640" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="113134" y="135370" z="-3641" heading="42044" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="113134" y="135370" z="-3641" heading="42044" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="113103" y="135332" z="-3643" heading="42044" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="112373" y="134958" z="-3625" heading="35384" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="112325" y="134946" z="-3624" heading="35384" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="112277" y="134934" z="-3623" heading="35384" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="111909" y="135196" z="-3596" heading="25638" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="111871" y="135228" z="-3592" heading="25638" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="111833" y="135260" z="-3587" heading="25638" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="112042" y="134390" z="-3460" heading="52936" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="112042" y="134390" z="-3460" heading="52936" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="112076" y="134297" z="-3447" heading="52936" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="112309" y="134081" z="-3357" heading="59875" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20248" x="112309" y="134081" z="-3357" heading="59875" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="112350" y="134057" z="-3341" heading="59875" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20176" x="112536" y="133976" z="-3244" heading="59272" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="112804" y="133722" z="-3093" heading="56551" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20176" x="112413" y="133285" z="-3050" heading="47872" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="110683" y="133159" z="-3293" heading="28991" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="110683" y="133159" z="-3293" heading="28991" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="110638" y="133176" z="-3304" heading="28991" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20249" x="110001" y="132667" z="-3302" heading="40139" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="110001" y="132667" z="-3302" heading="40139" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="109925" y="132603" z="-3302" heading="40139" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="109697" y="132413" z="-3302" heading="40139" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="109166" y="132264" z="-3332" heading="30741" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="109118" y="132273" z="-3338" heading="30741" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="109070" y="132282" z="-3344" heading="30741" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="108925" y="132310" z="-3364" heading="30741" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="108283" y="131655" z="-3320" heading="36594" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20248" x="108236" y="131638" z="-3319" heading="36594" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20145" x="108190" y="131620" z="-3318" heading="36594" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="108051" y="131568" z="-3315" heading="36594" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="106552" y="131578" z="-3321" heading="29266" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="106552" y="131578" z="-3321" heading="29266" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="106505" y="131594" z="-3323" heading="29266" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="106365" y="131642" z="-3331" heading="29266" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20248" x="108021" y="133598" z="-3555" heading="63526" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20249" x="108021" y="133598" z="-3555" heading="63526" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="108069" y="133589" z="-3556" heading="63526" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20176" x="107473" y="133527" z="-3577" heading="33285" respawnTime="60sec" /> <!-- Wyrm -->
+			<npc id="20249" x="116641" y="132234" z="-3368" heading="35006" respawnTime="60sec" /> <!-- Turak Bugbear Warrior -->
+			<npc id="20145" x="116641" y="132234" z="-3368" heading="35006" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20199" x="101704" y="137304" z="-3375" heading="29314" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="100984" y="137848" z="-3377" heading="27687" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20248" x="99896" y="138120" z="-3494" heading="32215" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="100024" y="138808" z="-3559" heading="16364" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="99736" y="139048" z="-3526" heading="25668" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20199" x="100248" y="139256" z="-3539" heading="15073" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="99928" y="139416" z="-3509" heading="28117" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="99640" y="138984" z="-3524" heading="42880" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="99928" y="138680" z="-3549" heading="57149" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20248" x="99352" y="138488" z="-3552" heading="36162" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20248" x="99448" y="138200" z="-3526" heading="52390" respawnTime="60sec" /> <!-- Turak Bugbear -->
+			<npc id="20199" x="101576" y="135832" z="-3614" heading="52882" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="102344" y="135640" z="-3654" heading="62964" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="102024" y="134760" z="-3647" heading="45561" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="101208" y="134680" z="-3619" heading="33775" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="100360" y="135384" z="-3582" heading="26815" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="98920" y="135432" z="-3601" heading="32477" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="99800" y="134552" z="-3581" heading="57338" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="100008" y="133624" z="-3541" heading="51450" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="101080" y="132808" z="-3454" heading="59742" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="100712" y="133512" z="-3538" heading="21325" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20199" x="100328" y="134296" z="-3574" heading="50645" respawnTime="60sec" /> <!-- Amber Basilisk -->
+			<npc id="20158" x="103288" y="135784" z="-3656" heading="58574" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103480" y="135576" z="-3649" heading="56946" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103480" y="135576" z="-3649" heading="56946" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103480" y="135576" z="-3649" heading="56946" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103624" y="135912" z="-3643" heading="12160" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103624" y="135912" z="-3643" heading="12160" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103496" y="136776" z="-3600" heading="17864" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103496" y="136776" z="-3600" heading="17864" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103496" y="136776" z="-3600" heading="17864" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="104168" y="137544" z="-3542" heading="6961" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="104168" y="137544" z="-3542" heading="6961" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="104168" y="137544" z="-3542" heading="6961" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103416" y="137720" z="-3630" heading="30321" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103416" y="137720" z="-3630" heading="30321" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103416" y="137720" z="-3630" heading="30321" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="102872" y="134200" z="-3594" heading="46092" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="102872" y="134200" z="-3594" heading="46092" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="102872" y="134200" z="-3594" heading="46092" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103256" y="134392" z="-3614" heading="4770" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103256" y="134392" z="-3614" heading="4770" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103256" y="134392" z="-3614" heading="4770" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103384" y="134584" z="-3618" heading="10441" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103384" y="134584" z="-3618" heading="10441" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103384" y="134584" z="-3618" heading="10441" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103688" y="134712" z="-3605" heading="4045" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20145" x="104426" y="140436" z="-3557" heading="57907" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104216" y="137912" z="-3571" heading="14368" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104408" y="138056" z="-3570" heading="6711" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104408" y="138056" z="-3570" heading="6711" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104440" y="137112" z="-3522" heading="48499" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104440" y="137112" z="-3522" heading="48499" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104440" y="137112" z="-3522" heading="48499" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105624" y="137400" z="-3496" heading="2621" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105624" y="137400" z="-3496" heading="2621" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20158" x="105624" y="137400" z="-3496" heading="2621" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="105624" y="137400" z="-3496" heading="2621" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20145" x="105368" y="138392" z="-3526" heading="18111" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105368" y="138392" z="-3526" heading="18111" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105368" y="138392" z="-3526" heading="18111" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20158" x="105368" y="138392" z="-3526" heading="18111" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="105368" y="138392" z="-3526" heading="18111" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="105368" y="138392" z="-3526" heading="18111" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="105048" y="138248" z="-3536" heading="59103" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="105048" y="138248" z="-3536" heading="59103" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="105048" y="138248" z="-3536" heading="59103" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20145" x="105048" y="138248" z="-3536" heading="59103" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="105048" y="138248" z="-3536" heading="59103" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="102856" y="136568" z="-3619" heading="38521" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="102856" y="136568" z="-3619" heading="38521" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="103928" y="136536" z="-3608" heading="60106" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="103928" y="136536" z="-3608" heading="60106" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20158" x="103928" y="136536" z="-3608" heading="60106" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103928" y="136984" z="-3555" heading="16383" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20158" x="103928" y="136984" z="-3555" heading="16383" respawnTime="60sec" /> <!-- Medusa -->
+			<npc id="20145" x="103928" y="136984" z="-3555" heading="16383" respawnTime="60sec" /> <!-- Harpy -->
+			<npc id="20145" x="104648" y="137176" z="-3515" heading="2774" respawnTime="60sec" /> <!-- Harpy -->
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/Variations.xsd">
+	<variations>
+		<!-- Common Life Stone1 -->
+		<variation mineralId="90012">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="40000" to="40072" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="15095" to="15111" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="15112" to="15218" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="15219" to="15272" chance="10" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Mid-grade Life Stone -->
+		<variation mineralId="90013">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="40073" to="40145" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="15807" to="15823" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="15824" to="15930" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="15931" to="15984" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- High-grade Life Stone -->
+		<variation mineralId="90014">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="40146" to="40218" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="16163" to="16179" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="16180" to="16286" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="16287" to="16340" chance="1.73" />
+					<optionRange from="16377" to="16380" chance="1.72" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Top-grade Life Stone -->
+		<variation mineralId="90015">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="40146" to="40218" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="16163" to="16179" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="16180" to="16286" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="16287" to="16340" chance="1.73" />
+					<optionRange from="16377" to="16380" chance="1.72" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Weapons -->
+		<variation mineralId="94185">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33929" to="33948" chance="1.37" />
+					<optionRange from="33969" to="33988" chance="1.37" />
+					<optionRange from="34009" to="34048" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34089" to="34108" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34129" to="34144" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34169" to="34188" chance="1.73" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Weapons -->
+		<variation mineralId="94209">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33929" to="33948" chance="1.37" />
+					<optionRange from="33969" to="33988" chance="1.37" />
+					<optionRange from="34009" to="34048" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34089" to="34108" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34129" to="34144" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34169" to="34188" chance="1.73" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.2 - Weapons -->
+		<variation mineralId="94186">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33949" to="33968" chance="1.37" />
+					<optionRange from="33989" to="34008" chance="1.37" />
+					<optionRange from="34009" to="34088" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34109" to="34128" chance="5.89" />
+					<optionRange from="34149" to="34168" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34189" to="34208" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34209" to="34228" chance="1.73" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+				<!-- Life Stone Lv.2 - Weapons -->
+		<variation mineralId="94210">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33949" to="33968" chance="1.37" />
+					<optionRange from="33989" to="34008" chance="1.37" />
+					<optionRange from="34009" to="34088" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34109" to="34128" chance="5.89" />
+					<optionRange from="34149" to="34168" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34189" to="34208" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34209" to="34228" chance="1.73" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 1 - Hair Accessory -->
+		<variation mineralId="90856">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33959" to="34088" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34089" to="34168" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34169" to="34179" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34180" to="34188" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Hair Accessory -->
+		<variation mineralId="90857">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="50102" to="50154" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="50188" to="50190" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="50191" to="50193" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="50194" to="50196" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Armor -->
+		<variation mineralId="94187">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34229" to="34248" chance="1.37" />
+					<optionRange from="34269" to="34288" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="34389" to="34408" chance="5.89" />
+					<optionRange from="34429" to="34448" chance="5.89" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+				<!-- Life Stone Lv.1 - Armor -->
+		<variation mineralId="94211">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34229" to="34248" chance="1.37" />
+					<optionRange from="34269" to="34288" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="34389" to="34408" chance="5.89" />
+					<optionRange from="34429" to="34448" chance="5.89" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Armor -->
+		<variation mineralId="94188">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34249" to="34268" chance="1.37" />
+					<optionRange from="34289" to="34308" chance="1.37" />
+					<optionRange from="34329" to="34348" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34409" to="34428" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34449" to="34468" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34489" to="34508" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Armor -->
+		<variation mineralId="94212">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34249" to="34268" chance="1.37" />
+					<optionRange from="34289" to="34308" chance="1.37" />
+					<optionRange from="34329" to="34348" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34409" to="34428" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34449" to="34468" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34489" to="34508" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Boots -->
+		<variation mineralId="94187">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34229" to="34248" chance="1.37" />
+					<optionRange from="34269" to="34288" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="34389" to="34408" chance="5.89" />
+					<optionRange from="34429" to="34448" chance="5.89" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Boots -->
+		<variation mineralId="94188">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34249" to="34268" chance="1.37" />
+					<optionRange from="34289" to="34308" chance="1.37" />
+					<optionRange from="34369" to="34388" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34409" to="34428" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34449" to="34468" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34529" to="34548" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Gloves -->
+		<variation mineralId="94187">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34229" to="34248" chance="1.37" />
+					<optionRange from="34269" to="34288" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="34389" to="34408" chance="5.89" />
+					<optionRange from="34429" to="34448" chance="5.89" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Boots -->
+		<variation mineralId="94188">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34249" to="34268" chance="1.37" />
+					<optionRange from="34289" to="34308" chance="1.37" />
+					<optionRange from="34349" to="34368" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34409" to="34428" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34449" to="34468" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34509" to="34528" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Helmet -->
+		<variation mineralId="94187">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34229" to="34248" chance="1.37" />
+					<optionRange from="34269" to="34288" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="34389" to="34408" chance="5.89" />
+					<optionRange from="34429" to="34448" chance="5.89" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Helmet -->
+		<variation mineralId="94188">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34249" to="34268" chance="1.37" />
+					<optionRange from="34289" to="34308" chance="1.37" />
+					<optionRange from="34309" to="34328" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34409" to="34428" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="34449" to="34468" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="34469" to="34488" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Legs -->
+		<variation mineralId="94187">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34229" to="34248" chance="1.37" />
+					<optionRange from="34269" to="34288" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="34389" to="34408" chance="5.89" />
+					<optionRange from="34429" to="34448" chance="5.89" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv. 2 - Legs -->
+		<variation mineralId="94188">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="34249" to="34268" chance="1.37" />
+					<optionRange from="34289" to="34308" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="34409" to="34428" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="45">
+					<optionRange from="34449" to="34468" chance="0.94" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.1 - Sigil/Shield -->
+		<variation mineralId="93121">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33547" to="33609" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<optionRange from="33547" to="33609" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone Lv.2 - Sigil/Shield -->
+		<variation mineralId="93122">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="33547" to="33609" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="33547" to="33609" chance="1.37" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="33547" to="33609" chance="1.37" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="50161" to="50166" chance="1.37" />
+					<optionRange from="50174" to="50179" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<!-- Life Stone - Circlets -->
+		<variation mineralId="94303">
+			<optionGroup order="0">
+				<optionCategory chance="100">
+					<optionRange from="50102" to="50154" chance="1.37" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="1">
+				<optionCategory chance="55">
+					<optionRange from="50188" to="50190" chance="5.89" />
+				</optionCategory>
+				<optionCategory chance="35">
+					<optionRange from="50191" to="50193" chance="0.94" />
+				</optionCategory>
+				<optionCategory chance="10">
+					<optionRange from="50194" to="50196" chance="1.85" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+	</variations>
+	<itemGroups>
+		<!-- Weapons -->
+		<itemGroup id="1">
+			<item id="69" />
+			<item id="70" />
+			<item id="71" />
+			<item id="72" />
+			<item id="73" />
+			<item id="74" />
+			<item id="75" />
+			<item id="76" />
+			<item id="77" />
+			<item id="78" />
+			<item id="79" />
+			<item id="80" />
+			<item id="81" />
+			<item id="83" />
+			<item id="84" />
+			<item id="86" />
+			<item id="88" />
+			<item id="89" />
+			<item id="90" />
+			<item id="91" />
+			<item id="92" />
+			<item id="93" />
+			<item id="94" />
+			<item id="95" />
+			<item id="96" />
+			<item id="97" />
+			<item id="98" />
+			<item id="101" />
+			<item id="123" />
+			<item id="124" />
+			<item id="125" />
+			<item id="126" />
+			<item id="127" />
+			<item id="128" />
+			<item id="129" />
+			<item id="130" />
+			<item id="131" />
+			<item id="132" />
+			<item id="133" />
+			<item id="134" />
+			<item id="135" />
+			<item id="142" />
+			<item id="143" />
+			<item id="144" />
+			<item id="145" />
+			<item id="148" />
+			<item id="150" />
+			<item id="151" />
+			<item id="156" />
+			<item id="157" />
+			<item id="158" />
+			<item id="159" />
+			<item id="160" />
+			<item id="161" />
+			<item id="162" />
+			<item id="164" />
+			<item id="166" />
+			<item id="167" />
+			<item id="168" />
+			<item id="169" />
+			<item id="171" />
+			<item id="172" />
+			<item id="173" />
+			<item id="174" />
+			<item id="175" />
+			<item id="178" />
+			<item id="179" />
+			<item id="180" />
+			<item id="181" />
+			<item id="182" />
+			<item id="183" />
+			<item id="184" />
+			<item id="185" />
+			<item id="186" />
+			<item id="187" />
+			<item id="188" />
+			<item id="189" />
+			<item id="190" />
+			<item id="191" />
+			<item id="192" />
+			<item id="193" />
+			<item id="194" />
+			<item id="195" />
+			<item id="196" />
+			<item id="197" />
+			<item id="198" />
+			<item id="199" />
+			<item id="200" />
+			<item id="201" />
+			<item id="202" />
+			<item id="203" />
+			<item id="204" />
+			<item id="205" />
+			<item id="206" />
+			<item id="210" />
+			<item id="212" />
+			<item id="213" />
+			<item id="220" />
+			<item id="221" />
+			<item id="222" />
+			<item id="223" />
+			<item id="224" />
+			<item id="225" />
+			<item id="226" />
+			<item id="227" />
+			<item id="228" />
+			<item id="229" />
+			<item id="230" />
+			<item id="231" />
+			<item id="232" />
+			<item id="233" />
+			<item id="234" />
+			<item id="235" />
+			<item id="236" />
+			<item id="238" />
+			<item id="239" />
+			<item id="240" />
+			<item id="241" />
+			<item id="242" />
+			<item id="243" />
+			<item id="258" />
+			<item id="259" />
+			<item id="260" />
+			<item id="261" />
+			<item id="262" />
+			<item id="263" />
+			<item id="264" />
+			<item id="265" />
+			<item id="266" />
+			<item id="267" />
+			<item id="268" />
+			<item id="269" />
+			<item id="270" />
+			<item id="274" />
+			<item id="275" />
+			<item id="276" />
+			<item id="277" />
+			<item id="278" />
+			<item id="279" />
+			<item id="280" />
+			<item id="281" />
+			<item id="282" />
+			<item id="283" />
+			<item id="284" />
+			<item id="285" />
+			<item id="286" />
+			<item id="287" />
+			<item id="288" />
+			<item id="289" />
+			<item id="291" />
+			<item id="293" />
+			<item id="294" />
+			<item id="295" />
+			<item id="296" />
+			<item id="297" />
+			<item id="298" />
+			<item id="299" />
+			<item id="300" />
+			<item id="301" />
+			<item id="302" />
+			<item id="303" />
+			<item id="305" />
+			<item id="312" />
+			<item id="313" />
+			<item id="314" />
+			<item id="315" />
+			<item id="316" />
+			<item id="317" />
+			<item id="318" />
+			<item id="319" />
+			<item id="320" />
+			<item id="321" />
+			<item id="322" />
+			<item id="323" />
+			<item id="325" />
+			<item id="1660" />
+			<item id="2499" />
+			<item id="2500" />
+			<item id="2502" />
+			<item id="2503" />
+			<item id="2504" />
+			<item id="2516" />
+			<item id="2517" />
+			<item id="2518" />
+			<item id="2519" />
+			<item id="2520" />
+			<item id="2521" />
+			<item id="2522" />
+			<item id="2523" />
+			<item id="2524" />
+			<item id="2525" />
+			<item id="2526" />
+			<item id="2527" />
+			<item id="2528" />
+			<item id="2529" />
+			<item id="2530" />
+			<item id="2531" />
+			<item id="2532" />
+			<item id="2533" />
+			<item id="2534" />
+			<item id="2535" />
+			<item id="2536" />
+			<item id="2537" />
+			<item id="2538" />
+			<item id="2539" />
+			<item id="2540" />
+			<item id="2541" />
+			<item id="2542" />
+			<item id="2543" />
+			<item id="2544" />
+			<item id="2545" />
+			<item id="2546" />
+			<item id="2547" />
+			<item id="2548" />
+			<item id="2549" />
+			<item id="2550" />
+			<item id="2551" />
+			<item id="2552" />
+			<item id="2553" />
+			<item id="2554" />
+			<item id="2555" />
+			<item id="2556" />
+			<item id="2557" />
+			<item id="2558" />
+			<item id="2559" />
+			<item id="2560" />
+			<item id="2561" />
+			<item id="2562" />
+			<item id="2563" />
+			<item id="2564" />
+			<item id="2565" />
+			<item id="2566" />
+			<item id="2567" />
+			<item id="2568" />
+			<item id="2569" />
+			<item id="2570" />
+			<item id="2571" />
+			<item id="2572" />
+			<item id="2573" />
+			<item id="2574" />
+			<item id="2575" />
+			<item id="2576" />
+			<item id="2577" />
+			<item id="2578" />
+			<item id="2579" />
+			<item id="2580" />
+			<item id="2581" />
+			<item id="2582" />
+			<item id="2583" />
+			<item id="2584" />
+			<item id="2585" />
+			<item id="2586" />
+			<item id="2587" />
+			<item id="2588" />
+			<item id="2589" />
+			<item id="2590" />
+			<item id="2591" />
+			<item id="2592" />
+			<item id="2593" />
+			<item id="2594" />
+			<item id="2595" />
+			<item id="2596" />
+			<item id="2597" />
+			<item id="2598" />
+			<item id="2599" />
+			<item id="2600" />
+			<item id="2601" />
+			<item id="2602" />
+			<item id="2603" />
+			<item id="2604" />
+			<item id="2605" />
+			<item id="2606" />
+			<item id="2607" />
+			<item id="2608" />
+			<item id="2609" />
+			<item id="2610" />
+			<item id="2611" />
+			<item id="2612" />
+			<item id="2613" />
+			<item id="2614" />
+			<item id="2615" />
+			<item id="2616" />
+			<item id="2617" />
+			<item id="2618" />
+			<item id="2619" />
+			<item id="2620" />
+			<item id="2621" />
+			<item id="2622" />
+			<item id="2623" />
+			<item id="2624" />
+			<item id="2625" />
+			<item id="2626" />
+			<item id="4233" />
+			<item id="5233" />
+			<item id="5285" />
+			<item id="5286" />
+			<item id="5705" />
+			<item id="5706" />
+			<item id="7880" />
+			<item id="7881" />
+			<item id="7882" />
+			<item id="7883" />
+			<item id="7884" />
+			<item id="7885" />
+			<item id="7886" />
+			<item id="7887" />
+			<item id="7888" />
+			<item id="7889" />
+			<item id="7890" />
+			<item id="7891" />
+			<item id="7892" />
+			<item id="7893" />
+			<item id="7894" />
+			<item id="7895" />
+			<item id="7896" />
+			<item id="7897" />
+			<item id="7898" />
+			<item id="7899" />
+			<item id="7900" />
+			<item id="7901" />
+			<item id="7902" />
+			<item id="8678" />
+			<item id="8679" />
+			<item id="8680" />
+			<item id="8681" />
+			<item id="8682" />
+			<item id="8683" />
+			<item id="8684" />
+			<item id="8685" />
+			<item id="8686" />
+			<item id="8687" />
+			<item id="8688" />
+			<item id="8938" />
+			<item id="6364" />
+			<item id="6365" />
+			<item id="6366" />
+			<item id="6367" />
+			<item id="6369" />
+			<item id="6370" />
+			<item id="6371" />
+			<item id="6372" />
+			<item id="6579" />
+			<item id="6580" />
+			<item id="7575" />
+			<item id="91878" />
+			<item id="91879" />
+			<item id="91880" />
+			<item id="91881" />
+			<item id="91882" />
+			<item id="91883" />
+			<item id="91884" />
+			<item id="91885" />
+			<item id="91886" />
+			<item id="91887" />
+			<item id="91888" />
+			<item id="91889" />
+			<item id="91890" />
+			<item id="91892" />
+			<item id="91893" />
+			<item id="91894" />
+			<item id="91895" />
+			<item id="91896" />
+			<item id="91897" />
+			<item id="91898" />
+			<item id="91899" />
+			<item id="91900" />
+			<item id="91901" />
+			<item id="91902" />
+			<item id="91903" />
+			<item id="91904" />
+			<item id="91905" />
+			<item id="92404" />
+			<item id="92405" />
+			<item id="92407" />
+			<item id="92408" />
+			<item id="92421" />
+			<item id="92930" />
+			<item id="92931" />
+			<item id="92932" />
+			<item id="92933" />
+			<item id="92934" />
+			<item id="92935" />
+			<item id="92936" />
+			<item id="92937" />
+			<item id="92938" />
+			<item id="92939" />
+			<item id="92940" />
+			<item id="92941" />
+			<item id="92942" />
+			<item id="92943" />
+			<item id="92944" />
+			<item id="92945" />
+			<item id="92946" />
+			<item id="92947" />
+			<item id="92948" />
+			<item id="92949" />
+			<item id="92950" />
+			<item id="92951" />
+			<item id="92952" />
+			<item id="92953" />
+			<item id="92954" />
+			<item id="92955" />
+			<item id="92956" />
+			<item id="92957" />
+			<item id="92958" />
+			<item id="92959" />
+			<item id="92960" />
+			<item id="92961" />
+			<item id="92962" />
+			<item id="92963" />
+			<item id="92964" />
+			<item id="92965" />
+			<item id="92966" />
+			<item id="92967" />
+			<item id="92968" />
+			<item id="92969" />
+			<item id="92970" />
+			<item id="92971" />
+			<item id="92972" />
+			<item id="93047" />
+			<item id="93048" />
+			<item id="93049" />
+			<item id="93050" />
+			<item id="93051" />
+			<item id="93052" />
+			<item id="93053" />
+			<item id="93054" />
+			<item id="93055" />
+			<item id="93056" />
+			<item id="93057" />
+			<item id="93058" />
+			<item id="93291" />
+			<item id="93292" />
+			<item id="93293" />
+			<item id="93294" />
+			<item id="93295" />
+			<item id="93422" />
+			<item id="93423" />
+			<item id="93424" />
+			<item id="93425" />
+			<item id="93426" />
+			<item id="93427" />
+			<item id="93428" />
+			<item id="93429" />
+			<item id="93430" />
+			<item id="93431" />
+			<item id="93432" />
+			<item id="93433" />
+			<item id="93434" />
+			<item id="93435" />
+			<item id="93864" />
+			<item id="95725" />
+			<item id="95726" />
+			<item id="95727" />
+			<item id="95728" />
+			<item id="95729" />
+			<item id="95730" />
+			<item id="95731" />
+			<item id="95732" />
+			<item id="95733" />
+			<item id="95734" />
+			<item id="95735" />
+			<item id="95736" />
+			<item id="95737" />
+			
+			
+		</itemGroup>
+		<!-- Hair Accessory -->
+		<itemGroup id="2">
+			<item id="5808" />
+			<item id="6394" />
+			<item id="6835" />
+			<item id="6837" />
+			<item id="6838" />
+			<item id="6839" />
+			<item id="6840" />
+			<item id="6841" />
+			<item id="6842" />
+			<item id="6843" />
+			<item id="6845" />
+			<item id="8185" />
+			<item id="8186" />
+			<item id="8187" />
+			<item id="8188" />
+			<item id="8189" />
+			<item id="8559" />
+			<item id="8560" />
+			<item id="8561" />
+			<item id="8562" />
+			<item id="8563" />
+			<item id="8564" />
+			<item id="8569" />
+			<item id="9138" />
+			<item id="10250" />
+			<item id="13501" />
+			<item id="13519" />
+			<item id="21469" />
+			<item id="21755" />
+			<item id="37533" />
+			<item id="37535" />
+			<item id="49521" />
+			<item id="49522" />
+			<item id="49523" />
+			<item id="49530" />
+			<item id="49687" />
+			<item id="90769" />
+			<item id="90770" />
+			<item id="90771" />
+			<item id="90772" />
+			<item id="90773" />
+			<item id="93062" />
+			<item id="90837" />
+			<item id="90838" />
+			<item id="90839" />
+			<item id="90840" />
+			<item id="90841" />
+			<item id="90842" />
+			<item id="90843" />
+			<item id="90844" />
+			<item id="90845" />
+			<item id="90846" />
+			<item id="90847" />
+			<item id="90848" />
+			<item id="90849" />
+			<item id="90850" />
+			<item id="90851" />
+			<item id="90852" />
+			<item id="90853" />
+			<item id="90854" />
+		</itemGroup>
+		<!-- Armors 1 - CHEST -->
+		<itemGroup id="3">
+			<item id="58" />
+			<item id="60" />
+			<item id="440" />
+			<item id="397" />
+			<item id="394" />
+			<item id="400" />
+			<item id="442" />
+			<item id="348" />
+			<item id="438" />
+			<item id="349" />
+			<item id="353" />
+			<item id="398" />
+			<item id="391" />
+			<item id="356" />
+			<item id="358" />
+			<item id="439" />
+			<item id="354" />
+			<item id="436" />
+			<item id="374" />
+			<item id="434" />
+			<item id="396" />
+			<item id="351" />
+			<item id="437" />
+			<item id="393" />
+			<item id="352" />
+			<item id="399" />
+			<item id="355" />
+			<item id="441" />
+			<item id="433" />
+			<item id="432" />
+			<item id="365" />
+			<item id="435" />
+			<item id="347" />
+			<item id="350" />
+			<item id="401" />
+			<item id="357" />
+			<item id="392" />
+			<item id="395" />
+			<item id="2390" />
+			<item id="2406" />
+			<item id="2397" />
+			<item id="2391" />
+			<item id="2398" />
+			<item id="2399" />
+			<item id="2382" />
+			<item id="2400" />
+			<item id="2393" />
+			<item id="6373" />
+			<item id="2394" />
+			<item id="2376" />
+			<item id="2396" />
+			<item id="2408" />
+			<item id="7854" />
+			<item id="7857" />
+			<item id="7851" />
+			<item id="2407" />
+			<item id="2385" />
+			<item id="6379" />
+			<item id="2381" />
+			<item id="2384" />
+			<item id="6383" />
+			<item id="2383" />
+			<item id="2409" />
+			<item id="2395" />
+			<item id="2392" />
+			<item id="93511" />
+			<item id="93513" />
+			<item id="93515" />
+			<item id="92261" />
+			<item id="92268" />
+			<item id="92265" />
+			<item id="93646" />
+			<item id="93315" />
+			<item id="93317" />
+			<item id="92271" />
+			<item id="93514" />
+			<item id="92266" />
+			<item id="92256" />
+			<item id="93504" />
+			<item id="93519" />
+			<item id="93510" />
+			<item id="93501" />
+			<item id="93508" />
+			<item id="93139" />
+			<item id="93141" />
+			<item id="92272" />
+			<item id="92262" />
+			<item id="92267" />
+			<item id="93512" />
+			<item id="93643" />
+			<item id="93507" />
+			<item id="92270" />
+			<item id="92255" />
+			<item id="92263" />
+			<item id="93733" />
+			<item id="93735" />
+			<item id="93642" />
+			<item id="93502" />
+			<item id="94840" />
+			<item id="94842" />
+			<item id="94848" />
+			<item id="94850" />
+			
+		</itemGroup>
+		<!-- Armors 2 - BOOTS -->
+		<itemGroup id="4">
+			<item id="64" />
+			<item id="62" />
+			<item id="40" />
+			<item id="553" />
+			<item id="603" />
+			<item id="2433" />
+			<item id="1124" />
+			<item id="2428" />
+			<item id="2431" />
+			<item id="2438" />
+			<item id="1123" />
+			<item id="5734" />
+			<item id="5736" />
+			<item id="5735" />
+			<item id="5780" />
+			<item id="5782" />
+			<item id="5781" />
+			<item id="2430" />
+			<item id="2429" />
+			<item id="5784" />
+			<item id="5785" />
+			<item id="2435" />
+			<item id="5730" />
+			<item id="5732" />
+			<item id="5731" />
+			<item id="1128" />
+			<item id="6381" />
+			<item id="2427" />
+			<item id="5727" />
+			<item id="2425" />
+			<item id="2432" />
+			<item id="2437" />
+			<item id="6385" />
+			<item id="2424" />
+			<item id="5786" />
+			<item id="5788" />
+			<item id="5787" />
+			<item id="2434" />
+			<item id="5738" />
+			<item id="2436" />
+			<item id="5726" />
+			<item id="1126" />
+			<item id="2423" />
+			<item id="1127" />
+			<item id="6376" />
+			<item id="2426" />
+			<item id="5783" />
+			<item id="5728" />
+			<item id="5739" />
+			<item id="5740" />
+			<item id="5777" />
+			<item id="5778" />
+			<item id="5779" />
+			<item id="2422" />
+			<item id="1125" />
+			<item id="93538" />
+			<item id="93540" />
+			<item id="93539" />
+			<item id="92292" />
+			<item id="92294" />
+			<item id="92293" />
+			<item id="93648" />
+			<item id="92295" />
+			<item id="92297" />
+			<item id="92296" />
+			<item id="93535" />
+			<item id="93537" />
+			<item id="93536" />
+			<item id="93532" />
+			<item id="92298" />
+			<item id="92300" />
+			<item id="93534" />
+			<item id="92299" />
+			<item id="93533" />
+			<item id="94085" />
+			<item id="94086" />
+			<item id="93640" />
+			<item id="93644" />
+			<item id="92289" />
+			<item id="93541" />
+			<item id="93542" />
+			<item id="93543" />
+			<item id="92291" />
+			<item id="92290" />
+			<item id="95934" />
+			<item id="95937" />
+		</itemGroup>
+		<!-- Armors 3 - GLOVES -->
+		<itemGroup id="5">
+			<item id="63" />
+			<item id="61" />
+			<item id="604" />
+			<item id="605" />
+			<item id="608" />
+			<item id="609" />
+			<item id="607" />
+			<item id="606" />
+			<item id="2457" />
+			<item id="2451" />
+			<item id="2455" />
+			<item id="2462" />
+			<item id="5718" />
+			<item id="5720" />
+			<item id="5719" />
+			<item id="1120" />
+			<item id="5768" />
+			<item id="5770" />
+			<item id="5769" />
+			<item id="2454" />
+			<item id="2453" />
+			<item id="2447" />
+			<item id="6375" />
+			<item id="2450" />
+			<item id="5771" />
+			<item id="5773" />
+			<item id="5772" />
+			<item id="2459" />
+			<item id="5714" />
+			<item id="5716" />
+			<item id="5715" />
+			<item id="2460" />
+			<item id="2463" />
+			<item id="5710" />
+			<item id="5712" />
+			<item id="5711" />
+			<item id="2449" />
+			<item id="6384" />
+			<item id="2448" />
+			<item id="5774" />
+			<item id="5775" />
+			<item id="2458" />
+			<item id="2468" />
+			<item id="2456" />
+			<item id="2461" />
+			<item id="6380" />
+			<item id="5722" />
+			<item id="2472" />
+			<item id="5724" />
+			<item id="5723" />
+			<item id="5776" />
+			<item id="5765" />
+			<item id="5767" />
+			<item id="5766" />
+			<item id="2452" />
+			<item id="2446" />
+			<item id="93520" />
+			<item id="94263" />
+			<item id="93641" />
+			<item id="93526" />
+			<item id="93528" />
+			<item id="93527" />
+			<item id="92280" />
+			<item id="92282" />
+			<item id="92281" />
+			<item id="93649" />
+			<item id="92286" />
+			<item id="93075" />
+			<item id="92283" />
+			<item id="92285" />
+			<item id="92284" />
+			<item id="93523" />
+			<item id="93525" />
+			<item id="93524" />
+			<item id="93522" />
+			<item id="93521" />
+			<item id="93076" />
+			<item id="94264" />
+			<item id="92288" />
+			<item id="92287" />
+			<item id="93645" />
+			<item id="93529" />
+			<item id="93531" />
+			<item id="93530" />
+			<item id="92275" />
+			<item id="92277" />
+			<item id="92279" />
+			<item id="95933" />
+			<item id="95936" />
+		</itemGroup>
+		<!-- Armors 4 - HELMETS -->
+		<itemGroup id="6">
+			<item id="47" />
+			<item id="46" />
+			<item id="45" />
+			<item id="498" />
+			<item id="547" />
+			<item id="517" />
+			<item id="497" />
+			<item id="499" />
+			<item id="512" />
+			<item id="500" />
+			<item id="2412" />
+			<item id="2414" />
+			<item id="6378" />
+			<item id="7850" />
+			<item id="2418" />
+			<item id="2411" />
+			<item id="6386" />
+			<item id="2419" />
+			<item id="6382" />
+			<item id="2413" />
+			<item id="1149" />
+			<item id="93639" />
+			<item id="90461" />
+			<item id="93550" />
+			<item id="90463" />
+			<item id="93552" />
+			<item id="90462" />
+			<item id="93551" />
+			<item id="92259" />
+			<item id="90467" />
+			<item id="92301" />
+			<item id="90469" />
+			<item id="92303" />
+			<item id="92258" />
+			<item id="90470" />
+			<item id="92304" />
+			<item id="90472" />
+			<item id="92306" />
+			<item id="90471" />
+			<item id="92305" />
+			<item id="90468" />
+			<item id="90464" />
+			<item id="93553" />
+			<item id="90466" />
+			<item id="93555" />
+			<item id="90465" />
+			<item id="93554" />
+			<item id="92302" />
+			<item id="92273" />
+			<item id="90473" />
+			<item id="92307" />
+			<item id="90475" />
+			<item id="92309" />
+			<item id="90474" />
+			<item id="92308" />
+			<item id="90455" />
+			<item id="93544" />
+			<item id="90457" />
+			<item id="93546" />
+			<item id="90456" />
+			<item id="93545" />
+			<item id="90458" />
+			<item id="93547" />
+			<item id="90460" />
+			<item id="93549" />
+			<item id="90459" />
+			<item id="93548" />
+			<item id="92274" />
+			<item id="90476" />
+			<item id="92310" />
+			<item id="90478" />
+			<item id="92312" />
+			<item id="90477" />
+			<item id="92311" />
+			<item id="94083" />
+			<item id="94084" />
+			<item id="95932" />
+			<item id="95935" />
+		</itemGroup>
+		<!-- Armors 4 - LEGS -->
+		<itemGroup id="7">
+			<item id="59" />
+			<item id="378" />
+			<item id="418" />
+			<item id="380" />
+			<item id="413" />
+			<item id="471" />
+			<item id="381" />
+			<item id="376" />
+			<item id="469" />
+			<item id="420" />
+			<item id="473" />
+			<item id="377" />
+			<item id="383" />
+			<item id="414" />
+			<item id="417" />
+			<item id="468" />
+			<item id="419" />
+			<item id="382" />
+			<item id="379" />
+			<item id="388" />
+			<item id="467" />
+			<item id="416" />
+			<item id="465" />
+			<item id="466" />
+			<item id="472" />
+			<item id="470" />
+			<item id="415" />
+			<item id="2404" />
+			<item id="2380" />
+			<item id="2405" />
+			<item id="2403" />
+			<item id="2388" />
+			<item id="2389" />
+			<item id="2387" />
+			<item id="6374" />
+			<item id="2401" />
+			<item id="2379" />
+			<item id="2378" />
+			<item id="2377" />
+			<item id="2402" />
+			<item id="93734" />
+			<item id="93736" />
+			<item id="93516" />
+			<item id="93518" />
+			<item id="93517" />
+			<item id="93506" />
+			<item id="92269" />
+			<item id="93647" />
+			<item id="93316" />
+			<item id="93318" />
+			<item id="93505" />
+			<item id="93503" />
+			<item id="93509" />
+			<item id="93140" />
+			<item id="93142" />
+			<item id="92264" />
+			<item id="92257" />
+			<item id="94843" />
+			<item id="94845" />
+			<item id="94849" />
+			<item id="94851" />
+		</itemGroup>
+		<!-- Sigils -->
+		<itemGroup id="8">
+			<item id="18" />
+			<item id="19" />
+			<item id="102" />
+			<item id="103" />
+			<item id="107" />
+			<item id="108" />
+			<item id="110" />
+			<item id="625" />
+			<item id="626" />
+			<item id="629" />
+			<item id="630" />
+			<item id="632" />
+			<item id="633" />
+			<item id="641" />
+			<item id="673" />
+			<item id="1328" />
+			<item id="1329" />
+			<item id="1330" />
+			<item id="1331" />
+			<item id="1332" />
+			<item id="2493" />
+			<item id="2494" />
+			<item id="2495" />
+			<item id="2496" />
+			<item id="2497" />
+			<item id="2498" />
+			<item id="4222" />
+			<item id="4223" />
+			<item id="6721" />
+			<item id="6918" />
+			<item id="6377" />
+			<item id="6919" />
+			<item id="29453" />
+			<item id="29454" />
+			<item id="29456" />
+			<item id="29458" />
+			<item id="29459" />
+			<item id="29460" />
+			<item id="29461" />
+			<item id="29462" />
+			<item id="29463" />
+			<item id="29464" />
+			<item id="37702" />
+			<item id="38220" />
+			<item id="38435" />
+			<item id="38444" />
+			<item id="49042" />
+			<item id="49443" />
+			<item id="92260" />
+			<item id="92276" />
+			<item id="93086" />
+			<item id="93083" />
+			<item id="93084" />
+			<item id="93085" />
+			<item id="93086" />
+			<item id="93087" />
+			<item id="93088" />
+			<item id="93089" />
+			<item id="93090" />
+			<item id="93091" />
+			<item id="93092" />
+			<item id="93093" />
+			<item id="93094" />
+			<item id="93120" />
+			<item id="93113" />
+			<item id="93112" />
+			<item id="93109" />
+			<item id="93110" />
+			<item id="93111" />
+			<item id="93112" />
+			<item id="93114" />
+			<item id="93115" />
+			<item id="93116" />
+			<item id="93117" />
+			<item id="93118" />
+			<item id="93119" />
+			<item id="94299" />
+			<item id="94300" />
+			<item id="94301" />
+			<item id="94302" />
+			<item id="95663" />
+			<item id="95664" />
+			<item id="95665" />
+			<item id="95666" />
+		</itemGroup>
+		<!-- Circlets -->
+		<itemGroup id="9">
+			<item id="90837" />
+			<item id="90838" />
+			<item id="90839" />
+			<item id="90840" />
+			<item id="90841" />
+			<item id="90842" />
+			<item id="90843" />
+			<item id="90844" />
+			<item id="90845" />
+			<item id="90846" />
+			<item id="90847" />
+			<item id="90848" />
+			<item id="90849" />
+			<item id="90850" />
+			<item id="90851" />
+			<item id="90852" />
+			<item id="90853" />
+			<item id="90854" />
+			<item id="94166" />
+		</itemGroup>
+	</itemGroups>
+	<fees>
+		<!-- Weapons From NG to B-A Grade -->
+		<fee itemGroup="1" itemId="2130" itemCount="50" cancelFee="100000">
+			<mineral id="90007" /> <!-- Low-Grade Life Stone - Weapon (Event) -->
+			<mineral id="90012" /> <!-- Low-Grade Life Stone - Weapon -->
+		</fee>
+		<!-- Weapons From NG to B-A Grade -->
+		<fee itemGroup="1" itemId="2131" itemCount="50" cancelFee="100000">
+			<mineral id="90013" /> <!-- Mid-Grade Life Stone - Weapon -->
+		</fee>
+		<!-- Weapons From NG to B-A Grade -->
+		<fee itemGroup="1" itemId="2132" itemCount="50" cancelFee="100000">
+			<mineral id="90014" /> <!-- High-Grade Life Stone - Weapon -->
+		</fee>
+		<!-- Weapons From NG to B-A Grade -->
+		<fee itemGroup="1" itemId="2133" itemCount="50" cancelFee="100000">
+			<mineral id="90015" /> <!-- Top-Grade Life Stone - Weapon -->
+		</fee>
+		<!-- Life Stone Lv.1 - Weapon -->
+		<fee itemGroup="1" adenaFee="300000" cancelFee="720000">
+			<mineral id="94185" /> <!-- Life Stone Lv.1 - Weapon -->
+		</fee>
+		<!-- Life Stone Lv.2 - Weapon -->
+		<fee itemGroup="1" adenaFee="900000" cancelFee="1720000">
+			<mineral id="94186" /> <!-- Life Stone Lv.2 - Weapon -->
+		</fee>
+
+		<!-- Life Stone Lv. 1 - Hair Accessory -->
+		<fee itemGroup="2" itemId="2131" itemCount="30" cancelFee="100000">
+			<mineral id="90856" /> <!-- Life Stone Lv. 1 - Hair Accessory -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Hair Accessory -->
+		<fee itemGroup="2" itemId="2131" itemCount="100" cancelFee="100000">
+			<mineral id="90857" /> <!-- Life Stone Lv. 2 - Hair Accessory -->
+		</fee>
+		<!-- Life Stone Lv. 1 - Armor Chest -->
+		<fee itemGroup="3" adenaFee="100000" cancelFee="1000000">
+			<mineral id="94187" /> <!-- Life Stone Lv. 1 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Armor Chest -->
+		<fee itemGroup="3" adenaFee="300000" cancelFee="1000000">
+			<mineral id="94188" /> <!-- Life Stone Lv. 2 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 1 - Armor Boots -->
+		<fee itemGroup="4" adenaFee="100000" cancelFee="1000000">
+			<mineral id="94187" /> <!-- Life Stone Lv. 1 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Armor Boots -->
+		<fee itemGroup="4" adenaFee="300000" cancelFee="1000000">
+			<mineral id="94188" /> <!-- Life Stone Lv. 2 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 1 - Armor Gloves -->
+		<fee itemGroup="5" adenaFee="100000" cancelFee="1000000">
+			<mineral id="94187" /> <!-- Life Stone Lv. 1 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Armor Gloves -->
+		<fee itemGroup="5" adenaFee="300000" cancelFee="1000000">
+			<mineral id="94188" /> <!-- Life Stone Lv. 2 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 1 - Armor Helmet -->
+		<fee itemGroup="6" adenaFee="100000" cancelFee="1000000">
+			<mineral id="94187" /> <!-- Life Stone Lv. 1 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Armor Helmet -->
+		<fee itemGroup="6" adenaFee="300000" cancelFee="1000000">
+			<mineral id="94188" /> <!-- Life Stone Lv. 2 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 1 - Armor Legs -->
+		<fee itemGroup="7" adenaFee="100000" cancelFee="1000000">
+			<mineral id="94187" /> <!-- Life Stone Lv. 1 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Armor Legs -->
+		<fee itemGroup="7" adenaFee="300000" cancelFee="1000000">
+			<mineral id="94188" /> <!-- Life Stone Lv. 2 - Armor -->
+		</fee>
+		<!-- Life Stone Lv. 1 - Shield/Sigil -->
+		<fee itemGroup="8" adenaFee="100000" cancelFee="1000000">
+			<mineral id="93121" /> <!-- Life Stone Lv. 1- Shield/Sigil -->
+		</fee>
+		<!-- Life Stone Lv. 2 - Shield/Sigil -->
+		<fee itemGroup="8" adenaFee="300000" cancelFee="1000000">
+			<mineral id="93122" /> <!-- Life Stone Lv. 2 - Shield/Sigil -->
+		</fee>
+		<!-- Life Stone - Circlet -->
+		<fee itemGroup="9" adenaFee="900000" cancelFee="1000000">
+			<mineral id="94303" /> <!-- Life Stone - Circlet -->
+		</fee>
+	</fees>
+</list>

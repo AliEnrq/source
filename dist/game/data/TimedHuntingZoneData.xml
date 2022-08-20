@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/TimedHuntingZoneData.xsd">
+	<zone id="1" name="Primeval Isle">
+		<enterLocation>6025,-2274,-2990</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>43200</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>40</minLevel>
+		<maxLevel>999</maxLevel>
+	</zone>
+	<zone id="4" name="Forgotten Primeval Garden">
+		<enterLocation>-114918,216290,-13216</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>21600</maxAddedTime> <!-- 6 hours -->
+		<remainRefillTime>18000</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>76</minLevel>
+		<maxLevel>999</maxLevel>
+	</zone>
+	<zone id="11" name="Alligator Island">
+		<enterLocation>115528,191580,-3371</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>7200</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>60</minLevel>
+		<maxLevel>999</maxLevel>
+	</zone>
+	<zone id="12" name="Antharas Lair">
+		<enterLocation>133247,114445,-3724</enterLocation>
+		<initialTime>25200</initialTime> <!-- 7 hours -->
+		<resetDelay>604800</resetDelay> <!-- 7 days -->
+		<maxAddedTime>151200</maxAddedTime> <!-- 42 hours -->
+		<remainRefillTime>126000</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>80</minLevel>
+		<maxLevel>999</maxLevel>
+		<weekly>true</weekly>
+	</zone>
+	<zone id="18" name="Frost Lord's Castle">
+		<enterLocation>133247,114445,-3724</enterLocation>
+		<initialTime>3600</initialTime> <!-- 3600 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>1000000</entryFee>
+		<minLevel>80</minLevel>
+		<maxLevel>99</maxLevel>
+	</zone>
+	<zone id="101" name="Transcendent Instance Zone 1">
+		<enterLocation>63443,26304,-3755</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>40</minLevel>
+		<maxLevel>49</maxLevel>
+		<instanceId>208</instanceId>
+	</zone>
+	<zone id="102" name="Transcendent Instance Zone 2">
+		<enterLocation>125277,70262,-4408</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>50</minLevel>
+		<maxLevel>59</maxLevel>
+		<instanceId>209</instanceId>
+	</zone>
+	<zone id="103" name="Transcendent Instance Zone 3">
+		<enterLocation>148724,-22366,-3436</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>60</minLevel>
+		<maxLevel>69</maxLevel>
+		<instanceId>210</instanceId>
+	</zone>
+	<zone id="104" name="Transcendent Instance Zone 4">
+		<enterLocation>167965,28800,-3606</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>70</minLevel>
+		<maxLevel>79</maxLevel>
+		<instanceId>211</instanceId>
+	</zone>
+	<zone id="106" name="Transcendent Instance Zone 6">
+		<enterLocation>99797,110524,-3702</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>80</minLevel>
+		<maxLevel>999</maxLevel>
+		<instanceId>212</instanceId>
+	</zone>
+	<zone id="107" name="Transcendent Instance Zone 7">
+		<enterLocation>-50416,145363,-2825</enterLocation>
+		<initialTime>3600</initialTime> <!-- 1 hour -->
+		<resetDelay>36000</resetDelay> <!-- 10 hours -->
+		<maxAddedTime>46800</maxAddedTime> <!-- 13 hours -->
+		<remainRefillTime>3600</remainRefillTime>
+		<refillTimeMax>3600</refillTimeMax>
+		<entryFee>10000</entryFee>
+		<minLevel>85</minLevel>
+		<maxLevel>999</maxLevel>
+		<instanceId>213</instanceId>
+	</zone>
+</list>

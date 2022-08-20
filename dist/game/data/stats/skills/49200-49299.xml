@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="49200" toLevel="1" name="Latent Ability">
+		<!-- Activates a pet latent ability. Increases one of 6 stats at random. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49201" toLevel="3" name="STR +1">
+		<!-- STR +$s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49202" toLevel="3" name="DEX +1">
+		<!-- DEX +$s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49203" toLevel="3" name="CON +1">
+		<!-- CON +$s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49204" toLevel="3" name="INT +1">
+		<!-- INT +$s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49205" toLevel="3" name="WIT +1">
+		<!-- WIT +$s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49206" toLevel="3" name="MEN +1">
+		<!-- MEN +$s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="49207" toLevel="2" name="Steel Skin">
+		<!-- Increases defense abilities according to the skill level. For each level, P. Def. +$s1, M. Def. +$s2. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+</list>

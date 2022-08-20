@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="29100" level="80" type="Monster" name="Archangel">
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="93" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="290966.74193" hpRegen="8.5" mp="1608.045" mpRegen="3" />
+			<attack physical="970.5375485" magical="662.7513291" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="50" />
+				<run ground="170" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15" />
+			<height normal="80" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angel -->
+		</skillList>
+	</npc>
+	<npc id="29101" level="80" type="Folk" name="Baium">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="1709400" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="65" />
+			<height normal="82" />
+		</collision>
+	</npc>
+	<npc id="29102" level="84" type="RaidBoss" name="Antharas" title="Earth Dragon">
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" raidPoints="1000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="24630999.75369" hpRegen="319.2293199" mp="3440344.575" mpRegen="3" />
+			<attack physical="3152.927754" magical="1289.681983" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="3500.450389" magical="1707.68215" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="300" />
+			<height normal="300" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+			<skill id="4122" level="1" /> <!-- Antharas -->
+		</skillList>
+	</npc>
+	<npc id="29103" level="84" type="Monster" name="Behemoth Dragon">
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="197048" hpRegen="8.5" mp="24863.19" mpRegen="3" />
+			<attack physical="1144.731301" magical="781.7030834" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="357.86723" magical="261.87171" />
+			<speed>
+				<walk ground="55" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="63" />
+			<height normal="54" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+		</skillList>
+	</npc>
+	<npc id="29104" level="84" type="Monster" name="Tarask Dragon">
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="394096" hpRegen="8.5" mp="24863.19" mpRegen="3" />
+			<attack physical="1144.731301" magical="781.7030834" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="357.86723" magical="261.87171" />
+			<speed>
+				<walk ground="55" />
+				<run ground="180" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="63" />
+			<height normal="54" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+		</skillList>
+	</npc>
+	<npc id="29105" level="80" type="RaidBoss" name="King Ignis" element="FIRE">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4456058.49802372" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="40" />
+			<height normal="102" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48044" level="1" /> <!-- Monster of Fire Element -->
+			<skill id="50079" level="1" /> <!-- Raid Boss (Lv. 82) -->
+			<skill id="50069" level="1" /> <!-- Fire Breath -->
+			<skill id="50070" level="1" /> <!-- Tears of Fire -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5312" min="1" max="1" chance="1.968" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5288" min="1" max="1" chance="1.966" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5319" min="1" max="1" chance="1.959" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.958" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5297" min="1" max="1" chance="1.955" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5290" min="1" max="1" chance="1.942" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5315" min="1" max="1" chance="1.941" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5304" min="1" max="1" chance="1.94" /> <!-- Sealed Tallum Tunic -->
+				<item id="5292" min="1" max="1" chance="1.934" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5314" min="1" max="1" chance="1.924" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5311" min="1" max="1" chance="1.92" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5313" min="1" max="1" chance="1.911" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5301" min="1" max="1" chance="1.901" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5291" min="1" max="1" chance="1.898" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5289" min="1" max="1" chance="1.884" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5296" min="1" max="1" chance="1.882" /> <!-- Sealed Tallum Boots -->
+				<item id="5298" min="1" max="1" chance="1.875" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5320" min="1" max="1" chance="1.875" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5294" min="1" max="1" chance="1.874" /> <!-- Sealed Tallum Helmet -->
+				<item id="5326" min="1" max="1" chance="1.871" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.871" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.87" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5323" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5318" min="1" max="1" chance="1.859" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5305" min="1" max="1" chance="1.853" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.851" /> <!-- Sealed Tallum Gloves -->
+				<item id="5308" min="1" max="1" chance="1.841" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5317" min="1" max="1" chance="1.839" /> <!-- Sealed Majestic Circlet -->
+				<item id="5329" min="1" max="1" chance="1.834" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91032" min="1" max="1" chance="2.012" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29106" level="80" type="RaidBoss" name="Queen Nebula" element="WATER">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4408646.64031621" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="80" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="42" />
+			<height normal="88.5" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48045" level="1" /> <!-- Monster of Water Element -->
+			<skill id="50080" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5313" min="1" max="1" chance="1.96" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5312" min="1" max="1" chance="1.956" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5296" min="1" max="1" chance="1.955" /> <!-- Sealed Tallum Boots -->
+				<item id="5308" min="1" max="1" chance="1.951" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5297" min="1" max="1" chance="1.95" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5287" min="1" max="1" chance="1.949" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5295" min="1" max="1" chance="1.936" /> <!-- Sealed Tallum Gloves -->
+				<item id="5311" min="1" max="1" chance="1.929" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5320" min="1" max="1" chance="1.928" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5294" min="1" max="1" chance="1.927" /> <!-- Sealed Tallum Helmet -->
+				<item id="5293" min="1" max="1" chance="1.919" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5314" min="1" max="1" chance="1.915" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5315" min="1" max="1" chance="1.914" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.911" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5292" min="1" max="1" chance="1.907" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5329" min="1" max="1" chance="1.9" /> <!-- Sealed Majestic Robe -->
+				<item id="5288" min="1" max="1" chance="1.893" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5319" min="1" max="1" chance="1.892" /> <!-- Sealed Majestic Boots -->
+				<item id="5304" min="1" max="1" chance="1.889" /> <!-- Sealed Tallum Tunic -->
+				<item id="5326" min="1" max="1" chance="1.886" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5318" min="1" max="1" chance="1.878" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5291" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5289" min="1" max="1" chance="1.875" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5323" min="1" max="1" chance="1.862" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5301" min="1" max="1" chance="1.86" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5298" min="1" max="1" chance="1.846" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5316" min="1" max="1" chance="1.838" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5305" min="1" max="1" chance="1.832" /> <!-- Sealed Tallum Stockings -->
+				<item id="5317" min="1" max="1" chance="1.829" /> <!-- Sealed Majestic Circlet -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91031" min="1" max="1" chance="1.95" /> <!-- Water Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29107" level="80" type="RaidBoss" name="King Procella" element="WIND">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4233255.33596838" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48046" level="1" /> <!-- Monster of Wind Element -->
+			<skill id="50081" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5316" min="1" max="1" chance="1.968" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5312" min="1" max="1" chance="1.964" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.959" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5317" min="1" max="1" chance="1.954" /> <!-- Sealed Majestic Circlet -->
+				<item id="5293" min="1" max="1" chance="1.953" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5319" min="1" max="1" chance="1.948" /> <!-- Sealed Majestic Boots -->
+				<item id="5292" min="1" max="1" chance="1.944" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5320" min="1" max="1" chance="1.94" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5301" min="1" max="1" chance="1.94" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5305" min="1" max="1" chance="1.938" /> <!-- Sealed Tallum Stockings -->
+				<item id="5298" min="1" max="1" chance="1.934" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5314" min="1" max="1" chance="1.922" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5318" min="1" max="1" chance="1.918" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5297" min="1" max="1" chance="1.916" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5313" min="1" max="1" chance="1.898" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5294" min="1" max="1" chance="1.894" /> <!-- Sealed Tallum Helmet -->
+				<item id="5287" min="1" max="1" chance="1.888" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5295" min="1" max="1" chance="1.878" /> <!-- Sealed Tallum Gloves -->
+				<item id="5323" min="1" max="1" chance="1.874" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5311" min="1" max="1" chance="1.874" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5288" min="1" max="1" chance="1.869" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5315" min="1" max="1" chance="1.867" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5326" min="1" max="1" chance="1.858" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.854" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5290" min="1" max="1" chance="1.853" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5296" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Boots -->
+				<item id="5289" min="1" max="1" chance="1.836" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5304" min="1" max="1" chance="1.833" /> <!-- Sealed Tallum Tunic -->
+				<item id="5329" min="1" max="1" chance="1.822" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91033" min="1" max="1" chance="2.008" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29108" level="80" type="RaidBoss" name="King Petram" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="80" />
+			<height normal="125" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29109" level="80" type="Folk" name="Freya" title="Ice Queen">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12680" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="54" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="55" />
+		</collision>
+	</npc>
+	<npc id="29110" level="80" type="Folk" name="Safe Zone">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12680640" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="0.001" />
+			<height normal="0.001" />
+		</collision>
+	</npc>
+	<npc id="29111" level="80" type="Monster" name="Water Slime">
+		<parameters>
+			<skill name="Skill01_ID" id="50039" level="1" />
+			<param name="Skill01_Probablity" value="9000" />
+		</parameters>
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="50000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="36" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="true" />
+		<skillList>
+			<skill id="50039" level="1" /> <!-- Aqua Destruction -->
+		</skillList>
+		<collision>
+			<radius normal="36" />
+			<height normal="39" />
+		</collision>
+	</npc>
+	<npc id="29112" level="80" type="Monster" name="Procella's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="8446" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29113" level="80" type="Monster" name="Procella's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="8446" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29114" level="80" type="Monster" name="Procella's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="8446" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29115" level="80" type="Monster" name="Procella's Storm">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="20" con="82" men="78">
+			<vitals hp="8446" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="50" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="50" />
+			<height normal="100" />
+		</collision>
+	</npc>
+	<npc id="29116" level="80" type="Monster" name="Petram Piece">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="8446" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" canMove="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="61" />
+		</collision>
+	</npc>
+	<npc id="29117" level="80" type="Monster" name="Petram Fragment">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="8446" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" canMove="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="61" />
+		</collision>
+	</npc>
+	<npc id="29118" level="80" type="Folk" name="Spirit King's Magic">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="400000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="27.5" />
+		</collision>
+	</npc>
+	<npc id="29119" level="75" type="RaidBoss" name="Zaken">
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="11083949.50738" hpRegen="310.756323" mp="20787.765" mpRegen="3" />
+			<attack physical="2451.22348" magical="868.8760268" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2788.494256" magical="1360.356908" />
+			<speed>
+				<walk ground="42" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="19.2" />
+			<height normal="39" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+	</npc>
+	<npc id="29120" level="85" type="Folk" name="Ignis" title="Flame Spirit King">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="300000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="102" />
+		</collision>
+	</npc>
+	<npc id="29121" level="85" type="Folk" name="Nebula" title="Water Spirit Queen">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="300000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="88.5" />
+		</collision>
+	</npc>
+	<npc id="29122" level="85" type="Folk" name="Procella" title="Wind Spirit King">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="300000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29123" level="85" type="Folk" name="Petram" title="Earth Spirit King">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="300000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="80" />
+			<height normal="125" />
+		</collision>
+	</npc>
+	<npc id="29124" level="85" type="Folk" name="Freya" title="Ice Queen">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12680" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="54" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="55" />
+		</collision>
+	</npc>
+	<npc id="29125" level="85" type="Folk" name="Safe Zone">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12680640" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="0.001" />
+			<height normal="0.001" />
+		</collision>
+	</npc>
+	<npc id="29126" level="85" type="Folk" name="Water Slime">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="80000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="36" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="36" />
+			<height normal="39" />
+		</collision>
+	</npc>
+	<npc id="29127" level="85" type="Folk" name="Procella's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14666666" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29128" level="85" type="Folk" name="Procella's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14666666" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29129" level="85" type="Folk" name="Procella's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14666666" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="133" />
+		</collision>
+	</npc>
+	<npc id="29130" level="85" type="Folk" name="Procella's Storm">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2500000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="50" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="50" />
+			<height normal="100" />
+		</collision>
+	</npc>
+	<npc id="29131" level="85" type="Folk" name="Petram Piece">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="61" />
+		</collision>
+	</npc>
+	<npc id="29132" level="85" type="Folk" name="Petram Fragment">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="61" />
+		</collision>
+	</npc>
+	<npc id="29133" level="85" type="Folk" name="Spirit King's Magic">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="27.5" />
+		</collision>
+	</npc>
+	<npc id="29134" level="85" type="Folk" name="Mantis King">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2505295" hpRegen="10.5" mp="3349" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="94" />
+		</collision>
+	</npc>
+	<npc id="29144" level="85" type="Folk" name="Beleth" title="Demon King">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="88888888" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="30" />
+			<height normal="60" />
+		</collision>
+	</npc>
+	<npc id="29145" level="85" type="Folk" name="Beleth' Slave">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="170000" hpRegen="10.5" mp="3693" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="29146" level="85" type="Folk" name="Darion" title="Demons">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="22222222" hpRegen="10.5" mp="3349" mpRegen="3.6" />
+			<speed>
+				<walk ground="44" />
+				<run ground="220" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="50" />
+			<height normal="81.217" />
+		</collision>
+	</npc>
+	<npc id="29147" level="85" type="Folk" name="Tarask Dragon" title="Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="12000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="34.5" />
+			<height normal="54.9" />
+		</collision>
+	</npc>
+	<npc id="29148" level="85" type="Folk" name="Tarask Dragon" title="Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="51084444" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="34.5" />
+			<height normal="54.9" />
+		</collision>
+	</npc>
+	<npc id="29149" level="85" type="Folk" name="Tarask Dragon" title="Dreadful Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="51084444" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="48" />
+			<height normal="82.5" />
+		</collision>
+	</npc>
+	<npc id="29150" level="85" type="Folk" name="Tarask Dragon" title="Immortal Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="51084444" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="60" />
+			<height normal="82.5" />
+		</collision>
+	</npc>
+	<npc id="29151" level="85" type="Folk" name="Antharas" title="Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="666666666" hpRegen="10.5" mp="2025740" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="300" />
+			<height normal="300" />
+		</collision>
+	</npc>
+	<npc id="29152" level="85" type="Folk" name="Antharas" title="Dreadful Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="888888888" hpRegen="10.5" mp="2025740" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="300" />
+			<height normal="300" />
+		</collision>
+	</npc>
+	<npc id="29153" level="85" type="Folk" name="Antharas" title="Immortal Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="888888888" hpRegen="10.5" mp="2025740" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="300" />
+			<height normal="300" />
+		</collision>
+	</npc>
+	<npc id="29154" level="85" type="Folk" name="Antharas" title="Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="60000000" hpRegen="10.5" mp="2025740" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="300" />
+			<height normal="300" />
+		</collision>
+	</npc>
+	<npc id="29155" level="85" type="Folk" name="Antharas" title="Earth Dragon">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="60000000" hpRegen="10.5" mp="2025740" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="300" />
+			<height normal="300" />
+		</collision>
+	</npc>
+	<npc id="29156" level="85" type="Folk" name="Beleth' Treasure Chest">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="400000" hpRegen="10.5" mp="1507" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="19" />
+		</collision>
+	</npc>
+	<npc id="29190" level="84" type="Monster" name="Tarask Dragon">
+		<!-- Todo: CT2.5 -->
+		<parameters>
+			<skill name="Skill01_ID" id="5095" level="1" />
+			<skill name="Skill02_ID" id="5096" level="1" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<stats str="40" int="41" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2793296.08938547" hpRegen="8.5" mp="22859.2351505289" mpRegen="3" />
+			<attack physical="3584.56902102981" magical="1386.66000087809" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1071.29474264312" magical="522.626863116263" />
+			<speed>
+				<walk ground="55" />
+				<run ground="180" />
+			</speed>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" />
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+			<skill id="5465" level="1" /> <!-- Earth Attack -->
+			<skill id="5095" level="1" /> <!-- Antharas Subordinate Melee Attack -->
+			<skill id="5096" level="1" /> <!-- Antharas Subordinate Remote Attack -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="300" clanHelpRange="300" isAggressive="true" />
+		<collision>
+			<radius normal="63" />
+			<height normal="54" />
+		</collision>
+	</npc>
+	<npc id="29135" level="85" type="RaidBoss" name="Tiron" title="Royal Counsellor">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="40" con="82" men="78">
+			<vitals hp="9000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="250" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="32" />
+			<height normal="74.2" />
+		</collision>
+		<skillList>
+			<skill id="48365" level="1" /> <!-- Tiron's Freezing Attack -->
+			<skill id="48368" level="1" /> <!-- Tiron's Knockback -->
+			<skill id="48370" level="1" /> <!-- Tiron's Enhancement -->
+		</skillList>
+			<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="50.2" /> <!-- Ice core -->
+				<item id="57" min="70000" max="400000" chance="70" /> <!-- Adena -->
+				<item id="95743" min="1" max="1" chance="7.748" /> <!-- Top Grade A Weapon pack -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29136" level="85" type="RaidBoss" name="Glakias" title="Frost Lord">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE -->
+		<race>HUMANOID</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="95840" />
+		<stats str="88" int="79" dex="55" wit="38" con="82" men="78"> <!-- Do not touch the "Wit" -->
+			<vitals hp="30000000" hpRegen="20.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="250" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="102.75" />
+		</collision>
+			<skillList>
+			<skill id="48378" level="1" /> <!-- thunder basic -->
+			<skill id="48377" level="1" /> <!-- Ice Emperor's Smash -->
+			<skill id="4279" level="1" /> <!-- Fire Vulnerability -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="50.2" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="10.0075" /> <!-- Ice lord weapon crystal -->
+				<item id="57" min="70000" max="400000" chance="70" /> <!-- Adena -->
+				<item id="95743" min="1" max="1" chance="7.748" /> <!-- Top Grade A Weapon pack -->
+				<item id="93387" min="1" max="1" chance="0.75" /> <!-- Ultimate Death Knight Transformation -->
+				<item id="95503" min="1" max="1" chance="0.3" /> <!-- Divine Beam -->
+				<item id="94498" min="1" max="1" chance="0.3" /> <!-- Spellbook: Titan Champion -->
+				<item id="94508" min="1" max="1" chance="0.3" /> <!-- Spellbook: Cacophony of War -->
+				<item id="94668" min="1" max="1" chance="0.3" /> <!-- Spellbook: Pa'agrio's Touch -->
+				<item id="94673" min="1" max="1" chance="0.075" /> <!-- Spellbook: Team Building -->
+				<item id="94862" min="1" max="1" chance="0.03" /> <!-- Spellbook: Exclusion -->
+				<item id="94863" min="1" max="1" chance="0.03" /> <!-- Spellbook: Dark Disruption -->
+				<item id="95346" min="1" max="1" chance="0.03" /> <!-- Spellbook: Meteor -->
+				<item id="95347" min="1" max="1" chance="0.03" /> <!-- Spellbook: Rolling Dice -->
+				<item id="95354" min="1" max="1" chance="0.03" /> <!-- Spellbook: Dragon Strike -->
+				<item id="95861" min="1" max="1" chance="0.03" /> <!-- Spellbook: Mechanical Hero -->
+				<item id="93733" min="1" max="1" chance="0.01" /> <!-- Flaming Tunic -->
+				<item id="93734" min="1" max="1" chance="0.01" /> <!-- Flaming stock -->
+				<item id="93139" min="1" max="1" chance="0.01" /> <!-- ice crystal breastplate -->
+				<item id="93142" min="1" max="1" chance="0.01" /> <!-- ice crystal gaiters -->
+				<item id="93315" min="1" max="1" chance="0.01" /> <!-- leather armor lightning -->
+				<item id="93316" min="1" max="1" chance="0.01" /> <!-- leather leggings lightning -->
+				<item id="95725" min="1" max="1" chance="0.01" /> <!-- frost lord sword -->
+				<item id="95725" min="1" max="1" chance="0.01" /> <!-- frost lord sword -->
+				<item id="95727" min="1" max="1" chance="0.01" /> <!-- frost lord axe -->
+				<item id="95729" min="1" max="1" chance="0.01" /> <!-- frost lord spear -->
+				<item id="95731" min="1" max="1" chance="0.01" /> <!-- frost lord Blade First -->
+				<item id="95733" min="1" max="1" chance="0.01" /> <!-- frost lord Blade staff -->
+				<item id="95735" min="1" max="1" chance="0.01" /> <!-- frost lord Blade Rapier -->
+				<item id="95737" min="1" max="1" chance="0.01" /> <!-- frost lord Blade Dualswords -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29137" level="85" type="GrandBoss" name="Glakias" title="Frost Lord">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="95841" />
+		<stats str="88" int="79" dex="55" wit="38" con="82" men="78">
+			<vitals hp="44444444" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="102.75" />
+		</collision>
+			<skillList>
+			<skill id="48382" level="1" /> <!-- Ice Emperor's Tornado -->
+			<skill id="48383" level="1" /> <!-- Ice Emperor's Crystal -->
+		</skillList>
+	</npc>
+	<npc id="29138" level="85" type="GrandBoss" name="Glakias" title="Dreadful Frost Lord">
+		<!-- GLAKIAS FROST LORD INSTANCE HARD MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="95842" />
+		<stats str="88" int="79" dex="55" wit="45" con="82" men="78">
+			<vitals hp="44444444" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="102.75" />
+		</collision>
+			<skillList>
+			<skill id="48378" level="1" /> <!-- thunder basic -->
+			<skill id="48374" level="1" /> <!-- Ice Emperor's Chain -->
+			<skill id="48377" level="1" /> <!-- Ice Emperor's Smash -->
+		</skillList>
+	</npc>
+	<npc id="29139" level="85" type="GrandBoss" name="Glakias" title="Dreadful Frost Lord">
+		<!-- GLAKIAS FROST LORD INSTANCE HARD MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="95843" />
+		<stats str="88" int="79" dex="55" wit="45" con="82" men="78">
+			<vitals hp="44444444" hpRegen="20.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="250" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="102.75" />
+		</collision>
+			<skillList>
+			<skill id="48382" level="2" /> <!-- Ice Emperor's Tornado -->
+			<skill id="48383" level="2" /> <!-- Ice Emperor's Crystal -->
+			<skill id="48381" level="2" /> <!-- Ice Emperor's Storm -->
+			<skill id="48377" level="2" /> <!-- Ice Emperor's Smash -->
+		</skillList>
+			<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="50.2" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="10.0075" /> <!-- Ice lord weapon crystal -->
+				<item id="57" min="70000" max="400000" chance="70" /> <!-- Adena -->
+				<item id="96006" min="1" max="1" chance="1.748" /> <!-- +5 Top Grade A Weapon pack -->
+				<item id="96031" min="1" max="1" chance="1.748" /> <!-- Package: +5 Leather Armor of Lightning -->
+				<item id="96032" min="1" max="1" chance="1.748" /> <!-- Package: +5 Leather Leggings of Lightning -->
+				<item id="96033" min="1" max="1" chance="1.748" /> <!-- Package: +5 Ice Crystal Breastplate -->
+				<item id="96034" min="1" max="1" chance="1.748" /> <!-- Package: +5 Ice Crystal Gaiters -->
+				<item id="96035" min="1" max="1" chance="1.748" /> <!-- Package: +5 Flaming Tunic -->
+				<item id="96036" min="1" max="1" chance="1.748" /> <!-- Package: +5 Flaming Stockings -->
+				<item id="93387" min="1" max="1" chance="0.75" /> <!-- Ultimate Death Knight Transformation -->
+				<item id="95503" min="1" max="1" chance="0.6" /> <!-- Divine Beam -->
+				<item id="94498" min="1" max="1" chance="0.6" /> <!-- Spellbook: Titan Champion -->
+				<item id="94508" min="1" max="1" chance="0.6" /> <!-- Spellbook: Cacophony of War -->
+				<item id="94668" min="1" max="1" chance="0.6" /> <!-- Spellbook: Pa'agrio's Touch -->
+				<item id="94673" min="1" max="1" chance="0.175" /> <!-- Spellbook: Team Building -->
+				<item id="94862" min="1" max="1" chance="0.06" /> <!-- Spellbook: Exclusion -->
+				<item id="94863" min="1" max="1" chance="0.06" /> <!-- Spellbook: Dark Disruption -->
+				<item id="95346" min="1" max="1" chance="0.06" /> <!-- Spellbook: Meteor -->
+				<item id="95347" min="1" max="1" chance="0.06" /> <!-- Spellbook: Rolling Dice -->
+				<item id="95354" min="1" max="1" chance="0.06" /> <!-- Spellbook: Dragon Strike -->
+				<item id="95861" min="1" max="1" chance="0.06" /> <!-- Spellbook: Mechanical Hero -->
+				<item id="95726" min="1" max="1" chance="0.01" /> <!-- Frost Lord's Two-handed Sword -->
+				<item id="95728" min="1" max="1" chance="0.01" /> <!-- Frost Lord's Dagger -->
+				<item id="95730" min="1" max="1" chance="0.01" /> <!-- Frost Lord's Bow -->
+				<item id="95732" min="1" max="1" chance="0.01" /> <!-- Frost Lord's Magic Blunt Weapon -->
+				<item id="95734" min="1" max="1" chance="0.01" /> <!-- Frost Lord's Ancient Sword -->
+				<item id="95736" min="1" max="1" chance="0.01" /> <!-- Frost Lord's Gun -->
+			</drop>
+	</dropLists>
+	</npc>
+	<npc id="29140" level="85" type="Monster" name="Sodian" title="Praetorian">
+		<!-- GLAKIAS FROST LORD INSTANCE HARD MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="20" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22.5" />
+			<height normal="48" />
+		</collision>
+		<skillList>
+			<skill id="48354" level="2" /> <!-- Ice Strike -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="200" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29141" level="85" type="Monster" name="Tridian" title="Praetorian">
+		<!-- GLAKIAS FROST LORD INSTANCE HARD MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="39" />
+		</collision>
+		<skillList>
+			<skill id="48365" level="1" /> <!-- Freezing Attack -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="200" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29142" level="85" type="Monster" name="Bodian" title="Praetorian">
+		<!-- GLAKIAS FROST LORD INSTANCE HARD MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15302" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="36.75" />
+		</collision>
+		<skillList>
+			<skill id="48355" level="2" /> <!-- Ice Arrow -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="200" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="29143" level="85" type="Monster" name="Akadian" title="Praetorian">
+		<!-- GLAKIAS FROST LORD INSTANCE HARD MODE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15302" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="36.75" />
+		</collision>
+		<skillList>
+			<skill id="48356" level="2" /> <!-- Ice Shot -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="200" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+</list>

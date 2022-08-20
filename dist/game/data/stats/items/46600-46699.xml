@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="46642" name="Proof of Red" additionalName="Sealed" type="EtcItem">
+		<!-- A reward for completing the Red Libra Guild s task. Can be exchanged for an XP Scroll by Hierarch Green. -->
+		<set name="icon" val="icon.event_mahum_memo" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="46644" name="Red Libra Supplies Lv. 1" additionalName="Sealed" type="EtcItem">
+		<!-- A reward from Red Libra Guild for helping Bodyguard Blue. Double-click to obtain a random reward. -->
+		<set name="icon" val="icon.event_mahum_coinbox" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="46645" name="Red Libra Supplies Lv. 2" additionalName="Sealed" type="EtcItem">
+		<!-- A reward from Red Libra Guild for helping Bodyguard Blue. Double-click to obtain a random reward. -->
+		<set name="icon" val="icon.event_mahum_coinbox" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="46646" name="Red Libra Supplies Lv. 3" additionalName="Sealed" type="EtcItem">
+		<!-- A reward from Red Libra Guild for helping Bodyguard Blue. Double-click to obtain a random reward. -->
+		<set name="icon" val="icon.event_mahum_coinbox" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="46647" name="Red Libra Supplies Lv. 4" additionalName="Sealed" type="EtcItem">
+		<!-- A reward from Red Libra Guild for helping Bodyguard Blue. Double-click to obtain a random reward. -->
+		<set name="icon" val="icon.event_mahum_coinbox" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="material" val="LEATHER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

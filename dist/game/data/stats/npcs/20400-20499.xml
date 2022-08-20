@@ -1,0 +1,4357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="20400" level="12" type="Monster" name="Blood Fungus">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>PLANT</race>
+		<sex>MALE</sex>
+		<acquire exp="177" sp="16" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="309.124767225326" hpRegen="2.5" mp="124.491456468674" mpRegen="1.2" />
+			<attack physical="25.295666" magical="15.70333" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="60.2999" magical="48.53733" />
+			<speed>
+				<walk ground="70" />
+				<run ground="110" />
+			</speed>
+			<hitTime>410</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4277" level="5" /> <!-- Poison Resistance -->
+			<skill id="4416" level="5" /> <!-- Plants -->
+			<skill id="4279" level="1" /> <!-- Fire Vulnerability -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="15" />
+			<height normal="22.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="876" min="1" max="1" chance="0.03" /> <!-- Ring of Anguish -->
+				<item id="114" min="1" max="1" chance="0.0075" /> <!-- Earring of Strength -->
+				<item id="115" min="1" max="1" chance="0.0075" /> <!-- Earring of Wisdom -->
+				<item id="907" min="1" max="1" chance="0.0075" /> <!-- Necklace of Anguish -->
+				<item id="57" min="4" max="10" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="92483" min="1" max="1" chance="0.0075" /> <!-- Necklace of Anguish Chain -->
+			</drop>
+			<spoil>
+				<item id="1803" min="1" max="1" chance="0.075" /> <!-- Recipe: Necklace of Wisdom -->
+				<item id="92510" min="1" max="1" chance="0.03" /> <!-- Leather Stocking Pattern -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20401" level="23" type="Monster" name="Veelan Bugbear">
+		<parameters>
+			<param name="MoveAroundSocial" value="124" />
+			<param name="MoveAroundSocial1" value="124" />
+			<param name="MoveAroundSocial2" value="124" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<equipment rhand="156" /> <!-- rhand: Hand Axe -->
+		<acquire exp="1299" sp="39" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="636.871508379888" hpRegen="3.5" mp="231.895850284784" mpRegen="1.5" />
+			<attack physical="50.76477273" magical="38.13234" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="105.214736" magical="69.99234" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<hitTime>280</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>BUGBEAR</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="17" />
+			<height normal="35" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="87" min="1" max="1" chance="0.03" /> <!-- Iron Hammer -->
+				<item id="155" min="1" max="1" chance="0.03" /> <!-- Flanged Mace -->
+				<item id="177" min="1" max="1" chance="0.03" /> <!-- Mage Staff -->
+				<item id="57" min="76" max="176" chance="70" /> <!-- Adena -->
+				<item id="2257" min="1" max="1" chance="0.3" /> <!-- Recipe: Trident -->
+			</drop>
+			<spoil>
+				<item id="2151" min="1" max="1" chance="15.77" /> <!-- Recipe: Necklace of Devotion -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20402" level="24" type="Monster" name="Veelan Bugbear Warrior">
+		<parameters>
+			<param name="MoveAroundSocial" value="124" />
+			<param name="MoveAroundSocial1" value="124" />
+			<param name="MoveAroundSocial2" value="124" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<equipment rhand="88" /> <!-- Morning Star -->
+		<acquire exp="1394" sp="42" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="675.046554934823" hpRegen="3.5" mp="245.728234336859" mpRegen="1.5" />
+			<attack physical="66.216557" magical="41.10666" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="89.73562727" magical="72.2311" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<hitTime>280</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>BUGBEAR</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="17" />
+			<height normal="35" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="32" min="1" max="1" chance="0.3" /> <!-- Piece Bone Gaiters -->
+				<item id="34" min="1" max="1" chance="0.3" /> <!-- Bronze Gaiters -->
+				<item id="25" min="1" max="1" chance="0.075" /> <!-- Piece Bone Breastplate -->
+				<item id="26" min="1" max="1" chance="0.075" /> <!-- Bronze Breastplate -->
+				<item id="57" min="84" max="197" chance="70" /> <!-- Adena -->
+				<item id="1661" min="1" max="1" chance="1.13" /> <!-- Thief Key -->
+			</drop>
+			<spoil>
+				<item id="2179" min="1" max="1" chance="33.04" /> <!-- Recipe: Quality Leather Gloves -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20403" level="16" type="Monster" name="Hunter Tarantula">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="259" sp="22" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="408.752327746741" hpRegen="2.5" mp="157.038242473556" mpRegen="1.2" />
+			<attack physical="35.380356" magical="21.96382" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="69.16934545" magical="55.67663" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="38" min="1" max="1" chance="0.0075" /> <!-- Low Boots -->
+				<item id="50" min="1" max="1" chance="0.0075" /> <!-- Leather Gloves -->
+				<item id="57" min="5" max="11" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="92512" min="1" max="1" chance="0.0075" /> <!-- Leather Glove Lining -->
+			</drop>
+			<spoil>
+				<item id="92587" min="1" max="1" chance="0.003" /> <!-- Sword of Reflection Blade -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20404" level="16" type="Monster" name="Silent Horror">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="724" sp="22" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="408.752327746741" hpRegen="2.5" mp="157.038242473556" mpRegen="1.2" />
+			<attack physical="35.380356" magical="21.96382" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="69.16934545" magical="55.67663" />
+			<speed>
+				<walk ground="100" />
+				<run ground="100" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="20" />
+			<height normal="35" grown="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="1104" min="1" max="1" chance="0.75" /> <!-- Stockings of Devotion -->
+				<item id="1101" min="1" max="1" chance="0.3" /> <!-- Tunic of Devotion -->
+				<item id="57" min="40" max="93" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="5.236" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="2252" min="1" max="1" chance="0.075" /> <!-- Recipe: Iron Hammer -->
+			</drop>
+			<spoil>
+				<item id="735" min="1" max="1" chance="3.133" /> <!-- Haste Potion -->
+				<item id="2253" min="1" max="1" chance="1.596" /> <!-- Recipe: Sword Breaker -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20405" level="85" type="Monster" name="Knoriks" title="Antharas' Watchman" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="1879916" sp="7674" attributeExp="1555" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="144259.776536313" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="60" />
+				<run ground="160" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="25" />
+			<height normal="60" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4085" level="1" /> <!-- Critical Damage -->
+			<skill id="4086" level="1" /> <!-- Critical Chance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="5599" level="11" /> <!-- Stun Resistance -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="4438" level="2" /> <!-- Greater Sleep Resistance -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+		</skillList>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<dropLists>
+			<drop>
+				<item id="8678" min="1" max="1" chance="0.003" /> <!-- Sirra's Blade -->
+				<item id="8679" min="1" max="1" chance="0.003" /> <!-- Sword of Ipos -->
+				<item id="8680" min="1" max="1" chance="0.003" /> <!-- Barakiel's Axe -->
+				<item id="8681" min="1" max="1" chance="0.003" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8682" min="1" max="1" chance="0.003" /> <!-- Naga's Storm -->
+				<item id="8683" min="1" max="1" chance="0.003" /> <!-- Tiphon's Spear -->
+				<item id="8684" min="1" max="1" chance="0.003" /> <!-- Shyeed's Bow -->
+				<item id="57" min="96950" max="226217" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="16.69" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="3.264" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="93934" min="1" max="1" chance="1.728" /> <!-- Dye Powder -->
+				<item id="92994" min="1" max="1" chance="1.657" /> <!-- Asofe -->
+				<item id="92916" min="1" max="1" chance="1.599" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.75" /> <!-- Material: Metal Ingot -->
+				<item id="93914" min="1" max="1" chance="0.3" /> <!-- Dragon Blood - Sealed -->
+				<item id="94136" min="1" max="1" chance="0.03" /> <!-- Master's Book: Shield -->
+				<item id="94135" min="1" max="1" chance="0.03" /> <!-- Master's Book: Might -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="3" chance="92.325" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="87.31" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="9.2" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20406" level="85" type="Monster" name="Banshee" element="EARTH">
+		<parameters>
+			<skill name="HealMagic_a" id="4209" level="6" />
+			<skill name="SelfRangeBuff_a" id="4213" level="6" />
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3939" /> 
+		<acquire exp="238485" sp="3787" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="43277.4674115456" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="80" />
+				<run ground="174" />
+			</speed>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="5601" level="1" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4209" level="6" /> <!-- BOSS Heal -->
+			<skill id="4213" level="6" /> <!-- BOSS Haste -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+		</skillList>
+		<ai type="BALANCED" clanHelpRange="300" />
+		<dropLists>
+			<drop>
+				<item id="5326" min="1" max="1" chance="0.0075" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="0.0075" /> <!-- Sealed Majestic Robe -->
+				<item id="57" min="15120" max="35280" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="2.453" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.075" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="28.15" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="13.95" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.471" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20407" level="85" type="Monster" name="Bloody Banshee" element="EARTH">
+		<parameters>
+			<skill name="HealMagic_a" id="4209" level="6" />
+			<skill name="SelfRangeBuff_a" id="4213" level="6" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>FEMALE</sex>
+		<acquire exp="254850" sp="3787" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="57703.9106145251" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="1188.872595" magical="811.845865" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="361.78814" magical="264.74086" />
+			<speed>
+				<walk ground="45" />
+				<run ground="174" />
+			</speed>
+			<hitTime>560</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15" />
+			<height normal="26.5" />
+		</collision>
+		<skillList>
+			<skill id="4116" level="4" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="5601" level="1" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4209" level="6" /> <!-- BOSS Heal -->
+			<skill id="4213" level="6" /> <!-- BOSS Haste -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="16050" max="37450" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="6.712" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="1.27" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.75" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="0.75" /> <!-- Asofe -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="29.04" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="14.72" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.524" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20410" level="15" type="Monster" name="Scavenger Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="664" sp="20" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="153" min="1" max="1" chance="0.3" /> <!-- Sickle -->
+				<item id="9" min="1" max="1" chance="0.075" /> <!-- Cedar Staff -->
+				<item id="154" min="1" max="1" chance="0.075" /> <!-- Dwarven Mace -->
+				<item id="57" min="43" max="101" chance="70" /> <!-- Adena -->
+				<item id="1793" min="1" max="1" chance="0.75" /> <!-- Recipe: Sword of Reflection -->
+			</drop>
+			<spoil>
+				<item id="1792" min="1" max="1" chance="1.995" /> <!-- Recipe: Short Spear -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20411" level="18" type="Monster" name="Scavenger Bat">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="Skill01_ID" id="4001" level="1" />
+			<skill name="Skill02_ID" id="4002" level="1" />
+			<skill name="Skill03_ID" id="4038" level="2" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="795" sp="24" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="467.411545623836" hpRegen="2.5" mp="174.125305126119" mpRegen="1.2" />
+			<attack physical="41.612252" magical="25.83252" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="73.95264545" magical="59.52687" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<hitTime>500</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="4001" level="1" /> <!-- NPC Windstrike -->
+			<skill id="4002" level="1" /> <!-- NPC HP Drain -->
+			<skill id="4038" level="2" /> <!-- Decrease Atk. Spd. -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="33.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="217" min="1" max="1" chance="0.075" /> <!-- Shining Knife -->
+				<item id="218" min="1" max="1" chance="0.075" /> <!-- Throwing Knife -->
+				<item id="57" min="41" max="98" chance="70" /> <!-- Adena -->
+				<item id="1831" min="1" max="1" chance="12.76" /> <!-- Antidote -->
+			</drop>
+			<spoil>
+				<item id="735" min="1" max="1" chance="3.345" /> <!-- Haste Potion -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20412" level="80" type="Monster" name="Cave Banshee" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="DDMagic" id="4001" level="9" />
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="12132" sp="5426" attributeExp="968" />
+		<equipment rhand="3939" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="11568.9013035382" hpRegen="6.5" mp="2142.39218877136" mpRegen="2.4" />
+			<attack physical="880.962612806188" magical="374.772117747942" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="119.402410195425" />
+			<speed>
+				<walk ground="80" />
+				<run ground="174" />
+			</speed>
+			<hitTime>430</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="4001" level="9" /> <!-- NPC Windstrike -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="9" />
+			<height normal="23" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="678" max="1584" chance="70" /> <!-- Adena -->
+				<item id="92997" min="1" max="1" chance="5.24" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="2.581" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.75" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.75" /> <!-- Material: Plain Fabric -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+				<item id="92916" min="1" max="1" chance="0.03" /> <!-- Material: Animal Spirit -->
+				<item id="92919" min="1" max="1" chance="0.003" /> <!-- Material: Blacksmith's High-grade Power -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="73.37" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="15.12" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="7.454" /> <!-- Shining Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20415" level="17" type="Monster" name="Scarlet Salamander">
+		<!-- L2wiki https://l2wiki.com/classic/Scarlet_Salamander -->
+		<parameters>
+			<param name="MoveAroundSocial" value="70" />
+			<param name="MoveAroundSocial1" value="70" />
+			<param name="MoveAroundSocial2" value="70" />
+			<skill name="DDMagic1" id="4100" level="1" /> <!-- NPC Prominence -->
+			<skill name="DDMagic2" id="4002" level="1" /> <!-- NPC HP Drain -->
+			<skill name="DeBuff" id="4104" level="1" /> <!-- Flame -->
+		</parameters>
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="503" sp="16" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<speed>
+				<walk ground="64" />
+				<run ground="96" />
+			</speed>
+			<hitTime>200</hitTime>
+			<attack physical="38.38769" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="71.53153636" magical="57.57804" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4009" level="5" /> <!-- Fire Resistance -->
+			<skill id="4280" level="1" /> <!-- Water Vulnerability -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ELEMENTAL3</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="16" />
+			<height normal="6.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="309" min="1" max="1" chance="0.03" /> <!-- Tears of Eva -->
+				<item id="310" min="1" max="1" chance="0.03" /> <!-- Relic of the Saints -->
+				<item id="57" min="33" max="78" chance="70" /> <!-- Adena -->
+				<item id="2174" min="1" max="1" chance="0.75" /> <!-- Recipe: Durable Leather Gaiters -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20416" level="18" type="Monster" name="Scarlet Salamander Elder">
+		<!-- L2wiki: https://l2wiki.com/classic/Scarlet_Salamander_Elder -->
+		<parameters>
+			<param name="MoveAroundSocial" value="70" />
+			<param name="MoveAroundSocial1" value="70" />
+			<param name="MoveAroundSocial2" value="70" />
+			<skill name="DDMagic1" id="4100" level="1" /> <!-- NPC Prominence -->
+			<skill name="DDMagic2" id="4001" level="1" /> <!-- NPC Windstrike -->
+			<skill name="DeBuff" id="4104" level="1" /> <!-- Flame -->
+		</parameters>
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="531" sp="16" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="467.411545623836" hpRegen="2.5" mp="174.125305126119" mpRegen="1.2" />
+			<speed>
+				<walk ground="64" />
+				<run ground="96" />
+			</speed>
+			<hitTime>200</hitTime>
+			<attack physical="41.612252" magical="25.83252" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="73.95264545" magical="59.52687" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4009" level="5" /> <!-- Fire Resistance -->
+			<skill id="4280" level="1" /> <!-- Water Vulnerability -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="7" /> <!-- Spirits -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ELEMENTAL3</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="16" />
+			<height normal="6.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="1104" min="1" max="1" chance="0.75" /> <!-- Stockings of Devotion -->
+				<item id="1101" min="1" max="1" chance="0.3" /> <!-- Tunic of Devotion -->
+				<item id="57" min="34" max="81" chance="70" /> <!-- Adena -->
+			</drop>
+			<spoil>
+				<item id="2254" min="1" max="1" chance="1.341" /> <!-- Recipe: Compound Bow -->
+				<item id="102" min="1" max="1" chance="0.75" /> <!-- Round Shield -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20418" level="18" type="Monster" name="Crystalline Beast">
+		<parameters>
+			<param name="MoveAroundSocial" value="90" />
+			<param name="MoveAroundSocial1" value="90" />
+			<param name="MoveAroundSocial2" value="90" />
+		</parameters>
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<acquire exp="795" sp="24" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="467.411545623836" hpRegen="2.5" mp="174.125305126119" mpRegen="1.2" />
+			<attack physical="41.612252" magical="25.83252" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="73.95264545" magical="59.52687" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>240</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="14.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="24" min="1" max="1" chance="0.3" /> <!-- Bone Breastplate -->
+				<item id="31" min="1" max="1" chance="0.3" /> <!-- Bone Gaiters -->
+				<item id="390" min="1" max="1" chance="0.3" /> <!-- Cotton Shirt -->
+				<item id="412" min="1" max="1" chance="0.3" /> <!-- Cotton Pants -->
+				<item id="57" min="41" max="98" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20419" level="20" type="Monster" name="Akaste Succubus">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+			<skill name="HoldMagic" id="4047" level="2" /> <!-- Hold -->
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="908" sp="27" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="481" hpRegen="2.5" mp="192" mpRegen="1.2" />
+			<attack physical="48.761493" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="78.97317273" magical="63.56806" />
+			<speed>
+				<walk ground="60" />
+				<run ground="100" />
+			</speed>
+			<hitTime>840</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4047" level="2" /> <!-- Hold -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>SUCCUBUS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="20420" level="21" type="Monster" name="Akaste Succubus Turen">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<skill name="W_LongRangeDDMagic" id="4152" level="2" /> <!-- NPC HP Drain - Magic -->
+			<skill name="W_ShortRangeDDMagic" id="4160" level="2" /> <!-- NPC Aura Burn - Magic -->
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="1162" sp="35" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="565.176908752328" hpRegen="3.5" mp="205.858421480879" mpRegen="1.5" />
+			<attack physical="52.711164" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="81.57326364" magical="65.66095" />
+			<speed>
+				<walk ground="60" />
+				<run ground="100" />
+			</speed>
+			<hitTime>840</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4333" level="5" /> <!-- Dark Attack Resistance -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4152" level="2" /> <!-- NPC HP Drain - Magic -->
+			<skill id="4160" level="2" /> <!-- NPC Aura Burn - Magic -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>SUCCUBUS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="36" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="1102" min="1" max="1" chance="0.3" /> <!-- Tunic of Magic -->
+				<item id="1105" min="1" max="1" chance="0.3" /> <!-- Stockings of Magic -->
+				<item id="57" min="74" max="173" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20421" level="22" type="Monster" name="Akaste Succubus Tilfo">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="DDMagic1" id="4002" level="2" /> <!-- NPC HP Drain -->
+			<skill name="DDMagic2" id="4039" level="2" /> <!-- NPC MP Drain -->
+			<skill name="DeBuff" id="4076" level="2" /> <!-- Decrease Speed -->
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="1249" sp="38" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="600.558659217877" hpRegen="3.5" mp="218.877135882832" mpRegen="1.5" />
+			<attack physical="56.928058" magical="35.34044" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="84.23358182" magical="67.80232" />
+			<speed>
+				<walk ground="60" />
+				<run ground="100" />
+			</speed>
+			<hitTime>840</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4333" level="5" /> <!-- Dark Attack Resistance -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4002" level="2" /> <!-- NPC HP Drain -->
+			<skill id="4039" level="2" /> <!-- NPC MP Drain -->
+			<skill id="4076" level="2" /> <!-- Decrease Speed -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>SUCCUBUS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="43.2" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="273" min="1" max="1" chance="0.03" /> <!-- Compound Bow -->
+				<item id="57" min="79" max="184" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20422" level="17" type="Monster" name="Akaste Skeleton Prefect">
+		<parameters>
+			<param name="MoveAroundSocial" value="167" />
+			<param name="MoveAroundSocial1" value="167" />
+			<param name="MoveAroundSocial2" value="167" />
+			<skill name="PhysicalSpecial" id="4075" level="1" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" lhand="18" /> <!-- Long Sword / Leather Shield -->
+		<acquire exp="768" sp="24" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<attack physical="38.38769" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="71.53153636" magical="57.57804" shield="39" shieldRate="20" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4075" level="1" /> <!-- Stun -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="25" grown="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="176" min="1" max="1" chance="0.075" /> <!-- Apprentice's Staff -->
+				<item id="2501" min="1" max="1" chance="0.075" /> <!-- Bone Club -->
+				<item id="57" min="41" max="96" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20423" level="14" type="Monster" name="Akaste Skeleton Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="157" />
+			<param name="MoveAroundSocial1" value="157" />
+			<param name="MoveAroundSocial2" value="157" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="275" /> <!-- Longbow -->
+		<acquire exp="636" sp="20" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="357.541899441341" hpRegen="2.5" mp="140.764849471115" mpRegen="1.2" />
+			<attack physical="55.0378492" magical="18.6058" random="10" critical="8" accuracy="0" attackSpeed="227" reuseDelay="1500" type="BOW" range="500" distance="10" width="0" />
+			<defence physical="78.189969" magical="52.01457" />
+			<speed>
+				<walk ground="40" />
+				<run ground="140" />
+			</speed>
+			<hitTime>800</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" />
+			<height normal="27" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="271" min="1" max="1" chance="0.3" /> <!-- Hunting Bow -->
+				<item id="57" min="42" max="101" chance="70" /> <!-- Adena -->
+				<item id="17" min="10" max="30" chance="21.07" /> <!-- Wooden Arrow -->
+				<item id="1794" min="1" max="1" chance="0.3" /> <!-- Recipe: Forest Bow -->
+			</drop>
+			<spoil>
+				<item id="2386" min="1" max="1" chance="1.64" /> <!-- Wooden Gaiters -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20424" level="19" type="Monster" name="Akaste Skeleton Lord">
+		<parameters>
+			<param name="MoveAroundSocial" value="167" />
+			<param name="MoveAroundSocial1" value="167" />
+			<param name="MoveAroundSocial2" value="167" />
+			<skill name="Buff" id="4028" level="1" /> <!-- NPC Might -->
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="68" lhand="19" /> <!-- rhand: Falchion lhand: Small Shield -->
+		<acquire exp="859" sp="26" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="499.068901303538" hpRegen="2.5" mp="183.075671277461" mpRegen="1.2" />
+			<attack physical="45.066065" magical="27.97662" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="76.43307273" magical="61.52345" shield="42" shieldRate="20" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4028" level="1" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="25" grown="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="2" min="1" max="1" chance="0.03" /> <!-- Long Sword -->
+				<item id="120" min="1" max="1" chance="0.03" /> <!-- Sword of Reflection -->
+				<item id="121" min="1" max="1" chance="0.03" /> <!-- Sword of Watershadow -->
+				<item id="57" min="43" max="103" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20425" level="12" type="Monster" name="Akaste Skeleton Warrior">
+		<parameters>
+			<param name="MoveAroundSocial" value="167" />
+			<param name="MoveAroundSocial1" value="167" />
+			<param name="MoveAroundSocial2" value="167" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="946" /> <!-- Skeleton Dagger -->
+		<acquire exp="542" sp="17" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="309.124767225326" hpRegen="2.5" mp="124.491456468674" mpRegen="1.2" />
+			<attack physical="22.13370775" magical="15.70333" random="10" critical="8" accuracy="0" attackSpeed="289" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="60.2999" magical="48.53733" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="25" grown="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="66" min="1" max="1" chance="0.3" /> <!-- Gladius -->
+				<item id="1333" min="1" max="1" chance="0.3" /> <!-- Brandish -->
+				<item id="57" min="40" max="94" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="8.38" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="1661" min="1" max="1" chance="0.75" /> <!-- Thief Key -->
+			</drop>
+			<spoil>
+				<item id="1831" min="1" max="3" chance="50.61" /> <!-- Antidote -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20426" level="10" type="Monster" name="Eye of Seer">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="W_LongRangeDDMagic" id="4151" level="1" />
+			<skill name="W_ShortRangeDDMagic" id="4160" level="1" />
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="146" sp="14" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="253.258845437616" hpRegen="2" mp="108.218063466233" mpRegen="0.9" />
+			<attack physical="19.33758" magical="13.20506" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="61.82527" magical="45.24105" />
+			<speed>
+				<walk ground="90" />
+				<run ground="134" />
+			</speed>
+			<hitTime>300</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+			<skill id="4151" level="1" /> <!-- NPC Windstrike - Magic -->
+			<skill id="4160" level="1" /> <!-- NPC Aura Burn - Magic -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="21" />
+			<height normal="43" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="875" min="1" max="1" chance="0.075" /> <!-- Ring of Knowledge -->
+				<item id="113" min="1" max="1" chance="0.03" /> <!-- Mage Earring -->
+				<item id="906" min="1" max="1" chance="0.03" /> <!-- Necklace of Knowledge -->
+				<item id="57" min="3" max="8" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="0.3" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1796" min="1" max="1" chance="0.075" /> <!-- Recipe: Leather Tunic -->
+				<item id="92580" min="1" max="1" chance="0.03" /> <!-- Broadsword Blade -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20427" level="10" type="Monster" name="Evil Eye Watchman">
+		<!-- L2wiki: https://l2wiki.com/classic/Evil_Eye_Watchman -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="W_LongRangeDDMagic" id="4152" level="1" /> <!-- NPC HP Drain - Magic -->
+			<skill name="W_ShortRangeDDMagic" id="4160" level="1" /> <!-- NPC Aura Burn - Magic -->
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="292" sp="9" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="253.258845437616" hpRegen="2" mp="108.218063466233" mpRegen="0.9" />
+			<attack physical="19.33758" magical="13.20506" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="61.82527" magical="45.24105" />
+			<speed>
+				<walk ground="90" />
+				<run ground="134" />
+			</speed>
+			<hitTime>300</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="21" />
+			<height normal="43" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="254" min="1" max="1" chance="1.045" /> <!-- Iron Gloves -->
+				<item id="57" min="31" max="72" chance="70" /> <!-- Adena -->
+				<item id="1831" min="1" max="1" chance="4.792" /> <!-- Antidote -->
+				<item id="1796" min="1" max="1" chance="2.294" /> <!-- Recipe: Leather Tunic -->
+			</drop>
+			<spoil>
+				<item id="1060" min="1" max="1" chance="64.25" /> <!-- HP Replenishing Potion (Exchangeable) -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20428" level="14" type="Monster" name="Evil Eye Patrol">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="W_LongRangeDDMagic" id="4151" level="1" />
+			<skill name="W_ShortRangeDDMagic" id="4160" level="1" />
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="214" sp="19" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="357.541899441341" hpRegen="2.5" mp="140.764849471115" mpRegen="1.2" />
+			<attack physical="24.76950909" magical="18.6058" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="78.189969" magical="52.01457" />
+			<speed>
+				<walk ground="90" />
+				<run ground="134" />
+			</speed>
+			<hitTime>300</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+			<skill id="4151" level="1" /> <!-- NPC Windstrike - Magic -->
+			<skill id="4160" level="1" /> <!-- NPC Aura Burn - Magic -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="21" />
+			<height normal="43" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="876" min="1" max="1" chance="0.03" /> <!-- Ring of Anguish -->
+				<item id="114" min="1" max="1" chance="0.0075" /> <!-- Earring of Strength -->
+				<item id="115" min="1" max="1" chance="0.0075" /> <!-- Earring of Wisdom -->
+				<item id="907" min="1" max="1" chance="0.0075" /> <!-- Necklace of Anguish -->
+				<item id="57" min="4" max="11" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="92483" min="1" max="1" chance="0.0075" /> <!-- Necklace of Anguish Chain -->
+			</drop>
+			<spoil>
+				<item id="1831" min="1" max="1" chance="5.221" /> <!-- Antidote -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20429" level="14" type="Monster" name="Evil Eye Lookout">
+		<!-- L2wiki: https://l2wiki.com/classic/Evil_Eye_Lookout -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="W_LongRangeDDMagic" id="4152" level="1" /> <!-- NPC HP Drain - Magic -->
+			<skill name="W_ShortRangeDDMagic" id="4160" level="1" /> <!-- NPC Aura Burn - Magic -->
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="409" sp="13" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="357.541899441341" hpRegen="2.5" mp="140.764849471115" mpRegen="1.2" />
+			<speed>
+				<walk ground="90" />
+				<run ground="134" />
+			</speed>
+			<hitTime>300</hitTime>
+			<attack physical="24.76950909" magical="18.6058" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="78.189969" magical="52.01457" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="21" />
+			<height normal="43" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="464" min="1" max="1" chance="0.75" /> <!-- Leather Stockings -->
+				<item id="429" min="1" max="1" chance="0.3" /> <!-- Leather Tunic -->
+				<item id="57" min="34" max="80" chance="70" /> <!-- Adena -->
+				<item id="1799" min="1" max="1" chance="3.37" /> <!-- Recipe: Leather Gloves -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20431" level="20" type="Monster" name="Elf Ghost">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="DDMagic" id="4002" level="2" /> <!-- NPC HP Drain -->
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="908" sp="27" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="481" hpRegen="2.5" mp="192" mpRegen="1.2" />
+			<attack physical="40.29875455" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="95.557539" magical="63.56806" />
+			<speed>
+				<walk ground="80" />
+				<run ground="140" />
+			</speed>
+			<hitTime>410</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4002" level="2" /> <!-- NPC HP Drain -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="7" />
+			<height normal="21" />
+		</collision>
+	</npc>
+	<npc id="20432" level="1" type="Monster" name="Elpy">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="68" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="60.5214152700186" hpRegen="2" mp="39.8698128559805" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="32.52252" />
+			<speed>
+				<walk ground="50" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="5" />
+			<height normal="4.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="11" min="1" max="1" chance="0.03" /> <!-- Bone Dagger -->
+				<item id="57" min="1" max="1" chance="70" /> <!-- Adena -->
+				<item id="17" min="10" max="30" chance="0.075" /> <!-- Wooden Arrow -->
+				<item id="92908" min="1" max="1" chance="0.03" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.003" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.003" /> <!-- Material: Rags -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20433" level="13" type="Monster" name="Festering Bat">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<param name="HalfAggressive" value="2" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="195" sp="18" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="332.402234636871" hpRegen="2.5" mp="132.628152969894" mpRegen="1.2" />
+			<attack physical="27.546981" magical="17.10092" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="62.43143636" magical="50.25308" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<hitTime>500</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="33.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="464" min="1" max="1" chance="0.0075" /> <!-- Leather Stockings -->
+				<item id="429" min="1" max="1" chance="0.003" /> <!-- Leather Tunic -->
+				<item id="57" min="4" max="10" chance="70" /> <!-- Adena -->
+				<item id="17" min="10" max="30" chance="0.3" /> <!-- Wooden Arrow -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="1803" min="1" max="1" chance="0.0075" /> <!-- Recipe: Necklace of Wisdom -->
+				<item id="92510" min="1" max="1" chance="0.0075" /> <!-- Leather Stocking Pattern -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+				<item id="92509" min="1" max="1" chance="0.003" /> <!-- Leather Tunic Pattern -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20435" level="15" type="Monster" name="Opal Beast">
+		<parameters>
+			<param name="MoveAroundSocial" value="90" />
+			<param name="MoveAroundSocial1" value="90" />
+			<param name="MoveAroundSocial2" value="90" />
+		</parameters>
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<acquire exp="677" sp="21" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>240</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true" />
+		<collision>
+			<radius normal="14" />
+			<height normal="14.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="216" min="1" max="1" chance="0.3" /> <!-- Dirk -->
+				<item id="57" min="44" max="104" chance="70" /> <!-- Adena -->
+				<item id="1794" min="1" max="1" chance="0.3" /> <!-- Recipe: Forest Bow -->
+			</drop>
+			<spoil>
+				<item id="1833" min="1" max="1" chance="74.32" /> <!-- Bandage -->
+				<item id="1793" min="1" max="1" chance="2.091" /> <!-- Recipe: Sword of Reflection -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20436" level="23" type="Monster" name="Ol Mahum Supplier">
+		<parameters>
+			<param name="MoveAroundSocial" value="130" />
+			<param name="MoveAroundSocial1" value="130" />
+			<param name="MoveAroundSocial2" value="130" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" lhand="19" /> <!-- Long Sword / Small Shield -->
+		<acquire exp="1299" sp="39" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="636.871508379888" hpRegen="3.5" mp="231.895850284784" mpRegen="1.5" />
+			<attack physical="50.76477273" magical="38.13234" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="105.214736" magical="69.99234" shield="48" shieldRate="20" />
+			<speed>
+				<walk ground="50" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>OL_MAHUM</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="14" />
+			<height normal="29.2" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="16" min="1" max="1" chance="0.075" /> <!-- Great Spear -->
+				<item id="57" min="76" max="176" chance="70" /> <!-- Adena -->
+				<item id="2258" min="1" max="1" chance="0.3" /> <!-- Recipe: Temptation of Abyss -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20437" level="21" type="Monster" name="Ol Mahum Recruit">
+		<parameters>
+			<param name="MoveAroundSocial" value="130" />
+			<param name="MoveAroundSocial1" value="130" />
+			<param name="MoveAroundSocial2" value="130" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="68" lhand="19" /> <!-- Falchion / Small Shield -->
+		<acquire exp="429" sp="34" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="565.176908752328" hpRegen="3.5" mp="205.858421480879" mpRegen="1.5" />
+			<attack physical="43.56294545" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="98.703649" magical="65.66095" shield="45" shieldRate="20" />
+			<speed>
+				<walk ground="50" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<collision>
+			<radius normal="13.5" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="39" min="1" max="1" chance="0.003" /> <!-- Boots -->
+				<item id="51" min="1" max="1" chance="0.003" /> <!-- Bracer -->
+				<item id="57" min="5" max="13" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="2177" min="1" max="1" chance="0.003" /> <!-- Recipe: Bone Helmet -->
+				<item id="92517" min="1" max="1" chance="0.003" /> <!-- Boot Lining -->
+				<item id="92914" min="1" max="1" chance="0.0009" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="2258" min="1" max="1" chance="0.003" /> <!-- Recipe: Temptation of Abyss -->
+				<item id="92591" min="1" max="1" chance="0.003" /> <!-- Compound Bow Shaft -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20438" level="26" type="Monster" name="Ol Mahum General">
+		<parameters>
+			<param name="MoveAroundSocial" value="90" />
+			<param name="MoveAroundSocial1" value="90" />
+			<param name="MoveAroundSocial2" value="90" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="67" lhand="102" /> <!-- Orcish Sword / Round Shield -->
+		<acquire exp="601" sp="88" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="756.052141527002" hpRegen="3.5" mp="273.393002441009" mpRegen="1.5" />
+			<attack physical="69.75926" magical="47.63653" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="105.02818" magical="76.85506" shield="53" shieldRate="20" />
+			<speed>
+				<walk ground="50" />
+				<run ground="110" />
+			</speed>
+			<hitTime>630</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>OL_MAHUM</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="14" grown="16" />
+			<height normal="27" grown="32" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="291" min="1" max="1" chance="0.0009" /> <!-- Trident -->
+				<item id="57" min="6" max="14" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="956" min="1" max="1" chance="0.003" /> <!-- Scroll: Enchant D-grade Armor (Exchangeable) -->
+				<item id="92594" min="1" max="1" chance="0.0009" /> <!-- Trident Edge -->
+				<item id="92914" min="1" max="1" chance="0.0009" /> <!-- Material: Sack Shreds -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20439" level="24" type="Monster" name="Ol Mahum Sergeant">
+		<parameters>
+			<param name="MoveAroundSocial" value="130" />
+			<param name="MoveAroundSocial1" value="130" />
+			<param name="MoveAroundSocial2" value="130" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="66" /> <!-- Gladius -->
+		<acquire exp="525" sp="78" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="675.046554934823" hpRegen="3.5" mp="245.728234336859" mpRegen="1.5" />
+			<attack physical="60.19687" magical="41.10666" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="98.70919" magical="72.2311" />
+			<speed>
+				<walk ground="50" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<collision>
+			<radius normal="13.5" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="32" min="1" max="1" chance="0.003" /> <!-- Piece Bone Gaiters -->
+				<item id="25" min="1" max="1" chance="0.0009" /> <!-- Piece Bone Breastplate -->
+				<item id="26" min="1" max="1" chance="0.0009" /> <!-- Bronze Breastplate -->
+				<item id="34" min="1" max="1" chance="0.0009" /> <!-- Bronze Gaiters -->
+				<item id="57" min="6" max="14" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="2176" min="1" max="1" chance="0.003" /> <!-- Recipe: Leather Boots -->
+				<item id="92515" min="1" max="1" chance="0.003" /> <!-- Piece Bone Gaiter Fragment -->
+				<item id="92513" min="1" max="1" chance="0.0009" /> <!-- Piece Bone Breastplate Fragment -->
+				<item id="92914" min="1" max="1" chance="0.0009" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="2255" min="1" max="1" chance="0.003" /> <!-- Recipe: Saber -->
+				<item id="92590" min="1" max="1" chance="0.003" /> <!-- Sword Breaker Edge -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20440" level="3" type="Monster" name="Elder Brown Fox">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="132" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="80" hpRegen="2" mp="54" mpRegen="0.9" />
+			<attack physical="11.269412" magical="6.99595" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="43.56047273" magical="35.06323" />
+			<speed>
+				<walk ground="18" />
+				<run ground="110" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="9.5" />
+			<height normal="10" />
+		</collision>
+	</npc>
+	<npc id="20441" level="3" type="Monster" name="Elder Longtail Fox">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="132" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="80" hpRegen="2" mp="54" mpRegen="0.9" />
+			<attack physical="11.269412" magical="6.99595" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="43.56047273" magical="35.06323" />
+			<speed>
+				<walk ground="18" />
+				<run ground="110" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="9.5" />
+			<height normal="10" />
+		</collision>
+	</npc>
+	<npc id="20442" level="5" type="Monster" name="Elder Wolf">
+		<parameters>
+			<param name="MoveAroundSocial" value="60" />
+			<param name="MoveAroundSocial1" value="60" />
+			<param name="MoveAroundSocial2" value="60" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="91" sp="7" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="123.836126629423" hpRegen="2" mp="69.1619202603743" mpRegen="0.9" />
+			<attack physical="12.34006" magical="8.42666" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="51.60553" magical="37.76269" />
+			<speed>
+				<walk ground="24" />
+				<run ground="110" />
+			</speed>
+			<hitTime>390</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="4" min="1" max="1" chance="0.03" /> <!-- Club -->
+				<item id="7" min="1" max="1" chance="0.03" /> <!-- Apprentice's Rod -->
+				<item id="57" min="1" max="3" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="0.075" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="92908" min="1" max="1" chance="0.03" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.0075" /> <!-- Material: Pack of Knickknacks -->
+				<item id="1787" min="1" max="1" chance="0.003" /> <!-- Recipe: Willow Staff -->
+				<item id="92910" min="1" max="1" chance="0.003" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1786" min="1" max="1" chance="0.03" /> <!-- Recipe: Broadsword (100%) -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20443" level="3" type="Monster" name="Elder Red Fox">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="132" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="80" hpRegen="2" mp="54" mpRegen="0.9" />
+			<attack physical="11.269412" magical="6.99595" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="43.56047273" magical="35.06323" />
+			<speed>
+				<walk ground="18" />
+				<run ground="110" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="9.5" />
+			<height normal="10" />
+		</collision>
+	</npc>
+	<npc id="20444" level="3" type="Monster" name="Elder Prairie Fox">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="132" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="80" hpRegen="2" mp="54" mpRegen="0.9" />
+			<attack physical="11.269412" magical="6.99595" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="43.56047273" magical="35.06323" />
+			<speed>
+				<walk ground="18" />
+				<run ground="110" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="9.5" />
+			<height normal="10" />
+		</collision>
+	</npc>
+	<npc id="20445" level="7" type="Monster" name="Uthanka Pirate">
+		<parameters>
+			<param name="MoveAroundSocial" value="138" />
+			<param name="MoveAroundSocial1" value="138" />
+			<param name="MoveAroundSocial2" value="138" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="3" /> <!-- rhand: Broadsword -->
+		<acquire exp="230" sp="5" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="152" hpRegen="1" mp="84" mpRegen="0.9" />
+			<attack physical="17.9195676" magical="10.11301" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="45.88342149" magical="40.62635" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>480</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="9" /> <!-- HP Increase (1/2x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="9" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="9" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>0.5</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="21" />
+		</collision>
+	</npc>
+	<npc id="20446" level="6" type="Monster" name="Utuku Orc">
+		<parameters>
+			<param name="MoveAroundSocial" value="138" />
+			<param name="MoveAroundSocial1" value="138" />
+			<param name="MoveAroundSocial2" value="138" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="156" /> <!-- Hand Axe -->
+		<acquire exp="101" sp="8" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="144.320297951583" hpRegen="2" mp="77.2986167615948" mpRegen="0.9" />
+			<attack physical="13.52471" magical="9.23562" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="53.53373" magical="39.17366" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>480</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="22" min="1" max="1" chance="0.03" /> <!-- Leather Shirt -->
+				<item id="29" min="1" max="1" chance="0.03" /> <!-- Leather Pants -->
+				<item id="57" min="2" max="5" chance="70" /> <!-- Adena -->
+				<item id="1833" min="1" max="1" chance="0.3" /> <!-- Bandage -->
+				<item id="92908" min="1" max="1" chance="0.03" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.0075" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.003" /> <!-- Material: Rags -->
+				<item id="1790" min="1" max="1" chance="0.0009" /> <!-- Recipe: Dirk -->
+			</drop>
+			<spoil>
+				<item id="92582" min="1" max="1" chance="0.03" /> <!-- Bow Shaft -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20447" level="8" type="Monster" name="Utuku Orc Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="104" />
+			<param name="MoveAroundSocial1" value="104" />
+			<param name="MoveAroundSocial2" value="104" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="14" /> <!-- Bow -->
+		<acquire exp="120" sp="11" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="192.737430167598" hpRegen="2" mp="91.9446704637917" mpRegen="0.9" />
+			<attack physical="16.20165" magical="11.06363" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="57.56203" magical="42.1214" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>800</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="14" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="14" min="1" max="1" chance="0.003" /> <!-- Bow -->
+				<item id="57" min="3" max="7" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="92582" min="1" max="1" chance="0.003" /> <!-- Bow Shaft -->
+			</drop>
+			<spoil>
+				<item id="1797" min="1" max="1" chance="0.3" /> <!-- Recipe: Leather Stockings -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20448" level="7" type="Monster" name="Utuku Orc Soldier">
+		<parameters>
+			<param name="MoveAroundSocial" value="138" />
+			<param name="MoveAroundSocial1" value="138" />
+			<param name="MoveAroundSocial2" value="138" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="3" /> <!-- Broadsword -->
+		<acquire exp="111" sp="10" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="167.597765363128" hpRegen="2" mp="84.6216436126932" mpRegen="0.9" />
+			<attack physical="14.80956" magical="10.11301" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="55.51894" magical="40.62635" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>480</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="19" min="1" max="1" chance="0.075" /> <!-- Small Shield -->
+				<item id="42" min="1" max="1" chance="0.03" /> <!-- Leather Cap -->
+				<item id="57" min="2" max="6" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="0.3" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1060" min="1" max="1" chance="1.234" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="92580" min="1" max="1" chance="0.0075" /> <!-- Broadsword Blade -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20449" level="15" type="Monster" name="Will-O-Wisp">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="SelfRangeDDMagic" id="4033" level="1" />
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="677" sp="21" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+			<speed>
+				<walk ground="25" />
+				<run ground="140" />
+			</speed>
+			<hitTime>100</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4033" level="1" /> <!-- NPC Burn -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="13" />
+			<height normal="22" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="429" min="1" max="1" chance="0.75" /> <!-- Leather Tunic -->
+				<item id="464" min="1" max="1" chance="0.75" /> <!-- Leather Stockings -->
+				<item id="57" min="44" max="104" chance="70" /> <!-- Adena -->
+				<item id="1791" min="1" max="1" chance="0.75" /> <!-- Recipe: Brandish -->
+			</drop>
+			<spoil>
+				<item id="115" min="1" max="1" chance="2.435" /> <!-- Earring of Wisdom -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20450" level="9" type="Monster" name="Relic Werewolf">
+		<parameters>
+			<param name="MoveAroundSocial" value="72" />
+			<param name="MoveAroundSocial1" value="72" />
+			<param name="MoveAroundSocial2" value="72" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="407" sp="13" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="222.532588454376" hpRegen="2" mp="100.081366965012" mpRegen="0.9" />
+			<attack physical="19.479251" magical="12.09255" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="54.23988182" magical="43.65943" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>430</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>WEREWOLF</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="26" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5" min="1" max="1" chance="0.3" /> <!-- Mace -->
+				<item id="8" min="1" max="1" chance="0.3" /> <!-- Willow Staff -->
+				<item id="152" min="1" max="1" chance="0.3" /> <!-- Heavy Chisel -->
+				<item id="57" min="32" max="75" chance="70" /> <!-- Adena -->
+				<item id="1833" min="1" max="1" chance="5.746" /> <!-- Bandage -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20451" level="21" type="Monster" name="Relic Spartoi">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="68" /> <!-- rhand: Falchion -->
+		<acquire exp="2107" sp="64" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="564.711359404097" hpRegen="3.5" mp="205.858421480879" mpRegen="1.5" />
+			<attack physical="43.56294545" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="98.703649" magical="65.66095" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="27" grown="34" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="68" min="1" max="1" chance="0.3" /> <!-- Falchion -->
+				<item id="57" min="131" max="307" chance="70" /> <!-- Adena -->
+				<item id="2151" min="1" max="1" chance="2.568" /> <!-- Recipe: Necklace of Devotion -->
+			</drop>
+			<spoil>
+				<item id="26" min="1" max="1" chance="0.3" /> <!-- Bronze Breastplate -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20453" level="20" type="Monster" name="Human Ghost">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="DDMagic" id="4002" level="2" /> <!-- NPC HP Drain -->
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="908" sp="27" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="481" hpRegen="2.5" mp="192" mpRegen="1.2" />
+			<attack physical="40.29875455" magical="30.2707" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="95.557539" magical="63.56806" />
+			<speed>
+				<walk ground="80" />
+				<run ground="140" />
+			</speed>
+			<hitTime>390</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4002" level="2" /> <!-- NPC HP Drain -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>GHOST</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="8" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="20454" level="17" type="Monster" name="Forgotten Watchman">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="220" sp="7" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="437.616387337058" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<attack physical="42.226459" magical="23.83074" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="65.02866942" magical="57.57804" />
+			<speed>
+				<walk ground="90" />
+				<run ground="90" />
+			</speed>
+			<hitTime>300</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+			<skill id="4408" level="9" /> <!-- HP Increase (1/ 2x) -->
+			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
+			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="9" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="9" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>0.5</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="21" />
+			<height normal="43" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="1101" min="1" max="1" chance="0.3" /> <!-- Tunic of Devotion -->
+				<item id="1104" min="1" max="1" chance="0.3" /> <!-- Stockings of Devotion -->
+				<item id="57" min="14" max="33" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="1.822" /> <!-- HP Replenishing Potion (Exchangeable) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20455" level="14" type="Monster" name="Doom Soldier">
+		<parameters>
+			<param name="MoveAroundSocial" value="167" />
+			<param name="MoveAroundSocial1" value="167" />
+			<param name="MoveAroundSocial2" value="167" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="946" /> <!-- rhand: Skeleton Dagger -->
+		<acquire exp="632" sp="19" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="357.541899441341" hpRegen="2.5" mp="140.764849471115" mpRegen="1.2" />
+			<attack physical="26.22471775" magical="18.6058" random="10" critical="8" accuracy="0" attackSpeed="289" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="64.61980909" magical="52.01457" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="25" grown="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="20" min="1" max="1" chance="3.222" /> <!-- Buckler -->
+				<item id="43" min="1" max="1" chance="2.245" /> <!-- Wooden Helmet -->
+				<item id="57" min="42" max="100" chance="70" /> <!-- Adena -->
+				<item id="1803" min="1" max="1" chance="2.444" /> <!-- Recipe: Necklace of Wisdom -->
+			</drop>
+			<spoil>
+				<item id="1794" min="1" max="1" chance="3.042" /> <!-- Recipe: Forest Bow -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20456" level="4" type="Monster" name="Ashen Wolf">
+		<parameters>
+			<param name="MoveAroundSocial" value="60" />
+			<param name="MoveAroundSocial1" value="60" />
+			<param name="MoveAroundSocial2" value="60" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="82" sp="6" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="104.283054003724" hpRegen="2" mp="61.8388934092758" mpRegen="0.9" />
+			<attack physical="11.24892" magical="7.68155" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="49.73343" magical="36.39277" />
+			<speed>
+				<walk ground="24" />
+				<run ground="110" />
+			</speed>
+			<hitTime>390</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="308" min="1" max="1" chance="0.03" /> <!-- Buffalo's Horn -->
+				<item id="57" min="1" max="2" chance="70" /> <!-- Adena -->
+				<item id="17" min="10" max="30" chance="0.3" /> <!-- Wooden Arrow -->
+				<item id="92908" min="1" max="1" chance="0.03" /> <!-- Material: Lump of Wood -->
+				<item id="1787" min="1" max="1" chance="0.003" /> <!-- Recipe: Willow Staff -->
+				<item id="92909" min="1" max="1" chance="0.003" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.003" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1788" min="1" max="1" chance="0.03" /> <!-- Recipe: Bow -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20457" level="19" type="Monster" name="Zombie Soldier">
+		<parameters>
+			<param name="MoveAroundSocial" value="120" />
+			<param name="MoveAroundSocial1" value="120" />
+			<param name="MoveAroundSocial2" value="120" />
+			<skill name="DDMagicSlow" id="4253" level="1" /> <!-- NPC Blaze - Slow -->
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="970" sp="30" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="499.068901303538" hpRegen="2.5" mp="183.075671277461" mpRegen="1.2" />
+			<attack physical="45.066065" magical="27.97662" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="76.43307273" magical="61.52345" />
+			<speed>
+				<walk ground="15" />
+				<run ground="15" />
+			</speed>
+			<hitTime>430</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4071" level="5" /> <!-- Bow Resistance -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4284" level="5" /> <!-- Bleed Resistance -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="18" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4253" level="1" /> <!-- NPC Blaze - Slow -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="13" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="15" min="1" max="1" chance="0.075" /> <!-- Short Spear -->
+				<item id="57" min="50" max="119" chance="70" /> <!-- Adena -->
+				<item id="1831" min="1" max="1" chance="9.104" /> <!-- Antidote -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20458" level="22" type="Monster" name="Zombie Warrior">
+		<parameters>
+			<param name="MoveAroundSocial" value="120" />
+			<param name="MoveAroundSocial1" value="120" />
+			<param name="MoveAroundSocial2" value="120" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+			<skill name="DDMagicSlow" id="4247" level="4" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="1410" sp="43" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="600.558659217877" hpRegen="3.5" mp="218.877135882832" mpRegen="1.5" />
+			<attack physical="56.928058" magical="35.34044" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="84.23358182" magical="67.80232" />
+			<speed>
+				<walk ground="15" />
+				<run ground="15" />
+			</speed>
+			<hitTime>430</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4071" level="5" /> <!-- Bow Resistance -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4284" level="5" /> <!-- Bleed Resistance -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="18" /> <!-- Extremely Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="4247" level="2" /> <!-- NPC Windstrike - Slow -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" />
+			<height normal="27.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="846" min="1" max="1" chance="0.3" /> <!-- Coral Earring -->
+				<item id="878" min="1" max="1" chance="0.3" /> <!-- Blue Coral Ring -->
+				<item id="909" min="1" max="1" chance="0.3" /> <!-- Blue Diamond Necklace -->
+				<item id="57" min="91" max="213" chance="70" /> <!-- Adena -->
+				<item id="1831" min="1" max="1" chance="8.27" /> <!-- Antidote -->
+				<item id="2178" min="1" max="1" chance="0.3" /> <!-- Recipe: Dark Stockings -->
+			</drop>
+			<spoil>
+				<item id="2176" min="1" max="1" chance="35.56" /> <!-- Recipe: Leather Boots -->
+				<item id="2256" min="1" max="1" chance="1.7235" /> <!-- Recipe: Assassin Knife -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20460" level="15" type="Monster" name="Crimson Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="236" sp="20" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="66" min="1" max="1" chance="0.0009" /> <!-- Gladius -->
+				<item id="67" min="1" max="1" chance="0.0009" /> <!-- Orcish Sword -->
+				<item id="1333" min="1" max="1" chance="0.0009" /> <!-- Brandish -->
+				<item id="57" min="4" max="11" chance="70" /> <!-- Adena -->
+				<item id="1833" min="1" max="1" chance="0.3" /> <!-- Bandage -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+				<item id="1794" min="1" max="1" chance="0.0009" /> <!-- Recipe: Forest Bow -->
+				<item id="92585" min="1" max="1" chance="0.0009" /> <!-- Brandish Blade -->
+			</drop>
+			<spoil>
+				<item id="1833" min="1" max="1" chance="5.252" /> <!-- Bandage -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20461" level="15" type="Monster" name="Dungeon Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="677" sp="21" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="32.578601" magical="20.22451" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="66" min="1" max="1" chance="0.3" /> <!-- Gladius -->
+				<item id="1333" min="1" max="1" chance="0.3" /> <!-- Brandish -->
+				<item id="57" min="44" max="104" chance="70" /> <!-- Adena -->
+				<item id="1798" min="1" max="1" chance="2.901" /> <!-- Recipe: Leather Helmet -->
+			</drop>
+			<spoil>
+				<item id="1803" min="1" max="1" chance="35.71" /> <!-- Recipe: Necklace of Wisdom -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20462" level="17" type="Monster" name="Cave Blade Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="768" sp="24" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<attack physical="38.38769" magical="23.83074" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="71.53153636" magical="57.57804" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="256" min="1" max="1" chance="0.3" /> <!-- Cestus -->
+				<item id="57" min="41" max="96" chance="70" /> <!-- Adena -->
+				<item id="1800" min="1" max="1" chance="0.75" /> <!-- Recipe: Piece Bone Breastplate -->
+			</drop>
+			<spoil>
+				<item id="1800" min="1" max="1" chance="8.233" /> <!-- Recipe: Piece Bone Breastplate -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20463" level="13" type="Monster" name="Dungeon Skeleton Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="157" />
+			<param name="MoveAroundSocial1" value="157" />
+			<param name="MoveAroundSocial2" value="157" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="275" /> <!-- Longbow -->
+		<acquire exp="590" sp="18" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="332.402234636871" hpRegen="2.5" mp="132.628152969894" mpRegen="1.2" />
+			<attack physical="50.5862742" magical="17.10092" random="10" critical="8" accuracy="0" attackSpeed="227" reuseDelay="1500" type="BOW" range="500" distance="10" width="0" />
+			<defence physical="75.542038" magical="50.25308" />
+			<speed>
+				<walk ground="40" />
+				<run ground="140" />
+			</speed>
+			<hitTime>800</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" />
+			<height normal="27" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="271" min="1" max="1" chance="0.3" /> <!-- Hunting Bow -->
+				<item id="57" min="41" max="97" chance="70" /> <!-- Adena -->
+				<item id="17" min="10" max="30" chance="14.17" /> <!-- Wooden Arrow -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20464" level="12" type="Monster" name="Dungeon Skeleton Soldier">
+		<parameters>
+			<param name="MoveAroundSocial" value="167" />
+			<param name="MoveAroundSocial1" value="167" />
+			<param name="MoveAroundSocial2" value="167" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="946" /> <!-- Skeleton Dagger -->
+		<acquire exp="542" sp="17" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="309.124767225326" hpRegen="2.5" mp="124.491456468674" mpRegen="1.2" />
+			<attack physical="22.13370775" magical="15.70333" random="10" critical="8" accuracy="0" attackSpeed="289" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="60.2999" magical="48.53733" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>SKELETON</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="25" grown="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="9" min="1" max="1" chance="0.3" /> <!-- Cedar Staff -->
+				<item id="154" min="1" max="1" chance="0.3" /> <!-- Dwarven Mace -->
+				<item id="57" min="40" max="94" chance="70" /> <!-- Adena -->
+				<item id="1794" min="1" max="1" chance="0.3" /> <!-- Recipe: Forest Bow -->
+			</drop>
+			<spoil>
+				<item id="464" min="1" max="1" chance="3.064" /> <!-- Leather Stockings -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20465" level="2" type="Monster" name="Prairie Fox">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="88" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="67" hpRegen="2" mp="47" mpRegen="0.9" />
+			<attack physical="10.254233" magical="6.36574" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="41.95804545" magical="33.77338" />
+			<speed>
+				<walk ground="18" />
+				<run ground="110" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="9.5" />
+			<height normal="10" />
+		</collision>
+	</npc>
+	<npc id="20466" level="17" type="Monster" name="Pincer Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="285" sp="23" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<attack physical="38.38769" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="71.53153636" magical="57.57804" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="24" min="1" max="1" chance="0.003" /> <!-- Bone Breastplate -->
+				<item id="31" min="1" max="1" chance="0.003" /> <!-- Bone Gaiters -->
+				<item id="390" min="1" max="1" chance="0.003" /> <!-- Cotton Shirt -->
+				<item id="412" min="1" max="1" chance="0.003" /> <!-- Cotton Pants -->
+				<item id="57" min="5" max="12" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="92484" min="1" max="1" chance="0.03" /> <!-- Necklace of Wisdom Chain -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20468" level="6" type="Monster" name="Kaboo Orc">
+		<parameters>
+			<param name="MoveAroundSocial" value="138" />
+			<param name="MoveAroundSocial1" value="138" />
+			<param name="MoveAroundSocial2" value="138" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="156" /> <!-- Hand Axe -->
+		<acquire exp="101" sp="8" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="144.320297951583" hpRegen="2" mp="77.2986167615948" mpRegen="0.9" />
+			<attack physical="13.52471" magical="9.23562" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="53.53373" magical="39.17366" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>480</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="99" min="1" max="1" chance="0.0075" /> <!-- Apprentice's Spellbook -->
+				<item id="57" min="2" max="5" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1790" min="1" max="1" chance="0.03" /> <!-- Recipe: Dirk -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20469" level="8" type="Monster" name="Kaboo Orc Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="104" />
+			<param name="MoveAroundSocial1" value="104" />
+			<param name="MoveAroundSocial2" value="104" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="14" /> <!-- Bow -->
+		<acquire exp="120" sp="11" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="192.737430167598" hpRegen="2" mp="91.9446704637917" mpRegen="0.9" />
+			<attack physical="16.20165" magical="11.06363" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="57.56203" magical="42.1214" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>800</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="14" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="14" min="1" max="1" chance="0.003" /> <!-- Bow -->
+				<item id="57" min="3" max="7" chance="70" /> <!-- Adena -->
+				<item id="17" min="10" max="30" chance="0.3" /> <!-- Wooden Arrow -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+				<item id="92582" min="1" max="1" chance="0.003" /> <!-- Bow Shaft -->
+			</drop>
+			<spoil>
+				<item id="92582" min="1" max="1" chance="0.03" /> <!-- Bow Shaft -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20470" level="7" type="Monster" name="Kaboo Orc Soldier">
+		<parameters>
+			<param name="MoveAroundSocial" value="138" />
+			<param name="MoveAroundSocial1" value="138" />
+			<param name="MoveAroundSocial2" value="138" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="3" /> <!-- Broadsword -->
+		<acquire exp="111" sp="10" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="167.597765363128" hpRegen="2" mp="84.6216436126932" mpRegen="0.9" />
+			<attack physical="14.80956" magical="10.11301" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="55.51894" magical="40.62635" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>480</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="19" min="1" max="1" chance="0.075" /> <!-- Small Shield -->
+				<item id="42" min="1" max="1" chance="0.03" /> <!-- Leather Cap -->
+				<item id="57" min="2" max="6" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="1802" min="1" max="1" chance="0.03" /> <!-- Recipe: Necklace of Anguish -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1060" min="1" max="1" chance="1.286" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="1791" min="1" max="1" chance="0.0075" /> <!-- Recipe: Brandish -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20471" level="10" type="Monster" name="Kaboo Orc Warrior">
+		<parameters>
+			<param name="MoveAroundSocial" value="75" />
+			<param name="MoveAroundSocial1" value="75" />
+			<param name="MoveAroundSocial2" value="75" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" /> <!-- Long Sword -->
+		<acquire exp="146" sp="14" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="253.258845437616" hpRegen="2" mp="108.218063466233" mpRegen="0.9" />
+			<attack physical="19.33758" magical="13.20506" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="61.82527" magical="45.24105" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" grown="14" />
+			<height normal="22" grown="26.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="3" min="1" max="1" chance="0.003" /> <!-- Broadsword -->
+				<item id="57" min="3" max="8" chance="70" /> <!-- Adena -->
+				<item id="1833" min="1" max="1" chance="0.3" /> <!-- Bandage -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="1795" min="1" max="1" chance="0.03" /> <!-- Recipe: Leather Shoes -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+				<item id="92580" min="1" max="1" chance="0.003" /> <!-- Broadsword Blade -->
+			</drop>
+			<spoil>
+				<item id="1797" min="1" max="1" chance="0.3" /> <!-- Recipe: Leather Stockings -->
+				<item id="428" min="1" max="1" chance="0.075" /> <!-- Feriotic Tunic -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20472" level="12" type="Monster" name="Kaboo Orc Warrior Captain">
+		<parameters>
+			<param name="MoveAroundSocial" value="75" />
+			<param name="MoveAroundSocial1" value="75" />
+			<param name="MoveAroundSocial2" value="75" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" /> <!-- Long Sword -->
+		<acquire exp="177" sp="16" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="309.124767225326" hpRegen="2.5" mp="124.491456468674" mpRegen="1.2" />
+			<attack physical="20.90550909" magical="15.70333" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="72.962879" magical="48.53733" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" grown="14" />
+			<height normal="22" grown="26.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="66" min="1" max="1" chance="0.0009" /> <!-- Gladius -->
+				<item id="1333" min="1" max="1" chance="0.0009" /> <!-- Brandish -->
+				<item id="57" min="4" max="10" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="0.3" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="1798" min="1" max="1" chance="0.0075" /> <!-- Recipe: Leather Helmet -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+				<item id="92585" min="1" max="1" chance="0.0009" /> <!-- Brandish Blade -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="20473" level="11" type="Monster" name="Kaboo Orc Warrior Lieutenant">
+		<parameters>
+			<param name="MoveAroundSocial" value="75" />
+			<param name="MoveAroundSocial1" value="75" />
+			<param name="MoveAroundSocial2" value="75" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" /> <!-- Long Sword -->
+		<acquire exp="161" sp="15" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="286.778398510242" hpRegen="2.5" mp="116.354759967453" mpRegen="1.2" />
+			<attack physical="19.17936364" magical="14.40672" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="70.451722" magical="46.86683" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" grown="14" />
+			<height normal="22" grown="26.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="9" min="1" max="1" chance="0.0009" /> <!-- Cedar Staff -->
+				<item id="154" min="1" max="1" chance="0.0009" /> <!-- Dwarven Mace -->
+				<item id="57" min="4" max="9" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="1792" min="1" max="1" chance="0.0009" /> <!-- Recipe: Short Spear -->
+				<item id="92583" min="1" max="1" chance="0.0009" /> <!-- Cedar Staff Head -->
+			</drop>
+			<spoil>
+				<item id="23" min="1" max="1" chance="0.03" /> <!-- Wooden Breastplate -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20474" level="15" type="Monster" name="Kasha Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="236" sp="20" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="216" min="1" max="1" chance="0.003" /> <!-- Dirk -->
+				<item id="57" min="4" max="11" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="92584" min="1" max="1" chance="0.003" /> <!-- Dirk Blade -->
+				<item id="1792" min="1" max="1" chance="0.0009" /> <!-- Recipe: Short Spear -->
+			</drop>
+			<spoil>
+				<item id="1799" min="1" max="1" chance="0.3" /> <!-- Recipe: Leather Gloves -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20475" level="4" type="Monster" name="Kasha Wolf">
+		<parameters>
+			<param name="MoveAroundSocial" value="60" />
+			<param name="MoveAroundSocial1" value="60" />
+			<param name="MoveAroundSocial2" value="60" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="82" sp="6" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="104.283054003724" hpRegen="2" mp="61.8388934092758" mpRegen="0.9" />
+			<attack physical="11.24892" magical="7.68155" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="49.73343" magical="36.39277" />
+			<speed>
+				<walk ground="24" />
+				<run ground="110" />
+			</speed>
+			<hitTime>390</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450" />
+		<collision>
+			<radius normal="13" />
+			<height normal="9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="253" min="1" max="1" chance="0.03" /> <!-- Spiked Gloves -->
+				<item id="57" min="1" max="2" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.03" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.0075" /> <!-- Material: Pack of Knickknacks -->
+				<item id="1786" min="1" max="1" chance="0.003" /> <!-- Recipe: Broadsword (100%) -->
+				<item id="92910" min="1" max="1" chance="0.003" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="426" min="1" max="1" chance="0.75" /> <!-- Tunic -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20476" level="16" type="Monster" name="Kasha Fang Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="259" sp="22" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="408.752327746741" hpRegen="2.5" mp="157.038242473556" mpRegen="1.2" />
+			<attack physical="35.380356" magical="21.96382" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="69.16934545" magical="55.67663" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="2" min="1" max="1" chance="0.0009" /> <!-- Long Sword -->
+				<item id="120" min="1" max="1" chance="0.0009" /> <!-- Sword of Reflection -->
+				<item id="121" min="1" max="1" chance="0.0009" /> <!-- Sword of Watershadow -->
+				<item id="57" min="5" max="11" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+				<item id="1801" min="1" max="1" chance="0.0075" /> <!-- Recipe: Piece Bone Gaiters -->
+				<item id="92587" min="1" max="1" chance="0.0009" /> <!-- Sword of Reflection Blade -->
+			</drop>
+			<spoil>
+				<item id="945" min="1" max="1" chance="0.3" /> <!-- Skeleton Buckler -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20477" level="6" type="Monster" name="Kasha Forest Wolf">
+		<parameters>
+			<param name="MoveAroundSocial" value="60" />
+			<param name="MoveAroundSocial1" value="60" />
+			<param name="MoveAroundSocial2" value="60" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="101" sp="8" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="144.320297951583" hpRegen="2" mp="77.2986167615948" mpRegen="0.9" />
+			<attack physical="13.52471" magical="9.23562" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="53.53373" magical="39.17366" />
+			<speed>
+				<walk ground="24" />
+				<run ground="110" />
+			</speed>
+			<hitTime>390</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450" />
+		<collision>
+			<radius normal="13" />
+			<height normal="10.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="12" min="1" max="1" chance="0.003" /> <!-- Knife -->
+				<item id="215" min="1" max="1" chance="0.003" /> <!-- Doom Dagger -->
+				<item id="57" min="2" max="5" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="906" min="1" max="1" chance="0.3" /> <!-- Necklace of Knowledge -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20478" level="17" type="Monster" name="Kasha Blade Spider">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="DeBuff" id="4035" level="1" />
+		</parameters>
+		<race>BUG</race>
+		<sex>MALE</sex>
+		<acquire exp="285" sp="23" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<attack physical="38.38769" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="71.53153636" magical="57.57804" />
+			<speed>
+				<walk ground="72" />
+				<run ground="130" />
+			</speed>
+			<hitTime>260</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="12" /> <!-- Bugs -->
+			<skill id="4035" level="1" /> <!-- Poison -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="217" min="1" max="1" chance="0.0009" /> <!-- Shining Knife -->
+				<item id="218" min="1" max="1" chance="0.0009" /> <!-- Throwing Knife -->
+				<item id="57" min="5" max="12" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.3" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.03" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="735" min="1" max="1" chance="0.075" /> <!-- Haste Potion -->
+				<item id="1801" min="1" max="1" chance="0.03" /> <!-- Recipe: Piece Bone Gaiters -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20479" level="15" type="Monster" name="Kasha Bear">
+		<parameters>
+			<param name="MoveAroundSocial" value="100" />
+			<param name="MoveAroundSocial1" value="100" />
+			<param name="MoveAroundSocial2" value="100" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="236" sp="20" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<attack physical="26.92446364" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="80.907376" magical="53.82228" />
+			<speed>
+				<walk ground="40" />
+				<run ground="110" />
+			</speed>
+			<hitTime>340</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="50" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="9" min="1" max="1" chance="0.0009" /> <!-- Cedar Staff -->
+				<item id="154" min="1" max="1" chance="0.0009" /> <!-- Dwarven Mace -->
+				<item id="57" min="4" max="11" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="0.3" /> <!-- HP Replenishing Potion (Exchangeable) -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+				<item id="1794" min="1" max="1" chance="0.0009" /> <!-- Recipe: Forest Bow -->
+				<item id="92583" min="1" max="1" chance="0.0009" /> <!-- Cedar Staff Head -->
+			</drop>
+			<spoil>
+				<item id="92509" min="1" max="1" chance="0.03" /> <!-- Leather Tunic Pattern -->
+				<item id="1793" min="1" max="1" chance="0.0075" /> <!-- Recipe: Sword of Reflection -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20480" level="10" type="Monster" name="Blade Bat">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<param name="HalfAggressive" value="2" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="146" sp="14" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="253.258845437616" hpRegen="2" mp="108.218063466233" mpRegen="0.9" />
+			<attack physical="19.33758" magical="13.20506" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="61.82527" magical="45.24105" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<hitTime>500</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="4281" level="1" /> <!-- Wind Attack Vulnerability -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" />
+			<height normal="33.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="22" min="1" max="1" chance="0.03" /> <!-- Leather Shirt -->
+				<item id="29" min="1" max="1" chance="0.03" /> <!-- Leather Pants -->
+				<item id="57" min="3" max="8" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.075" /> <!-- Material: Lump of Wood -->
+				<item id="1802" min="1" max="1" chance="0.03" /> <!-- Recipe: Necklace of Anguish -->
+				<item id="92909" min="1" max="1" chance="0.03" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.0075" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="92582" min="1" max="1" chance="0.03" /> <!-- Bow Shaft -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20481" level="1" type="Monster" name="Bearded Keltir">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="68" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="60.5214152700186" hpRegen="2" mp="39.8698128559805" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="32.52252" />
+			<speed>
+				<walk ground="23" />
+				<run ground="110" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="9.5" />
+			<height normal="10" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="462" min="1" max="1" chance="0.3" /> <!-- Stockings -->
+				<item id="426" min="1" max="1" chance="0.075" /> <!-- Tunic -->
+				<item id="57" min="1" max="1" chance="70" /> <!-- Adena -->
+				<item id="92908" min="1" max="1" chance="0.03" /> <!-- Material: Lump of Wood -->
+				<item id="92909" min="1" max="1" chance="0.003" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92910" min="1" max="1" chance="0.003" /> <!-- Material: Rags -->
+			</drop>
+			<spoil>
+				<item id="1788" min="1" max="1" chance="0.03" /> <!-- Recipe: Bow -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20483" level="17" type="Monster" name="Deadman's Lamp">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<skill name="SelfRangeDDMagic" id="4033" level="1" />
+		</parameters>
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="772" sp="24" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<attack physical="31.72536364" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="86.553159" magical="57.57804" />
+			<speed>
+				<walk ground="25" />
+				<run ground="140" />
+			</speed>
+			<hitTime>100</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="4033" level="1" /> <!-- NPC Burn -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="13" />
+			<height normal="22" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="877" min="1" max="1" chance="0.75" /> <!-- Ring of Wisdom -->
+				<item id="845" min="1" max="1" chance="0.3" /> <!-- Cat's Eye -->
+				<item id="908" min="1" max="1" chance="0.3" /> <!-- Necklace of Wisdom -->
+				<item id="57" min="41" max="97" chance="70" /> <!-- Adena -->
+				<item id="1803" min="1" max="1" chance="2.342" /> <!-- Recipe: Necklace of Wisdom -->
+			</drop>
+			<spoil>
+				<item id="1833" min="1" max="3" chance="52.79" /> <!-- Bandage -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20487" level="16" type="Monster" name="Kuruka Ratman">
+		<!-- L2wiki: https://l2wiki.com/classic/Kuruka_Ratman -->
+		<parameters>
+			<param name="MoveAroundSocial" value="100" />
+			<param name="MoveAroundSocial1" value="100" />
+			<param name="MoveAroundSocial2" value="100" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="216" /> <!-- rhand: Dirk -->
+		<acquire exp="468" sp="15" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="408.752327746741" hpRegen="2.5" mp="157.038242473556" mpRegen="1.2" />
+			<speed>
+				<walk ground="80" />
+				<run ground="120" />
+			</speed>
+			<hitTime>610</hitTime>
+			<attack physical="25.58496818" magical="21.96382" random="10" critical="8" accuracy="0" attackSpeed="289" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="83.694908" magical="55.67663" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>WERERAT</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="14" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="217" min="1" max="1" chance="0.03" /> <!-- Shining Knife -->
+				<item id="218" min="1" max="1" chance="0.03" /> <!-- Throwing Knife -->
+				<item id="57" min="32" max="74" chance="70" /> <!-- Adena -->
+			</drop>
+			<spoil>
+				<item id="1060" min="1" max="1" chance="67.92" /> <!-- HP Replenishing Potion (Exchangeable) -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20488" level="17" type="Monster" name="Kuruka Ratman Hunter">
+		<!-- L2wiki: https://l2wiki.com/classic/Kuruka_Ratman_Hunter -->
+		<parameters>
+			<param name="MoveAroundSocial" value="100" />
+			<param name="MoveAroundSocial1" value="100" />
+			<param name="MoveAroundSocial2" value="100" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="3" /> <!-- rhand: Broadsword -->
+		<acquire exp="497" sp="15" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="438.54748603352" hpRegen="2.5" mp="166.80227827502" mpRegen="1.2" />
+			<speed>
+				<walk ground="80" />
+				<run ground="120" />
+			</speed>
+			<hitTime>610</hitTime>
+			<attack physical="31.72536364" magical="23.83074" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="86.553159" magical="57.57804" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>WERERAT</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="14" />
+			<height normal="25" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="256" min="1" max="1" chance="0.075" /> <!-- Cestus -->
+				<item id="57" min="33" max="77" chance="70" /> <!-- Adena -->
+				<item id="1060" min="1" max="1" chance="4.371" /> <!-- HP Replenishing Potion (Exchangeable) -->
+			</drop>
+			<spoil>
+				<item id="734" min="1" max="1" chance="5.234" /> <!-- Wind Walk Potion -->
+				<item id="412" min="1" max="1" chance="0.75" /> <!-- Cotton Pants -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20489" level="15" type="Monster" name="Quicksilver Beast">
+		<!-- L2wiki: https://l2wiki.com/classic/Quicksilver_Beast -->
+		<parameters>
+			<param name="MoveAroundSocial" value="90" />
+			<param name="MoveAroundSocial1" value="90" />
+			<param name="MoveAroundSocial2" value="90" />
+		</parameters>
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<acquire exp="444" sp="14" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>240</hitTime>
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300" />
+		<collision>
+			<radius normal="14" />
+			<height normal="14.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="464" min="1" max="1" chance="0.75" /> <!-- Leather Stockings -->
+				<item id="429" min="1" max="1" chance="0.3" /> <!-- Leather Tunic -->
+				<item id="57" min="36" max="84" chance="70" /> <!-- Adena -->
+				<item id="1831" min="1" max="1" chance="6.441" /> <!-- Antidote -->
+			</drop>
+			<spoil>
+				<item id="1060" min="1" max="1" chance="76.32" /> <!-- HP Replenishing Potion (Exchangeable) -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20490" level="40" type="Monster" name="Death Doll">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="DeBuff" id="4035" level="4" /> <!-- Poison -->
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="3916" sp="169" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="1359" hpRegen="4.5" mp="478" mpRegen="1.8" />
+			<attack physical="193.996847" magical="120.43155" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="142.3185" magical="114.55675" />
+			<speed>
+				<walk ground="60" />
+				<run ground="150" />
+			</speed>
+			<hitTime>670</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4035" level="4" /> <!-- Poison -->
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>UNDEAD</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="15" />
+			<height normal="38" />
+		</collision>
+	</npc>
+	<npc id="20491" level="15" type="Monster" name="Crypt Horror">
+		<!-- L2wiki: https://l2wiki.com/classic/Crypt_Horror -->
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="444" sp="14" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="382.68156424581" hpRegen="2.5" mp="149.715215622457" mpRegen="1.2" />
+			<speed>
+				<walk ground="100" />
+				<run ground="100" />
+			</speed>
+			<hitTime>370</hitTime>
+			<attack physical="32.578601" magical="20.22451" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.8656" magical="53.82228" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="500" clanHelpRange="300">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="20" />
+			<height normal="35" grown="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="37" min="1" max="1" chance="1.885" /> <!-- Leather Shoes -->
+				<item id="49" min="1" max="1" chance="1.859" /> <!-- Gloves -->
+				<item id="57" min="36" max="84" chance="70" /> <!-- Adena -->
+				<item id="1794" min="1" max="1" chance="0.3" /> <!-- Recipe: Forest Bow -->
+			</drop>
+			<spoil>
+				<item id="876" min="1" max="1" chance="2.976" /> <!-- Ring of Anguish -->
+				<item id="1794" min="1" max="1" chance="2.477" /> <!-- Recipe: Forest Bow -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20492" level="21" type="Monster" name="Kirunak's Escort">
+		<parameters>
+			<param name="MoveAroundSocial" value="110" />
+			<param name="MoveAroundSocial1" value="110" />
+			<param name="MoveAroundSocial2" value="110" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="68" /> <!-- Falchion -->
+		<acquire exp="1168" sp="36" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="565.176908752328" hpRegen="3.5" mp="205.858421480879" mpRegen="1.5" />
+			<attack physical="43.56294545" magical="32.72263" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="98.703649" magical="65.66095" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<hitTime>300</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
+			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
+			<skill id="4278" level="1" /> <!-- Dark Attack -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>KIRUNAK</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="27" grown="34" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="27" min="1" max="1" chance="0.3" /> <!-- Durable Leather Shirt -->
+				<item id="33" min="1" max="1" chance="0.3" /> <!-- Durable Leather Gaiters -->
+				<item id="57" min="75" max="175" chance="70" /> <!-- Adena -->
+			</drop>
+			<spoil>
+				<item id="25" min="1" max="1" chance="0.3" /> <!-- Piece Bone Breastplate -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20494" level="24" type="Monster" name="Turek War Hound">
+		<parameters>
+			<param name="MoveAroundSocial" value="60" />
+			<param name="MoveAroundSocial1" value="60" />
+			<param name="MoveAroundSocial2" value="60" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="2617" sp="79" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="675.046554934823" hpRegen="3.5" mp="245.728234336859" mpRegen="1.5" />
+			<attack physical="66.216557" magical="41.10666" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="89.73562727" magical="72.2311" />
+			<speed>
+				<walk ground="24" />
+				<run ground="110" />
+			</speed>
+			<hitTime>390</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
+			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
+			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="19.5" />
+			<height normal="17.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="68" min="1" max="1" chance="0.075" /> <!-- Falchion -->
+				<item id="5284" min="1" max="1" chance="0.075" /> <!-- Zweihander -->
+				<item id="57" min="155" max="364" chance="70" /> <!-- Adena -->
+				<item id="2177" min="1" max="1" chance="3.435" /> <!-- Recipe: Bone Helmet -->
+			</drop>
+			<spoil>
+				<item id="2179" min="1" max="1" chance="58.21" /> <!-- Recipe: Quality Leather Gloves -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20495" level="30" type="Monster" name="Turek Orc Prefect">
+		<parameters>
+			<param name="MoveAroundSocial" value="70" />
+			<param name="MoveAroundSocial1" value="70" />
+			<param name="MoveAroundSocial2" value="70" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="SpecialSkill" id="4318" level="1" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="127" /> <!-- Crimson Sword -->
+		<acquire exp="3570" sp="108" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="937.150837988827" hpRegen="3.5" mp="329.53620829943" mpRegen="1.5" />
+			<attack physical="84.22023636" magical="63.26266" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="130.310697" magical="86.68702" />
+			<speed>
+				<walk ground="45" />
+				<run ground="130" />
+			</speed>
+			<hitTime>760</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4318" level="1" /> <!-- Ultimate Buff -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="10" grown="12" />
+			<height normal="23" grown="27.6" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="69" min="1" max="1" chance="0.0075" /> <!-- Bastard Sword -->
+				<item id="125" min="1" max="1" chance="0.0075" /> <!-- Spinebone Sword -->
+				<item id="126" min="1" max="1" chance="0.0075" /> <!-- Artisan's Sword -->
+				<item id="128" min="1" max="1" chance="0.0075" /> <!-- Knight's Sword -->
+				<item id="57" min="216" max="507" chance="70" /> <!-- Adena -->
+				<item id="955" min="1" max="1" chance="0.03" /> <!-- Scroll: Enchant D-grade Weapon (Exchangeable) -->
+			</drop>
+			<spoil>
+				<item id="2267" min="1" max="1" chance="1.314" /> <!-- Recipe: Gastraphetes -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20496" level="27" type="Monster" name="Turek Orc Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="104" />
+			<param name="MoveAroundSocial1" value="104" />
+			<param name="MoveAroundSocial2" value="104" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="14" /> <!-- Bow -->
+		<acquire exp="3109" sp="94" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="798.882681564246" hpRegen="3.5" mp="286.411716842962" mpRegen="1.5" />
+			<attack physical="166.6304686" magical="51.20928" random="10" critical="8" accuracy="0" attackSpeed="227" reuseDelay="1500" type="BOW" range="500" distance="10" width="0" />
+			<defence physical="108.28767" magical="79.24022" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>800</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai type="ARCHER" clanHelpRange="400" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="21" />
+			<height normal="39" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="274" min="1" max="1" chance="0.075" /> <!-- Reinforced Bow -->
+				<item id="57" min="150" max="350" chance="70" /> <!-- Adena -->
+				<item id="1341" min="10" max="30" chance="22.52" /> <!-- Bone Arrow -->
+				<item id="2260" min="1" max="1" chance="0.3" /> <!-- Recipe: Mace of Judgment -->
+			</drop>
+			<spoil>
+				<item id="465" min="1" max="1" chance="0.75" /> <!-- Cursed Stockings -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20497" level="28" type="Monster" name="Turek Orc Skirmisher">
+		<parameters>
+			<param name="MoveAroundSocial" value="75" />
+			<param name="MoveAroundSocial1" value="75" />
+			<param name="MoveAroundSocial2" value="75" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="121" /> <!-- Sword of Watershadow -->
+		<acquire exp="3305" sp="100" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="843.109869646182" hpRegen="3.5" mp="301.057770545159" mpRegen="1.5" />
+			<attack physical="73.21869091" magical="54.99876" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="122.775048" magical="81.67405" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" grown="14" />
+			<height normal="22" grown="26.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="391" min="1" max="1" chance="0.3" /> <!-- Puma Skin Shirt -->
+				<item id="413" min="1" max="1" chance="0.3" /> <!-- Puma Skin Gaiters -->
+				<item id="57" min="159" max="371" chance="70" /> <!-- Adena -->
+				<item id="2260" min="1" max="1" chance="0.075" /> <!-- Recipe: Mace of Judgment -->
+			</drop>
+			<spoil>
+				<item id="2259" min="1" max="1" chance="1.904" /> <!-- Recipe: Spinebone Sword -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20498" level="27" type="Monster" name="Turek Orc Supplier">
+		<parameters>
+			<param name="MoveAroundSocial" value="75" />
+			<param name="MoveAroundSocial1" value="75" />
+			<param name="MoveAroundSocial2" value="75" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="11" /> <!-- Bone Dagger -->
+		<acquire exp="3123" sp="94" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="798.882681564246" hpRegen="3.5" mp="286.411716842962" mpRegen="1.5" />
+			<attack physical="59.65209886" magical="51.20928" random="10" critical="8" accuracy="0" attackSpeed="289" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="119.116437" magical="79.24022" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>460</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" grown="14" />
+			<height normal="22" grown="26.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="45" min="1" max="1" chance="0.3" /> <!-- Bone Helmet -->
+				<item id="626" min="1" max="1" chance="0.3" /> <!-- Bronze Shield -->
+				<item id="57" min="150" max="352" chance="70" /> <!-- Adena -->
+				<item id="2261" min="1" max="1" chance="0.3" /> <!-- Recipe: Conjuror's Staff -->
+			</drop>
+			<spoil>
+				<item id="2262" min="1" max="1" chance="3.608" /> <!-- Recipe: Elven Bow -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="20499" level="26" type="Monster" name="Turek Orc Footman">
+		<parameters>
+			<param name="MoveAroundSocial" value="138" />
+			<param name="MoveAroundSocial1" value="138" />
+			<param name="MoveAroundSocial2" value="138" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" /> <!-- Long Sword -->
+		<acquire exp="2951" sp="89" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="756.052141527002" hpRegen="3.5" mp="273.393002441009" mpRegen="1.5" />
+			<attack physical="69.75926" magical="47.63653" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="105.02818" magical="76.85506" />
+			<speed>
+				<walk ground="45" />
+				<run ground="110" />
+			</speed>
+			<hitTime>480</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
+			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="15" />
+			<height normal="33" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="40" min="1" max="1" chance="0.3" /> <!-- Leather Boots -->
+				<item id="604" min="1" max="1" chance="0.3" /> <!-- Quality Leather Gloves -->
+				<item id="57" min="144" max="337" chance="70" /> <!-- Adena -->
+				<item id="2182" min="1" max="1" chance="0.75" /> <!-- Recipe: Scale Gaiters -->
+			</drop>
+		</dropLists>
+	</npc>
+</list>

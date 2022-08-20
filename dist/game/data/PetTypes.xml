@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/PetTypes.xsd">
+	<pet id="1" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 1 -->
+	<pet id="2" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 2 -->
+	<pet id="3" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 3 -->
+	<pet id="4" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 4 -->
+	<pet id="5" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 5 -->
+	<pet id="6" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 6 -->
+	<pet id="7" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 7 -->
+	<pet id="8" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 8 -->
+	<pet id="9" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 9 -->
+	<pet id="10" skillId="0" skillLvl="0" /> <!-- Wolf's Secret 10 -->
+	<pet id="11" skillId="49201" skillLvl="1" /> <!-- Strong : STR +1 -->
+	<pet id="12" skillId="49201" skillLvl="2" /> <!-- Mighty : STR +2 -->
+	<pet id="13" skillId="49201" skillLvl="3" /> <!-- Powerful : STR +3 -->
+	<pet id="14" skillId="49202" skillLvl="1" /> <!-- Swift : DEX +1 -->
+	<pet id="15" skillId="49202" skillLvl="2" /> <!-- Quick : DEX +2 -->
+	<pet id="16" skillId="49202" skillLvl="3" /> <!-- Dexterous : DEX +3 -->
+	<pet id="17" skillId="49203" skillLvl="1" /> <!-- Healthy : CON +1 -->
+	<pet id="18" skillId="49203" skillLvl="2" /> <!-- Enduring : CON +2 -->
+	<pet id="19" skillId="49203" skillLvl="3" /> <!-- Tough : CON +3 -->
+	<pet id="20" skillId="49204" skillLvl="1" /> <!-- Clever : INT +1 -->
+	<pet id="21" skillId="49204" skillLvl="2" /> <!-- Smart : INT +2 -->
+	<pet id="22" skillId="49204" skillLvl="3" /> <!-- Intelligent : INT +3 -->
+	<pet id="23" skillId="49205" skillLvl="1" /> <!-- Sharp : WIT +1 -->
+	<pet id="24" skillId="49205" skillLvl="2" /> <!-- Wise : WIT +2 -->
+	<pet id="25" skillId="49205" skillLvl="3" /> <!-- Insightful : WIT +3 -->
+	<pet id="26" skillId="49206" skillLvl="1" /> <!-- Vigorous : MEN +1 -->
+	<pet id="27" skillId="49206" skillLvl="2" /> <!-- Resolute : MEN +2 -->
+	<pet id="28" skillId="49206" skillLvl="3" /> <!-- Strong-spirited : MEN +3 -->
+	<pet id="29" skillId="0" skillLvl="0" /> <!-- Wolf : Common pet -->
+	<pet id="30" skillId="0" skillLvl="0" /> <!-- Buffalo : Calf -->
+	<pet id="31" skillId="0" skillLvl="0" /> <!-- Tiger : Mature -->
+	<pet id="32" skillId="0" skillLvl="0" /> <!-- Kookaburra : Ostrich relative -->
+	<pet id="33" skillId="0" skillLvl="0" /> <!-- Dragon : No fire breath -->
+	<pet id="34" skillId="0" skillLvl="0" /> <!-- Thunder Hawk : New species -->
+	<pet id="101" skillId="0" skillLvl="0" /> <!-- Woof-woof -->
+	<pet id="102" skillId="0" skillLvl="0" /> <!-- Silver Hide -->
+	<pet id="103" skillId="0" skillLvl="0" /> <!-- Chun -->
+	<pet id="104" skillId="0" skillLvl="0" /> <!-- Watchdog -->
+	<pet id="105" skillId="0" skillLvl="0" /> <!-- Red Eye -->
+	<pet id="106" skillId="0" skillLvl="0" /> <!-- Robo -->
+	<pet id="107" skillId="0" skillLvl="0" /> <!-- Shepherd -->
+	<pet id="108" skillId="0" skillLvl="0" /> <!-- Hindo -->
+	<pet id="109" skillId="0" skillLvl="0" /> <!-- Mary -->
+	<pet id="110" skillId="0" skillLvl="0" /> <!-- Cu Chulainn -->
+	<pet id="111" skillId="0" skillLvl="0" /> <!-- Cu Chulainn -->
+	<pet id="112" skillId="0" skillLvl="0" /> <!-- Robo -->
+	<pet id="113" skillId="0" skillLvl="0" /> <!-- Romulus -->
+	<pet id="114" skillId="0" skillLvl="0" /> <!-- Phenyl -->
+	<pet id="115" skillId="0" skillLvl="0" /> <!-- Allen -->
+	<pet id="116" skillId="0" skillLvl="0" /> <!-- Alexander -->
+	<pet id="117" skillId="0" skillLvl="0" /> <!-- Cardiff Wolf -->
+	<pet id="118" skillId="0" skillLvl="0" /> <!-- Werewolf -->
+	<pet id="119" skillId="0" skillLvl="0" /> <!-- Garum Wolf -->
+	<pet id="120" skillId="0" skillLvl="0" /> <!-- Kasha Wolf -->
+	<pet id="121" skillId="0" skillLvl="0" /> <!-- Kerope Wolf -->
+	<pet id="122" skillId="0" skillLvl="0" /> <!-- Chanlan -->
+	<pet id="123" skillId="0" skillLvl="0" /> <!-- Lupine King -->
+	<pet id="124" skillId="0" skillLvl="0" /> <!-- Forest Hunter -->
+	<pet id="125" skillId="0" skillLvl="0" /> <!-- Blue Wolf -->
+	<pet id="126" skillId="0" skillLvl="0" /> <!-- Limonite -->
+	<pet id="127" skillId="0" skillLvl="0" /> <!-- Minota -->
+	<pet id="128" skillId="0" skillLvl="0" /> <!-- Minota -->
+	<pet id="129" skillId="0" skillLvl="0" /> <!-- Thick Skull -->
+	<pet id="130" skillId="0" skillLvl="0" /> <!-- Cattle King -->
+	<pet id="131" skillId="0" skillLvl="0" /> <!-- Bison -->
+	<pet id="132" skillId="0" skillLvl="0" /> <!-- Auroch -->
+	<pet id="133" skillId="0" skillLvl="0" /> <!-- Bison -->
+	<pet id="134" skillId="0" skillLvl="0" /> <!-- Apis -->
+	<pet id="135" skillId="0" skillLvl="0" /> <!-- Charles -->
+	<pet id="136" skillId="0" skillLvl="0" /> <!-- Denver -->
+	<pet id="137" skillId="0" skillLvl="0" /> <!-- Mathorn -->
+	<pet id="138" skillId="0" skillLvl="0" /> <!-- Desert Rogue -->
+	<pet id="139" skillId="0" skillLvl="0" /> <!-- Puss -->
+	<pet id="140" skillId="0" skillLvl="0" /> <!-- Tigger -->
+	<pet id="141" skillId="0" skillLvl="0" /> <!-- Moggy -->
+	<pet id="142" skillId="0" skillLvl="0" /> <!-- Kitty -->
+	<pet id="143" skillId="0" skillLvl="0" /> <!-- Amos -->
+	<pet id="144" skillId="0" skillLvl="0" /> <!-- Sel Mahum -->
+	<pet id="145" skillId="0" skillLvl="0" /> <!-- Irene -->
+	<pet id="146" skillId="0" skillLvl="0" /> <!-- Marillia -->
+	<pet id="147" skillId="0" skillLvl="0" /> <!-- Changun -->
+	<pet id="148" skillId="0" skillLvl="0" /> <!-- Dreadful Hunter -->
+	<pet id="149" skillId="0" skillLvl="0" /> <!-- Forest Ghost -->
+	<pet id="150" skillId="0" skillLvl="0" /> <!-- Beast King -->
+	<pet id="151" skillId="0" skillLvl="0" /> <!-- Dark Assassin -->
+	<pet id="152" skillId="0" skillLvl="0" /> <!-- Master of the Jungle -->
+	<pet id="153" skillId="0" skillLvl="0" /> <!-- Hatchling -->
+	<pet id="154" skillId="0" skillLvl="0" /> <!-- Fafnir -->
+	<pet id="155" skillId="0" skillLvl="0" /> <!-- Quetzalcoatl -->
+	<pet id="156" skillId="0" skillLvl="0" /> <!-- Fafnir -->
+	<pet id="157" skillId="0" skillLvl="0" /> <!-- Britra -->
+	<pet id="158" skillId="0" skillLvl="0" /> <!-- Python -->
+	<pet id="159" skillId="0" skillLvl="0" /> <!-- Baxter -->
+	<pet id="160" skillId="0" skillLvl="0" /> <!-- Aydan -->
+	<pet id="161" skillId="0" skillLvl="0" /> <!-- Fire Lord -->
+	<pet id="162" skillId="0" skillLvl="0" /> <!-- Ancient Dragon -->
+	<pet id="163" skillId="0" skillLvl="0" /> <!-- Antharas' Offspring -->
+	<pet id="164" skillId="0" skillLvl="0" /> <!-- Lucky Coin: Attack -->
+	<pet id="165" skillId="0" skillLvl="0" /> <!-- Condor -->
+	<pet id="166" skillId="0" skillLvl="0" /> <!-- Horus -->
+	<pet id="167" skillId="0" skillLvl="0" /> <!-- Attila -->
+	<pet id="168" skillId="0" skillLvl="0" /> <!-- Lachman -->
+	<pet id="169" skillId="0" skillLvl="0" /> <!-- Phoenix -->
+	<pet id="170" skillId="0" skillLvl="0" /> <!-- Arvid -->
+	<pet id="171" skillId="0" skillLvl="0" /> <!-- Kalan -->
+	<pet id="172" skillId="0" skillLvl="0" /> <!-- Roxxy -->
+	<pet id="173" skillId="0" skillLvl="0" /> <!-- Condor -->
+	<pet id="174" skillId="0" skillLvl="0" /> <!-- Falco Peregrinus -->
+	<pet id="175" skillId="0" skillLvl="0" /> <!-- Marsh Harrier -->
+	<pet id="176" skillId="0" skillLvl="0" /> <!-- Seer -->
+	<pet id="177" skillId="0" skillLvl="0" /> <!-- Sky Lord -->
+	<pet id="178" skillId="0" skillLvl="0" /> <!-- Ostrich -->
+	<pet id="179" skillId="0" skillLvl="0" /> <!-- Cloud -->
+	<pet id="180" skillId="0" skillLvl="0" /> <!-- Andrew -->
+	<pet id="181" skillId="0" skillLvl="0" /> <!-- Cloud -->
+	<pet id="182" skillId="0" skillLvl="0" /> <!-- Hazel -->
+	<pet id="183" skillId="0" skillLvl="0" /> <!-- Pepper -->
+	<pet id="184" skillId="0" skillLvl="0" /> <!-- Savannah -->
+	<pet id="185" skillId="0" skillLvl="0" /> <!-- Ruffian of Plains -->
+	<pet id="186" skillId="0" skillLvl="0" /> <!-- King of Snow Peaks -->
+	<pet id="187" skillId="0" skillLvl="0" /> <!-- Salamander -->
+	<pet id="188" skillId="0" skillLvl="0" /> <!-- Hawkeye -->
+	<pet id="189" skillId="0" skillLvl="0" /> <!-- Tanker -->
+	<pet id="190" skillId="0" skillLvl="0" /> <!-- Tom -->
+	<pet id="191" skillId="0" skillLvl="0" /> <!-- Andrew -->
+	<pet id="192" skillId="0" skillLvl="0" /> <!-- Bartz -->
+	<pet id="193" skillId="0" skillLvl="0" /> <!-- Sieghardt -->
+	<pet id="194" skillId="0" skillLvl="0" /> <!-- Kain -->
+	<pet id="195" skillId="0" skillLvl="0" /> <!-- Liona -->
+	<pet id="196" skillId="0" skillLvl="0" /> <!-- Erica -->
+	<pet id="197" skillId="0" skillLvl="0" /> <!-- Gustin -->
+	<pet id="198" skillId="0" skillLvl="0" /> <!-- Devianne -->
+	<pet id="199" skillId="0" skillLvl="0" /> <!-- Hindemith -->
+	<pet id="200" skillId="0" skillLvl="0" /> <!-- Teon -->
+	<pet id="201" skillId="0" skillLvl="0" /> <!-- Franz -->
+	<pet id="202" skillId="0" skillLvl="0" /> <!-- Lunar -->
+	<pet id="203" skillId="0" skillLvl="0" /> <!-- Kastien -->
+	<pet id="204" skillId="0" skillLvl="0" /> <!-- Irene -->
+	<pet id="205" skillId="0" skillLvl="0" /> <!-- Staris -->
+	<pet id="206" skillId="0" skillLvl="0" /> <!-- Ceriel -->
+	<pet id="207" skillId="0" skillLvl="0" /> <!-- Feyshar -->
+	<pet id="208" skillId="0" skillLvl="0" /> <!-- Elwyn -->
+	<pet id="209" skillId="0" skillLvl="0" /> <!-- Elikia -->
+	<pet id="210" skillId="0" skillLvl="0" /> <!-- Shiken -->
+	<pet id="211" skillId="0" skillLvl="0" /> <!-- Scryde -->
+	<pet id="212" skillId="0" skillLvl="0" /> <!-- Frikios -->
+	<pet id="213" skillId="0" skillLvl="0" /> <!-- Ophilia -->
+	<pet id="214" skillId="0" skillLvl="0" /> <!-- Sake Dun -->
+	<pet id="215" skillId="0" skillLvl="0" /> <!-- Tazyph -->
+	<pet id="216" skillId="0" skillLvl="0" /> <!-- Arian -->
+	<pet id="217" skillId="0" skillLvl="0" /> <!-- Asyen -->
+	<pet id="218" skillId="0" skillLvl="0" /> <!-- Elcadia -->
+	<pet id="219" skillId="0" skillLvl="0" /> <!-- Ian -->
+	<pet id="220" skillId="0" skillLvl="0" /> <!-- Seresin -->
+	<pet id="221" skillId="0" skillLvl="0" /> <!-- Tarkai -->
+	<pet id="222" skillId="0" skillLvl="0" /> <!-- Cardia -->
+	<pet id="223" skillId="0" skillLvl="0" /> <!-- Roien -->
+	<pet id="224" skillId="0" skillLvl="0" /> <!-- Gallint -->
+	<pet id="225" skillId="0" skillLvl="0" /> <!-- Tiat -->
+	<pet id="226" skillId="0" skillLvl="0" /> <!-- Nevit -->
+	<pet id="227" skillId="0" skillLvl="0" /> <!-- Karan -->
+	<pet id="228" skillId="0" skillLvl="0" /> <!-- Tersi -->
+	<pet id="229" skillId="0" skillLvl="0" /> <!-- Bremnon -->
+	<pet id="230" skillId="0" skillLvl="0" /> <!-- Lionel -->
+	<pet id="231" skillId="0" skillLvl="0" /> <!-- Adat -->
+	<pet id="232" skillId="0" skillLvl="0" /> <!-- Elizabeth -->
+	<pet id="233" skillId="0" skillLvl="0" /> <!-- Wunderkind -->
+	<pet id="234" skillId="0" skillLvl="0" /> <!-- Lucky -->
+</list>

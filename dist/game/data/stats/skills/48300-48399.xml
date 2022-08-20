@@ -1,0 +1,1075 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="48301" toLevel="3" name="Test Skill - Vulnerability: Ancient Sword">
+		<!-- Vulnerable to ancient sword attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48302" toLevel="3" name="Test Skill - Vulnerability: Blunt">
+		<!-- Vulnerable to blunt weapon attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48303" toLevel="3" name="Test Skill - Vulnerability: Bow">
+		<!-- Vulnerable to bow attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48304" toLevel="3" name="Test Skill - Vulnerability: Dagger">
+		<!-- Vulnerable to dagger attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48305" toLevel="3" name="Test Skill - Vulnerability: Dual Swords">
+		<!-- Vulnerable to dual swords attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48306" toLevel="3" name="Test Skill - Vulnerability: Fist Weapon">
+		<!-- Vulnerable to fist weapon attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48307" toLevel="3" name="Test Skill - Vulnerability: Other">
+		<!-- Vulnerable to other weapon attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48308" toLevel="3" name="Test Skill - Vulnerability: Gloves">
+		<!-- Vulnerable to glove attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48309" toLevel="3" name="Test Skill - Vulnerability: Spear">
+		<!-- Vulnerable to spear attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48310" toLevel="3" name="Test Skill - Vulnerability: Rapier">
+		<!-- Vulnerable to rapier attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48311" toLevel="3" name="Test Skill - Vulnerability: Sword">
+		<!-- Vulnerable to sword attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48312" toLevel="21" name="Increase Damage to Undead">
+		<!-- Increases damage dealt to undead enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48313" toLevel="22" name="Physical Skill - Undead">
+		<!-- Increases damage dealt to undead enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48314" toLevel="22" name="Magic Skill - Undead">
+		<!-- Increases damage dealt to undead enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48315" toLevel="5" name="Silence Attack Resistance">
+		<!-- Resistant to Silence attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48316" toLevel="5" name="Greater Silence Attack Resistance">
+		<!-- Highly resistant to Silence. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48317" toLevel="5" name="Silence Vulnerability">
+		<!-- Vulnerable to Silence. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48318" toLevel="5" name="Suppression Attack Resistance">
+		<!-- Resistant to Suppression attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48319" toLevel="5" name="Greater Suppression Attack Resistance">
+		<!-- Highly resistant to Suppression. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48320" toLevel="5" name="Suppression Vulnerability">
+		<!-- Vulnerable to Suppression. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48321" toLevel="5" name="Imprisonment Attack Resistance">
+		<!-- Resistant to Imprisonment attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48322" toLevel="5" name="Greater Imprisonment Attack Resistance">
+		<!-- Highly resistant to Imprisonment. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48323" toLevel="5" name="Imprisonment Vulnerability">
+		<!-- Vulnerable to Imprisonment. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48324" toLevel="5" name="Pull Attack Resistance">
+		<!-- Resistant to Pull attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48325" toLevel="5" name="Greater Pull Attack Resistance">
+		<!-- Highly resistant to Pull. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48326" toLevel="5" name="Pull Vulnerability">
+		<!-- Vulnerable to Pull. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48327" toLevel="1" name="Ultimate Behemoth Roar">
+		<!-- Ultimate Behemoth Roar immobilizes the enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48328" toLevel="1" name="Ultimate Behemoth Curse">
+		<!-- The Ultimate Behemoth curses the enemy. Speed -30 Atk. Spd. -30 Casting Spd. -30 Received damage +10% -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48329" toLevel="1" name="Ultimate Behemoth Range Attack">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48330" toLevel="1" name="Ultimate Behemoth Range Fear">
+		<!-- Afflicted with Fear and moving against own will. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48331" toLevel="1" name="Nephenthes' Scent">
+		<!-- Nephenthes's scent poisons the character. PvP Damage +15% -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48332" toLevel="5" name="Knockback Attack Resistance">
+		<!-- Resistant to Knockback attacks. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48333" toLevel="5" name="Greater Knockback Attack Resistance">
+		<!-- Highly resistant to Knockback. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48334" toLevel="5" name="Knockback Vulnerability">
+		<!-- Vulnerable to Knockback. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48335" toLevel="1" name="Suicide Flare">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48336" toLevel="1" name="Lavasaurus Attack">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48337" toLevel="1" name="Lavasaurus Petrification">
+		<!-- Makes the target's body as hard as stone for 3 sec. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48338" toLevel="1" name="Lavasaurus Horror">
+		<!-- Afflicted with Fear and moving against own will. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48339" toLevel="1" name="Fire Rage">
+		<!-- Blaze's fire attack constantly decreases HP. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48340" toLevel="1" name="Fire Breath">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48341" toLevel="1" name="Lunatic's Rage">
+		<!-- Lunatic's rage makes the enemy's soul leave their body. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48342" toLevel="12" name="Stun">
+		<!-- Immobilizes and stuns target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48343" toLevel="12" name="Silence">
+		<!-- Physical and magic skills are all blocked. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48344" toLevel="1" name="Ryuminir's Attack">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48345" toLevel="1" name="Ryuminir's Range Attack">
+		<!-- Ryuminir's powerful strike stuns the character and renders them immobile. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48346" toLevel="1" name="Aizen's Attack">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48347" toLevel="1" name="Aizen's Throw">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48348" toLevel="1" name="Aizen's Throw">
+		<!-- Aizen's powerful attack stuns the character and renders them immobile. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48349" toLevel="10" name="Long Range Blood Spear">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48350" toLevel="10" name="Short Range Blood Spear">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48351" toLevel="1" name="Tanas' Stun">
+		<!-- Unable to move for $s1 due to Stun. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48352" toLevel="1" name="Inject Energy">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48353" toLevel="5" name="Tanas' Poison">
+		<!-- Max HP $s1. Applies Poison. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48354" toLevel="3" name="Ice Strike">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>1500</hitTime>
+		<castRange>200</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">80</value>
+					<value level="2">160</value>
+					<value level="3">320</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48355" toLevel="3" name="Ice Arrow">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3000</hitTime>
+		<castRange>400</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">80</value>
+					<value level="2">160</value>
+					<value level="3">320</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48356" toLevel="3" name="Ice Shot">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>800</hitTime>
+		<castRange>800</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">80</value>
+					<value level="2">160</value>
+					<value level="3">320</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48357" toLevel="3" name="Ice Curse">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48358" toLevel="1" name="Rasygies' Freezing Attack">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3500</hitTime>
+		<castRange>1800</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">400</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48359" toLevel="1" name="Ice Curse">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48360" toLevel="1" name="Lacigies' Enhancement">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48361" toLevel="1" name="Reggiesys' Freezing Attack">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3500</hitTime>
+		<castRange>1800</castRange>
+		<affectLimit>1-12</affectLimit>
+		<affectRange>300</affectRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">300</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48362" toLevel="1" name="Ice Curse">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48363" toLevel="1" name="Reggiesys Enhancement">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>30</abnormalTime>
+		<abnormalType>PA_UP</abnormalType>
+		<activateRate>0</activateRate>
+		<isMagic>1</isMagic> 
+		<reuseDelay>90000</reuseDelay>
+		<basicProperty>NONE</basicProperty>
+		<mpConsume>57</mpConsume>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="PAtk">
+				<amount>
+					<value level="1">50</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>
+					<value level="1">50</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>
+					<value level="1">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>
+					<value level="1">50</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48364" toLevel="1" name="Ice Crystals">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48365" toLevel="1" name="Tiron's Freezing Attack">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3500</hitTime>
+		<castRange>1800</castRange>
+		<affectRange>400</affectRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">300</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48366" toLevel="1" name="Freezing Curse">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48367" toLevel="1" name="Ice Crystal pilar">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<abnormalLevel>
+			<value level="1">1</value>
+		</abnormalLevel>
+		<abnormalTime>
+			<value level="1">7</value>
+		</abnormalTime>
+		<abnormalType>FREEZING</abnormalType>
+		<abnormalVisualEffect>FROZEN_PILLAR</abnormalVisualEffect>
+		<activateRate>
+			<value level="1">90</value>
+		</activateRate>
+		<basicProperty>PHYSICAL</basicProperty>
+		<effectPoint>100</effectPoint>
+		<isDebuff>true</isDebuff>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<lvlBonusRate>1</lvlBonusRate>
+		<magicLevel>85</magicLevel>
+		<abnormalResists>TURN_FLEE;KNOCKDOWN;DEPORT;SILENCE;PARALYZE;ABSORB;DISARM;SILENCE_PHYSICAL;SILENCE_ALL;CHANGEBODY;TURN_STONE;DERANGEMENT;AIRBIND;SLEEP;OBLIVION;MIRAGE;MIRAGE_TRAP;ROOT_MAGICALLY;ROOT_PHYSICALLY;STUN;PUBLIC_SLOT</abnormalResists>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="BlockActions">
+				<allowedSkills>35016</allowedSkills>
+			</effect>
+			<effect name="DamOverTime">
+				<power>200</power>
+				<ticks>5</ticks>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48368" toLevel="1" name="Tiron's Knockback">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<magicLevel>85</magicLevel>
+		<hitTime>3500</hitTime>
+		<castRange>1800</castRange>
+		<affectLimit>1-12</affectLimit>
+		<affectRange>200</affectRange>
+		<effectPoint>-300</effectPoint>
+		<affectObject>NOT_FRIEND</affectObject>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">400</value>
+				</power>
+			</effect>
+			<effect name="CallSkill">
+				<skillId>48369</skillId> <!-- Knock back -->
+				<skillLevel>
+					<value level="1">1</value>
+				</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48369" toLevel="1" name="Knock back">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+		<castRange>800</castRange>
+		<affectRange>400</affectRange>
+		<effectPoint>-300</effectPoint>
+		<abnormalType>KNOCKDOWN</abnormalType>
+		<abnormalTime>3</abnormalTime>
+		<trait>SHOCK</trait>
+		<affectObject>NOT_FRIEND</affectObject>
+		<basicProperty>PHYSICAL</basicProperty>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="KnockBack">
+				<distance>250</distance>
+				<speed>400</speed>
+				<knockDown>false</knockDown>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48370" toLevel="1" name="Tiron's Enhancement">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>60</abnormalTime>
+		<reuseDelay>60000</reuseDelay>
+		<abnormalType>PA_UP</abnormalType>
+		<activateRate>0</activateRate>
+		<isMagic>1</isMagic> 
+		<reuseDelay>600000</reuseDelay>
+		<basicProperty>NONE</basicProperty>
+		<mpConsume>57</mpConsume>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="PAtk">
+				<amount>
+					<value level="1">100</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>
+					<value level="1">100</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>
+					<value level="1">100</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>
+					<value level="1">100</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48371" toLevel="1" name="Frozen Crystal">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48372" toLevel="2" name="Glakias' Enhancement">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>60</abnormalTime>
+		<abnormalType>PA_UP</abnormalType>
+		<activateRate>0</activateRate>
+		<isMagic>1</isMagic> 
+		<reuseDelay>60000</reuseDelay>
+		<basicProperty>NONE</basicProperty>
+		<mpConsume>57</mpConsume>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="PAtk">
+				<amount>
+					<value level="1">40</value>
+					<value level="2">80</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>
+					<value level="1">40</value>
+					<value level="2">80</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>
+					<value level="1">40</value>
+					<value level="2">80</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>
+					<value level="1">40</value>
+					<value level="2">80</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48373" toLevel="2" name="Glakias' Summon">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<castRange>7600</castRange>
+		<hitTime>4500</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<affectLimit>1-30</affectLimit>
+		<affectRange>900</affectRange>
+		<effectPoint>-400</effectPoint>
+		<affectObject>NOT_FRIEND</affectObject>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="DamOverTime">
+				<power>200</power>
+				<ticks>5</ticks>
+			</effect>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">400</value>
+					<value level="2">800</value>
+				</power>
+			</effect>
+			<effect name="CallSkill">
+				<skillId>48367</skillId> <!-- Ice Crystal Pilar -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48374" toLevel="2" name="Ice Emperor's Chain">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>2600</hitTime>
+		<reuseDelay>20000</reuseDelay>
+		<castRange>800</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">100</value>
+					<value level="2">200</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48375" toLevel="3" name="Freezing Curse">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>6</abnormalTime>
+		<castRange>1800</castRange>
+		<affectRange>300</affectRange>
+		<abnormalType>MD_DOWN</abnormalType>
+		<activateRate>40</activateRate>
+		<isMagic>1</isMagic> 
+		<reuseDelay>60000</reuseDelay>
+		<basicProperty>NONE</basicProperty>
+		<mpConsume>57</mpConsume>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="PhysicalAttackSpeed">
+				<amount>
+					<value level="1">-50</value>
+					<value level="2">-50</value>
+					<value level="3">-50</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>
+					<value level="1">-50</value>
+					<value level="2">-50</value>
+					<value level="3">-50</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>
+					<value level="1">-50</value>
+					<value level="2">-50</value>
+					<value level="3">-50</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48376" toLevel="2" name="Ice Emperor's Sweep">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3500</hitTime>
+		<castRange>1800</castRange>
+		<effectPoint>-300</effectPoint>
+		<affectObject>NOT_FRIEND</affectObject>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">1000</value>
+					<value level="2">2500</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48377" toLevel="2" name="Ice Emperor's Smash">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>7600</castRange>
+		<hitTime>3500</hitTime>
+		<isMagic>1</isMagic>
+		<castRange>1600</castRange>
+		<effectPoint>-300</effectPoint>
+		<affectObject>NOT_FRIEND</affectObject>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">200</value>
+					<value level="2">400</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48378" toLevel="2" name="Ice Emperor's Thunder">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>20000</reuseDelay>
+		<castRange>7600</castRange>
+		<hitTime>3500</hitTime>
+		<isMagic>1</isMagic>
+		<castRange>1600</castRange>
+		<effectPoint>-300</effectPoint>
+		<affectObject>NOT_FRIEND</affectObject>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">100</value>
+					<value level="2">500</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48379" toLevel="2" name="Ice Emperor's Chain">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>1600</hitTime>
+		<castRange>800</castRange>
+		<reuseDelay>20000</reuseDelay>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">100</value>
+					<value level="2">200</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48380" toLevel="1" name="Ice Chain">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48381" toLevel="2" name="Ice Emperor's Storm">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<castRange>7600</castRange>
+		<hitTime>3600</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<affectLimit>6-20</affectLimit>
+		<affectRange>900</affectRange>
+		<effectPoint>-400</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectObject>NOT_FRIEND</affectObject>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">1500</value>
+					<value level="2">3000</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48382" toLevel="2" name="Ice Emperor's Tornado">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3500</hitTime>
+		<castRange>2500</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>TARGET</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">500</value>
+					<value level="2">1000</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48383" toLevel="2" name="Ice Emperor's Crystal">
+		<!-- GLAKIAS FROST LORD INSTANCE NORMAL MODE HARD MODE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<hitTime>3500</hitTime>
+		<castRange>2500</castRange>
+		<effectPoint>-300</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">500</value>
+					<value level="2">1000</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48384" toLevel="3" name="Frozen Crystal">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48385" toLevel="1" name="">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48386" toLevel="1" name="Chills">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48387" toLevel="1" name="Eternal Blizzard">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<affectRange>800</affectRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-1000</effectPoint>
+		<affectLimit>1-6</affectLimit>
+		<attributeType>WATER</attributeType>
+		<attributeValue>180</attributeValue>
+		<hitTime>10000</hitTime>
+		<magicLevel>85</magicLevel>
+		<mpConsume>165</mpConsume>
+		<castRange>7000</castRange>
+		<reuseDelay>40000</reuseDelay>
+		<abnormalResists>TURN_FLEE;KNOCKDOWN;DEPORT;SILENCE;PARALYZE;ABSORB;DISARM;SILENCE_PHYSICAL;SILENCE_ALL;CHANGEBODY;TURN_STONE;DERANGEMENT;AIRBIND;SLEEP;OBLIVION;MIRAGE;MIRAGE_TRAP;ROOT_MAGICALLY;ROOT_PHYSICALLY;STUN;PUBLIC_SLOT</abnormalResists>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<isDebuff>true</isDebuff>
+		<targetType>SELF</targetType>
+		<affectScope>POINT_BLANK</affectScope>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>30976</power>
+			</effect>
+			<effect name="CallSkill">
+				<skillId>48367</skillId> <!-- Ice Crystal Pilar -->
+				<skillLevel>1</skillLevel>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48388" toLevel="1" name="Attack Nearby Range">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<castRange>7600</castRange>
+		<hitTime>2500</hitTime>
+		<affectLimit>1-12</affectLimit>
+		<affectRange>600</affectRange>
+		<effectPoint>-400</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">1000</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48389" toLevel="1" name="Ice Ball">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<castRange>2500</castRange>
+		<hitTime>1600</hitTime>
+		<affectLimit>1-12</affectLimit>
+		<affectRange>400</affectRange>
+		<effectPoint>-400</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">200</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48390" toLevel="1" name="Ice Crystal">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48391" toLevel="1" name="Self-destruction">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<castRange>3600</castRange>
+		<hitTime>2500</hitTime>
+		<affectLimit>1-12</affectLimit>
+		<affectRange>900</affectRange>
+		<effectPoint>-400</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">1000</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48392" toLevel="1" name="Ice Storm">
+		<!-- FROST LORD CASTLEZONE -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<isMagic>1</isMagic>
+		<castRange>3600</castRange>
+		<hitTime>1800</hitTime>
+		<reuseDelay>20000</reuseDelay>
+		<affectLimit>1-12</affectLimit>
+		<affectRange>900</affectRange>
+		<effectPoint>-400</effectPoint>
+		<targetType>ENEMY</targetType>
+		<affectScope>RANGE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">500</value>
+				</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48393" toLevel="1" name="Eskimo Transformation">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48394" toLevel="1" name="Eskimo Transformation">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48395" toLevel="1" name="Freezing Stone Demonstration">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48396" toLevel="1" name="Icy Breath - Ice Storm">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48397" toLevel="1" name="Freya's Random Transformation">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48398" toLevel="1" name="Fortune Time Resistance">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48399" toLevel="1" name="Bull's Gratitude">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+</list>

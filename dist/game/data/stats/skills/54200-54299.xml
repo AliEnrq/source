@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="54200" toLevel="1" name="Mount Glory of Champion">
+		<!-- You can mount Glory of Champion. -->
+		<abnormalTime>3600</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>206</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>206</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54201" toLevel="1" name="Mount White Wing">
+		<!-- You can mount White Wing. -->
+		<abnormalTime>3600</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>204</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>204</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54202" toLevel="1" name="Mount Shining Lady">
+		<!-- You can mount Shining Lady. -->
+		<abnormalTime>3600</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>207</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>207</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54203" toLevel="1" name="Silent Ride">
+		<!-- Monsters don't attack first for 30 sec. Speed -20%. Can be used during riding only. The skill is disabled when the character is dismounted. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54204" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among their race. Human Power grants unique appearance to a hero. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>3600</abnormalTime>
+		<abnormalVisualEffect>RANKER_DECO_HUMAN</abnormalVisualEffect>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>385</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>385</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54205" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among their race. Transforms into a Kamael with two black wings. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalVisualEffect>RANKER_DECO_KAMAEL</abnormalVisualEffect>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>386</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54206" toLevel="1" name="Ultimate Death Knight Transformation">
+		<!-- For 20 min., you are transformed into a Death Knight who is cursed by the Fire Dragon Valakas, but possesses great powers. <Appearance effect> P. Atk. +40% P. Critical Damage +40% P. Skill Critical Damage +40% Atk. Spd. +50% Speed +5 Decreases penalty of Received Healing. Increases holy defense. -->
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>JDK_BODY_FIRE_1</abnormalVisualEffect>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>76</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<hitTime>1500</hitTime>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
+		<itemConsumeCount>50</itemConsumeCount>
+		<effects>
+			<effect name="PAtk">
+				<amount>40</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="CriticalDamage">
+				<amount>40</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="SkillCriticalDamage">
+				<amount>40</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>50</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>5</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="HealEffect">
+				<amount>30</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="DefenceAttribute">
+				<amount>20</amount>
+				<attribute>HOLY</attribute>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54207" toLevel="1" name="Mount Night Mare">
+		<!-- Mounts a Night Mare. -->
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>3600</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>208</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54208" toLevel="1" name="Worthy Warrior Effect">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among Death Knights. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54209" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among their race. Power of Orcs grants unique appearance to a hero. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalVisualEffect>RANKER_DECO_ORC</abnormalVisualEffect>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>424</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54210" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among their race. Elven Power grants unique appearance to a hero. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalVisualEffect>RANKER_DECO_ELF</abnormalVisualEffect>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>428</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54211" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among their race. Power of Dark Elves grants unique appearance to a hero. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalVisualEffect>RANKER_DECO_DARKELF</abnormalVisualEffect>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>429</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54212" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that has taken the 1st-3rd places in rankings among their race. Dwarven Power grants unique appearance to a hero. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalVisualEffect>RANKER_DECO_DWARF</abnormalVisualEffect>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>430</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54213" toLevel="1" name="Mount Air Bike">
+		<!-- Allows to ride Air Bike. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54214" toLevel="1" name="Dragon Berserker Evolver">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54215" toLevel="1" name="High Priest Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54216" toLevel="1" name="Baby Shark Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54217" toLevel="1" name="Panda Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54218" toLevel="1" name="Cat Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54219" toLevel="1" name="Teddy Bear Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54220" toLevel="1" name="Dragon Berserker Evolver">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54221" toLevel="1" name="Wild Wolf Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54222" toLevel="1" name="Holiday Attire">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54223" toLevel="1" name="Transform: Kat the Cat">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54224" toLevel="1" name="Hanbok Transformation">
+		<!-- P. Atk. $s1 M. Atk. $s1 Atk. Spd. $s2 Casting Spd. $s2 P. Critical Rate $s3 Skill Critical Rate $s4 Acquired XP/ SP $s5 Sayha's Grace Consumption $s6 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54225" toLevel="1" name="Mount Elemental Lyn Draco">
+		<!-- Mounts an Elemental Lyn Draco. -->
+		<icon>icon.skill0000</icon>
+		<abnormalTime>3600</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>220</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>220</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54226" toLevel="1" name="Worthy Warrior Transformation">
+		<!-- For warriors that have taken the 1st-3rd places in rankings among their race. Sylph Power grants unique appearance to a hero. Max HP +300. -->
+		<icon>icon.skill0000</icon>
+		<abnormalVisualEffect>RANKER_DECO_SYLPH</abnormalVisualEffect>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<hitTime>1000</hitTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="MaxHp">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>387</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="54227" toLevel="1" name="Mount Black Wyvern">
+		<!-- Allows to mount Black Wyvern. When the character is riding Wyvern, weapon/ sigil is unequipped. Only select Buff skills are available while riding the Wyvern. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54228" toLevel="1" name="Eskimo Transformation">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54229" toLevel="1" name="Santa Claus Transformation">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54230" toLevel="1" name="Castle Guardian Transformation">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="54231" toLevel="1" name="Dragon Slayer Appearance">
+		<icon>icon.dragon_slayer_suit</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>300</abnormalTime>
+		<abnormalType>CHANGEBODY</abnormalType>
+		<abnormalVisualEffect>S_DRAGON_SLAYER</abnormalVisualEffect>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>45</magicLevel>
+		<operateType>A2</operateType>
+		<reuseDelay>600000</reuseDelay>
+		<stayAfterDeath>true</stayAfterDeath>
+		<coolTime>500</coolTime>
+		<hitTime>500</hitTime>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<itemConsumeId>3031</itemConsumeId>
+		<itemConsumeCount>20</itemConsumeCount>
+		<conditions>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>54230</skillId> <!-- Castle Guardian Transformation -->
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="PAtk">
+				<amount>200</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>200</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalDefence">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>300</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalAttackSpeed">
+				<amount>30</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>30</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MaxHp">
+				<amount>500</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MaxMp">
+				<amount>500</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</skill>
+</list>

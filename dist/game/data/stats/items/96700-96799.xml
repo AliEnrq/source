@@ -1,0 +1,1286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="96700" name="Beryl Lv. 1" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +30 M. Atk. +30 P. Def. +50 M. Def. +50 Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96701" name="Beryl Lv. 2" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +100 M. Atk. +100 P. Def. +125 M. Def. +125 Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96702" name="Beryl Lv. 3" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +175 M. Atk. +175 P. Def. +245 M. Def. +245 Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96703" name="Beryl Lv. 4" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +250 M. Atk. +250 P. Def. +365 M. Def. +365 Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96704" name="Beryl Lv. 5" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +330 M. Atk. +330 P. Def. +495 M. Def. +495 Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96705" name="Beryl Lv. 6" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +410 M. Atk. +410 P. Def. +625 M. Def. +625 <Beryl - Barrier> When hit, creates a barrier that absorbs 3000 damage for 10 sec. (Trigger cooldown: 60 sec.) Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96706" name="Beryl Lv. 7" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +490 M. Atk. +490 P. Def. +765 M. Def. +765 <Beryl - Barrier> When hit, creates a barrier that absorbs 4000 damage for 10 sec. (Trigger cooldown: 60 sec.) Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96707" name="Beryl Lv. 8" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +570 M. Atk. +570 P. Def. +905 M. Def. +905 <Beryl - Barrier> When hit, creates a barrier that absorbs 5000 damage for 10 sec. (Trigger cooldown: 60 sec.) Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
+		<set name="icon" val="icon.etc_bm_jewel_beryl_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="brooch_jewel" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96708" name="Beryl Jewelry Box Lv. 1" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96709" name="Beryl Jewelry Box Lv. 2" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96710" name="Beryl Jewelry Box Lv. 3" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96711" name="Beryl Jewelry Box Lv. 4" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96712" name="Beryl Jewelry Box Lv. 5" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96713" name="Beryl Jewelry Box Lv. 6" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96714" name="Beryl Jewelry Box Lv. 7" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96715" name="Beryl Jewelry Box Lv. 8" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96716" name="Frintezza Slayer Kit (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_dragon_present" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96717" name="Jewelry Kit: Beryl (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_beryl_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96718" name="Monster Only (Lesser Giant A)" additionalName="Not Available" type="Weapon">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<skills>
+			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
+		</skills>
+		<stats>
+			<stat type="pAtk">50</stat>
+			<stat type="mAtk">26</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96719" name="Monster Only (Lesser Giant Wizard's Weapon A)" additionalName="Not Available" type="Weapon">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="D" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant_enabled" val="true" />
+		<skills>
+			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
+		</skills>
+		<stats>
+			<stat type="pAtk">50</stat>
+			<stat type="mAtk">26</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96720" name="Giant's One-handed Axe" type="Weapon">
+		<!-- <Pet equipment effect> Increases P./ M. Atk. <Acquisition> Giant's Cave Purge -->
+		<set name="icon" val="icon.subjugation_wp_blunt_2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1620" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96721" name="Giant's Two-handed Staff" type="Weapon">
+		<!-- <Pet equipment effect> Increases P./ M. Atk. <Acquisition> Giant's Cave Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandstaff_2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="960" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96722" name="Giant's One-handed Axe" additionalName="Sealed" type="Weapon">
+		<!-- <Pet equipment effect> Increases P./ M. Atk. <Acquisition> Giant's Cave Purge -->
+		<set name="icon" val="icon.subjugation_wp_blunt_2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1620" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96723" name="Giant's Two-handed Staff" additionalName="Sealed" type="Weapon">
+		<!-- <Pet equipment effect> Increases P./ M. Atk. <Acquisition> Giant's Cave Purge -->
+		<set name="icon" val="icon.subjugation_wp_twohandstaff_2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="960" />
+		<set name="price" val="5790000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96724" name="Giant's Cave Purge Rank Reward Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96725" name="Low-grade Supply Box - Giant's Cave Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96726" name="High-grade Supply Box - Giant's Cave Purge" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96727" name="Recipe: Giant's Cave Purge Equipment" type="EtcItem">
+		<!-- A recipe for Giant's One-handed Axe and Giant's Two-handed Staff. -->
+		<set name="icon" val="icon.change_restore_i06" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1447500" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96728" name="Einhasad's Protection" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect> Acquired XP +100% Acquired SP +100% Duration: 20 min. Cooldown: 1 min. The effect remains after death. <font color=ff6666>Note!</font> The Einhasad's Protection effect is triggered when using the item along with the following buffs: - Einhasad's Blessing Scroll - Dandy's Home Run Ball - Dandy's Golden Ball - Giran Seal -->
+		<set name="icon" val="icon.etc_dragons_blood_i03" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96729" name="Einhasad's Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect> Acquired XP +100% Acquired SP +100% Duration: 20 min. Cooldown: 1 min. The effect remains after death. <font color=ff6666>Note!</font> The Einhasad's Protection effect is triggered when using the item along with the following buffs: - Einhasad's Blessing Scroll - Dandy's Home Run Ball - Dandy's Golden Ball - Giran Seal -->
+		<set name="icon" val="icon.etc_dragons_blood_i03" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96730" name="Giant's Relic Pouch (Time-limited)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_pouch_red_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96731" name="Giant's Shining Relic Pouch (Time-limited)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_lucky_pocket_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96732" name="Lesser Giant's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. There is a 50% chance to obtain Giran Seal. -->
+		<set name="icon" val="icon.bm_gold_relic_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96733" name="Kit: Lesser Giant's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.present_of_destination_event" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96734" name="Spirit's Breath (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be obtained in the Elmoreden Tower. <How to use> Special Craft - Elmoreden Agathion Pack -->
+		<set name="icon" val="icon.wind_agathion_breath" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96735" name="Package: Excuro's Staff" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_staff_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96736" name="Package: Torfe's Claw" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_dualfist_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96737" name="Package: Giants' Club" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_blunt_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96738" name="Package: Ancient Rapier" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_rapier_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96739" name="Package: Guardian Messenger's Spear" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_pole_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96740" name="Package: Sealed Angel's Hammer" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_twohandblunt_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96741" name="Package: Lizardman Shaman's Staff" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_twohandstaff_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96742" name="Package: Lizard Slayer" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.shooter_monster_low" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96743" name="Package: Deadman's Dagger" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_dagger_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96744" name="Package: Dragon Bone Blade" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_ancientsword_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96745" name="Package: Berserker's Sword" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_sword_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96746" name="Package: Sel Mahum Sniper" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_bow_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96747" name="Package: Turek Orc Prefect's Dual Swords" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_dual_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96748" name="Package: Butcher's Long Sword" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_twohandsword_01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96749" name="Package: Giant's One-handed Axe" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_blunt_2" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96750" name="Package: Giant's Two-handed Staff" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.subjugation_wp_twohandstaff_2" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96751" name="Frost Lord's Sword" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">279</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96752" name="Frost Lord's Two-handed Sword" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_two_hand_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1820" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">340</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96753" name="Frost Lord's Axe" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_blunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1550" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">279</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96754" name="Frost Lord's Dagger" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dagger" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="930" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">245</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96755" name="Frost Lord's Spear" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_pole" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="CHRYSOLITE" />
+		<set name="weight" val="1820" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<skills>
+			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
+		</skills>
+		<stats>
+			<stat type="pAtk">279</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96756" name="Frost Lord's Bow" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_bow" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1640" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="2" />
+		<set name="mp_consume" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">634</stat>
+			<stat type="mAtk">166</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">500</stat>
+		</stats>
+	</item>
+	<item id="96757" name="Frost Lord's Blade Fists" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_dualfist" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="FIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1330" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">340</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96758" name="Frost Lord's Magic Blunt Weapon" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_staff" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1510" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">222</stat>
+			<stat type="mAtk">204</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96759" name="Frost Lord's Staff" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_two_hand_staff" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="880" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">270</stat>
+			<stat type="mAtk">224</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96760" name="Frost Lord's Ancient Sword" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_ancientsword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1530" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">309</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">15</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96761" name="Frost Lord's Rapier" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_rapier" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="RAPIER" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">266</stat>
+			<stat type="mAtk">184</stat>
+			<stat type="pAtkSpd">406</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96762" name="Frost Lord's Pistols" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.frozen_weapon_shooter" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="PISTOLS" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1640" />
+		<set name="soulshots" val="3" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">634</stat>
+			<stat type="mAtk">166</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96763" name="Frost Lord's Dual Swords" additionalName="Sealed" type="Weapon">
+		<!-- As with two-handed swords/blunts and fist weapons, dual swords have a greater increase in P. Atk. when enchanted than one-handed swords. -->
+		<set name="icon" val="icon.frozen_weapon_dual_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1890" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">340</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96764" name="Package: Beleth's Soul Eater" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.staff_of_bereth" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96765" name="Package: Beleth's Soul Eater" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.staff_of_bereth" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96766" name="Package: Frost Lord's Sword" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_sword" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96767" name="Package: Frost Lord's Two-handed Sword" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_two_hand_sword" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96768" name="Package: Frost Lord's Axe" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_blunt" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96769" name="Package: Frost Lord's Dagger" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_dagger" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96770" name="Package: Frost Lord's Spear" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_pole" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96771" name="Package: Frost Lord's Bow" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_bow" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96772" name="Package: Frost Lord's Blade Fists" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_dualfist" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96773" name="Package: Frost Lord's Magic Blunt Weapon" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_staff" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96774" name="Package: Frost Lord's Staff" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_two_hand_staff" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96775" name="Package: Frost Lord's Ancient Sword" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_ancientsword" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96776" name="Package: Frost Lord's Rapier" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_rapier" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96777" name="Package: Frost Lord's Pistols" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_shooter" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96778" name="Package: Frost Lord's Dual Swords" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.frozen_weapon_dual_sword" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96779" name="Crafting Pack: Frost Lord's Weapon" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.sayha2017_box_i02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96780" name="Spellbook: Dragon Slayer" additionalName="Sealed" type="EtcItem">
+		<!-- Required for learning the Dragon Slayer transformation. <Classes> All <Skill effect> Transforms into Dragon Slayer. Increases Max HP, Max MP, P. Atk./ M. Atk./ P. Def./ M. Def., Atk. Spd., Casting Spd. -->
+		<set name="icon" val="icon.si_phanteon_book" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96781" name="Package: Gauntlets of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t901_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96782" name="Package: Gauntlets of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t901_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96783" name="Package: Helmet of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96784" name="Package: Helmet of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96785" name="Package: Boots of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t901_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96786" name="Package: Boots of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t901_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96787" name="Enhanced Talisman of Speed Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_pirate_king_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96788" name="Talisman Ore (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be obtained in the Elmoreden Tower. <How to use> Special Craft - Talisman of Elmoreden -->
+		<set name="icon" val="icon.energy_condenser_i01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96789" name="Kit: Settling Support" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <font color=ff6666>Note!</font> Unused items will be deleted after the event. -->
+		<set name="icon" val="icon.etc_ev_kalie_treasure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96790" name="Package: Red Lantern (400 pcs.)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Required level> 85+ <font color=ff6666>Note!</font> Unused items will be deleted after the event. -->
+		<set name="icon" val="icon.r99_soul_stone_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96791" name="Moon's Gift Box" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <font color=ff6666>Note!</font> Unused items will be deleted after the event. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96792" name="Moon's Supply Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <font color=ff6666>Note!</font> Unused items will be deleted after the event. -->
+		<set name="icon" val="icon.etc_pi_box_joy_pack" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96793" name="Elmoreden Guardian Doll Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i08" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96794" name="Monsters Only_Stone Idol Weapon - Spear - Not Available" additionalName="Not Available" type="Weapon">
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1430" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96795" name="Monsters Only_Stone Idol Weapon - One-handed Sword - Not Available" additionalName="Not Available" type="Weapon">
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="C" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1400" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96796" name="Growth Support Rune" additionalName="30-day" type="EtcItem">
+		<!-- Applies the following effects while in inventory. Acquired XP +50% Acquired SP +50% Soulshot damage +10% Spiritshot damage +10% Atk. Spd. +50 Casting Spd. +50 Speed +5 Magic Lamp charging rate +10% -->
+		<set name="icon" val="icon.bm_freya_bloody_rune" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="96797" name="Adventurers' Guide Coupon (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be exchanged in the Adventurers' Guide Shop. Sayha's Grace points +1000, when used. -->
+		<set name="icon" val="icon.bm_challenger_wp_trade_ticket" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96798" name="+0 ~ +5 Talisman of Authority Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.bm_silver_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96799" name="+0 ~ +5 Dragon Belt Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_readybox_bronze" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

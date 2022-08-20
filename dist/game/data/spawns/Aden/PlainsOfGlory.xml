@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="PlainsOfGlory">
+		<group>
+			<npc id="31649" x="140406" y="12433" z="-3954" heading="49151" respawnTime="60sec" /> <!-- Tablet Of Vision -->
+			<npc id="24014" x="138536" y="20296" z="-3533" heading="60637" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="137880" y="19432" z="-3691" heading="8556" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137880" y="19432" z="-3691" heading="8556" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="138056" y="19560" z="-3661" heading="6779" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="138056" y="19560" z="-3661" heading="6779" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="138056" y="19560" z="-3661" heading="6779" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="137880" y="19848" z="-3646" heading="21883" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137880" y="19848" z="-3646" heading="21883" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137880" y="19848" z="-3646" heading="21883" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137880" y="19848" z="-3646" heading="21883" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="137864" y="20152" z="-3611" heading="16932" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137864" y="20152" z="-3611" heading="16932" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137864" y="20152" z="-3611" heading="16932" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137864" y="20152" z="-3611" heading="16932" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137864" y="20152" z="-3611" heading="16932" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="24014" x="137672" y="20328" z="-3624" heading="25066" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20686" x="137976" y="20472" z="-3602" heading="4700" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137976" y="20472" z="-3602" heading="4700" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137976" y="20472" z="-3602" heading="4700" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20683" x="137976" y="20472" z="-3602" heading="4700" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20682" x="137976" y="20472" z="-3602" heading="4700" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20682" x="137800" y="20824" z="-3601" heading="13408" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137800" y="20824" z="-3601" heading="13408" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137800" y="20824" z="-3601" heading="13408" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137800" y="20824" z="-3601" heading="13408" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20683" x="137720" y="21080" z="-3599" heading="19378" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137720" y="21080" z="-3599" heading="19378" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20686" x="137720" y="21080" z="-3599" heading="19378" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137720" y="21080" z="-3599" heading="19378" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="24014" x="137720" y="21080" z="-3599" heading="19378" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="137816" y="21192" z="-3593" heading="9030" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137816" y="21192" z="-3593" heading="9030" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137816" y="21192" z="-3593" heading="9030" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137816" y="21192" z="-3593" heading="9030" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137816" y="21192" z="-3593" heading="9030" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="24014" x="137720" y="21512" z="-3593" heading="19399" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="137720" y="21512" z="-3593" heading="19399" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20682" x="137528" y="21528" z="-3599" heading="31802" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137528" y="21528" z="-3599" heading="31802" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137528" y="21528" z="-3599" heading="31802" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137528" y="21528" z="-3599" heading="31802" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="137400" y="21304" z="-3602" heading="43618" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137400" y="21304" z="-3602" heading="43618" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137400" y="21304" z="-3602" heading="43618" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="137400" y="21064" z="-3605" heading="49151" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137400" y="21064" z="-3605" heading="49151" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137400" y="21064" z="-3605" heading="49151" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="137336" y="20856" z="-3619" heading="46014" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137336" y="20856" z="-3619" heading="46014" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20682" x="137384" y="20488" z="-3659" heading="50503" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137384" y="20488" z="-3659" heading="50503" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137384" y="20488" z="-3659" heading="50503" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137432" y="20056" z="-3705" heading="50335" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137432" y="20056" z="-3705" heading="50335" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="24014" x="137432" y="20056" z="-3705" heading="50335" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="137464" y="19784" z="-3718" heading="50429" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137464" y="19784" z="-3718" heading="50429" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137464" y="19784" z="-3718" heading="50429" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137464" y="19784" z="-3718" heading="50429" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20686" x="137624" y="19352" z="-3717" heading="52789" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137624" y="19352" z="-3717" heading="52789" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137624" y="19352" z="-3717" heading="52789" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="137624" y="19352" z="-3717" heading="52789" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20682" x="137240" y="19432" z="-3697" heading="30490" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137240" y="19432" z="-3697" heading="30490" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137240" y="19432" z="-3697" heading="30490" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20685" x="137240" y="19432" z="-3697" heading="30490" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="137224" y="19720" z="-3706" heading="16824" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137224" y="19720" z="-3706" heading="16824" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137224" y="19720" z="-3706" heading="16824" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="137096" y="20184" z="-3704" heading="19248" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137096" y="20184" z="-3704" heading="19248" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137096" y="20184" z="-3704" heading="19248" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137096" y="20184" z="-3704" heading="19248" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="137048" y="20616" z="-3685" heading="17725" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137048" y="20616" z="-3685" heading="17725" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137048" y="20616" z="-3685" heading="17725" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137048" y="20616" z="-3685" heading="17725" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="136904" y="21032" z="-3677" heading="20009" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136904" y="21032" z="-3677" heading="20009" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136904" y="21032" z="-3677" heading="20009" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136904" y="21032" z="-3677" heading="20009" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136923" y="21161" z="-3660" heading="14721" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136968" y="21448" z="-3622" heading="14721" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136968" y="21448" z="-3622" heading="14721" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136968" y="21448" z="-3622" heading="14721" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136968" y="21448" z="-3622" heading="14721" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="137304" y="21816" z="-3600" heading="8688" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137304" y="21816" z="-3600" heading="8688" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137304" y="21816" z="-3600" heading="8688" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137304" y="21816" z="-3600" heading="8688" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="137320" y="22280" z="-3600" heading="16072" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137320" y="22280" z="-3600" heading="16072" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137320" y="22280" z="-3600" heading="16072" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137320" y="22280" z="-3600" heading="16072" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="136904" y="22088" z="-3608" heading="37164" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136904" y="22088" z="-3608" heading="37164" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136904" y="22088" z="-3608" heading="37164" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136904" y="22088" z="-3608" heading="37164" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20682" x="136456" y="22120" z="-3696" heading="29621" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136456" y="22120" z="-3696" heading="29621" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136456" y="22120" z="-3696" heading="29621" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136456" y="22120" z="-3696" heading="29621" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136456" y="22120" z="-3696" heading="29621" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="24014" x="136456" y="22120" z="-3696" heading="29621" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="24014" x="136584" y="22648" z="-3592" heading="44315" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20686" x="136520" y="22520" z="-3576" heading="27131" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136410" y="22645" z="-3600" heading="20259" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136410" y="22645" z="-3600" heading="20259" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136410" y="22645" z="-3600" heading="20259" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20682" x="136410" y="22645" z="-3600" heading="20259" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20682" x="136661" y="22827" z="-3592" heading="5216" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136661" y="22827" z="-3592" heading="5216" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136661" y="22827" z="-3592" heading="5216" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="137160" y="22472" z="-3603" heading="59114" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137160" y="22472" z="-3603" heading="59114" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137160" y="22472" z="-3603" heading="59114" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="137016" y="21976" z="-3604" heading="46287" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137016" y="21976" z="-3604" heading="46287" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137016" y="21976" z="-3604" heading="46287" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="136728" y="21368" z="-3675" heading="44640" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136728" y="21368" z="-3675" heading="44640" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136728" y="21368" z="-3675" heading="44640" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136728" y="21368" z="-3675" heading="44640" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136728" y="21368" z="-3675" heading="44640" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136632" y="20776" z="-3640" heading="47592" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136632" y="20776" z="-3640" heading="47592" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136632" y="20776" z="-3640" heading="47592" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136632" y="20776" z="-3640" heading="47592" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136632" y="20776" z="-3640" heading="47592" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="24014" x="136632" y="20776" z="-3640" heading="47592" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="136728" y="20184" z="-3631" heading="50837" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136728" y="20184" z="-3631" heading="50837" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136728" y="20184" z="-3631" heading="50837" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136728" y="20184" z="-3631" heading="50837" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136728" y="20184" z="-3631" heading="50837" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136472" y="20168" z="-3565" heading="33165" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136472" y="20168" z="-3565" heading="33165" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136472" y="20168" z="-3565" heading="33165" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136472" y="20168" z="-3565" heading="33165" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136472" y="20168" z="-3565" heading="33165" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136680" y="19592" z="-3592" heading="52670" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136680" y="19592" z="-3592" heading="52670" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136680" y="19592" z="-3592" heading="52670" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136680" y="19592" z="-3592" heading="52670" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136680" y="19592" z="-3592" heading="52670" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136856" y="19560" z="-3636" heading="64006" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136856" y="19560" z="-3636" heading="64006" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136856" y="19560" z="-3636" heading="64006" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136856" y="19560" z="-3636" heading="64006" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136856" y="19560" z="-3636" heading="64006" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="137256" y="19896" z="-3714" heading="7236" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137256" y="19896" z="-3714" heading="7236" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137256" y="19896" z="-3714" heading="7236" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137256" y="19896" z="-3714" heading="7236" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137464" y="20408" z="-3647" heading="12229" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20686" x="137464" y="20408" z="-3647" heading="12229" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137464" y="20408" z="-3647" heading="12229" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20683" x="137464" y="20408" z="-3647" heading="12229" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20682" x="137288" y="22808" z="-3561" heading="10159" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137288" y="22808" z="-3561" heading="10159" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137288" y="22808" z="-3561" heading="10159" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137288" y="22808" z="-3561" heading="10159" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137288" y="22808" z="-3561" heading="10159" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="137064" y="23320" z="-3536" heading="20642" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="137064" y="23320" z="-3536" heading="20642" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="137064" y="23320" z="-3536" heading="20642" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="137064" y="23320" z="-3536" heading="20642" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="137064" y="23320" z="-3536" heading="20642" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136840" y="23064" z="-3571" heading="41531" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136840" y="23064" z="-3571" heading="41531" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136840" y="23064" z="-3571" heading="41531" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136840" y="23064" z="-3571" heading="41531" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="24014" x="136840" y="23064" z="-3571" heading="41531" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="24014" x="136552" y="23080" z="-3605" heading="31950" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20685" x="136552" y="23080" z="-3605" heading="31950" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20684" x="136552" y="23080" z="-3605" heading="31950" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20686" x="136552" y="23080" z="-3605" heading="31950" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="136680" y="23256" z="-3587" heading="9949" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136680" y="23256" z="-3587" heading="9949" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20682" x="136344" y="23304" z="-3637" heading="31287" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136344" y="23304" z="-3637" heading="31287" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136344" y="23304" z="-3637" heading="31287" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20685" x="136344" y="23304" z="-3637" heading="31287" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="135960" y="22920" z="-3707" heading="40932" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="135960" y="22920" z="-3707" heading="40932" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="135960" y="22920" z="-3707" heading="40932" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="135960" y="22920" z="-3707" heading="40932" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="135960" y="22920" z="-3707" heading="40932" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="135928" y="22408" z="-3726" heading="48363" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="135928" y="22408" z="-3726" heading="48363" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20683" x="135928" y="22408" z="-3726" heading="48363" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20684" x="135928" y="22408" z="-3726" heading="48363" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="135928" y="22408" z="-3726" heading="48363" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20683" x="136008" y="21848" z="-3669" heading="50534" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136008" y="21848" z="-3669" heading="50534" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136008" y="21848" z="-3669" heading="50534" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20686" x="136008" y="21848" z="-3669" heading="50534" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="24014" x="136008" y="21848" z="-3669" heading="50534" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="136120" y="21512" z="-3634" heading="56019" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136120" y="21512" z="-3634" heading="56019" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136120" y="21512" z="-3634" heading="56019" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136120" y="21512" z="-3634" heading="56019" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136120" y="21512" z="-3634" heading="56019" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136008" y="21240" z="-3548" heading="45210" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136008" y="21240" z="-3548" heading="45210" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136008" y="21240" z="-3548" heading="45210" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="136424" y="21000" z="-3615" heading="60210" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136424" y="21000" z="-3615" heading="60210" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136424" y="21000" z="-3615" heading="60210" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136424" y="21000" z="-3615" heading="60210" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136424" y="21000" z="-3615" heading="60210" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136184" y="20728" z="-3546" heading="41514" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136184" y="20728" z="-3546" heading="41514" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20682" x="136856" y="21864" z="-3624" heading="10871" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136856" y="21864" z="-3624" heading="10871" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20683" x="136856" y="21864" z="-3624" heading="10871" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136856" y="21864" z="-3624" heading="10871" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136856" y="21864" z="-3624" heading="10871" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136856" y="21864" z="-3624" heading="10871" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="20682" x="136376" y="21624" z="-3686" heading="37431" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136376" y="21624" z="-3686" heading="37431" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136376" y="21624" z="-3686" heading="37431" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20684" x="136376" y="21624" z="-3686" heading="37431" respawnTime="60sec" /> <!-- Vanor Silenos Warrior -->
+			<npc id="20685" x="136376" y="21624" z="-3686" heading="37431" respawnTime="60sec" /> <!-- Vanor Silenos Shaman -->
+			<npc id="24014" x="136376" y="21352" z="-3642" heading="49151" respawnTime="60sec" /> <!-- Vanor -->
+			<npc id="20682" x="136696" y="21736" z="-3672" heading="9121" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136696" y="21736" z="-3672" heading="9121" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20683" x="136696" y="21736" z="-3672" heading="9121" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20686" x="136696" y="21736" z="-3672" heading="9121" respawnTime="60sec" /> <!-- Vanor Silenos Chieftain -->
+			<npc id="20682" x="136952" y="21560" z="-3618" heading="59383" respawnTime="60sec" /> <!-- Vanor Silenos Soldier -->
+			<npc id="20683" x="136952" y="21560" z="-3618" heading="59383" respawnTime="60sec" /> <!-- Vanor Silenos Scout -->
+			<npc id="20667" x="162440" y="21384" z="-3658" heading="55410" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="161736" y="21448" z="-3682" heading="32409" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161128" y="21768" z="-3705" heading="23413" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161208" y="21304" z="-3683" heading="50955" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="161512" y="21896" z="-3696" heading="47305" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="161912" y="22344" z="-3728" heading="8827" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="161592" y="23064" z="-3710" heading="21627" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="161384" y="23288" z="-3706" heading="23999" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="161176" y="23752" z="-3707" heading="20714" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161832" y="23672" z="-3726" heading="64201" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="162264" y="23688" z="-3713" heading="268" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="162744" y="23208" z="-3708" heading="57376" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="163192" y="23336" z="-3709" heading="2942" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="163368" y="22744" z="-3701" heading="52163" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="163528" y="21928" z="-3649" heading="51220" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="163768" y="21288" z="-3596" heading="52839" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="163640" y="23656" z="-3725" heading="25931" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="163625" y="24315" z="-3727" heading="16676" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="163624" y="24376" z="-3729" heading="16676" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="163080" y="24232" z="-3696" heading="35562" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="162280" y="24088" z="-3706" heading="34713" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="161816" y="24840" z="-3706" heading="23228" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="161816" y="24840" z="-3706" heading="23228" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="162632" y="24840" z="-3709" heading="59395" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="162632" y="24840" z="-3709" heading="59395" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="162712" y="25320" z="-3731" heading="14675" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="163080" y="25672" z="-3729" heading="7913" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="163432" y="26264" z="-3729" heading="10716" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="163832" y="27032" z="-3719" heading="11289" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="163496" y="26648" z="-3729" heading="27032" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="163432" y="24648" z="-3728" heading="42845" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="163752" y="25064" z="-3729" heading="63722" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="163208" y="23928" z="-3712" heading="44460" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="162920" y="23656" z="-3698" heading="40661" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="161432" y="24440" z="-3684" heading="26386" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20659" x="161704" y="24152" z="-3720" heading="14933" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="161704" y="24152" z="-3720" heading="14933" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="161656" y="23656" z="-3717" heading="16979" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="160248" y="19816" z="-3662" heading="19400" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="160648" y="19880" z="-3682" heading="1570" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="161256" y="19704" z="-3669" heading="62734" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="161496" y="19464" z="-3621" heading="57516" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="161944" y="19416" z="-3588" heading="64528" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="162248" y="19304" z="-3561" heading="61767" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="162184" y="18824" z="-3551" heading="47804" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="162552" y="18520" z="-3528" heading="58216" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="162328" y="18056" z="-3553" heading="44622" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="162008" y="18312" z="-3594" heading="25808" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="161192" y="18552" z="-3664" heading="21997" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="160728" y="18616" z="-3690" heading="31287" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="160408" y="18904" z="-3677" heading="13189" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160600" y="18840" z="-3686" heading="61889" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="160405" y="18806" z="-3679" heading="34686" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="160136" y="18760" z="-3669" heading="34686" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="159918" y="18530" z="-3669" heading="41082" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="159848" y="18456" z="-3671" heading="41082" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="159715" y="18213" z="-3680" heading="43941" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159656" y="18104" z="-3690" heading="43941" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="159917" y="18013" z="-3699" heading="62146" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160024" y="17976" z="-3708" heading="62146" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="160417" y="18010" z="-3709" heading="27" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="160654" y="18008" z="-3712" heading="27" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="160908" y="17991" z="-3706" heading="64621" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161221" y="17823" z="-3689" heading="56122" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="161422" y="17578" z="-3677" heading="56122" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="161708" y="17665" z="-3641" heading="9591" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161948" y="17765" z="-3609" heading="2181" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="162418" y="17846" z="-3543" heading="7196" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="162716" y="17713" z="-3505" heading="60402" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="162755" y="17320" z="-3499" heading="48411" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="162523" y="17142" z="-3540" heading="30879" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="162113" y="17254" z="-3605" heading="27632" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161556" y="17260" z="-3672" heading="33063" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="160978" y="17198" z="-3732" heading="34221" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160530" y="17312" z="-3749" heading="28786" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="160346" y="17386" z="-3757" heading="28786" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159919" y="17346" z="-3757" heading="34312" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="159723" y="17320" z="-3754" heading="34312" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="159720" y="17320" z="-3754" heading="34312" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="159464" y="17416" z="-3730" heading="30316" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="159571" y="16918" z="-3774" heading="54056" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="159639" y="16777" z="-3794" heading="54056" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="159598" y="16513" z="-3810" heading="46559" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159550" y="16322" z="-3821" heading="46559" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="159832" y="16168" z="-3850" heading="62715" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="160026" y="16132" z="-3848" heading="63714" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160184" y="16104" z="-3846" heading="63714" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="160424" y="15864" z="-3846" heading="57167" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="160374" y="15672" z="-3851" heading="46463" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="159950" y="15424" z="-3871" heading="35291" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="160027" y="15096" z="-3885" heading="55163" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="160120" y="14952" z="-3895" heading="55163" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="160388" y="14515" z="-3890" heading="53747" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="160561" y="14267" z="-3886" heading="61086" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="160702" y="14146" z="-3882" heading="53618" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="159620" y="14097" z="-3947" heading="25235" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="159501" y="14202" z="-3957" heading="25235" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="159112" y="14249" z="-3982" heading="34909" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="158996" y="14225" z="-3989" heading="34909" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="158609" y="14112" z="-3988" heading="36097" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="158496" y="14074" z="-3982" heading="36097" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="158483" y="13778" z="-3973" heading="51686" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="158504" y="13688" z="-3972" heading="51686" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="158460" y="13374" z="-3949" heading="47835" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="158444" y="13257" z="-3941" heading="47835" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="157835" y="13925" z="-3955" heading="23236" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="157712" y="14080" z="-3961" heading="23236" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="157507" y="14320" z="-3977" heading="23816" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="157352" y="14499" z="-3991" heading="23816" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="158188" y="13783" z="-3963" heading="52408" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="158908" y="12491" z="-3950" heading="49776" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="158920" y="12328" z="-3951" heading="49776" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="159195" y="11990" z="-3951" heading="56239" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159379" y="11844" z="-3941" heading="59847" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="159613" y="11698" z="-3923" heading="59847" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160092" y="11856" z="-3909" heading="3667" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="160440" y="12296" z="-3901" heading="10538" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="160788" y="12771" z="-3867" heading="8257" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160966" y="12788" z="-3860" heading="65300" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161274" y="12507" z="-3848" heading="52004" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="161329" y="12317" z="-3843" heading="52004" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="161570" y="12152" z="-3828" heading="61359" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161886" y="12221" z="-3796" heading="5244" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="162127" y="12355" z="-3764" heading="5244" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="162126" y="12835" z="-3763" heading="16587" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="162169" y="13185" z="-3757" heading="14321" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="162302" y="13345" z="-3742" heading="4031" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="162255" y="13417" z="-3745" heading="34748" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="162248" y="13416" z="-3748" heading="34748" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161961" y="13207" z="-3782" heading="39187" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="161896" y="13160" z="-3794" heading="39187" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="161469" y="13162" z="-3841" heading="31355" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161182" y="13696" z="-3868" heading="19248" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161176" y="13720" z="-3871" heading="19248" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="161880" y="15192" z="-3757" heading="13856" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161675" y="15833" z="-3762" heading="19605" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="161640" y="15944" z="-3769" heading="19605" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161640" y="15944" z="-3769" heading="19605" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="161960" y="16105" z="-3722" heading="2112" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="162104" y="16136" z="-3701" heading="2112" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="162504" y="15912" z="-3621" heading="60724" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="162816" y="15943" z="-3580" heading="818" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="162824" y="15944" z="-3579" heading="818" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="162666" y="16410" z="-3561" heading="24881" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="162992" y="17063" z="-3499" heading="8067" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="163133" y="17201" z="-3481" heading="8067" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20661" x="161320" y="20936" z="-3675" heading="22656" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="162952" y="21658" z="-3647" heading="1316" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="160680" y="27048" z="-3591" heading="20384" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="160808" y="27416" z="-3595" heading="4664" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="161097" y="27682" z="-3621" heading="7785" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="161324" y="27890" z="-3645" heading="7768" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="161621" y="28149" z="-3664" heading="7253" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="161911" y="28335" z="-3680" heading="3914" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="162243" y="28175" z="-3695" heading="51614" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="162427" y="28544" z="-3688" heading="13054" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="162268" y="28884" z="-3662" heading="23765" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="161816" y="29005" z="-3644" heading="33659" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161578" y="29261" z="-3624" heading="19090" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="161857" y="29543" z="-3613" heading="6401" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="161988" y="29850" z="-3583" heading="17009" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="161847" y="29999" z="-3555" heading="37178" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="161400" y="30072" z="-3503" heading="26900" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161400" y="30296" z="-3451" heading="13529" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="161781" y="30476" z="-3425" heading="939" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="161374" y="30827" z="-3332" heading="26137" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="161075" y="30702" z="-3333" heading="40361" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="160856" y="30312" z="-3384" heading="44178" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="160928" y="29872" z="-3473" heading="53629" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="161152" y="29470" z="-3556" heading="52257" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="161384" y="29528" z="-3589" heading="9413" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="161269" y="28984" z="-3610" heading="38361" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="161069" y="28655" z="-3605" heading="43725" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="160782" y="28314" z="-3582" heading="40591" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="160441" y="28471" z="-3538" heading="26276" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="160249" y="28036" z="-3534" heading="45584" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="159986" y="27791" z="-3516" heading="41102" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="159756" y="27564" z="-3500" heading="39946" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="159208" y="27208" z="-3482" heading="27552" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="159320" y="26904" z="-3486" heading="50591" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="159375" y="26514" z="-3498" heading="50040" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="159464" y="25967" z="-3512" heading="51155" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="159190" y="25679" z="-3516" heading="40117" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="159531" y="25570" z="-3527" heading="74" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159932" y="25680" z="-3539" heading="6900" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="159925" y="26245" z="-3545" heading="16045" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="159586" y="26524" z="-3509" heading="26678" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="159406" y="27354" z="-3482" heading="15268" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="159544" y="27768" z="-3482" heading="12579" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="158880" y="27648" z="-3464" heading="34731" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="158693" y="27229" z="-3464" heading="45412" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="158356" y="27730" z="-3437" heading="20891" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="158580" y="28201" z="-3431" heading="6502" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="159068" y="28502" z="-3438" heading="4340" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="159629" y="28623" z="-3462" heading="55900" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="160115" y="28604" z="-3501" heading="7423" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="160352" y="28951" z="-3501" heading="14333" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="160438" y="29490" z="-3467" heading="13557" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20661" x="160514" y="29988" z="-3409" heading="17781" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="160572" y="30320" z="-3360" heading="13121" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="160866" y="30713" z="-3314" heading="14423" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161289" y="31122" z="-3272" heading="6806" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="161053" y="31354" z="-3223" heading="28009" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="160543" y="31300" z="-3207" heading="31743" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="160536" y="30760" z="-3283" heading="49700" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="160101" y="31147" z="-3224" heading="26007" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="159740" y="30833" z="-3261" heading="40077" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="159390" y="30648" z="-3275" heading="37104" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="159859" y="30384" z="-3313" heading="63651" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="160216" y="30152" z="-3347" heading="60544" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="159921" y="29801" z="-3363" heading="40236" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="159825" y="29321" z="-3413" heading="48302" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159226" y="29282" z="-3398" heading="31188" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="159360" y="30000" z="-3332" heading="10482" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="159579" y="29080" z="-3418" heading="49731" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="158763" y="29397" z="-3385" heading="27427" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="158256" y="28913" z="-3411" heading="41852" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="157903" y="28597" z="-3423" heading="39530" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="157285" y="27778" z="-3418" heading="46122" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="157131" y="26564" z="-3467" heading="48163" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="156538" y="26445" z="-3471" heading="34119" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="156489" y="27394" z="-3394" heading="11041" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="156506" y="28198" z="-3355" heading="17035" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="157447" y="29798" z="-3347" heading="8681" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="156823" y="30230" z="-3201" heading="28263" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="156314" y="30244" z="-3146" heading="33136" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="156237" y="30590" z="-3123" heading="14151" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="156420" y="31015" z="-3123" heading="9979" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="156911" y="31105" z="-3169" heading="63905" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="157418" y="31060" z="-3190" heading="64350" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="157722" y="30979" z="-3200" heading="62261" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="158177" y="31086" z="-3207" heading="5377" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="158590" y="31314" z="-3209" heading="4287" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="158920" y="31483" z="-3217" heading="175" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="159153" y="31455" z="-3222" heading="63700" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="159314" y="31843" z="-3228" heading="17106" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="159670" y="31733" z="-3194" heading="56752" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="159917" y="32185" z="-3221" heading="13424" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159615" y="32542" z="-3284" heading="24710" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="159939" y="32728" z="-3305" heading="1812" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="158351" y="32699" z="-3254" heading="61039" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="158693" y="32618" z="-3265" heading="63589" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="159186" y="32510" z="-3286" heading="65225" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="159124" y="32098" z="-3253" heading="44035" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="158789" y="31966" z="-3233" heading="33976" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="158358" y="32055" z="-3225" heading="27960" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="158248" y="32439" z="-3235" heading="18336" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="157826" y="32547" z="-3240" heading="29025" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20661" x="155539" y="32693" z="-3152" heading="60451" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="156039" y="32705" z="-3165" heading="1150" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="156489" y="32584" z="-3170" heading="61634" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="156866" y="32471" z="-3191" heading="62807" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="157180" y="32328" z="-3210" heading="58105" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="157493" y="32170" z="-3210" heading="61756" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="157815" y="32024" z="-3209" heading="60194" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="158142" y="31888" z="-3208" heading="61249" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="158481" y="31788" z="-3209" heading="63887" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="158955" y="31949" z="-3234" heading="4329" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="158322" y="31516" z="-3199" heading="39168" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="157782" y="31514" z="-3196" heading="31696" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="157303" y="31776" z="-3198" heading="26101" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="156863" y="31652" z="-3161" heading="33801" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="156621" y="31865" z="-3132" heading="22872" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="156270" y="32094" z="-3103" heading="28321" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="155815" y="32075" z="-3056" heading="33321" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="155465" y="31720" z="-3001" heading="45699" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="155697" y="31234" z="-3035" heading="54876" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="155418" y="30928" z="-3040" heading="39312" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="155003" y="30529" z="-3013" heading="37721" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="155203" y="30313" z="-3038" heading="62686" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="155668" y="30259" z="-3082" heading="65051" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="155918" y="29866" z="-3109" heading="50497" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="155750" y="29454" z="-3110" heading="42983" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="155318" y="29580" z="-3042" heading="27624" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="154850" y="29776" z="-2959" heading="28711" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="154684" y="29418" z="-2921" heading="46932" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="154883" y="29031" z="-2957" heading="55883" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="155268" y="29003" z="-3036" heading="6772" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="155301" y="28448" z="-3051" heading="49887" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="155593" y="28418" z="-3115" heading="4176" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="155853" y="28784" z="-3140" heading="11746" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="156242" y="29551" z="-3149" heading="14656" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="156724" y="28993" z="-3297" heading="55644" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="157050" y="28724" z="-3367" heading="59622" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20667" x="157542" y="28915" z="-3417" heading="6416" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="158718" y="28722" z="-3427" heading="63860" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="159136" y="28866" z="-3432" heading="7202" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="159576" y="29511" z="-3383" heading="10576" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20660" x="160813" y="28875" z="-3552" heading="63315" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="161239" y="28542" z="-3620" heading="58366" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="161301" y="28213" z="-3637" heading="46855" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20659" x="160266" y="27579" z="-3541" heading="36932" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="159671" y="27264" z="-3498" heading="37717" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20661" x="158958" y="26299" z="-3499" heading="43231" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="158914" y="25858" z="-3508" heading="49826" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="158580" y="26391" z="-3494" heading="19383" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20663" x="155663" y="7767" z="-4425" heading="12574" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="155590" y="7959" z="-4407" heading="22214" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="155679" y="8351" z="-4387" heading="11503" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="156101" y="8539" z="-4381" heading="65118" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="156413" y="8305" z="-4400" heading="54605" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="156765" y="8057" z="-4428" heading="63152" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="157087" y="7923" z="-4439" heading="59230" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="157250" y="7811" z="-4449" heading="59230" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="157461" y="7540" z="-4467" heading="53745" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="157473" y="7125" z="-4482" heading="47253" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="157424" y="6852" z="-4490" heading="47253" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="157057" y="6725" z="-4488" heading="33203" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="156819" y="6717" z="-4485" heading="33203" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="156452" y="6908" z="-4476" heading="26779" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="156286" y="7016" z="-4471" heading="26779" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="155989" y="7062" z="-4462" heading="35186" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="155765" y="6873" z="-4449" heading="41278" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="155392" y="7030" z="-4426" heading="27078" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155102" y="7154" z="-4402" heading="28647" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="154796" y="7427" z="-4350" heading="22376" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="154624" y="7733" z="-4298" heading="19782" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="154554" y="8110" z="-4246" heading="16229" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="154401" y="8450" z="-4175" heading="22610" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="154534" y="8863" z="-4145" heading="10737" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="154962" y="8919" z="-4204" heading="31" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="155428" y="8955" z="-4271" heading="1145" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="155815" y="8942" z="-4308" heading="63606" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="156361" y="8859" z="-4332" heading="64532" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="156596" y="8845" z="-4317" heading="64962" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="156677" y="8567" z="-4353" heading="49215" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="156917" y="8353" z="-4381" heading="59748" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="157212" y="8159" z="-4402" heading="58742" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="157569" y="7804" z="-4448" heading="58019" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="157816" y="7612" z="-4461" heading="57127" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="158000" y="7313" z="-4476" heading="53714" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20662" x="158376" y="7231" z="-4458" heading="1602" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="158437" y="7592" z="-4418" heading="23125" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="158167" y="7868" z="-4405" heading="23336" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="157807" y="8098" z="-4391" heading="27827" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="157798" y="8402" z="-4326" heading="12295" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="157814" y="8736" z="-4256" heading="22800" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="157495" y="8853" z="-4249" heading="37986" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="157108" y="8801" z="-4283" heading="30673" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="156814" y="9040" z="-4273" heading="25968" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="156979" y="9819" z="-4174" heading="15760" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="156628" y="9942" z="-4179" heading="32068" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="156161" y="10015" z="-4208" heading="31366" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155650" y="9984" z="-4240" heading="33743" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="155176" y="9962" z="-4212" heading="33102" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="154584" y="10007" z="-4167" heading="32123" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="154291" y="10226" z="-4175" heading="23013" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="154481" y="10530" z="-4229" heading="61112" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="154901" y="10445" z="-4235" heading="64709" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="155207" y="10489" z="-4233" heading="987" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="155672" y="10476" z="-4213" heading="62025" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="156060" y="10443" z="-4189" heading="45" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="156359" y="10788" z="-4135" heading="14353" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="156084" y="11132" z="-4133" heading="25528" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155711" y="11143" z="-4164" heading="34883" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="155370" y="10954" z="-4213" heading="38717" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154581" y="11131" z="-4276" heading="23999" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154535" y="11722" z="-4289" heading="12814" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="155019" y="12055" z="-4236" heading="3439" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="155620" y="12194" z="-4166" heading="197" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155836" y="12746" z="-4089" heading="15670" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="156112" y="13055" z="-4062" heading="7477" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="156420" y="12983" z="-4058" heading="60752" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="156243" y="12574" z="-4068" heading="40036" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="155538" y="12645" z="-4113" heading="26668" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155143" y="12649" z="-4139" heading="36395" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154767" y="12540" z="-4197" heading="34995" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154452" y="12333" z="-4267" heading="40472" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154311" y="11984" z="-4301" heading="46501" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="154311" y="11592" z="-4307" heading="49855" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154255" y="11122" z="-4286" heading="47102" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154119" y="10888" z="-4256" heading="42421" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="153864" y="11525" z="-4281" heading="16226" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="153899" y="11875" z="-4297" heading="14777" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="154033" y="12365" z="-4276" heading="12158" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154124" y="12739" z="-4217" heading="12689" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154412" y="12865" z="-4165" heading="63695" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154196" y="13213" z="-4112" heading="25041" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154246" y="13620" z="-4067" heading="13878" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154103" y="14003" z="-4052" heading="27744" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="153465" y="14217" z="-4031" heading="29120" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="155343" y="13759" z="-4053" heading="62771" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155871" y="13662" z="-4047" heading="64352" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="156374" y="13574" z="-4030" heading="63298" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="156892" y="13382" z="-4011" heading="61597" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="157274" y="13298" z="-3993" heading="64406" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="156632" y="13941" z="-4011" heading="28014" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="156174" y="14045" z="-4029" heading="30791" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="155818" y="14042" z="-4041" heading="33637" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155493" y="14245" z="-4043" heading="20118" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="155326" y="14646" z="-4024" heading="20735" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="155405" y="14976" z="-4005" heading="8551" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="155734" y="15244" z="-3989" heading="3432" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="156107" y="15167" z="-3987" heading="61929" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="156486" y="15343" z="-3993" heading="3397" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="156840" y="15208" z="-4022" heading="59893" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="156980" y="14839" z="-4014" heading="43598" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20662" x="156559" y="14632" z="-4009" heading="32006" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="156122" y="14623" z="-4011" heading="33161" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155710" y="14778" z="-4012" heading="25311" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20664" x="155158" y="15495" z="-3960" heading="22998" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154949" y="15731" z="-3943" heading="24137" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154671" y="15947" z="-3934" heading="25527" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="154460" y="16230" z="-3925" heading="21634" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="154147" y="16733" z="-3899" heading="22398" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="153782" y="16580" z="-3899" heading="45557" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="153808" y="16200" z="-3916" heading="51917" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154130" y="15906" z="-3935" heading="60728" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154215" y="15516" z="-3962" heading="48656" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154508" y="15205" z="-3971" heading="59270" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20663" x="154569" y="14824" z="-3983" heading="49314" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20662" x="154778" y="14527" z="-3999" heading="59651" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20664" x="155092" y="14292" z="-4027" heading="58759" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="155583" y="14522" z="-4027" heading="6254" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="154912" y="13960" z="-4039" heading="39840" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154724" y="13758" z="-4048" heading="41905" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154727" y="12331" z="-4195" heading="52050" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="155041" y="11742" z="-4221" heading="54574" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="155392" y="11636" z="-4190" heading="63571" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="155468" y="11300" z="-4188" heading="47874" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="155061" y="11046" z="-4240" heading="36451" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20664" x="154704" y="10883" z="-4261" heading="39446" respawnTime="60sec" /> <!-- Deprive -->
+			<npc id="20662" x="154594" y="10516" z="-4236" heading="49834" respawnTime="60sec" /> <!-- Hatar Ratman Boss -->
+			<npc id="20663" x="155416" y="10280" z="-4243" heading="6012" respawnTime="60sec" /> <!-- Hatar Hanishee -->
+			<npc id="20667" x="154836" y="10801" z="-4267" heading="39437" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154408" y="10664" z="-4244" heading="36151" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154453" y="9923" z="-4131" heading="51424" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154835" y="9964" z="-4177" heading="4328" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155238" y="10092" z="-4220" heading="2555" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155706" y="10156" z="-4227" heading="959" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155787" y="9778" z="-4259" heading="48914" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="156056" y="9320" z="-4309" heading="58545" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="156124" y="8875" z="-4354" heading="48700" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155556" y="8834" z="-4324" heading="28972" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154998" y="8701" z="-4243" heading="36013" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154590" y="8462" z="-4211" heading="38588" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154448" y="7873" z="-4260" heading="48000" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154548" y="7464" z="-4315" heading="52700" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154649" y="6809" z="-4380" heading="49824" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155133" y="6552" z="-4409" heading="61943" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155513" y="6770" z="-4429" heading="7846" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155757" y="7198" z="-4450" heading="12129" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155850" y="7649" z="-4445" heading="14632" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155231" y="7665" z="-4397" heading="39343" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155079" y="7957" z="-4350" heading="20501" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155418" y="8317" z="-4353" heading="4647" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155696" y="9050" z="-4327" heading="15079" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="156171" y="10168" z="-4204" heading="11847" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="156012" y="10734" z="-4169" heading="21397" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155562" y="11041" z="-4188" heading="27398" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154954" y="11182" z="-4250" heading="29699" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154950" y="11584" z="-4253" heading="10358" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155407" y="11815" z="-4200" heading="3390" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155512" y="12234" z="-4184" heading="15396" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="155176" y="12632" z="-4151" heading="22197" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154531" y="12468" z="-4249" heading="34895" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="154166" y="12740" z="-4247" heading="22182" respawnTime="60sec" /> <!-- Farcran -->
+		</group>
+	</spawn>
+</list>

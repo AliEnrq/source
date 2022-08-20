@@ -1,0 +1,2616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="22300" level="80" type="Monster" name="Strong Kima">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="217600" sp="5815" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3208.284023668639" magical="1296.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<collision>
+			<radius normal="17" />
+			<height normal="34" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="598" max="1397" chance="70" /> <!-- Adena -->
+				<item id="92998" min="1" max="1" chance="2.603" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="2.544" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.75" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.75" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="53.26" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.62" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.259" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.13" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22301" level="80" type="Monster" name="Big Honeybee">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="217600" sp="5815" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="39" />
+				<run ground="120" />
+			</speed>
+			<attack physical="3467.58282488453" magical="1118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="3208.284023668639" magical="1296.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<collision>
+			<radius normal="9.6" />
+			<height normal="24.6" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="598" max="1397" chance="70" /> <!-- Adena -->
+				<item id="92910" min="1" max="1" chance="2.632" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="2.552" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.75" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.75" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="52.58" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="10.53" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.339" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.056" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22302" level="80" type="Monster" name="Rude Tag" title="Slayer">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="60928" sp="5815" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="29524.8554913295" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="26" />
+				<run ground="120" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="33.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="657" max="1537" chance="70" /> <!-- Adena -->
+				<item id="92998" min="1" max="1" chance="2.889" /> <!-- Shining Resources -->
+				<item id="92910" min="1" max="1" chance="2.834" /> <!-- Material: Rags -->
+				<item id="92999" min="1" max="1" chance="0.75" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.75" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.75" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.3" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.075" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.075" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="58.85" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="11.29" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="5.859" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="1.19" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="0.75" /> <!-- Thons -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22303" level="70" type="Monster" name="Rusty">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="8899" sp="1670" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12526.5895953757" hpRegen="10.5" mp="1454.78547854785" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<attack physical="360.854301579087" magical="94.4614093480735" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="172.327044025157" magical="95.0661103846234" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="4116" level="2" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="37.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="81" max="189" chance="70" /> <!-- Adena -->
+				<item id="92909" min="1" max="1" chance="1.085" /> <!-- Material: Pack of Knickknacks -->
+				<item id="92997" min="1" max="1" chance="1.024" /> <!-- Unknown Resources -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="12.98" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="2.747" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="1.355" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22304" level="80" type="Monster" name="Giant Rusty">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="14081" sp="2181" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="14762.4277456647" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+		<collision>
+			<radius normal="20" />
+			<height normal="51" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="149" max="349" chance="70" /> <!-- Adena -->
+				<item id="92910" min="1" max="1" chance="0.75" /> <!-- Material: Rags -->
+				<item id="92998" min="1" max="1" chance="0.75" /> <!-- Shining Resources -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+				<item id="92912" min="1" max="1" chance="0.3" /> <!-- Material: Plain Fabric -->
+				<item id="92911" min="1" max="1" chance="0.3" /> <!-- Material: Leather Scraps -->
+				<item id="92913" min="1" max="1" chance="0.075" /> <!-- Material: Unknown Metal -->
+				<item id="92995" min="1" max="1" chance="0.075" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.03" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92914" min="1" max="1" chance="0.03" /> <!-- Material: Sack Shreds -->
+			</drop>
+			<spoil>
+				<item id="92996" min="1" max="1" chance="12.69" /> <!-- Old Resources -->
+				<item id="92997" min="1" max="1" chance="2.656" /> <!-- Unknown Resources -->
+				<item id="92998" min="1" max="1" chance="1.325" /> <!-- Shining Resources -->
+				<item id="92995" min="1" max="1" chance="0.3" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="0.3" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22305" level="82" type="Monster" name="Dragontroop Soldier" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="56" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22306" level="83" type="Monster" name="Dragontroop Lancer" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94664" /> <!-- Dragontroop Lancer Javeline -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="89" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="25" />
+			<height normal="46.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22307" level="82" type="Monster" name="Dragontroop Berserker" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="100" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="30" />
+			<height normal="55" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22308" level="82" type="Monster" name="Dragontroop Minion" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="92" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="19.6" />
+			<height normal="36.2" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22309" level="82" type="Monster" name="Dragontroop Wizard" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94663" /> <!-- Dragontroop Wizard Staff -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="82" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="25" />
+			<height normal="34.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22310" level="82" type="Monster" name="Dragontroop Elite Wizard" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="43" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="29" />
+			<height normal="49.9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22311" level="82" type="Monster" name="Drake Minion" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="57" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="19.2" />
+			<height normal="27.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22312" level="82" type="Monster" name="Mutated Drake" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="46" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="1" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="28" />
+			<height normal="53.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22313" level="85" type="Monster" name="Twilight Witch" element="WIND">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<equipment rhand="94725" /> <!-- npc weapon_One-handed Staff - Sealed -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="25.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4986" max="8943" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22314" level="85" type="Monster" name="Twilight Warrior" element="WIND">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<equipment rhand="94724" /> <!-- npc weapon_Two-handed Staff - Sealed -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="29" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="5186" max="9243" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22315" level="85" type="Monster" name="Demonic Wizard" title="Deiman's Cohort" element="WIND">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="17.5" />
+			<height normal="42.625" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="9086" max="17543" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22316" level="85" type="Monster" name="Demonic Warrior" title="Deiman's Cohort" element="WIND">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="335866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24.5" />
+			<height normal="74" />
+		</collision>
+	</npc>
+	<npc id="22317" level="85" type="Monster" name="Old Vampire" element="EARTH">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="15" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="25.8" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4986" max="8943" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22318" level="85" type="Monster" name="Hunting Vampire" element="EARTH">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="28.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4986" max="8943" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22319" level="85" type="Monster" name="Bloody Vampire" title="Satina's Elite Legionary" element="EARTH">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="40.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4986" max="8943" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22320" level="85" type="Monster" name="Rueful Vampire" title="Satina's Elite Legionary" element="EARTH">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="33" />
+			<height normal="57" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4986" max="8943" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22321" level="85" type="Folk" name="Nos" title="Swampland Raider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="5128" /> <!-- Crokian Blade - Not Available - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6" />
+			<speed>
+				<walk ground="18" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25.2" />
+			<height normal="41.8" />
+		</collision>
+	</npc>
+	<npc id="22322" level="85" type="Folk" name="Nos Lad" title="Swampland Raider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="5128" /> <!-- Crokian Blade - Not Available - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4041" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="18" />
+				<run ground="174" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25.2" />
+			<height normal="41.8" />
+		</collision>
+	</npc>
+	<npc id="22323" level="85" type="Folk" name="Ultimate Knoriks" title="Antharas' Watchman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="9806" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="160" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="60" />
+		</collision>
+	</npc>
+	<npc id="22324" level="1" type="Monster" name="Training Dummy">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="34" hpRegen="2" mp="62" mpRegen="0.9" />
+			<attack physical="10.24492" magical="6.99595" critical="4" attackSpeed="253" range="40" type="SWORD" distance="80" width="120" random="10" accuracy="5" />
+			<defence physical="47.91652" magical="35.06323" />
+			<speed>
+				<walk ground="50" />
+				<run ground="80" />
+			</speed>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="10" />
+			<height normal="30" />
+		</collision>
+	</npc>
+	<npc id="22325" level="3" type="Monster" name="Diffloe">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="75" sp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="61" hpRegen="2" mp="47.0397404703974" mpRegen="0.9" />
+			<attack physical="10.0732600732601" magical="7.5514315231404" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="47.2527472527472" magical="33.8671871518587" />
+			<speed>
+				<walk ground="39" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="10" />
+			<height normal="14" />
+		</collision>
+	</npc>
+	<npc id="22326" level="5" type="Monster" name="Apis">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="91" sp="4" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="85" hpRegen="2" mp="69.7485806974858" mpRegen="0.9" />
+			<attack physical="12.6646403242148" magical="10.5445708750751" random="50" critical="4" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="52.1276595744681" magical="37.9631067626098" />
+			<speed>
+				<walk ground="39" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="20" />
+		</collision>
+	</npc>
+	<npc id="22327" level="5" type="Monster" name="Echinu">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="91" sp="4" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="85" hpRegen="2" mp="84.3471208434712" mpRegen="0.9" />
+			<attack physical="15.625" magical="11.7434156523754" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="56.25" magical="41.3963233306299" />
+			<speed>
+				<walk ground="39" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="6" />
+			<height normal="10.5" />
+		</collision>
+	</npc>
+	<npc id="22328" level="15" type="Monster" name="Volatu">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="235" sp="13" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="261" hpRegen="2" mp="100.567721005677" mpRegen="0.9" />
+			<attack physical="17.9018976011457" magical="12.8239333168738" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="59.8751897453196" magical="43.7729132392134" />
+			<speed>
+				<walk ground="39" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="6" />
+			<height normal="17" />
+		</collision>
+	</npc>
+	<npc id="22329" level="15" type="Monster" name="Photoroni">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="235" sp="13" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="261" hpRegen="2" mp="108.67802108678" mpRegen="0.9" />
+			<attack physical="19.6197564618617" magical="14.1072371222234" random="50" critical="4" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="62.6262626262626" magical="45.8764449032089" evasion="10" />
+			<speed>
+				<walk ground="39" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="10" />
+			<height normal="15" />
+		</collision>
+	</npc>
+	<npc id="22330" level="17" type="Monster" name="Ales">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="284" sp="15" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="298" hpRegen="2.5" mp="124.087591240876" mpRegen="1.2" />
+			<attack physical="23.5737859500236" magical="16.4975710452675" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="66.3366336633663" magical="48.98300048983" />
+			<speed>
+				<walk ground="39" />
+				<run ground="80" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="27" />
+		</collision>
+	</npc>
+	<npc id="22331" level="45" type="Monster" name="Poison Guard" title="Transcendent Guardian">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+		</parameters>
+		<race>PLANT</race>
+		<sex>FEMALE</sex>
+		<acquire exp="8200" sp="540" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="37462" hpRegen="10.5" mp="610" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="180" />
+			</speed>
+			<attack physical="450.2231755595" magical="331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="305.85106382979" magical="197.0297029703" />
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1500" />
+		<collision>
+			<radius normal="15" />
+			<height normal="31.3" />
+		</collision>
+	</npc>
+	<npc id="22332" level="85" type="Folk" name="Grave Warden" title="Transcendent Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="52944" hpRegen="10.5" mp="889" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="180" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="30.6" />
+		</collision>
+	</npc>
+	<npc id="22333" level="85" type="Folk" name="Guard of Honor" title="Transcendent Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="38448" /> <!-- Monster Only: Minotaur Two-handed Axe - Not Available - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="69412" hpRegen="10.5" mp="1188" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="180" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="36" />
+			<height normal="44.25" />
+		</collision>
+	</npc>
+	<npc id="22334" level="85" type="Folk" name="Fierce Guard" title="Transcendent Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="84704" hpRegen="10.5" mp="1507" mpRegen="3.6" />
+			<speed>
+				<walk ground="51" />
+				<run ground="180" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="31.5" />
+			<height normal="44.7" />
+		</collision>
+	</npc>
+	<npc id="22335" level="85" type="Folk" name="Dragon Warden" title="Transcendent Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="121231" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="100" />
+				<run ground="180" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="30" />
+			<height normal="55" />
+		</collision>
+	</npc>
+	<npc id="22336" level="85" type="Monster" name="Steel Warrior" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="17.5" />
+			<height normal="33" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="5086" max="9143" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22337" level="85" type="Monster" name="Steel Worker" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="31.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="5586" max="9643" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22338" level="85" type="Monster" name="Steel Stalker" title="Steel Manager" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="218446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="210" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="41.375" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="14586" max="20543" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22339" level="85" type="Folk" name="Steel Swordsman" title="Steel Manager" element="FIRE">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="19282" hpRegen="10.5" mp="11080" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22.5" />
+			<height normal="48.25" />
+		</collision>
+	</npc>
+	<npc id="22340" level="85" type="Monster" name="Zamad" element="WATER">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="150" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="14" />
+			<height normal="32.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="5086" max="9143" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22341" level="85" type="Monster" name="Vegskytt" element="WATER">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="35866" sp="15207" attributeExp="204" />
+		<equipment rhand="15302" /> <!-- Transparent Bow (NPC) - Not Available - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="150" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="20" />
+			<height normal="34" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="6586" max="10543" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="22342" level="85" type="Monster" name="Shisuck" title="Ancient Hero Mutant" element="WATER">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="218446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="140" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="57" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="12155" max="22638" chance="70" /> <!-- Adena -->
+				<item id="94718" min="1" max="1" chance="0.059856" /> <!-- Hellbound Ring -->
+				<item id="92995" min="1" max="1" chance="19.32876" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="5.85772" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="2.96422" /> <!-- Material: Animal Spirit -->
+				<item id="92994" min="1" max="1" chance="2.96422" /> <!-- Asofe -->
+				<item id="94719" min="1" max="1" chance="0.059425" /> <!-- Scroll: Enchant Hellbound Ring -->
+				<item id="94716" min="1" max="1" chance="0.029856" /> <!-- Talisman of Hellbound Fragment -->
+				<item id="94717" min="1" max="1" chance="2.96422" /> <!-- Hellbound Energy -->
+			</drop>
+			<spoil>
+				<item id="92994" min="1" max="1" chance="6.2914" /> <!-- Asofe -->
+				<item id="92995" min="1" max="1" chance="54.23748" /> <!-- Thons -->
+				<item id="92999" min="1" max="1" chance="84.57082" /> <!-- High-grade Resources -->
+			</spoil>
+</dropLists>
+	</npc>
+	<npc id="22343" level="85" type="Monster" name="Drayzak" title="Ancient Hero Mutant" element="WATER">
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="218446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="160" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12.5" />
+			<height normal="36.375" />
+		</collision>
+	</npc>
+	<npc id="22344" level="85" type="Monster" name="Beleth' Eye" title="Extraterrestrial Watchman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="118446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="90" />
+				<run ground="120" />
+			</speed>
+			<attack physical="2950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="905.85106382979" magical="797.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="16.5" />
+			<height normal="31.5" />
+		</collision>
+	</npc>
+	<npc id="22345" level="85" type="Monster" name="Frosty Knight">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<stats str="88" int="79" dex="55" wit="77" con="82" men="78">
+			<vitals hp="8446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22.5" />
+			<height normal="48" />
+		</collision>
+		<skillList>
+			<skill id="48354" level="1" /> <!-- Ice Strike -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" isAggressive="true">
+		</ai>
+			<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22346" level="85" type="Monster" name="Frosty Mage">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<stats str="88" int="79" dex="78" wit="60" con="82" men="78">
+			<vitals hp="9446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="39" />
+		</collision>
+		<skillList>
+			<skill id="48365" level="1" /> <!-- Freezing Attack -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="MAGE" aggroRange="500" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22347" level="85" type="Monster" name="Frosty Sniper">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<equipment rhand="15302" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="36.75" />
+		</collision>
+		<skillList>
+			<skill id="48355" level="1" /> <!-- Ice Arrow -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="600" isAggressive="true">
+		</ai>
+			<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22348" level="85" type="Monster" name="Emperor's Knight">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+				<speed>
+				<walk ground="70" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="20" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="48354" level="1" /> <!-- Ice Strike -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="500" isAggressive="true">
+		</ai>
+		<collision>
+			<radius normal="22.5" />
+			<height normal="48" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22349" level="85" type="Monster" name="Emperor's Mage">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33966" sp="15207" attributeExp="204" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="36" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="39" />
+		</collision>
+		<skillList>
+			<skill id="48365" level="1" /> <!-- Freezing Attack -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="MAGE" aggroRange="600" isAggressive="false">
+		</ai>
+			<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22350" level="85" type="Monster" name="Emperor's Sniper">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<equipment rhand="15302" />
+		<stats str="88" int="79" dex="55" wit="45" con="82" men="78">
+			<vitals hp="80446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="36.75" />
+		</collision>
+		<skillList>
+			<skill id="48355" level="2" /> <!-- Ice Arrow -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="600" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22351" level="85" type="Monster" name="Frosty Archer" title="Enhanced with Crystal Energy">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33866" sp="15207" attributeExp="204" />
+		<equipment rhand="15302" />
+		<stats str="88" int="79" dex="55" wit="40" con="82" men="78">
+			<vitals hp="80446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="36.75" />
+		</collision>
+		<skillList>
+			<skill id="48356" level="1" /> <!-- Ice Shot -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" isAggressive="true">
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="95853" min="1" max="1" chance="3.1075" /> <!-- Scroll of escape frost lord -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22352" level="85" type="Monster" name="Emperor's Archer" title="Enhanced with Crystal Energy">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<acquire exp="33566" sp="15207" attributeExp="204" />
+		<equipment rhand="15302" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8446" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="48356" level="2" /> <!-- Ice Shot -->
+			<skill id="48355" level="1" /> <!-- Ice Arrow -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="ARCHER" aggroRange="600" isAggressive="true">
+		</ai>
+		<collision>
+			<radius normal="15" />
+			<height normal="36.75" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="0.002" /> <!-- Ice core -->
+				<item id="95782" min="10" max="20" chance="0.195" /> <!-- Ice lord weapon crystal -->
+				<item id="95804" min="1" max="1" chance="0.1075" /> <!-- Hardin soul crystal -->
+				<item id="95853" min="1" max="1" chance="5.1075" /> <!-- Scroll of escape frost lord -->
+				<item id="57" min="1200" max="5200" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22353" level="85" type="Folk" name="Steel Chaser">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="22354" level="85" type="Folk" name="Steel Lord">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="28" />
+			<height normal="46.15" />
+		</collision>
+	</npc>
+	<npc id="22355" level="85" type="Folk" name="Steel Fighter">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="28" />
+			<height normal="46.15" />
+		</collision>
+	</npc>
+	<npc id="22356" level="85" type="Folk" name="Steel Berserker">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="19.8" />
+			<height normal="34.2" />
+		</collision>
+	</npc>
+	<npc id="22357" level="85" type="Folk" name="Dark Chaser">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="22358" level="85" type="Folk" name="Dark Ruler">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="19" />
+			<height normal="43" />
+		</collision>
+	</npc>
+	<npc id="22359" level="85" type="Folk" name="Dark Fighter">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="16" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="22360" level="85" type="Folk" name="Dark Berserker">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="18" />
+			<height normal="35" />
+		</collision>
+	</npc>
+	<npc id="22361" level="85" type="Folk" name="Strider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="4041" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="16.1" />
+			<height normal="24.02" />
+		</collision>
+	</npc>
+	<npc id="22362" level="85" type="Folk" name="Strider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5253" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="23" />
+			<height normal="35.6" />
+		</collision>
+	</npc>
+	<npc id="22363" level="85" type="Folk" name="Strider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="4041" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22.4" />
+			<height normal="36.9" />
+		</collision>
+	</npc>
+	<npc id="22364" level="85" type="Folk" name="Dragon" title="Furious">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="6061" hpRegen="10.5" mp="2227" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="63" />
+			<height normal="54" />
+		</collision>
+	</npc>
+	<npc id="22365" level="85" type="Folk" name="Strider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5371" hpRegen="10.5" mp="2614" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="16.1" />
+			<height normal="24.02" />
+		</collision>
+	</npc>
+	<npc id="22366" level="85" type="Folk" name="Strider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5371" hpRegen="10.5" mp="2614" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="23" />
+			<height normal="35.6" />
+		</collision>
+	</npc>
+	<npc id="22367" level="85" type="Folk" name="Strider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="6982" hpRegen="10.5" mp="2614" mpRegen="3.6" />
+			<speed>
+				<walk ground="35" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22.4" />
+			<height normal="36.9" />
+		</collision>
+	</npc>
+	<npc id="22368" level="85" type="Folk" name="Dragon" title="Furious">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8056" hpRegen="10.5" mp="2614" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="63" />
+			<height normal="54" />
+		</collision>
+	</npc>
+	<npc id="22369" level="85" type="Folk" name="Giant Mercenary">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="9806" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="100" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="29" />
+		</collision>
+	</npc>
+	<npc id="22370" level="85" type="Folk" name="Mutated Soldier">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="9806" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="28" />
+			<height normal="46.15" />
+		</collision>
+	</npc>
+	<npc id="22371" level="85" type="Folk" name="Mutated Tracker">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="9806" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="28" />
+			<height normal="46.15" />
+		</collision>
+	</npc>
+	<npc id="22372" level="85" type="Folk" name="Mutated Archer">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15304" /> <!-- Transparent Crossbow (NPC) - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="9806" hpRegen="10.5" mp="2770" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="28" />
+			<height normal="46.15" />
+		</collision>
+	</npc>
+	<npc id="22373" level="85" type="Folk" name="Kaze" title="Cave Scout">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="49" />
+		</collision>
+	</npc>
+	<npc id="22374" level="85" type="Folk" name="Guard" title="Cave Watchman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="28.8" />
+			<height normal="57" />
+		</collision>
+	</npc>
+	<npc id="22375" level="85" type="Folk" name="Essence of the Lesser Giant">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="27" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="42.6" />
+		</collision>
+	</npc>
+	<npc id="22376" level="85" type="Folk" name="Lesser Giant Soldier">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3937" /> <!-- Monster Only (Lesser Giant) - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="44" />
+		</collision>
+	</npc>
+	<npc id="22377" level="85" type="Folk" name="Lesser Giant Bowman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="4028" /> <!-- Giant Cannon - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="30" />
+			<height normal="44" />
+		</collision>
+	</npc>
+	<npc id="22378" level="85" type="Folk" name="Lesser Giant Wizard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="3938" /> <!-- Monster Only (Lesser Giant Wizard's Weapon) - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="48.7" />
+		</collision>
+	</npc>
+	<npc id="22379" level="85" type="Folk" name="Lesser Warrior">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="46" />
+		</collision>
+	</npc>
+	<npc id="22380" level="85" type="Folk" name="Lesser Bowman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15304" /> <!-- Transparent Crossbow (NPC) - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="22381" level="85" type="Folk" name="Lesser Mage">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="26.4" />
+			<height normal="52.55" />
+		</collision>
+	</npc>
+	<npc id="22382" level="85" type="Folk" name="Lesser Hunter">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="13378" hpRegen="10.5" mp="2928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="40.78" />
+		</collision>
+	</npc>
+	<npc id="22383" level="85" type="Folk" name="Evolved Lesser Giant Mercenary">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="140" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="27" />
+			<height normal="52.8" />
+		</collision>
+	</npc>
+	<npc id="22384" level="85" type="Folk" name="Evolved Lesser Giant Commander">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="96718" /> <!-- Monster Only (Lesser Giant A) - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="29.25" />
+			<height normal="51.99" />
+		</collision>
+	</npc>
+	<npc id="22385" level="85" type="Folk" name="Evolved Lesser Giant Elder">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="96719" /> <!-- Monster Only (Lesser Giant Wizard's Weapon A) - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="48.7" />
+		</collision>
+	</npc>
+	<npc id="22386" level="85" type="Folk" name="Evolved Lesser Giant Shooter">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="4028" /> <!-- Giant Cannon - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="39" />
+			<height normal="58.1" />
+		</collision>
+	</npc>
+	<npc id="22387" level="85" type="Folk" name="Baron's Warrior">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="46" />
+		</collision>
+	</npc>
+	<npc id="22388" level="85" type="Folk" name="Baron's Templar">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="26.4" />
+			<height normal="52.55" />
+		</collision>
+	</npc>
+	<npc id="22389" level="85" type="Folk" name="Baron's Ranger">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="15304" /> <!-- Transparent Crossbow (NPC) - Not Available - Not Available -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="130" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="22390" level="85" type="Folk" name="Baron's Puncher">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="35738" hpRegen="10.5" mp="11928" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="140" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="32" />
+			<height normal="51" />
+		</collision>
+	</npc>
+	<npc id="22391" level="85" type="Folk" name="Mansion Manager">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="55" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="15" />
+			<height normal="28.7" />
+		</collision>
+	</npc>
+	<npc id="22392" level="85" type="Folk" name="Touchy Servant">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="32" />
+		</collision>
+	</npc>
+	<npc id="22393" level="85" type="Folk" name="Housekeeper">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="33" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="21.6" />
+		</collision>
+	</npc>
+	<npc id="22394" level="85" type="Folk" name="Cursed Girl">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="18" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="17" />
+		</collision>
+	</npc>
+	<npc id="22395" level="85" type="Folk" name="Guardian Angel of the Holy Grail">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="47" />
+		</collision>
+	</npc>
+	<npc id="22396" level="85" type="Folk" name="Guardian Angel of the Holy Grail">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="11" />
+			<height normal="38.5" />
+		</collision>
+	</npc>
+	<npc id="22397" level="85" type="Folk" name="Guardian Angel of the Holy Grail">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="13" />
+			<height normal="47" />
+		</collision>
+	</npc>
+	<npc id="22398" level="85" type="Folk" name="Guardian Angel of the Holy Grail">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="30" />
+		</collision>
+	</npc>
+	<npc id="22399" level="85" type="Folk" name="Ancient Swordsman">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="23498" hpRegen="10.5" mp="11502" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="30" />
+			<height normal="51" />
+		</collision>
+	</npc>
+</list>

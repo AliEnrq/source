@@ -1,0 +1,984 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="96600" name="Beleth' Ring" type="Armor">
+		<!-- Max enchant value: +5. (Requires Scroll: Enchant Rare Accessories.) Boosts the item's parameters after enchanting. Effects of two identical rings do not stack. Safe enchanting to +1 -->
+		<set name="icon" val="icon.accessary_dynasty_ring_i03" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="mDef">73</stat>
+		</stats>
+	</item>
+	<item id="96601" name="Antharas Doll Lv. 1" additionalName="Sealed" type="EtcItem">
+		<!-- <Antharas Doll's Sorcery Lv. 1> CON +1 MEN +1 Received damage -2% Knockback Resistance +5% Shock Resistance +5% Pull Resistance +5% Soulshot Damage Resistance +2% Spiritshot Damage Resistance +2% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96602" name="Antharas Doll Lv. 2" type="EtcItem">
+		<!-- <Antharas Doll's Sorcery Lv. 2> CON +2 MEN +2 Received damage -5% Knockback Resistance +10% Shock Resistance +10% Pull Resistance +10% Soulshot Damage Resistance +3% Spiritshot Damage Resistance +3% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96603" name="Antharas Doll Lv. 3" type="EtcItem">
+		<!-- <Antharas Doll's Sorcery Lv. 3> CON +3 MEN +3 Received damage -10% Knockback Resistance +20% Shock Resistance +20% Pull Resistance +20% Soulshot Damage Resistance +10% Spiritshot Damage Resistance +10% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96604" name="Pack of Seals (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain Giran Seal and another one of various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96605" name="Spellbook: Shield of Security" type="EtcItem">
+		<!-- A spellbook for learning the Shield of Security skill. <Class> Phoenix Knight <Skill effect> Increases defense of all party members. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96606" name="Spellbook: Shield of Security" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Shield of Security skill. <Class> Phoenix Knight <Skill effect> Increases defense of all party members. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96607" name="Spellbook: Lunatic Crusher" type="EtcItem">
+		<!-- A spellbook for learning the Lunatic Crusher skill. <Class> Hell Knight <Skill effect> Attacks nearby enemies. Deals them damage and stuns. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96608" name="Spellbook: Lunatic Crusher" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Lunatic Crusher skill. <Class> Hell Knight <Skill effect> Attacks nearby enemies. Deals them damage and stuns. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96609" name="Spellbook: Eva's Care" type="EtcItem">
+		<!-- A spellbook for learning the Eva's Care skill. <Class> Eva's Templar <Skill effect> Puts you under Eva's care. Increases defense. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96610" name="Spellbook: Eva's Care" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Eva's Care skill. <Class> Eva's Templar <Skill effect> Puts you under Eva's care. Increases defense. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96611" name="Spellbook: Shillien's Curse" type="EtcItem">
+		<!-- A spellbook for learning the Shillien's Curse skill. <Class> Shillien Templar <Skill effect> Shillien's power lays a curse on nearby enemies. With a certain chance, removes buffs from them, decreasing their Max HP/ MP/ CP and Skill Power. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96612" name="Spellbook: Shillien's Curse" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Shillien's Curse skill. <Class> Shillien Templar <Skill effect> Shillien's power lays a curse on nearby enemies. With a certain chance, removes buffs from them, decreasing their Max HP/ MP/ CP and Skill Power. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96613" name="Pattern Slot Expansion Ticket" type="EtcItem">
+		<!-- Required for learning the Expanded Potential of Dyes skill. <Classes> All classes after the 3rd class change <Skill effect> Unlocks the 4th pattern slot. -->
+		<set name="icon" val="icon.etc_add_buffslot_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96614" name="Pattern Slot Expansion Ticket" additionalName="Sealed" type="EtcItem">
+		<!-- Required for learning the Expanded Potential of Dyes skill. <Classes> All classes after the 3rd class change <Skill effect> Unlocks the 4th pattern slot. -->
+		<set name="icon" val="icon.etc_add_buffslot_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96615" name="Aden's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.present_of_destination_event" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96616" name="Boss' Weapon Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.aka_manaf_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96617" name="STR Dye" additionalName="Lv. 0" type="EtcItem">
+		<!-- Required for applying STR Pattern. Applying the pattern requires 1 dye. <Effect> STR +1 <font color=ff6666>Note!</font> Requirements: all classes after the 1st class change. Hidden power is not available. Patterns and dyes can be upgraded through compounding. Costs for upgrading patterns and dyes differ. -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="1" />
+		<set name="price" val="12000000" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96618" name="CON Dye" additionalName="Lv. 0" type="EtcItem">
+		<!-- Required for applying CON Pattern. Applying the pattern requires 1 dye. <Effect> CON +1 <font color=ff6666>Note!</font> Requirements: all classes after the 1st class change. Hidden power is not available. Patterns and dyes can be upgraded through compounding. Costs for upgrading patterns and dyes differ. -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="1" />
+		<set name="price" val="12000000" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96619" name="DEX Dye" additionalName="Lv. 0" type="EtcItem">
+		<!-- Required for applying DEX Pattern. Applying the pattern requires 1 dye. <Effect> DEX +1 <font color=ff6666>Note!</font> Requirements: all classes after the 1st class change. Hidden power is not available. Patterns and dyes can be upgraded through compounding. Costs for upgrading patterns and dyes differ. -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="1" />
+		<set name="price" val="12000000" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96620" name="INT Dye" additionalName="Lv. 0" type="EtcItem">
+		<!-- Required for applying INT Pattern. Applying the pattern requires 1 dye. <Effect> INT +1 <font color=ff6666>Note!</font> Requirements: all classes after the 1st class change. Hidden power is not available. Patterns and dyes can be upgraded through compounding. Costs for upgrading patterns and dyes differ. -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="1" />
+		<set name="price" val="12000000" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96621" name="MEN Dye" additionalName="Lv. 0" type="EtcItem">
+		<!-- Required for applying MEN Pattern. Applying the pattern requires 1 dye. <Effect> MEN +1 <font color=ff6666>Note!</font> Requirements: all classes after the 1st class change. Hidden power is not available. Patterns and dyes can be upgraded through compounding. Costs for upgrading patterns and dyes differ. -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="1" />
+		<set name="price" val="12000000" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96622" name="WIT Dye" additionalName="Lv. 0" type="EtcItem">
+		<!-- Required for applying WIT Pattern. Applying the pattern requires 1 dye. <Effect> WIT +1 <font color=ff6666>Note!</font> Requirements: all classes after the 1st class change. Hidden power is not available. Patterns and dyes can be upgraded through compounding. Costs for upgrading patterns and dyes differ. -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="1" />
+		<set name="price" val="12000000" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96623" name="Dye Powder" type="EtcItem">
+		<!-- Required for upgrading patterns and dyes. <font color=eeaa22>Used with items of Lv. 0~10.</font> -->
+		<set name="icon" val="icon.dye_charge_meal" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="96624" name="Package: +5 Cloak of Protection" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96625" name="Package: +5 Agathion Ignis" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_fire_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96626" name="Package: +5 Agathion Nebula" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_water_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96627" name="Package: +5 Agathion Procella" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_wind_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96628" name="Package: +5 Agathion Petram" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_earth_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96629" name="Package: +5 Agathion Joy" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.pleasure_agathion_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96630" name="Enhanced Dye Powder" type="EtcItem">
+		<!-- Required for upgrading patterns and dyes. <font color=eeaa22>Used with items of Lv. 11~19.</font> -->
+		<set name="icon" val="icon.dye_charge_meal" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96631" name="Queen Ant Doll Lv. 4" type="EtcItem">
+		<!-- <Queen Ant Doll's Sorcery Lv. 4> P. Atk. +15% P. Critical Damage +12% P. Skill Critical Damage +12% Max HP +17% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_queen_ant_doll_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96632" name="Baium Doll Lv. 4" type="EtcItem">
+		<!-- <Baium Doll's Sorcery Lv. 4> Skill Cooldown -4% P. Def. +18% M. Def. +18% Silence Resistance +45% Fear Resistance +45% Paralysis Resistance +25% Knockback Resistance +25% Pull Resistance +27% Shock Resistance +10% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_baium_doll_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96633" name="Orfen Doll Lv. 4" type="EtcItem">
+		<!-- <Orfen Doll's Sorcery Lv. 4> M. Atk. +20% M. Skill Critical Damage +12% Max MP +17% Melee Weapon Resistance +1% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96634" name="Zaken Doll Lv. 4" type="EtcItem">
+		<!-- <Zaken Doll's Sorcery Lv. 4> Skill Critical Rate +70 HP Recovery Potions' Effect +110 Skill Critical Damage +300 Vampiric Rage +3% (with a certain chance) Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_zaken_doll_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96635" name="Core Doll Lv. 4" type="EtcItem">
+		<!-- <Core Doll's Sorcery Lv. 4> Received Skill Critical Damage -17% Received Skill Critical Rate -10% Shock Resistance +35% Sleep Resistance +35% Knockback Resistance +20% Paralysis Resistance +10% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_core_doll_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96636" name="Frintezza Doll Lv. 4" type="EtcItem">
+		<!-- <Frintezza Doll's Sorcery Lv. 4> STR/ INT +2 DEX/ WIT +3 CON/ MEN +2 Skill Power +6% Atk. Spd. +110 Casting Spd. +110 Speed +5 Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_doll_frintessa_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96637" name="Antharas Doll Lv. 4" type="EtcItem">
+		<!-- <Antharas Doll's Sorcery Lv. 4> CON +4 MEN +4 Received damage -12% Knockback Resistance +25% Shock Resistance +25% Pull Resistance +25% Soulshot Damage Resistance +12% Spiritshot Damage Resistance +10% Imprisonment Resistance +10% Boosts stats when in inventory. Can be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96638" name="Queen Ant Doll Lv. 5" type="EtcItem">
+		<!-- <Queen Ant Doll's Sorcery Lv. 5> P. Atk. +18% P. Critical Damage +15% P. Skill Critical Damage +15% Max HP +20% Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_queen_ant_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96639" name="Baium Doll Lv. 5" type="EtcItem">
+		<!-- <Baium Doll's Sorcery Lv. 5> Skill Cooldown -4% P. Def. +21% M. Def. +21% Silence Resistance +45% Fear Resistance +45% Paralysis Resistance +25% Knockback Resistance +25% Pull Resistance +30% Shock Resistance +15% Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_baium_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96640" name="Orfen Doll Lv. 5" type="EtcItem">
+		<!-- <Orfen Doll's Sorcery Lv. 5> M. Atk. +25% M. Skill Critical Damage +15% Max MP +20% Melee Weapon Resistance +2% Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96641" name="Zaken Doll Lv. 5" type="EtcItem">
+		<!-- <Zaken Doll's Sorcery Lv. 5> Skill Critical Rate +80 HP Recovery Potions' Effect +150 Skill Critical Damage +300 Vampiric Rage +3% (with a certain chance) Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_zaken_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96642" name="Core Doll Lv. 5" type="EtcItem">
+		<!-- <Core Doll's Sorcery Lv. 5> Received Skill Critical Damage -20% Received Skill Critical Rate -12% Shock Resistance +35% Sleep Resistance +35% Knockback Resistance +20% Paralysis Resistance +20% Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_core_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96643" name="Frintezza Doll Lv. 5" type="EtcItem">
+		<!-- <Frintezza Doll's Sorcery Lv. 5> STR/ INT +3 DEX/ WIT +3 CON/ MEN +3 Skill Power +8% Atk. Spd. +120 Casting Spd. +120 Speed +5 Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_doll_frintessa_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96644" name="Antharas Doll Lv. 5" type="EtcItem">
+		<!-- <Antharas Doll's Sorcery Lv. 5> CON +5 MEN +5 Received damage -15% Knockback Resistance +25% Shock Resistance +25% Pull Resistance +25% Soulshot Damage Resistance +15% Spiritshot Damage Resistance +15% Imprisonment Resistance +20% Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96645" name="Ice Crystal Heavy Armor Set" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t94_u_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96646" name="Light Armor of Lightning Set" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t101_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96647" name="Flaming Robe Set" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t96_u_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96648" name="Kit: Dyes Lv. 3" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.freya_box_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96649" name="Golden Wheel's Accessory Coupon (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be exchanged for various items through the Game Assistant. - Enchant Kit: Talisman of Eva (1 pc.) - Dragon Belt Pack (1 pc.) - Enchant Kit: Talisman of Authority (2 pcs.) - Enchant Kit: Circlet of Hero (3 pcs.) -->
+		<set name="icon" val="icon.bm_challenger_wp_trade_ticket" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="price" val="1000000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96650" name="Armor of Protection Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_silver" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96651" name="Einhasad's Blessing Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.bm_sayha_blessed_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96652" name="Package: Antharas Doll Lv. 1" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96653" name="Package: Antharas Doll Lv. 2" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96654" name="Package: Antharas Doll Lv. 3" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96655" name="Special Spellbook Chest" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_gold" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96656" name="Magic Lamp Charging Potion (1-time)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to charge the Magic Lamp once. -->
+		<set name="icon" val="icon.magic_lamp_charge_potion" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96657" name="Elmoreden Tower Guardian's Mark (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Given for completing daily missions in the Elmoreden Tower. <How to use> Game Assistant (Events and offers) - Elmoreden Tower Guardian's Mark -->
+		<set name="icon" val="icon.etc_ticket_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96658" name="Multicolored Ore (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be obtained in the Elmoreden Tower. <How to use> Special Craft - Elmoreden Tower's Supplies -->
+		<set name="icon" val="icon.bm_dye_stone" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96659" name="Elmoreden Supplies (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96660" name="Talisman of Elmoreden Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i08" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96661" name="Spellbook: Fast Run Lv. 3" type="EtcItem">
+		<!-- A spellbook for learning the Fast Run Lv. 3 skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Increases Speed. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96662" name="Spellbook: Fatal Accuracy" type="EtcItem">
+		<!-- A spellbook for learning the Fatal Accuracy skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Makes extra hits after using the Bluff skill successfully. Increases Flying Dagger's success rate. Increases Backstab's accuracy when attacking from the front. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96663" name="Spellbook: Shadow Assault" type="EtcItem">
+		<!-- A spellbook for learning the Shadow Assault skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Enhances the following skill: Shadow Step → Shadow Step: Assault Adds the Silence debuff. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96664" name="Spellbook: Rogue Mastery" type="EtcItem">
+		<!-- A spellbook for learning the following skills: Bluff Mastery, Critical Attack Mastery, Backstab Mastery. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Enhances certain skills. Adventurer - Bluff → Bluff: Edge Wind Rider - Critical Wound → Critical Wound: Focus Ghost Hunter - Backstab → Backstab - Blood -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96665" name="Spellbook: Seclusion" type="EtcItem">
+		<!-- A spellbook for learning the Seclusion skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> When used, makes you invisible, the status is not removed when hit. Allows to ignore enemies Hiding effects if your DEX is higher enough. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96666" name="Spellbook: Dark Blow" type="EtcItem">
+		<!-- A spellbook for learning the Dark Blow skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> When striking at a vital point, summons a shadow that also attacks the target. The shadow attacks from the side opposite to yours. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96667" name="Spellbook: Reversed Pull" type="EtcItem">
+		<!-- A spellbook for learning the Reversed Pull skill. <Class> Adventurer <Skill effect> Makes you immune to Pull. Knocks down an enemy if they are trying to pull you to them. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96668" name="Spellbook: Synchro Freedom" type="EtcItem">
+		<!-- A spellbook for learning the Synchro Freedom skill. <Class> Wind Rider <Skill effect> Greatly increases Suppression Resistance and protects from skills that cancel Speed debuffs. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96669" name="Spellbook: Ethereal Blood" type="EtcItem">
+		<!-- A spellbook for learning the Ethereal Blood skill. <Class> Ghost Hunter <Skill effect> Increases Max HP. - Bloody Nightmare While Bloody Nightmare is applied, the target's Max HP and P./ M. Def. are temporarily decreased when hit (only in PvP). - Bloody Stigma When the Bloody Nightmare effect expires, the target's Max HP and P./ M. Def. are greatly decreased for a certain time (only in PvP). -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96670" name="Spellbook: Critical Assault" type="EtcItem">
+		<!-- A spellbook for learning the Critical Assault skill. <Classes> Adventurer <Skill effect> Makes a powerful blow at the target increasing their received Vital Point Critical Damage. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96671" name="Spellbook: Fury Blade" type="EtcItem">
+		<!-- A spellbook for learning the Fury Blade skill. <Class> Wind Rider <Skill effect> Swiftly strikes the target preventing them from using skills for 5 sec. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96672" name="Spellbook: Mortal Piercing" type="EtcItem">
+		<!-- A spellbook for learning the Mortal Piercing skill. <Class> Ghost Hunter <Skill effect> Attacks the target's vital point ignoring their Shield Defense. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96673" name="Spellbook: Fast Run Lv. 3" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Fast Run Lv. 3 skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Increases Speed. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96674" name="Spellbook: Fatal Accuracy" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Fatal Accuracy skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Makes extra hits after using the Bluff skill successfully. Increases Flying Dagger's success rate. Increases Backstab's accuracy when attacking from the front. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96675" name="Spellbook: Shadow Assault" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Shadow Assault skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Enhances the following skill: Shadow Step → Shadow Step: Assault Adds the Silence debuff. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96676" name="Spellbook: Rogue Mastery" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the following skills: Bluff Mastery, Critical Attack Mastery, Backstab Mastery. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> Enhances certain skills. Adventurer - Bluff → Bluff: Edge Wind Rider - Critical Wound → Critical Wound: Focus Ghost Hunter - Backstab → Backstab - Blood -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96677" name="Spellbook: Seclusion" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Seclusion skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> When used, makes you invisible, the status is not removed when hit. Allows to ignore enemies Hiding effects if your DEX is higher enough. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96678" name="Spellbook: Dark Blow" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Dark Blow skill. <Classes> Adventurer Wind Rider Ghost Hunter <Skill effect> When striking at a vital point, summons a shadow that also attacks the target. The shadow attacks from the side opposite to yours. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96679" name="Spellbook: Reversed Pull" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Reversed Pull skill. <Class> Adventurer <Skill effect> Makes you immune to Pull. Knocks down an enemy if they are trying to pull you to them. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96680" name="Spellbook: Synchro Freedom" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Synchro Freedom skill. <Class> Wind Rider <Skill effect> Greatly increases Suppression Resistance and protects from skills that cancel Speed debuffs. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96681" name="Spellbook: Ethereal Blood" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Ethereal Blood skill. <Class> Ghost Hunter <Skill effect> Increases Max HP. - Bloody Nightmare While Bloody Nightmare is applied, the target's Max HP and P./ M. Def. are temporarily decreased when hit (only in PvP). - Bloody Stigma When the Bloody Nightmare effect expires, the target's Max HP and P./ M. Def. are greatly decreased for a certain time (only in PvP). -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96682" name="Spellbook: Critical Assault" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Critical Assault skill. <Classes> Adventurer <Skill effect> Makes a powerful blow at the target increasing their received Vital Point Critical Damage. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96683" name="Spellbook: Fury Blade" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Fury Blade skill. <Class> Wind Rider <Skill effect> Swiftly strikes the target preventing them from using skills for 5 sec. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96684" name="Spellbook: Mortal Piercing" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Mortal Piercing skill. <Class> Ghost Hunter <Skill effect> Attacks the target's vital point ignoring their Shield Defense. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96685" name="Mysterious Crystal (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be used for creating many valuable items. -->
+		<set name="icon" val="icon.etc_black_freezing_core_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96686" name="Mysterious Pack Lv. 1 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. Can be used to create Mysterious Chest Lv. 2 with a certain chance through the Special Craft. -->
+		<set name="icon" val="icon.etc_pi_box_joy_pack" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96687" name="Mysterious Pack Lv. 2 (Time-limited)" type="EtcItem">
+		<!-- Can be used to create Mysterious Chest Lv. 3 with a certain chance through the Special Craft, or exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Sayha's Blessing x20 (1 pc.) Soulshot Ticket x100 Scroll: Boost Attack x20 (1 pc.) Scroll: Boost Defense x20 (1 pc.) -->
+		<set name="icon" val="icon.npoint_earthworm_30day_box" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96688" name="Mysterious Pack Lv. 3 (Time-limited)" type="EtcItem">
+		<!-- Can be used to create Mysterious Chest Lv. 4 with a certain chance through the Special Craft, or exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Life Stone - Accessories x3 (2 pcs.) Life Stone - Circlet x3 (2 pcs.) Life Stone Lv. 2 - Weapon x3 (2 pcs.) Life Stone Lv. 2 - Armor x3 (2 pcs.) Life Stone Lv. 2 - Shield/ Sigil x3 (2 pcs.) -->
+		<set name="icon" val="icon.etc_pi_box_belief_pack" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96689" name="Mysterious Pack Lv. 4 (Time-limited)" type="EtcItem">
+		<!-- Can be used to create Mysterious Chest Lv. 5 with a certain chance through the Special Craft, or exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Enchant Package: Ring of Insolence x10 (1 pc.) Enchant Package: Dragon Valley's Earring x10 (1 pc.) Agathion Spirit Exchange Coupon x5 (1 pc.) Enchant Kit: Talisman of Eva x2 (1 pc.) Enchant Kit: Talisman of Speed x5 (1 pc.) Dragon Belt Pack x2 (1 pc.) Enchant Kit: Talisman of Authority x3 (2 pcs.) Enchant Kit: Circlet of Hero x2 (3 pcs.) Package: Einhasad's Pendant Lv. 1 x2 (3 pcs.) -->
+		<set name="icon" val="icon.npoint_valakas_30day_box" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96690" name="Mysterious Pack Lv. 5 (Time-limited)" type="EtcItem">
+		<!-- Can be used to create Mysterious Chest Lv. 6 with a certain chance through the Special Craft, or exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Improved Scroll: Enchant A-grade Weapon x1 (2 pcs.) Improved Scroll: Enchant A-grade Armor x1 (2 pcs.) Cursed Scroll: Enchant A-grade Weapon x1 (1 pc.) Cursed Scroll: Enchant A-grade Armor x1 (1 pc.) Opal Kit Lv. 4 x2 (1 pc.) Amber Kit Lv. 4 x2 (1 pc.) Moonstone Kit Lv. 4 x2 (1 pc.) Spinel Kit Lv. 4 x1 (2 pcs.) Zircon Kit Lv. 4 x1 (2 pcs.) Onyx Kit Lv. 4 x1 (2 pcs.) Coral Kit Lv. 4 x1 (2 pcs.) -->
+		<set name="icon" val="icon.npoint_tauti_30day_box" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96691" name="Mysterious Pack Lv. 6 (Time-limited)" type="EtcItem">
+		<!-- Can be used to create Mysterious Chest Lv. 6 with a certain chance through the Special Craft, or exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Ice Crystal Breastplate x1 (1 pc.) Ice Crystal Gaiters x1 (1 pc.) Leather Armor of Lightning x1 (1 pc.) Leather Leggings of Lightning x1 (1 pc.) Flaming Tunic x1 (1 pc.) Flaming Stockings x1 (1 pc.) Helmet of Mana x1 (3 pcs.) Stun Gauntlets x1 (3 pcs.) Boots of Evasion x1 (3 pcs.) Shield of Vengeance x1 (1 pc.) Sigil of Inevitability x1 (3 pcs.) -->
+		<set name="icon" val="icon.npoint_antaras_30day_box" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96692" name="Mysterious Pack Lv. 7 (Time-limited)" type="EtcItem">
+		<!-- Can be used to create Mysterious Chest Lv. 8 with a certain chance through the Special Craft, or exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Boss' Weapon Pack x1 (6 pcs.) Package: Talisman of Baium x1 (10 pcs.) Package: Frintezza's Necklace x1 (10 pcs.) Package: Baium's Ring x1 (6 pcs.) Package: Zaken's Earring x1 (4 pcs.) Package: Queen Ant's Ring x1 (2 pcs.) Package: Orfen's Earring x1 (2 pcs.) Package: Ring of Core x2 (1 pc.) -->
+		<set name="icon" val="icon.etc_pi_box_love_pack" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96693" name="Mysterious Pack Lv. 8 (Time-limited)" type="EtcItem">
+		<!-- Can be exchanged for the following items through the Game Assistant. <font color=eeaa22><Items for exchange></font> Talisman Bracelet Lv. 6 x1 Scroll: Enchant Rare Accessories x1 (1 pc.) Improved Scroll: Enchant Rare Accessories x1 (2 pcs.) Package: Antharas' Earring x1 (15 pcs.) Package: Beleth' Ring x1 (10 pcs.) Spellbook: Ultimate Death Knight Transformation x1 (30 pcs.) Spellbook: Titan Champion x1 (30 pcs.) Spellbook: Rolling Dice x1 (25 pcs.) Spellbook: Dragon Strike x1 (20 pcs.) Spellbook: Mechanical Hero x1 (15 pcs.) Spellbook: Meteor x1 (15 pcs.) Spellbook: Cacophony of War x1 (15 pcs.) Spellbook: Exclusion x1 (15 pcs.) Spellbook: Dark Disruption x1 (15 pcs.) Spellbook: Tranquillity x1 (15 pcs.) Spellbook: Pa'agrio's Touch x1 (15 pcs.) Spellbook: Team Building x1 (15 pcs.) Spellbook: Hell x1 (15 pcs.) Spellbook: Phoenix Shield x1 (15 pcs.) Spellbook: Shelter x1 (15 pcs.) Spellbook: Condemnation x1 (15 pcs.) -->
+		<set name="icon" val="icon.etc_pi_box_wish_pack" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96694" name="Package: Antharas' Earring" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.accessory_earring_of_antaras_i02" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96695" name="Package: Beleth' Ring" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.accessary_dynasty_ring_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96696" name="Discount XP Recovery Scroll Lv. 1" additionalName="Sealed" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect> XP recovery fee -20% Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.etc_charm_of_courage_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96697" name="Discount XP Recovery Scroll Lv. 2" additionalName="Sealed" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect> XP recovery fee -30% Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.etc_charm_of_courage_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96698" name="Elmoreden Tower Scroll of Blessing (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect> All stats +1 P./ M. Atk. +100 P./ M. Def. +100 XP recovery fee -10% Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bm_challenger_scroll" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96699" name="Agathion Petram" additionalName="30-day" type="Armor">
+		<!-- Available for 30 d. Applies the following effects when equipped. <font color=eeaa22><Unique properties></font> P. Def. +11% M. Def. +11% Shock Atk. Rate +14% Silence Atk. Rate +14% Fear Atk. Rate +14% Speed +2 Equipping it in the main agathion slot summons Agathion Petram. <font color=ff6666>Note!</font> If equipped simultaneously with Agathion Taurus or Agathion Virgo, only Agathion Petram will be active. <font color=ff6666>Cannot be enchanted.</font> -->
+		<set name="icon" val="icon.agathion_earth_1" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="agathion" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="50" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+</list>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="39300" name="Col_197">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>18</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39301" name="Col_198">
+		<effects>
+			<effect name="PhysicalDefence">
+				<amount>18</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39302" name="Col_199">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>21</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39303" name="Col_200">
+		<effects>
+			<effect name="PhysicalDefence">
+				<amount>21</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39304" name="Col_201">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>23</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39305" name="Col_202">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>23</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39306" name="Col_203">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>42</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>42</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39307" name="Col_204">
+		<effects>
+			<effect name="PAtk">
+				<amount>30</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>30</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39308" name="Col_205">
+		<passive_skill id="81836" level="1" />
+	</option>
+	<option id="39309" name="Col_206">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>34</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39310" name="Col_207">
+		<effects>
+			<effect name="PhysicalDefence">
+				<amount>34</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39311" name="Col_208">
+		<effects>
+			<effect name="MAtk">
+				<amount>25</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39312" name="Col_209">
+		<effects>
+			<effect name="PAtk">
+				<amount>25</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39313" name="Col_210">
+		<effects>
+			<effect name="ShotsBonus">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39314" name="Col_211">
+		<effects>
+			<effect name="SkillCriticalDamage">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39315" name="Col_212">
+		<effects>
+			<effect name="PhysicalDefence">
+				<amount>60</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>60</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39316" name="Col_213">
+		<effects>
+			<effect name="PhysicalSkillPower">
+				<amount>2</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalSkillPower">
+				<amount>2</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39317" name="Col_214">
+		<effects>
+			<effect name="DefenceSkillCriticalDamage">
+				<amount>2</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39318" name="Col_215">
+		<!-- TODO: FirearmsResistance +2% -->
+	</option>
+	<option id="39319" name="Col_216">
+		<effects>
+			<effect name="StatUp">
+				<amount>1</amount>
+				<mode>DIFF</mode>
+				<stat>STR</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>1</amount>
+				<mode>DIFF</mode>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="39320" name="Col_217">
+		<effects>
+			<effect name="StatUp">
+				<amount>1</amount>
+				<mode>DIFF</mode>
+				<stat>STR</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>1</amount>
+				<mode>DIFF</mode>
+				<stat>INT</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>1</amount>
+				<mode>DIFF</mode>
+				<stat>DEX</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>1</amount>
+				<mode>DIFF</mode>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="39323" name="FL_1">
+		<passive_skill id="50525" level="1" />
+	</option>
+	<option id="39324" name="FL_2">
+		<passive_skill id="50525" level="2" />
+	</option>
+	<option id="39325" name="FL_3">
+		<passive_skill id="50525" level="3" />
+	</option>
+	<option id="39326" name="FL_4">
+		<passive_skill id="50525" level="4" />
+	</option>
+	<option id="39327" name="FL_5">
+		<passive_skill id="50525" level="5" />
+	</option>
+	<option id="39328" name="FL_6">
+		<passive_skill id="50525" level="6" />
+	</option>
+	<option id="39329" name="FL_7">
+		<passive_skill id="50525" level="7" />
+	</option>
+	<option id="39330" name="FL_8">
+		<passive_skill id="50525" level="8" />
+	</option>
+	<option id="39331" name="FL_9">
+		<passive_skill id="50525" level="9" />
+	</option>
+	<option id="39332" name="FL_10">
+		<passive_skill id="50525" level="10" />
+	</option>
+	<option id="39333" name="FL_11">
+		<passive_skill id="50525" level="11" />
+	</option>
+	<option id="39334" name="FL_12">
+		<passive_skill id="50526" level="1" />
+	</option>
+	<option id="39335" name="FL_13">
+		<passive_skill id="50526" level="2" />
+	</option>
+	<option id="39336" name="FL_14">
+		<passive_skill id="50526" level="3" />
+	</option>
+	<option id="39337" name="FL_15">
+		<passive_skill id="50526" level="4" />
+	</option>
+	<option id="39338" name="FL_16">
+		<passive_skill id="50526" level="5" />
+	</option>
+	<option id="39339" name="FL_17">
+		<passive_skill id="50526" level="6" />
+	</option>
+	<option id="39340" name="FL_18">
+		<passive_skill id="50526" level="7" />
+	</option>
+	<option id="39341" name="FL_19">
+		<passive_skill id="50526" level="8" />
+	</option>
+	<option id="39342" name="FL_20">
+		<passive_skill id="50526" level="9" />
+	</option>
+	<option id="39343" name="FL_21">
+		<passive_skill id="50526" level="10" />
+	</option>
+	<option id="39344" name="FL_22">
+		<passive_skill id="50526" level="11" />
+	</option>
+	<option id="39345" name="FL_23">
+		<passive_skill id="50527" level="1" />
+	</option>
+	<option id="39346" name="FL_24">
+		<passive_skill id="50527" level="2" />
+	</option>
+	<option id="39347" name="FL_25">
+		<passive_skill id="50527" level="3" />
+	</option>
+	<option id="39348" name="FL_26">
+		<passive_skill id="50527" level="4" />
+	</option>
+	<option id="39349" name="FL_27">
+		<passive_skill id="50527" level="5" />
+	</option>
+	<option id="39350" name="FL_28">
+		<passive_skill id="50527" level="6" />
+	</option>
+	<option id="39351" name="FL_29">
+		<passive_skill id="50527" level="7" />
+	</option>
+	<option id="39352" name="FL_30">
+		<passive_skill id="50527" level="8" />
+	</option>
+	<option id="39353" name="FL_31">
+		<passive_skill id="50527" level="9" />
+	</option>
+	<option id="39354" name="FL_32">
+		<passive_skill id="50527" level="10" />
+	</option>
+	<option id="39355" name="FL_33">
+		<passive_skill id="50527" level="11" />
+	</option>
+	<option id="39356" name="FL_34">
+		<passive_skill id="50528" level="1" />
+	</option>
+	<option id="39357" name="FL_35">
+		<passive_skill id="50528" level="2" />
+	</option>
+	<option id="39358" name="FL_36">
+		<passive_skill id="50528" level="3" />
+	</option>
+	<option id="39359" name="FL_37">
+		<passive_skill id="50528" level="4" />
+	</option>
+	<option id="39360" name="FL_38">
+		<passive_skill id="50528" level="5" />
+	</option>
+	<option id="39361" name="FL_39">
+		<passive_skill id="50528" level="6" />
+	</option>
+	<option id="39362" name="FL_40">
+		<passive_skill id="50528" level="7" />
+	</option>
+	<option id="39363" name="FL_41">
+		<passive_skill id="50528" level="8" />
+	</option>
+	<option id="39364" name="FL_42">
+		<passive_skill id="50528" level="9" />
+	</option>
+	<option id="39365" name="FL_43">
+		<passive_skill id="50528" level="10" />
+	</option>
+	<option id="39366" name="FL_44">
+		<passive_skill id="50528" level="11" />
+	</option>
+	<option id="39367" name="FL_45">
+		<passive_skill id="50529" level="1" />
+	</option>
+	<option id="39368" name="FL_46">
+		<passive_skill id="50529" level="2" />
+	</option>
+	<option id="39369" name="FL_47">
+		<passive_skill id="50529" level="3" />
+	</option>
+	<option id="39370" name="FL_48">
+		<passive_skill id="50529" level="4" />
+	</option>
+	<option id="39371" name="FL_49">
+		<passive_skill id="50529" level="5" />
+	</option>
+	<option id="39372" name="FL_50">
+		<passive_skill id="50529" level="6" />
+	</option>
+	<option id="39373" name="FL_51">
+		<passive_skill id="50529" level="7" />
+	</option>
+	<option id="39374" name="FL_52">
+		<passive_skill id="50529" level="8" />
+	</option>
+	<option id="39375" name="FL_53">
+		<passive_skill id="50529" level="9" />
+	</option>
+	<option id="39376" name="FL_54">
+		<passive_skill id="50529" level="10" />
+	</option>
+	<option id="39377" name="FL_55">
+		<passive_skill id="50529" level="11" />
+	</option>
+	<option id="39378" name="FL_56">
+		<passive_skill id="50530" level="1" />
+	</option>
+	<option id="39379" name="FL_57">
+		<passive_skill id="50530" level="2" />
+	</option>
+	<option id="39380" name="FL_58">
+		<passive_skill id="50530" level="3" />
+	</option>
+	<option id="39381" name="FL_59">
+		<passive_skill id="50530" level="4" />
+	</option>
+	<option id="39382" name="FL_60">
+		<passive_skill id="50530" level="5" />
+	</option>
+	<option id="39383" name="FL_61">
+		<passive_skill id="50530" level="6" />
+	</option>
+	<option id="39384" name="FL_62">
+		<passive_skill id="50530" level="7" />
+	</option>
+	<option id="39385" name="FL_63">
+		<passive_skill id="50530" level="8" />
+	</option>
+	<option id="39386" name="FL_64">
+		<passive_skill id="50530" level="9" />
+	</option>
+	<option id="39387" name="FL_65">
+		<passive_skill id="50530" level="10" />
+	</option>
+	<option id="39388" name="FL_66">
+		<passive_skill id="50530" level="11" />
+	</option>
+	<option id="39389" name="FL_67">
+		<passive_skill id="50531" level="1" />
+	</option>
+	<option id="39390" name="FL_68">
+		<passive_skill id="50531" level="2" />
+	</option>
+	<option id="39391" name="FL_69">
+		<passive_skill id="50531" level="3" />
+	</option>
+	<option id="39392" name="FL_70">
+		<passive_skill id="50531" level="4" />
+	</option>
+	<option id="39393" name="FL_71">
+		<passive_skill id="50531" level="5" />
+	</option>
+	<option id="39394" name="FL_72">
+		<passive_skill id="50531" level="6" />
+	</option>
+	<option id="39395" name="FL_73">
+		<passive_skill id="50531" level="7" />
+	</option>
+	<option id="39396" name="FL_74">
+		<passive_skill id="50531" level="8" />
+	</option>
+	<option id="39397" name="FL_75">
+		<passive_skill id="50531" level="9" />
+	</option>
+	<option id="39398" name="FL_76">
+		<passive_skill id="50531" level="10" />
+	</option>
+	<option id="39399" name="FL_77">
+		<passive_skill id="50531" level="11" />
+	</option>
+</list>

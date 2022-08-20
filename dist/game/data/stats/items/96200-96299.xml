@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="96200" name="Package: +4 Talisman of Authority (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.sayhas_talisman_new" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96201" name="Package: Einhasad's Pendant Lv. 2 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96202" name="Package: +4 Circlet of Hero (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.accessory_barka_karm_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96203" name="Package: +6 Talisman of Eva (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_eva_talisman" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96204" name="Package: +6 Dragon Belt (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.r2_belt_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96205" name="Package: +6 Talisman of Authority (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.sayhas_talisman_new" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96206" name="Package: +6 Circlet of Hero (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.accessory_barka_karm_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96207" name="Package: Brooch Lv. 5 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_brooch_lavianrose_i06" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96208" name="Package: Opal Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_opal_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96209" name="Package: Coral Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_coral_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96210" name="Package: Onyx Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_onyx_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96211" name="Package: Spinel Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96212" name="Package: Zircon Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_bloodstone_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96213" name="Package: Moonstone Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_moonstone_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96214" name="Package: Agathion Lv. 5 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.pi_high_agathion_bracelet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96215" name="Package: +5 Agathion Ignis (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_fire_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96216" name="Package: +5 Agathion Nebula (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_water_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96217" name="Package: +5 Agathion Procella (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_wind_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96218" name="Package: +5 Agathion Petram (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_earth_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96219" name="Package: +5 Agathion Joy (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.pleasure_agathion_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96220" name="Package: Talisman Bracelet Lv. 5 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.dimension_bracelet_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96221" name="Package: Venir's Talisman Lv. 12 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.benir_talisman_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96222" name="Herphah's Equipment Pack Lv. 55 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 55+. -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96223" name="Herphah's Equipment Pack Lv. 60 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 60+. -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96224" name="Herphah's Equipment Pack Lv. 65 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 65+. -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96225" name="Herphah's Equipment Pack Lv. 70 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 70+. -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96226" name="Herphah's Equipment Pack Lv. 74 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 74+. -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96227" name="Herphah's Equipment Pack Lv. 76 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 76+. -->
+		<set name="icon" val="icon.etc_exchange_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96228" name="Special Growth Pack Lv. 85 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 85+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96229" name="Special Growth Pack Lv. 86 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 86+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96230" name="Special Growth Pack Lv. 87 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 87+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96231" name="Special Growth Pack Lv. 88 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 88+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96232" name="Special Growth Pack Lv. 89 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 89+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96233" name="Enhanced Growth Pack Lv. 55 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 55+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96234" name="Enhanced Growth Pack Lv. 56 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 56+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96235" name="Enhanced Growth Pack Lv. 57 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 57+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96236" name="Enhanced Growth Pack Lv. 58 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 58+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96237" name="Enhanced Growth Pack Lv. 59 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 59+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96238" name="Enhanced Growth Pack Lv. 60 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 60+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96239" name="Enhanced Growth Pack Lv. 61 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 61+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96240" name="Enhanced Growth Pack Lv. 62 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 62+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96241" name="Enhanced Growth Pack Lv. 63 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 63+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96242" name="Enhanced Growth Pack Lv. 64 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 64+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96243" name="Enhanced Growth Pack Lv. 65 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 65+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96244" name="Enhanced Growth Pack Lv. 66 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 66+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96245" name="Enhanced Growth Pack Lv. 67 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 67+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96246" name="Enhanced Growth Pack Lv. 68 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 68+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96247" name="Enhanced Growth Pack Lv. 69 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 69+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96248" name="Enhanced Growth Pack Lv. 70 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 70+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96249" name="Enhanced Growth Pack Lv. 71 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 71+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96250" name="Enhanced Growth Pack Lv. 72 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 72+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96251" name="Enhanced Growth Pack Lv. 73 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 73+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96252" name="Enhanced Growth Pack Lv. 74 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 74+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96253" name="Enhanced Growth Pack Lv. 75 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 75+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96254" name="Enhanced Growth Pack Lv. 76 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 76+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96255" name="Enhanced Growth Pack Lv. 77 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 77+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96256" name="Enhanced Growth Pack Lv. 78 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 78+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96257" name="Enhanced Growth Pack Lv. 79 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 79+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96258" name="Enhanced Growth Pack Lv. 80 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 80+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96259" name="Enhanced Growth Pack Lv. 81 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 81+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96260" name="Enhanced Growth Pack Lv. 82 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 82+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96261" name="Enhanced Growth Pack Lv. 83 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 83+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96262" name="Enhanced Growth Pack Lv. 84 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. <Requirements> Required level: 84+. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96263" name="Hellbound's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.present_of_destination_event" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96264" name="Scratched Key (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- An old key given for killing monsters. <How to use> Special Craft - Special Support Supply Box -->
+		<set name="icon" val="icon.etc_old_key_i01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96265" name="Polished Key (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- A polished key given for killing monsters. <How to use> Can be exchanged for various items through Mammon. -->
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96266" name="Support Supply Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96267" name="Special Support Supply Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i08" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96268" name="Beleth's Soul Eater" type="Weapon">
+		<set name="icon" val="icon.staff_of_bereth" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="880" />
+		<set name="price" val="26968400" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">245</stat>
+			<stat type="mAtk">212</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96269" name="Beleth's Soul Eater" additionalName="Sealed" type="Weapon">
+		<set name="icon" val="icon.staff_of_bereth" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="880" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="2" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="is_magic_weapon" val="true" />
+		<stats>
+			<stat type="pAtk">245</stat>
+			<stat type="mAtk">212</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="96270" name="Dragon Slayer Outfit - Not Available" type="Armor">
+		<!-- Required for transformation. -->
+		<set name="icon" val="icon.dragon_slayer_suit" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96271" name="Test Period 1" additionalName="2 min." type="Armor">
+		<!-- Time-limited test equipment. -->
+		<set name="icon" val="icon.accessory_ring_of_queen_ant_i04" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">77</stat>
+			<stat type="maxMp">30</stat>
+		</stats>
+	</item>
+	<item id="96272" name="Test Period 2" additionalName="2 min." type="EtcItem">
+		<!-- Time-limited test supplies. -->
+		<set name="icon" val="icon.scrl_item_unlock" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96273" name="Spellbook: Masterpiece Shield" type="EtcItem">
+		<!-- A scroll for learning the Masterpiece Shield skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Makes an enemy's Shield Defense ignoring effects less effective. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96274" name="Spellbook: Masterpiece Shield" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Masterpiece Shield skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Makes an enemy's Shield Defense ignoring effects less effective. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96275" name="Spellbook: Knight's Power" type="EtcItem">
+		<!-- A scroll for learning the Knight's Power skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Increases P. Atk. in accordance with your P. Def. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96276" name="Spellbook: Knight's Power" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Knight's Power skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Increases P. Atk. in accordance with your P. Def. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96277" name="Spellbook: Knight Assault" type="EtcItem">
+		<!-- A scroll for learning the Knight Assault skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Attacks an enemy with a powerful sword swing. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96278" name="Spellbook: Knight Assault" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Knight Assault skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Attacks an enemy with a powerful sword swing. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96279" name="Spellbook: Chain Strike (Shock)" type="EtcItem">
+		<!-- A scroll for learning the Chain Strike (Shock) skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Enhances the Chain Strike skill. Adds a chance to stun the target when using the Chain Strike skill. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96280" name="Spellbook: Chain Strike (Shock)" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Chain Strike (Shock) skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Enhances the Chain Strike skill. Adds a chance to stun the target when using the Chain Strike skill. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96281" name="Spellbook: Shield Throwing" type="EtcItem">
+		<!-- A scroll for learning the Shield Throwing skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Attacks an enemy with a powerful shield throw. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96282" name="Spellbook: Shield Throwing" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Shield Throwing skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Attacks an enemy with a powerful shield throw. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96283" name="Spellbook: Power of Life" type="EtcItem">
+		<!-- A scroll for learning the Power of Life skill. <Classes> Phoenix Knight Eva's Templar <Skill effect> Increases your body's energy. Increases Max HP, P. Def. and Shield Defense. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96284" name="Spellbook: Power of Life" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Power of Life skill. <Classes> Phoenix Knight Eva's Templar <Skill effect> Increases your body's energy. Increases Max HP, P. Def. and Shield Defense. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96285" name="Spellbook: Toughness" type="EtcItem">
+		<!-- A scroll for learning the Toughness skill. <Classes> Hell Knight Shillien Templar <Skill effect> Makes your body stronger. Increases Max HP, P. Def. and Shield Defense. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96286" name="Spellbook: Toughness" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Toughness skill. <Classes> Hell Knight Shillien Templar <Skill effect> Makes your body stronger. Increases Max HP, P. Def. and Shield Defense. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96287" name="Spellbook: Ultimate Defense Lv. 3" type="EtcItem">
+		<!-- A scroll for learning the Ultimate Defense skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Increases P./ M. Def. Increases Buff Cancel Resistance. Cancels defense ignoring effects. Cancels Shield Defense ignoring effects. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96288" name="Spellbook: Ultimate Defense Lv. 3" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning the Ultimate Defense skill. <Classes> Phoenix Knight Hell Knight Eva's Templar Shillien Templar <Skill effect> Increases P./ M. Def. Increases Buff Cancel Resistance. Cancels defense ignoring effects. Cancels Shield Defense ignoring effects. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96289" name="Spellbook: Phoenix Shield" type="EtcItem">
+		<!-- A spellbook for learning the Phoenix skill. <Class> Phoenix Knight <Skill effect> Covers nearby allies by a barrier imbued with the power of Phoenix. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96290" name="Spellbook: Phoenix Shield" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Phoenix skill. <Class> Phoenix Knight <Skill effect> Covers nearby allies by a barrier imbued with the power of Phoenix. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96291" name="Spellbook: Hell" type="EtcItem">
+		<!-- A spellbook for learning the Hell skill. <Class> Hell Knight <Skill effect> Deals a heavy blow to nearby enemies rendering them helpless. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96292" name="Spellbook: Hell" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Hell skill. <Class> Hell Knight <Skill effect> Deals a heavy blow to nearby enemies rendering them helpless. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96293" name="Spellbook: Shelter" type="EtcItem">
+		<!-- A spellbook for learning the Shelter skill. <Class> Eva's Templar <Skill effect> Transfers a part of nearby allies' incoming damage to the caster. Protects the caster with a barrier. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96294" name="Spellbook: Shelter" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Shelter skill. <Class> Eva's Templar <Skill effect> Transfers a part of nearby allies' incoming damage to the caster. Protects the caster with a barrier. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96295" name="Spellbook: Condemnation" type="EtcItem">
+		<!-- A spellbook for learning the Condemnation skill. <Class> Shillien Templar <Skill effect> Rushes to the target dealing a heavy blow to them and nearby enemies and rendering them helpless. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96296" name="Spellbook: Condemnation" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Condemnation skill. <Class> Shillien Templar <Skill effect> Rushes to the target dealing a heavy blow to them and nearby enemies and rendering them helpless. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96297" name="Frost Lord's Weapon Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.bm_dragon_present_5" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96298" name="Rare Scroll Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96299" name="Recipe: Death Knight's Flame Sword (20%)" type="EtcItem">
+		<!-- For Dwarves only. A recipe for Flame Sword. Requires Create Item Lv. 8. The success rate is 20%. -->
+		<set name="icon" val="icon.etc_recipe_black_i00" />
+		<set name="default_action" val="RECIPE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="30" />
+		<set name="price" val="200000000" />
+	</item>
+</list>

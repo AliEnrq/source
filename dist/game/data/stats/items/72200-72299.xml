@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="72207" name="Rat Hole Key (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- A key for a secret rat door. Double-click to obtain Extra Pass: Transcendent Instance Zone, Primeval Isle's Time Stone, Primeval Garden's Time Stone, Antharas' Lair's Time Stone, Alligator Island's Time Stone. -->
+		<set name="icon" val="icon.etc_old_key_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72213" name="Partner Help Cube" type="EtcItem">
+		<!-- Double-click to obtain Shining Scroll of Mood Melody (10 pcs.). 10 d. - XP Growth Scroll (50 pcs.) 20 d. - Special Dragon Fruit Lv. 1 (30 pcs.) 30 d. - Package: XP & SP Rune 50% (1-hour) (10 pcs.) (Can be used only once a day.) -->
+		<set name="icon" val="icon.etc_11th_event_group" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72214" name="Partner Help Cube" type="EtcItem">
+		<!-- Double-click to obtain Spirit Ore (300 pcs.). 10 d. - XP Growth Scroll (50 pcs.) 20 d. - Einhasad's Blessing Scroll (30 pcs.) 30 d. - Magic Lamp Charging Potion (10 pcs.) (Can be used only once a day.) -->
+		<set name="icon" val="icon.etc_11th_event_group" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72245" name="Festival Gift Box" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="BranchSys.br_gold_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72246" name="Kit: Growth Support (Lv. 1-75)" type="EtcItem">
+		<!-- Double-click to obtain the following. Required level: 75+. -->
+		<set name="icon" val="br_cashtex.item.br_cash_lucky_cube_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72247" name="Daily Kit: Support" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="BranchSys.icon.br_fortuna_cube_s_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72250" name="XP Bonus Rune Pack (7-day)" additionalName="7-day" type="EtcItem">
+		<!-- Double-click to obtain XP Bonus Rune (7-day). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="72251" name="XP Bonus Rune - 50%" additionalName="7-day" type="EtcItem">
+		<!-- When in inventory, acquired XP/ SP while hunting +50%. -->
+		<set name="icon" val="br_cashtex.item.br_cash_rune_of_exp_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="72252" name="XP Bonus Rune Pack (15-day)" additionalName="15-day" type="EtcItem">
+		<!-- Double-click to obtain XP Bonus Rune (15-day). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="21600" />
+	</item>
+	<item id="72253" name="XP Bonus Rune - 50%" additionalName="15-day" type="EtcItem">
+		<!-- When in inventory, acquired XP/ SP while hunting +50%. -->
+		<set name="icon" val="br_cashtex.item.br_cash_rune_of_exp_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="21600" />
+	</item>
+	<item id="72254" name="XP Bonus Rune Pack (30-day)" additionalName="30-day" type="EtcItem">
+		<!-- Double-click to obtain XP Bonus Rune (30-day). -->
+		<set name="icon" val="icon.etc_pi_gift_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="72255" name="XP Bonus Rune - 50%" additionalName="30-day" type="EtcItem">
+		<!-- When in inventory, acquired XP/ SP while hunting +50%. -->
+		<set name="icon" val="br_cashtex.item.br_cash_rune_of_exp_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="time" val="43200" />
+	</item>
+	<item id="72256" name="Adventurer's Ring" additionalName="Sealed" type="Armor">
+		<!-- <Properties> P. Atk. +10 M. Atk. +10 Max HP +200 <font color=ff6666><Cannot be enchanted and augmented.></font> <font color=ff6666><Effects of two identical rings do not stack.></font> -->
+		<set name="icon" val="icon.ev_11th_rare_acc_ring" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">32</stat>
+		</stats>
+	</item>
+	<item id="72257" name="Returning Hero's Welcome Gift" additionalName="THE HERO" type="EtcItem">
+		<!-- A special gift for returning adventurers who still remember the glory of the past. Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_2018_special_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72258" name="THE HERO RETURNS Coin" type="EtcItem">
+		<!-- A coin that can be obtained for completing the 'THE HERO RETURNS' event quest. Can be exchanged for various items through the Game Assistant. -->
+		<set name="icon" val="BranchIcon.Icon.etc_g_field_special_coin_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72259" name="Hero's Symbol" additionalName="THE HERO" type="EtcItem">
+		<!-- A special gift for returning adventurers. Boosts stats when added to the collection. -->
+		<set name="icon" val="icon.etc_london_olympic_gold" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72260" name="Baium Doll Lv. 1" additionalName="THE HERO" type="EtcItem">
+		<!-- <Baium Doll's Sorcery Lv. 1> Skill Cooldown -2% P. Def. +5% M. Def. +5% Silence Resistance +10% Fear Resistance +10% Paralysis Resistance +5% Knockback Resistance +5% Pull Resistance +5% Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_baium_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72261" name="Queen Ant Doll Lv. 1" additionalName="THE HERO" type="EtcItem">
+		<!-- <Queen Ant Doll's Sorcery Lv. 1> P. Atk. +2% P. Critical Damage +3% P. Skill Critical Damage +3% Max HP +4% Boosts stats when in inventory. Cannot be upgraded. -->
+		<set name="icon" val="icon.bm_queen_ant_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72262" name="Orfen Doll Lv. 1" additionalName="THE HERO" type="EtcItem">
+		<!-- <Orfen Doll's Sorcery Lv. 1> M. Atk. +2% M. Skill Critical Damage +3% Max MP +4% Boosts stats when in inventory. Cannot be upgraded. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72263" name="Frintezza Doll Lv. 1" additionalName="THE HERO" type="EtcItem">
+		<!-- <Frintezza Doll's Sorcery Lv. 1> STR/ INT +1 Skill Power +1% Atk. Spd. +20 Casting Spd. +20 Speed +1 Boosts parameters when in inventory. Cannot be upgraded. -->
+		<set name="icon" val="icon.bm_doll_frintessa_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72264" name="Sayha's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72265" name="17th Anniversary Master's Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.bm_special_pendant_abradant_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72269" name="Sayha's Grace Sustain Rune (Time-limited)" additionalName="7-day" type="EtcItem">
+		<!-- When in inventory, applies the following buff: Sayha's Grace Sustain -->
+		<set name="icon" val="icon.ev_charge_run" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="time" val="10080" />
+	</item>
+	<item id="72270" name="Lineage 2 PA Support Kit (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72272" name="300 Million Adena Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain 300 million adena. -->
+		<set name="icon" val="icon.event_orc_coinbox" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72273" name="10 Million Adena Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain 10 million adena. -->
+		<set name="icon" val="icon.event_orc_coinbox" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72274" name="1 Million Adena Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain 1 million adena. -->
+		<set name="icon" val="icon.event_orc_coinbox" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72283" name="Aden's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain Berserker's Scroll (2 pcs.) and a random item from the list. -->
+		<set name="icon" val="icon.event_july_seven_park_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72284" name="Hero's Lost Trophy" type="EtcItem">
+		<!-- A trophy that belongs to a hero who has fallen in battle. Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72285" name="Enchantment Pass - Additional Rewards" type="EtcItem">
+		<!-- Can be bought once per account in a season. -->
+		<set name="icon" val="BranchIcon.icon.g_pass_advance_premium_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CRYSTAL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72286" name="Sayha's Grace Sustention Points" type="EtcItem">
+		<set name="icon" val="BranchIcon.icon.g_pass_sayha_grace_point_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+	</item>
+	<item id="72287" name="Game Assistant's Exchange" type="EtcItem">
+		<set name="icon" val="BranchIcon.icon.g_pass_advance_type_multisell_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CRYSTAL" />
+	</item>
+	<item id="72288" name="Item Exchange/ Upgrade" type="EtcItem">
+		<set name="icon" val="BranchIcon.icon.g_pass_advance_type_multisell_01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CRYSTAL" />
+	</item>
+	<item id="72289" name="Hunt Pass - Additional Reward Ticket" type="EtcItem">
+		<!-- A ticket to the Season Pass. Required for activating additional rewards for the Hunt Pass. -->
+		<set name="icon" val="BranchIcon.icon.g_pass_hunting_premium_ticket_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72290" name="Enchantment Pass - Additional Reward Ticket" type="EtcItem">
+		<!-- A ticket to the Season Pass. Required for activating additional rewards for the Enchantment Pass. -->
+		<set name="icon" val="BranchIcon.icon.g_pass_advance_premium_ticket_00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72291" name="L-Coins (1000 pcs.)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_lcoin_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72292" name="L-Coins (8000 pcs.)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.bm_lcoin_box_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="72293" name="Antharas Doll (Event)" additionalName="Sealed" type="EtcItem">
+		<!-- <Antharas Doll's Sorcery Lv. 1> CON +1 MEN +1 Received damage -2% Knockback Resistance +5% Shock Resistance +5% Pull Resistance +5% Soulshot Damage Resistance +2% Spiritshot Damage Resistance +2% Boosts stats when in inventory. Cannot be upgraded through compounding. -->
+		<set name="icon" val="icon.bm_antaras_doll_30d" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

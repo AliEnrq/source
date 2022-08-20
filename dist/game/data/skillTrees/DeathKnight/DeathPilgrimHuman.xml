@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
+	<skillTree type="classSkillTree" classId="196">
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="1" getLevel="1">
+			<item id="92004" count="1" /> <!-- Inventory Expansion Coupon Lv. 1 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="2" getLevel="1">
+			<item id="92005" count="1" /> <!-- Inventory Expansion Coupon Lv. 2 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="3" getLevel="1">
+			<item id="92006" count="1" /> <!-- Inventory Expansion Coupon Lv. 3 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="4" getLevel="1">
+			<item id="92007" count="1" /> <!-- Inventory Expansion Coupon Lv. 4 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="5" getLevel="1">
+			<item id="92008" count="1" /> <!-- Inventory Expansion Coupon Lv. 5 -->
+		</skill>
+		
+		<skill skillName="Born To Be Dead" skillId="45349" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Undying Body" skillId="45350" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Appetite for Destruction" skillId="45351" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Death Points" skillId="45352" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Change Armor" skillId="45355" skillLevel="1" getLevel="1" autoGet="true" />
+
+		<skill skillName="Shield" skillId="1040" skillLevel="1" getLevel="2" levelUpSp="5" />
+
+		<skill skillName="Might" skillId="1068" skillLevel="1" getLevel="3" levelUpSp="5" />
+
+		<skill skillName="Ability to Protect" skillId="91" skillLevel="1" getLevel="5" levelUpSp="15" />
+		<skill skillName="Death Sword Mastery" skillId="45353" skillLevel="1" getLevel="5" levelUpSp="15" />
+		<skill skillName="Death Armor Mastery" skillId="45354" skillLevel="1" getLevel="5" levelUpSp="15" />
+		
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="1" getLevel="10" levelUpSp="100" />
+		<skill skillName="Ability to Attack" skillId="77" skillLevel="1" getLevel="10" levelUpSp="100" />
+		<skill skillName="Death Sword Mastery" skillId="45353" skillLevel="2" getLevel="10" levelUpSp="100" />
+		<skill skillName="Death Armor Mastery" skillId="45354" skillLevel="2" getLevel="10" levelUpSp="100" />
+		
+		<skill skillName="Emergency Rescue" skillId="70" skillLevel="2" getLevel="15" levelUpSp="500" />
+		<skill skillName="Death Sword Mastery" skillId="45353" skillLevel="3" getLevel="15" levelUpSp="500" />
+		<skill skillName="Death Armor Mastery" skillId="45354" skillLevel="3" getLevel="15" levelUpSp="500" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="1" getLevel="88" autoGet="true" />
+		<skill skillName="Glorious Warrior's Special Teleport" skillId="45472" skillLevel="1" getLevel="88" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="1" getLevel="88" autoGet="true" />
+		
+		<skill skillName="Expand Glorious Warrior's Special Teleports" skillId="45473" skillLevel="1" getLevel="89" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Unique Title Color" skillId="45474" skillLevel="1" getLevel="90" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Hair Accessory Slots" skillId="45475" skillLevel="1" getLevel="90" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="2" getLevel="91" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="2" getLevel="91" autoGet="true" />
+		<skill skillName="Glorious Warrior's Resurrection Cost Decrease" skillId="47240" skillLevel="1" getLevel="91" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="3" getLevel="92" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="3" getLevel="92" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="4" getLevel="93" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="4" getLevel="93" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="5" getLevel="94" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="5" getLevel="94" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="6" getLevel="95" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="6" getLevel="95" autoGet="true" />
+
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="7" getLevel="96" autoGet="true" />
+	</skillTree>
+</list>

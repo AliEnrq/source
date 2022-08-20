@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="38750" name="Uldie's Card Key" additionalName="Sealed" type="EtcItem">
+		<!-- The keycard obtained from captain Uldie. Contains professional photoes. Keep it in your inventory to disguise as Lineage 2 team member. Required for receiving a buff from Uldie. -->
+		<set name="icon" val="icon.cardkey_raracat" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="38751" name="Uldie's Business Card" additionalName="Sealed" type="EtcItem">
+		<!-- A business card obtained from captain Uldie. Gather 15 cards to participate in a prize giveaway. Can come in handy at any moment, so keep it in your inventory. -->
+		<set name="icon" val="icon.namecard_raracat" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="38753" name="Uldie's Elite Gift" type="EtcItem">
+		<!-- An elite gift from captain Uldie. Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.icon.br_ghost_magicalbox_i00" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

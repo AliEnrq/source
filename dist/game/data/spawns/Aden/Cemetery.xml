@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="Cemetery">
+		<group>
+			<npc id="20666" x="171896" y="20824" z="-3334" heading="16115" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171896" y="20824" z="-3334" heading="16115" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171896" y="20824" z="-3334" heading="16115" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20997" x="171400" y="19000" z="-3334" heading="46614" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171400" y="19000" z="-3334" heading="46614" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171400" y="19000" z="-3334" heading="46614" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171480" y="18680" z="-3334" heading="51797" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171480" y="18680" z="-3334" heading="51797" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171480" y="18680" z="-3334" heading="51797" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171528" y="18472" z="-3334" heading="51126" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171528" y="18472" z="-3334" heading="51126" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171528" y="18472" z="-3334" heading="51126" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171384" y="18168" z="-3400" heading="44424" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171384" y="18168" z="-3400" heading="44424" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171384" y="18168" z="-3400" heading="44424" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171592" y="17880" z="-3400" heading="55680" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171592" y="17880" z="-3400" heading="55680" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171592" y="17880" z="-3400" heading="55680" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171560" y="17576" z="-3400" heading="47859" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171560" y="17576" z="-3400" heading="47859" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171560" y="17576" z="-3400" heading="47859" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171656" y="17224" z="-3394" heading="51931" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171656" y="17224" z="-3394" heading="51931" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171656" y="17224" z="-3394" heading="51931" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171816" y="17448" z="-3333" heading="9937" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171816" y="17448" z="-3333" heading="9937" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171816" y="17448" z="-3333" heading="9937" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171768" y="17704" z="-3336" heading="18267" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171768" y="17704" z="-3336" heading="18267" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171768" y="17704" z="-3336" heading="18267" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171576" y="16456" z="-3400" heading="46583" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171576" y="16456" z="-3400" heading="46583" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171576" y="16456" z="-3400" heading="46583" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171336" y="16856" z="-3400" heading="22208" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171336" y="16856" z="-3400" heading="22208" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171336" y="16856" z="-3400" heading="22208" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20997" x="171320" y="17336" z="-3399" heading="16668" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20998" x="171320" y="17336" z="-3399" heading="16668" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20666" x="171320" y="17336" z="-3399" heading="16668" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20998" x="171768" y="18136" z="-3338" heading="7910" respawnTime="60sec" /> <!-- Cruel Punisher -->
+			<npc id="20997" x="171768" y="18136" z="-3338" heading="7910" respawnTime="60sec" /> <!-- Soldier of Grief -->
+			<npc id="20666" x="171768" y="18136" z="-3338" heading="7910" respawnTime="60sec" /> <!-- Taik Orc Watchman -->
+			<npc id="20999" x="173672" y="17816" z="-3422" heading="30657" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173672" y="17816" z="-3422" heading="30657" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="173800" y="17976" z="-3421" heading="9692" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173800" y="17976" z="-3421" heading="9692" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173800" y="17976" z="-3421" heading="9692" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20678" x="173768" y="17560" z="-3425" heading="48284" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173768" y="17560" z="-3425" heading="48284" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173768" y="17560" z="-3425" heading="48284" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173784" y="17256" z="-3425" heading="49669" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173784" y="17256" z="-3425" heading="49669" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173784" y="17256" z="-3425" heading="49669" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173704" y="16584" z="-3425" heading="47992" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173704" y="16584" z="-3425" heading="47992" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173704" y="16584" z="-3425" heading="47992" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173640" y="16200" z="-3414" heading="47328" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173640" y="16200" z="-3414" heading="47328" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173640" y="16200" z="-3414" heading="47328" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174056" y="16168" z="-3389" heading="64563" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="174056" y="16168" z="-3389" heading="64563" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="174056" y="16168" z="-3389" heading="64563" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="174216" y="15928" z="-3341" heading="55264" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174216" y="15928" z="-3341" heading="55264" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174216" y="15928" z="-3341" heading="55264" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174504" y="16008" z="-3337" heading="2874" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174504" y="16008" z="-3337" heading="2874" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174504" y="16008" z="-3337" heading="2874" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174520" y="16488" z="-3341" heading="16105" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174520" y="16488" z="-3341" heading="16105" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174520" y="16488" z="-3341" heading="16105" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174472" y="17288" z="-3341" heading="16949" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174472" y="17288" z="-3341" heading="16949" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174472" y="17288" z="-3341" heading="16949" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174536" y="17832" z="-3340" heading="15227" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174536" y="17832" z="-3340" heading="15227" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174536" y="17832" z="-3340" heading="15227" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174360" y="18344" z="-3349" heading="19721" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174360" y="18344" z="-3349" heading="19721" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174360" y="18344" z="-3349" heading="19721" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173896" y="18520" z="-3341" heading="28944" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173896" y="18520" z="-3341" heading="28944" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173896" y="18520" z="-3341" heading="28944" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173384" y="18408" z="-3341" heading="35061" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173384" y="18408" z="-3341" heading="35061" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173384" y="18408" z="-3341" heading="35061" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173304" y="17688" z="-3341" heading="48949" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173304" y="17688" z="-3341" heading="48949" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173304" y="17688" z="-3341" heading="48949" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173384" y="17256" z="-3341" heading="51150" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173384" y="17256" z="-3341" heading="51150" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173384" y="17256" z="-3341" heading="51150" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173232" y="18382" z="-3328" heading="15755" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173231" y="18384" z="-3328" heading="15755" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173231" y="18385" z="-3328" heading="15755" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173592" y="19752" z="-3257" heading="11402" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173592" y="19752" z="-3257" heading="11402" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173592" y="19752" z="-3257" heading="11402" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173704" y="19304" z="-3257" heading="51889" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173704" y="19304" z="-3257" heading="51889" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173704" y="19304" z="-3257" heading="51889" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174664" y="19496" z="-3254" heading="60433" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174664" y="19496" z="-3254" heading="60433" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174664" y="19496" z="-3254" heading="60433" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174456" y="19896" z="-3257" heading="21291" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174456" y="19896" z="-3257" heading="21291" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174456" y="19896" z="-3257" heading="21291" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173960" y="19576" z="-3257" heading="38777" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173960" y="19576" z="-3257" heading="38777" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173960" y="19576" z="-3257" heading="38777" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174104" y="21336" z="-3257" heading="14711" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174104" y="21336" z="-3257" heading="14711" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174104" y="21336" z="-3257" heading="14711" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174808" y="21208" z="-3257" heading="63741" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174808" y="21208" z="-3257" heading="63741" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174808" y="21208" z="-3257" heading="63741" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174680" y="20744" z="-3254" heading="44588" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174680" y="20744" z="-3254" heading="44588" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174680" y="20744" z="-3254" heading="44588" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174232" y="20968" z="-3257" heading="21571" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174232" y="20968" z="-3257" heading="21571" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174232" y="20968" z="-3257" heading="21571" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173704" y="20776" z="-3254" heading="32492" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173704" y="20776" z="-3254" heading="32492" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173704" y="20776" z="-3254" heading="32492" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173656" y="21208" z="-3257" heading="24660" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173656" y="21208" z="-3257" heading="24660" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173656" y="21208" z="-3257" heading="24660" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173208" y="21224" z="-3257" heading="32225" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173208" y="21224" z="-3257" heading="32225" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173208" y="21224" z="-3257" heading="32225" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173304" y="20888" z="-3257" heading="51786" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173304" y="20888" z="-3257" heading="51786" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173304" y="20888" z="-3257" heading="51786" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173304" y="20680" z="-3257" heading="48804" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173304" y="20680" z="-3257" heading="48804" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173304" y="20680" z="-3257" heading="48804" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="172904" y="20968" z="-3257" heading="26293" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="172904" y="20968" z="-3257" heading="26293" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="172904" y="20968" z="-3257" heading="26293" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="172792" y="22040" z="-3257" heading="17540" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="172792" y="22040" z="-3257" heading="17540" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="172792" y="22040" z="-3257" heading="17540" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173368" y="22024" z="-3337" heading="65206" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173368" y="22024" z="-3337" heading="65206" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173368" y="22024" z="-3337" heading="65206" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173976" y="22088" z="-3341" heading="970" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173976" y="22088" z="-3341" heading="970" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173976" y="22088" z="-3341" heading="970" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174568" y="22312" z="-3341" heading="3832" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174568" y="22312" z="-3341" heading="3832" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174568" y="22312" z="-3341" heading="3832" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174504" y="23032" z="-3341" heading="18208" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174504" y="23032" z="-3341" heading="18208" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174504" y="23032" z="-3341" heading="18208" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174104" y="22744" z="-3422" heading="39176" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174104" y="22744" z="-3422" heading="39176" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174104" y="22744" z="-3422" heading="39176" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173656" y="22680" z="-3417" heading="34248" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173656" y="22680" z="-3417" heading="34248" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173656" y="22680" z="-3417" heading="34248" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173224" y="22600" z="-3341" heading="34803" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173224" y="22600" z="-3341" heading="34803" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173224" y="22600" z="-3341" heading="34803" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173304" y="23336" z="-3341" heading="15212" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173304" y="23336" z="-3341" heading="15212" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173304" y="23336" z="-3341" heading="15212" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173912" y="23400" z="-3425" heading="1127" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173912" y="23400" z="-3425" heading="1127" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173912" y="23400" z="-3425" heading="1127" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173784" y="22952" z="-3422" heading="46347" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173784" y="22952" z="-3422" heading="46347" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173784" y="22952" z="-3422" heading="46347" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174200" y="23480" z="-3423" heading="9399" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174200" y="23480" z="-3423" heading="9399" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174200" y="23480" z="-3423" heading="9399" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174152" y="23928" z="-3425" heading="17654" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174152" y="23928" z="-3425" heading="17654" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174152" y="23928" z="-3425" heading="17654" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173768" y="24024" z="-3425" heading="30296" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173768" y="24024" z="-3425" heading="30296" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173768" y="24024" z="-3425" heading="30296" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173336" y="24104" z="-3341" heading="26123" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173336" y="24104" z="-3341" heading="26123" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173336" y="24104" z="-3341" heading="26123" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173336" y="24584" z="-3341" heading="16472" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173336" y="24584" z="-3341" heading="16472" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173336" y="24584" z="-3341" heading="16472" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="173896" y="24664" z="-3341" heading="1576" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="173896" y="24664" z="-3341" heading="1576" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="173896" y="24664" z="-3341" heading="1576" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174104" y="24376" z="-3422" heading="55823" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174104" y="24376" z="-3422" heading="55823" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174104" y="24376" z="-3422" heading="55823" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174488" y="24248" z="-3341" heading="62139" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174488" y="24248" z="-3341" heading="62139" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174488" y="24248" z="-3341" heading="62139" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174536" y="23512" z="-3341" heading="49886" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174536" y="23512" z="-3341" heading="49886" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174536" y="23512" z="-3341" heading="49886" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174792" y="23976" z="-3311" heading="11032" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174792" y="23976" z="-3311" heading="11032" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174792" y="23976" z="-3311" heading="11032" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="174760" y="24968" z="-3321" heading="16750" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="174760" y="24968" z="-3321" heading="16750" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="174760" y="24968" z="-3321" heading="16750" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176504" y="24472" z="-3341" heading="6836" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176504" y="24472" z="-3341" heading="6836" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176504" y="24472" z="-3341" heading="6836" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176488" y="23976" z="-3341" heading="48685" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176488" y="23976" z="-3341" heading="48685" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176488" y="23976" z="-3341" heading="48685" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="176504" y="23272" z="-3341" heading="49402" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="176504" y="23272" z="-3341" heading="49402" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="176504" y="23272" z="-3341" heading="49402" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176488" y="22744" z="-3341" heading="48876" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176488" y="22744" z="-3341" heading="48876" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176488" y="22744" z="-3341" heading="48876" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176552" y="22264" z="-3341" heading="50635" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176552" y="22264" z="-3341" heading="50635" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176552" y="22264" z="-3341" heading="50635" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177160" y="22168" z="-3341" heading="64293" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177160" y="22168" z="-3341" heading="64293" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177160" y="22168" z="-3341" heading="64293" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177656" y="22216" z="-3341" heading="1147" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177656" y="22216" z="-3341" heading="1147" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177656" y="22216" z="-3341" heading="1147" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177752" y="22840" z="-3341" heading="15526" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177752" y="22840" z="-3341" heading="15526" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177752" y="22840" z="-3341" heading="15526" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177288" y="22824" z="-3425" heading="33268" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177288" y="22824" z="-3425" heading="33268" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177288" y="22824" z="-3425" heading="33268" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177256" y="23256" z="-3425" heading="16986" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177256" y="23256" z="-3425" heading="16986" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177256" y="23256" z="-3425" heading="16986" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176984" y="23432" z="-3425" heading="26689" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176984" y="23432" z="-3425" heading="26689" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176984" y="23432" z="-3425" heading="26689" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177496" y="23512" z="-3383" heading="1517" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177496" y="23512" z="-3383" heading="1517" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177496" y="23512" z="-3383" heading="1517" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177392" y="24073" z="-3416" heading="15806" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177392" y="24073" z="-3416" heading="15806" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177392" y="24073" z="-3416" heading="15806" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="177416" y="24520" z="-3408" heading="15960" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="177416" y="24520" z="-3408" heading="15960" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="177416" y="24520" z="-3408" heading="15960" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176968" y="24552" z="-3381" heading="31874" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176968" y="24552" z="-3381" heading="31874" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176968" y="24552" z="-3381" heading="31874" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176808" y="24120" z="-3422" heading="45516" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176808" y="24120" z="-3422" heading="45516" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176808" y="24120" z="-3422" heading="45516" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176552" y="23592" z="-3341" heading="49677" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176552" y="23592" z="-3341" heading="49677" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176552" y="23592" z="-3341" heading="49677" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177240" y="23800" z="-3425" heading="3088" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177240" y="23800" z="-3425" heading="3088" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177240" y="23800" z="-3425" heading="3088" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177800" y="23896" z="-3337" heading="1776" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177800" y="23896" z="-3337" heading="1776" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177800" y="23896" z="-3337" heading="1776" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177768" y="24472" z="-3341" heading="16848" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177768" y="24472" z="-3341" heading="16848" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177768" y="24472" z="-3341" heading="16848" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177816" y="24952" z="-3341" heading="15208" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177816" y="24952" z="-3341" heading="15208" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177816" y="24952" z="-3341" heading="15208" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177176" y="25000" z="-3341" heading="32076" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177176" y="25000" z="-3341" heading="32076" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177176" y="25000" z="-3341" heading="32076" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="176488" y="24936" z="-3341" heading="33834" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="176488" y="24936" z="-3341" heading="33834" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="176488" y="24936" z="-3341" heading="33834" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177832" y="21240" z="-3257" heading="15319" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177832" y="21240" z="-3257" heading="15319" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177832" y="21240" z="-3257" heading="15319" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177816" y="20888" z="-3254" heading="48652" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177816" y="20888" z="-3254" heading="48652" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177816" y="20888" z="-3254" heading="48652" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="177512" y="20824" z="-3257" heading="34942" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="177512" y="20824" z="-3257" heading="34942" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="177512" y="20824" z="-3257" heading="34942" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177464" y="21224" z="-3257" heading="17722" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177464" y="21224" z="-3257" heading="17722" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177464" y="21224" z="-3257" heading="17722" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177032" y="21176" z="-3257" heading="34071" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177032" y="21176" z="-3257" heading="34071" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177032" y="21176" z="-3257" heading="34071" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176984" y="20840" z="-3257" heading="47761" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176984" y="20840" z="-3257" heading="47761" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176984" y="20840" z="-3257" heading="47761" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176760" y="21128" z="-3257" heading="23067" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176760" y="21128" z="-3257" heading="23067" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176760" y="21128" z="-3257" heading="23067" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176408" y="21320" z="-3257" heading="27388" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176408" y="21320" z="-3257" heading="27388" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176408" y="21320" z="-3257" heading="27388" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176275" y="21219" z="-3248" heading="42042" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176275" y="21219" z="-3248" heading="42042" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176275" y="21219" z="-3248" heading="42042" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176360" y="20632" z="-3257" heading="54416" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176360" y="20632" z="-3257" heading="54416" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176360" y="20632" z="-3257" heading="54416" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176088" y="19832" z="-3257" heading="45757" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176088" y="19832" z="-3257" heading="45757" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176088" y="19832" z="-3257" heading="45757" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176072" y="19416" z="-3257" heading="48655" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176072" y="19416" z="-3257" heading="48655" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176072" y="19416" z="-3257" heading="48655" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176584" y="19464" z="-3254" heading="865" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176584" y="19464" z="-3254" heading="865" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176584" y="19464" z="-3254" heading="865" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176584" y="19832" z="-3254" heading="16412" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176584" y="19832" z="-3254" heading="16412" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176584" y="19832" z="-3254" heading="16412" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177048" y="19832" z="-3257" heading="65445" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177048" y="19832" z="-3257" heading="65445" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177048" y="19832" z="-3257" heading="65445" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176984" y="19416" z="-3257" heading="47675" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176984" y="19416" z="-3257" heading="47675" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176984" y="19416" z="-3257" heading="47675" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177496" y="19448" z="-3257" heading="774" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177496" y="19448" z="-3257" heading="774" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177496" y="19448" z="-3257" heading="774" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177464" y="19784" z="-3257" heading="17299" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177464" y="19784" z="-3257" heading="17299" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177464" y="19784" z="-3257" heading="17299" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177912" y="19880" z="-3257" heading="2240" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177912" y="19880" z="-3257" heading="2240" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177912" y="19880" z="-3257" heading="2240" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177800" y="19400" z="-3257" heading="46834" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177800" y="19400" z="-3257" heading="46834" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177800" y="19400" z="-3257" heading="46834" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="178184" y="19400" z="-3257" heading="65398" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="178184" y="19400" z="-3257" heading="65398" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="178184" y="19400" z="-3257" heading="65398" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="178136" y="19848" z="-3254" heading="17502" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="178136" y="19848" z="-3254" heading="17502" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="178136" y="19848" z="-3254" heading="17502" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="178152" y="20808" z="-3257" heading="16264" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="178152" y="20808" z="-3257" heading="16264" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="178152" y="20808" z="-3257" heading="16264" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177832" y="18504" z="-3338" heading="48840" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177832" y="18504" z="-3338" heading="48840" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177832" y="18504" z="-3338" heading="48840" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177336" y="18552" z="-3337" heading="587" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177336" y="18552" z="-3337" heading="587" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177336" y="18552" z="-3337" heading="587" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="176856" y="18552" z="-3337" heading="32789" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="176856" y="18552" z="-3337" heading="32789" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="176856" y="18552" z="-3337" heading="32789" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176520" y="18200" z="-3337" heading="41203" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176520" y="18200" z="-3337" heading="41203" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176520" y="18200" z="-3337" heading="41203" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176568" y="17624" z="-3341" heading="51643" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176568" y="17624" z="-3341" heading="51643" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176568" y="17624" z="-3341" heading="51643" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177048" y="17736" z="-3425" heading="2362" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="21000" x="177048" y="17736" z="-3425" heading="2362" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="177048" y="17736" z="-3425" heading="2362" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20678" x="177576" y="17768" z="-3358" heading="65331" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177576" y="17768" z="-3358" heading="65331" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177576" y="17768" z="-3358" heading="65331" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177688" y="17256" z="-3341" heading="51400" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177688" y="17256" z="-3341" heading="51400" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177688" y="17256" z="-3341" heading="51400" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177736" y="16584" z="-3341" heading="49800" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177736" y="16584" z="-3341" heading="49800" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177736" y="16584" z="-3341" heading="49800" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177736" y="16072" z="-3341" heading="49292" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177736" y="16072" z="-3341" heading="49292" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177736" y="16072" z="-3341" heading="49292" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177144" y="15944" z="-3341" heading="34113" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177144" y="15944" z="-3341" heading="34113" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177144" y="15944" z="-3341" heading="34113" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176808" y="16344" z="-3422" heading="34280" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176808" y="16344" z="-3422" heading="34280" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176808" y="16344" z="-3422" heading="34280" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177352" y="16776" z="-3425" heading="7033" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177352" y="16776" z="-3425" heading="7033" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177352" y="16776" z="-3425" heading="7033" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177112" y="17160" z="-3425" heading="22275" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177112" y="17160" z="-3425" heading="22275" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177112" y="17160" z="-3425" heading="22275" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176632" y="17176" z="-3346" heading="32371" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176632" y="17176" z="-3346" heading="32371" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176632" y="17176" z="-3346" heading="32371" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176536" y="16584" z="-3341" heading="54441" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176536" y="16584" z="-3341" heading="54441" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176536" y="16584" z="-3341" heading="54441" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176552" y="15928" z="-3341" heading="49403" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176552" y="15928" z="-3341" heading="49403" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176552" y="15928" z="-3341" heading="49403" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="176472" y="16376" z="-3341" heading="18231" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="176472" y="16376" z="-3341" heading="18231" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="176472" y="16376" z="-3341" heading="18231" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20678" x="177720" y="17960" z="-3341" heading="14359" respawnTime="60sec" /> <!-- Tortured Undead -->
+			<npc id="20999" x="177720" y="17960" z="-3341" heading="14359" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="21000" x="177720" y="17960" z="-3341" heading="14359" respawnTime="60sec" /> <!-- Soul of Ruins -->
+			<npc id="20999" x="179624" y="15944" z="-3177" heading="48707" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180224" y="16041" z="-3168" heading="23" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180504" y="15720" z="-3175" heading="56631" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181142" y="15701" z="-3168" heading="265" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181944" y="15640" z="-3175" heading="64760" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182984" y="15656" z="-3177" heading="221" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182840" y="16136" z="-3177" heading="19454" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182232" y="16200" z="-3175" heading="31716" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181544" y="16376" z="-3177" heading="30124" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181208" y="17096" z="-3175" heading="20884" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182200" y="17128" z="-3175" heading="336" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182904" y="16600" z="-3177" heading="58783" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182920" y="17384" z="-3173" heading="16170" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182072" y="17864" z="-3177" heading="27580" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181304" y="18056" z="-3177" heading="30212" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180440" y="18104" z="-3175" heading="32282" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180536" y="18664" z="-3175" heading="14679" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181160" y="19208" z="-3177" heading="7476" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181624" y="19736" z="-3177" heading="8852" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181688" y="21128" z="-3177" heading="15890" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180959" y="21715" z="-3168" heading="24086" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180280" y="22088" z="-3176" heading="27585" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="179336" y="22456" z="-3177" heading="28806" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="179048" y="21960" z="-3177" heading="43660" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="179208" y="23256" z="-3176" heading="13712" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="179704" y="23784" z="-3177" heading="8495" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="178888" y="24376" z="-3177" heading="26224" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="179432" y="25096" z="-3177" heading="9556" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="179960" y="25032" z="-3176" heading="23543" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="180312" y="24408" z="-3176" heading="54579" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181112" y="23704" z="-3177" heading="57971" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181976" y="23944" z="-3177" heading="2844" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182392" y="24664" z="-3176" heading="10917" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="181736" y="25272" z="-3177" heading="24960" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="183224" y="24952" z="-3177" heading="63328" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182872" y="23624" z="-3177" heading="46450" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182344" y="22536" z="-3176" heading="44350" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20999" x="182728" y="21624" z="-3177" heading="53268" respawnTime="60sec" /> <!-- Roving Soul -->
+			<npc id="20669" x="179304" y="22584" z="-3177" heading="31919" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179304" y="22584" z="-3177" heading="31919" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179240" y="24104" z="-3177" heading="15923" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179240" y="24104" z="-3177" heading="15923" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179240" y="24104" z="-3177" heading="15923" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179912" y="24408" z="-3176" heading="17582" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179912" y="24408" z="-3176" heading="17582" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179912" y="24408" z="-3176" heading="17582" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179912" y="24408" z="-3176" heading="17582" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180248" y="24456" z="-3176" heading="1342" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180248" y="24456" z="-3176" heading="1342" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="180248" y="24456" z="-3176" heading="1342" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20668" x="180248" y="24456" z="-3176" heading="1342" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="180456" y="24648" z="-3176" heading="7698" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180456" y="24648" z="-3176" heading="7698" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180456" y="24648" z="-3176" heading="7698" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="180456" y="24648" z="-3176" heading="7698" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="180440" y="24872" z="-3176" heading="17192" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180440" y="24872" z="-3176" heading="17192" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180440" y="24872" z="-3176" heading="17192" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="180440" y="24872" z="-3176" heading="17192" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="180552" y="25080" z="-3176" heading="10875" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="180552" y="25080" z="-3176" heading="10875" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="180552" y="25080" z="-3176" heading="10875" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180360" y="25064" z="-3176" heading="33828" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180360" y="25064" z="-3176" heading="33828" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180168" y="24808" z="-3176" heading="42543" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180168" y="24808" z="-3176" heading="42543" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180328" y="24696" z="-3176" heading="59356" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180232" y="24808" z="-3176" heading="24266" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180376" y="24776" z="-3176" heading="62682" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180264" y="24648" z="-3176" heading="41715" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180088" y="24728" z="-3176" heading="28789" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179960" y="24680" z="-3176" heading="36544" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179896" y="24504" z="-3176" heading="45435" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="179928" y="24744" z="-3176" heading="14952" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180120" y="24696" z="-3176" heading="62844" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180120" y="24696" z="-3176" heading="62844" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180328" y="24648" z="-3176" heading="63016" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180200" y="24376" z="-3176" heading="44521" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180200" y="24376" z="-3176" heading="44521" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180200" y="24376" z="-3176" heading="44521" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180264" y="24648" z="-3176" heading="14070" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180728" y="24440" z="-3176" heading="60805" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180728" y="24440" z="-3176" heading="60805" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="180504" y="24504" z="-3176" heading="29865" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182008" y="24376" z="-3176" heading="5821" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182312" y="24424" z="-3176" heading="1733" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182312" y="24424" z="-3176" heading="1733" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182600" y="24504" z="-3176" heading="3030" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182600" y="24504" z="-3176" heading="3030" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182520" y="24696" z="-3176" heading="20206" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182520" y="24696" z="-3176" heading="20206" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182520" y="24968" z="-3176" heading="16461" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182520" y="24968" z="-3176" heading="16461" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182520" y="24968" z="-3176" heading="16461" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182376" y="25032" z="-3176" heading="28107" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182376" y="25032" z="-3176" heading="28107" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="25032" z="-3176" heading="28107" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182104" y="24936" z="-3176" heading="36455" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181944" y="25080" z="-3176" heading="25454" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181832" y="24936" z="-3176" heading="42231" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181928" y="24632" z="-3176" heading="52234" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181928" y="24632" z="-3176" heading="52234" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181896" y="25048" z="-3176" heading="19994" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="181896" y="25048" z="-3176" heading="19994" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182104" y="25016" z="-3176" heading="63716" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182104" y="25016" z="-3176" heading="63716" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182168" y="24808" z="-3176" heading="52523" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182168" y="24808" z="-3176" heading="52523" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182168" y="24808" z="-3176" heading="52523" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182344" y="24664" z="-3176" heading="58633" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182344" y="24664" z="-3176" heading="58633" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182344" y="24664" z="-3176" heading="58633" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182344" y="24664" z="-3176" heading="58633" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="24472" z="-3176" heading="50865" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="24472" z="-3176" heading="50865" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182376" y="24472" z="-3176" heading="50865" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182248" y="24376" z="-3176" heading="44086" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182248" y="24376" z="-3176" heading="44086" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182216" y="24136" z="-3176" heading="49886" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182408" y="24056" z="-3176" heading="61178" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182408" y="24056" z="-3176" heading="61178" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182296" y="24168" z="-3176" heading="24672" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182152" y="24072" z="-3176" heading="39005" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182392" y="22456" z="-3176" heading="50895" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182392" y="22456" z="-3176" heading="50895" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182392" y="22456" z="-3176" heading="50895" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182360" y="22216" z="-3176" heading="47960" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182440" y="22008" z="-3176" heading="52872" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182440" y="22008" z="-3176" heading="52872" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182136" y="22104" z="-3176" heading="29702" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182136" y="22104" z="-3176" heading="29702" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181880" y="22024" z="-3176" heading="36038" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="181880" y="22024" z="-3176" heading="36038" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="181880" y="22024" z="-3176" heading="36038" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181912" y="22328" z="-3176" heading="15211" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181912" y="22328" z="-3176" heading="15211" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181912" y="22600" z="-3176" heading="16655" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181912" y="22600" z="-3176" heading="16655" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182072" y="22408" z="-3176" heading="56592" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182072" y="22408" z="-3176" heading="56592" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182232" y="22216" z="-3176" heading="56534" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182440" y="22136" z="-3176" heading="61886" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182440" y="22136" z="-3176" heading="61886" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182440" y="22136" z="-3176" heading="61886" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182296" y="22248" z="-3175" heading="25506" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182296" y="22424" z="-3175" heading="16202" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182344" y="22584" z="-3176" heading="13507" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182472" y="22616" z="-3176" heading="1994" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182712" y="22472" z="-3176" heading="59709" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182760" y="22184" z="-3176" heading="51040" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182744" y="22584" z="-3176" heading="17018" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182744" y="22344" z="-3176" heading="48798" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182328" y="22632" z="-3176" heading="64041" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182328" y="22632" z="-3176" heading="64041" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182040" y="22504" z="-3176" heading="37236" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181960" y="22200" z="-3176" heading="46348" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182008" y="18664" z="-3175" heading="49697" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182008" y="18664" z="-3175" heading="49697" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182008" y="18664" z="-3175" heading="49697" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181992" y="18472" z="-3175" heading="48284" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181976" y="18264" z="-3175" heading="48440" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="181976" y="18264" z="-3175" heading="48440" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="181976" y="18264" z="-3175" heading="48440" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181944" y="18040" z="-3175" heading="47619" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181944" y="18040" z="-3175" heading="47619" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182248" y="17992" z="-3175" heading="63859" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182248" y="17992" z="-3175" heading="63859" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182520" y="18040" z="-3175" heading="1685" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182520" y="18040" z="-3175" heading="1685" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182472" y="18264" z="-3175" heading="18736" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182472" y="18264" z="-3175" heading="18736" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182472" y="18552" z="-3175" heading="16455" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182472" y="18552" z="-3175" heading="16455" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182632" y="18584" z="-3175" heading="2183" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182632" y="18584" z="-3175" heading="2183" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182536" y="18392" z="-3175" heading="44083" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181960" y="18472" z="-3175" heading="31400" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181960" y="18472" z="-3175" heading="31400" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182424" y="18136" z="-3175" heading="59415" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182488" y="16280" z="-3173" heading="50370" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182488" y="16120" z="-3175" heading="49412" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182488" y="16120" z="-3175" heading="49412" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182488" y="16120" z="-3175" heading="49412" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182360" y="16104" z="-3175" heading="33494" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182360" y="16104" z="-3175" heading="33494" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182040" y="15976" z="-3175" heading="36621" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182040" y="15976" z="-3175" heading="36621" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182040" y="15976" z="-3175" heading="36621" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181976" y="15656" z="-3175" heading="47273" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181976" y="15656" z="-3175" heading="47273" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="181976" y="15656" z="-3175" heading="47273" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182168" y="15848" z="-3175" heading="8218" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182168" y="15848" z="-3175" heading="8218" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182168" y="15848" z="-3175" heading="8218" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182168" y="15848" z="-3175" heading="8218" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="15640" z="-3175" heading="57516" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="15640" z="-3175" heading="57516" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="15640" z="-3175" heading="57516" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182376" y="15640" z="-3175" heading="57516" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182360" y="15944" z="-3175" heading="17120" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182360" y="15944" z="-3175" heading="17120" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182360" y="15944" z="-3175" heading="17120" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182360" y="15944" z="-3175" heading="17120" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182248" y="15976" z="-3175" heading="29773" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182248" y="15976" z="-3175" heading="29773" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182248" y="16296" z="-3175" heading="16639" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182248" y="16296" z="-3175" heading="16639" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182248" y="16296" z="-3175" heading="16639" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182424" y="16344" z="-3175" heading="2992" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182616" y="16392" z="-3177" heading="2239" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182520" y="17992" z="-3175" heading="18189" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182520" y="17992" z="-3175" heading="18189" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182184" y="18504" z="-3175" heading="17541" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="182184" y="18504" z="-3175" heading="17541" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="182184" y="18504" z="-3175" heading="17541" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182184" y="18504" z="-3175" heading="17541" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182696" y="18744" z="-3177" heading="4190" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183432" y="19160" z="-3177" heading="55067" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="183432" y="19160" z="-3177" heading="55067" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="183288" y="18792" z="-3177" heading="45316" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183288" y="18792" z="-3177" heading="45316" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183288" y="18792" z="-3177" heading="45316" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182952" y="18872" z="-3177" heading="30198" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182952" y="18872" z="-3177" heading="30198" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="182952" y="18872" z="-3177" heading="30198" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183208" y="19528" z="-3177" heading="12547" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183208" y="19528" z="-3177" heading="12547" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183112" y="21160" z="-3177" heading="23770" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183112" y="21160" z="-3177" heading="23770" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183048" y="21880" z="-3177" heading="17232" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183048" y="21880" z="-3177" heading="17232" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183224" y="22632" z="-3177" heading="14027" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183224" y="22632" z="-3177" heading="14027" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183624" y="21864" z="-3177" heading="54253" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183624" y="21864" z="-3177" heading="54253" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20668" x="183624" y="21864" z="-3177" heading="54253" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20668" x="183048" y="21512" z="-3177" heading="33143" respawnTime="60sec" /> <!-- Grave Guard -->
+			<npc id="20669" x="183048" y="21512" z="-3177" heading="33143" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20669" x="183048" y="21512" z="-3177" heading="33143" respawnTime="60sec" /> <!-- Taik Orc Supply Officer -->
+			<npc id="20674" x="188888" y="19096" z="-3709" heading="47593" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20673" x="188888" y="19096" z="-3709" heading="47593" respawnTime="60sec" /> <!-- Palibati -->
+			<npc id="20672" x="188888" y="19096" z="-3709" heading="47593" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20674" x="189448" y="18152" z="-3731" heading="54974" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20673" x="189448" y="18152" z="-3731" heading="54974" respawnTime="60sec" /> <!-- Palibati -->
+			<npc id="20672" x="189448" y="18152" z="-3731" heading="54974" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20672" x="190104" y="19448" z="-3729" heading="11509" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20674" x="190104" y="19448" z="-3729" heading="11509" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20673" x="190104" y="19448" z="-3729" heading="11509" respawnTime="60sec" /> <!-- Palibati -->
+			<npc id="20674" x="189400" y="22280" z="-3729" heading="16818" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20673" x="189400" y="22280" z="-3729" heading="16818" respawnTime="60sec" /> <!-- Palibati -->
+			<npc id="20672" x="189400" y="22280" z="-3729" heading="16818" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20674" x="189832" y="23016" z="-3729" heading="10845" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20673" x="189832" y="23016" z="-3729" heading="10845" respawnTime="60sec" /> <!-- Palibati -->
+			<npc id="20672" x="189832" y="23016" z="-3729" heading="10845" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20674" x="188776" y="23048" z="-3704" heading="32470" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20672" x="188776" y="23048" z="-3704" heading="32470" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20674" x="188040" y="22408" z="-3663" heading="42933" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20672" x="188040" y="22408" z="-3663" heading="42933" respawnTime="60sec" /> <!-- Trives -->
+			<npc id="20673" x="188040" y="22408" z="-3663" heading="42933" respawnTime="60sec" /> <!-- Palibati -->
+			<npc id="20674" x="188040" y="22408" z="-3663" heading="42933" respawnTime="60sec" /> <!-- Doom Knight -->
+			<npc id="20660" x="164120" y="20920" z="-3546" heading="57043" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="164440" y="21080" z="-3543" heading="5057" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20661" x="164315" y="22109" z="-3652" heading="19606" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20659" x="163976" y="22952" z="-3693" heading="20423" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20660" x="164120" y="23288" z="-3710" heading="12301" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20659" x="164200" y="27208" z="-3688" heading="4741" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
+			<npc id="20661" x="164584" y="27016" z="-3715" heading="60786" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="164856" y="26504" z="-3729" heading="54312" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="164856" y="26504" z="-3729" heading="54312" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="165481" y="26380" z="-3720" heading="61487" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="165416" y="27032" z="-3722" heading="24818" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="165416" y="27032" z="-3722" heading="24818" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="166312" y="27000" z="-3705" heading="65103" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="165672" y="27704" z="-3666" heading="22400" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="165672" y="27704" z="-3666" heading="22400" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="165832" y="27208" z="-3712" heading="58044" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20660" x="164072" y="26296" z="-3729" heading="33415" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20667" x="163896" y="25320" z="-3729" heading="50069" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20667" x="164432" y="21524" z="-3586" heading="59143" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="164561" y="21432" z="-3576" heading="59143" respawnTime="60sec" /> <!-- Archer of Greed -->
+			<npc id="20661" x="164632" y="22118" z="-3609" heading="14278" respawnTime="60sec" /> <!-- Hatar Ratman Thief -->
+			<npc id="20667" x="164539" y="23644" z="-3691" heading="17271" respawnTime="60sec" /> <!-- Farcran -->
+			<npc id="20660" x="164520" y="23832" z="-3714" heading="17271" respawnTime="60sec" /> <!-- Archer of Greed -->
+		</group>
+	</spawn>
+</list>

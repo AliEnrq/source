@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
+	<skillTree type="classSkillTree" classId="49">
+		<skill skillName="Magician's Movement" skillId="118" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Weapon Mastery" skillId="250" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Battle Cry" skillId="1001" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Life Drain" skillId="1090" skillLevel="1" getLevel="1" autoGet="true" />
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="1" getLevel="1">
+			<item id="92004" count="1" /> <!-- Inventory Expansion Coupon Lv. 1 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="2" getLevel="1">
+			<item id="92005" count="1" /> <!-- Inventory Expansion Coupon Lv. 2 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="3" getLevel="1">
+			<item id="92006" count="1" /> <!-- Inventory Expansion Coupon Lv. 3 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="4" getLevel="1">
+			<item id="92007" count="1" /> <!-- Inventory Expansion Coupon Lv. 4 -->
+		</skill>
+		<skill skillName="Expand Inventory" skillId="1372" skillLevel="5" getLevel="1">
+			<item id="92008" count="1" /> <!-- Inventory Expansion Coupon Lv. 5 -->
+		</skill>
+
+		<skill skillName="Chant of Shield" skillId="1009" skillLevel="1" getLevel="2" levelUpSp="5" />
+
+		<skill skillName="Chant of Might" skillId="1007" skillLevel="1" getLevel="3" levelUpSp="5" />
+
+		<skill skillName="Robe Mastery" skillId="251" skillLevel="1" getLevel="4" levelUpSp="15" />
+		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="1" getLevel="4" levelUpSp="15" />
+		
+		<skill skillName="Life Drain" skillId="1090" skillLevel="2" getLevel="5" levelUpSp="20" />
+
+		<skill skillName="Robe Mastery" skillId="251" skillLevel="2" getLevel="7" levelUpSp="25" />
+		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="2" getLevel="7" levelUpSp="25" />
+		<skill skillName="Spirit Shield" skillId="1010" skillLevel="1" getLevel="7" levelUpSp="25" />
+		<skill skillName="Venom" skillId="1095" skillLevel="1" getLevel="7" levelUpSp="25" />
+		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="1" getLevel="7" levelUpSp="25" />
+		<skill skillName="Chill Flame" skillId="1100" skillLevel="1" getLevel="7" levelUpSp="25" />
+
+		<skill skillName="Life Drain" skillId="1090" skillLevel="3" getLevel="8" levelUpSp="25" />
+
+		<skill skillName="Eagle Spirit" skillId="1003" skillLevel="1" getLevel="10" levelUpSp="100" />
+		<skill skillName="Soul Evasion" skillId="1005" skillLevel="1" getLevel="10" levelUpSp="100" />
+
+		<skill skillName="Robe Mastery" skillId="251" skillLevel="3" getLevel="11" levelUpSp="160" />
+		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="3" getLevel="11" levelUpSp="160" />
+		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="1" getLevel="11" levelUpSp="160" />
+
+		<skill skillName="Life Drain" skillId="1090" skillLevel="4" getLevel="12" levelUpSp="190" />
+
+		<skill skillName="Weapon Mastery" skillId="250" skillLevel="2" getLevel="14" levelUpSp="190" />
+		<skill skillName="Robe Mastery" skillId="251" skillLevel="4" getLevel="14" levelUpSp="190" />
+		<skill skillName="Light Armor Mastery" skillId="252" skillLevel="4" getLevel="14" levelUpSp="190" />
+		<skill skillName="Heavy Armor Mastery" skillId="253" skillLevel="2" getLevel="14" levelUpSp="190" />
+		<skill skillName="Battle Cry" skillId="1001" skillLevel="2" getLevel="14" levelUpSp="190" />
+		<skill skillName="Fear" skillId="1092" skillLevel="1" getLevel="14" levelUpSp="190" />
+		<skill skillName="Venom" skillId="1095" skillLevel="2" getLevel="14" levelUpSp="190" />
+		<skill skillName="Dreaming Spirit" skillId="1097" skillLevel="2" getLevel="14" levelUpSp="190" />
+		<skill skillName="Chill Flame" skillId="1100" skillLevel="2" getLevel="14" levelUpSp="190" />
+
+		<skill skillName="Life Drain" skillId="1090" skillLevel="5" getLevel="16" levelUpSp="250" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="1" getLevel="88" autoGet="true" />
+		<skill skillName="Glorious Warrior's Special Teleport" skillId="45472" skillLevel="1" getLevel="88" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="1" getLevel="88" autoGet="true" />
+		
+		<skill skillName="Expand Glorious Warrior's Special Teleports" skillId="45473" skillLevel="1" getLevel="89" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Unique Title Color" skillId="45474" skillLevel="1" getLevel="90" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Hair Accessory Slots" skillId="45475" skillLevel="1" getLevel="90" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="2" getLevel="91" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="2" getLevel="91" autoGet="true" />
+		<skill skillName="Glorious Warrior's Resurrection Cost Decrease" skillId="47240" skillLevel="1" getLevel="91" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="3" getLevel="92" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="3" getLevel="92" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="4" getLevel="93" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="4" getLevel="93" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="5" getLevel="94" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="5" getLevel="94" autoGet="true" />
+		
+		<skill skillName="Glorious Warrior's Elixir Upgrade" skillId="45471" skillLevel="6" getLevel="95" autoGet="true" />
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="6" getLevel="95" autoGet="true" />
+
+		<skill skillName="Expand Glorious Warrior's Magic Lamp" skillId="45483" skillLevel="7" getLevel="96" autoGet="true" />
+	</skillTree>
+</list>

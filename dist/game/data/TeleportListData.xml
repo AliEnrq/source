@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/TeleportListData.xsd">
+	<teleport id="2" x="42111" y="148222" z="-3688" price="1650" /> <!-- Execution Grounds -->
+	<teleport id="3" x="46467" y="126885" z="-3720" price="1650" /> <!-- Partisan's Hideaway -->
+	<teleport id="4" x="15233" y="114153" z="-3576" price="1650" /> <!-- Cruma Marshlands -->
+	<teleport id="5" x="17146" y="114176" z="-3440" price="3600" /> <!-- Cruma Tower -->
+	<teleport id="7" x="15689" y="142953" z="-2696" price="1000" /> <!-- Town of Dion -->
+	<teleport id="11" x="26861" y="185229" z="-3472" price="15300" /> <!-- Bee Hive -->
+	<teleport id="14" x="630" y="179184" z="-3720" price="1650" /> <!-- Plains of Dion -->
+	<teleport id="17" x="105918" y="109759" z="-3192" price="3000" /> <!-- Hardin's Academy -->
+	<teleport id="18" x="73024" y="118485" z="-3696" price="34200" /> <!-- Dragon Valley -->
+	<teleport id="19" x="132219" y="114392" z="-3720" price="34200" /> <!-- Antharas' Lair -->
+	<teleport id="21" x="70576" y="128047" z="-3752" price="770" /> <!-- Death Pass -->
+	<teleport id="23" x="43408" y="206881" z="-3752" price="15000" /> <!-- Devil's Isle -->
+	<teleport id="24" x="47935" y="186810" z="-3480" price="2000" /> <!-- Giran Harbor -->
+	<teleport id="25" x="83386" y="148014" z="-3400" price="1000" /> <!-- Town of Giran -->
+	<teleport id="29" x="102369" y="137818" z="-3328" price="770" /> <!-- Gorgon Flower Garden -->
+	<teleport id="32" x="-53117" y="119693" z="-2968" price="200" /> <!-- Ruins of Agony -->
+	<teleport id="34" x="-9970" y="175793" z="-4128" price="770" /> <!-- Ant Nest -->
+	<teleport id="35" x="-80684" y="149770" z="-3040" price="1000" /> <!-- Gludin Village -->
+	<teleport id="36" x="-91080" y="149860" z="-3624" price="2000" /> <!-- Gludin Harbor -->
+	<teleport id="37" x="-14424" y="123972" z="-3120" price="1000" /> <!-- Town of Gludio -->
+	<teleport id="38" x="-46427" y="147921" z="-2960" price="770" /> <!-- Abandoned Camp -->
+	<teleport id="39" x="-91509" y="107149" z="-3688" price="24000" /> <!-- Orc Baracks -->
+	<teleport id="46" x="-45210" y="202654" z="-3592" price="1650" /> <!-- Langk Lizardmen Dwellings -->
+	<teleport id="49" x="-84191" y="244531" z="-3728" price="1000" /> <!-- Talking Island -->
+	<teleport id="53" x="-112367" y="234703" z="-3688" price="500" /> <!-- Elven Ruins -->
+	<teleport id="55" x="-106696" y="214691" z="-3424" price="200" /> <!-- Talking Island, Western Territory -->
+	<teleport id="56" x="-95336" y="240478" z="-3264" price="200" /> <!-- Talking Island, Eastern Territory -->
+	<teleport id="57" x="-70387" y="115501" z="-3472" price="1650" /> <!-- Fellmere Harvesting Grounds -->
+	<teleport id="58" x="-75311" y="169110" z="-3632" price="1650" /> <!-- Windmill Hill -->
+	<teleport id="58" x="-77643" y="166967" z="-3712" price="1650" /> <!-- Windmill Hill -->
+	<teleport id="62" x="-23789" y="169683" z="-3424" price="1650" /> <!-- Windawood Manor -->
+	<teleport id="66" x="-10612" y="75881" z="-3592" price="500" /> <!-- Neutral Zone -->
+	<teleport id="68" x="21362" y="51122" z="-3688" price="200" /> <!-- Elven Forest -->
+	<teleport id="70" x="46916" y="51420" z="-2976" price="1000" /> <!-- Elven Village -->
+	<teleport id="71" x="29294" y="74968" z="-3776" price="500" /> <!-- Elven Fortress -->
+	<teleport id="75" x="9800" y="15596" z="-4568" price="1000" /> <!-- Dark Elven Village -->
+	<teleport id="77" x="-21966" y="40544" z="-3192" price="200" /> <!-- Swampland -->
+	<teleport id="78" x="-55262" y="77036" z="-3160" price="200" /> <!-- Altar of Writes -->
+	<teleport id="79" x="64328" y="26803" z="-3768" price="770" /> <!-- Sea Of Spores -->
+	<teleport id="81" x="85391" y="16228" z="-3672" price="3900" /> <!-- Ivory Tower -->
+	<teleport id="82" x="82927" y="53255" z="-1488" price="1000" /> <!-- Town of Oren -->
+	<teleport id="84" x="82911" y="92847" z="-3328" price="9000" /> <!-- Plains of the Lizardmen -->
+	<teleport id="90" x="92278" y="15469" z="-4384" price="3900" /> <!-- Ivory Tower Crater -->
+	<teleport id="98" x="114649" y="11115" z="-5120" price="15000" /> <!-- Tower of Insolence -->
+	<teleport id="99" x="155310" y="-16339" z="-3320" price="6750" /> <!-- Blazing Swamp -->
+	<teleport id="101" x="187383" y="20498" z="-3584" price="6750" /> <!-- Seal of Shilen -->
+	<teleport id="102" x="177116" y="45786" z="-4168" price="15300" /> <!-- Giant's Cave -->
+	<teleport id="104" x="173678" y="9256" z="-2736" price="1500" /> <!-- Cemetery -->
+	<teleport id="105" x="138012" y="81947" z="-3104" price="1800" /> <!-- Forest of Mirrors -->
+	<teleport id="108" x="117051" y="76854" z="-2704" price="1000" /> <!-- Hunters Village -->
+	<teleport id="113" x="106517" y="-2871" z="-3416" price="6750" /> <!-- Ancient Battleground -->
+	<teleport id="115" x="171827" y="56589" z="-5624" price="3000" /> <!-- Silent Valley -->
+	<teleport id="116" x="105659" y="82974" z="-2776" price="8000" /> <!-- Hunters' Valley -->
+	<teleport id="117" x="139004" y="19891" z="-3584" price="2000" /> <!-- Plains of Glory -->
+	<teleport id="118" x="183524" y="-14991" z="-2768" price="1800" /> <!-- Fields of Massacre -->
+	<teleport id="119" x="162205" y="27090" z="-3712" price="2500" /> <!-- War-Torn Plains -->
+	<teleport id="131" x="-45158" y="-112583" z="-240" price="1000" /> <!-- Orc Village -->
+	<teleport id="133" x="9340" y="-112509" z="-2536" price="500" /> <!-- Cave of Trials -->
+	<teleport id="134" x="8652" y="-139941" z="-1144" price="500" /> <!-- Frozen Waterfalls -->
+	<teleport id="136" x="-10983" y="-117484" z="-2464" price="200" /> <!-- Immortal Plateau, Northern Region -->
+	<teleport id="137" x="-4190" y="-80040" z="-2696" price="200" /> <!-- Immortal Plateau, Southern Region -->
+	<teleport id="140" x="115190" y="-178176" z="-896" price="1000" /> <!-- Dwarven Village -->
+	<teleport id="142" x="139714" y="-177456" z="-1536" price="500" /> <!-- Abandoned Coal Mines -->
+	<teleport id="143" x="171946" y="-173352" z="3440" price="1650" /> <!-- Mithril Mines -->
+	<teleport id="145" x="124054" y="-200170" z="-3704" price="200" /> <!-- Western Mining Zone -->
+	<teleport id="146" x="169008" y="-208272" z="-3496" price="200" /> <!-- Eastern Mining Zone -->
+	<teleport id="181" x="147961" y="-55309" z="-2728" price="1000" /> <!-- Town of Goddard -->
+	<teleport id="184" x="144880" y="-113468" z="-2560" price="1650" /> <!-- Hot Springs -->
+	<teleport id="186" x="173494" y="-115521" z="-3760" price="15300" /> <!-- Forge Of The Gods -->
+	<teleport id="189" x="146990" y="-67128" z="-3640" price="34200" /> <!-- Ketra Orc Outpust -->
+	<teleport id="190" x="186699" y="-75915" z="-2824" price="15300" /> <!-- Imperial Tomb -->
+	<teleport id="193" x="165054" y="-47861" z="-3560" price="15300" /> <!-- Wall of the Argos -->
+	<teleport id="195" x="125740" y="-40864" z="-3736" price="34200" /> <!-- Varka Selenos Barraks -->
+	<teleport id="218" x="11560" y="-23942" z="-3640" price="15300" /> <!-- Forgotten Island -->
+	<teleport id="316" x="-99843" y="237583" z="-3568" price="200" /> <!-- Obelisk of Victory -->
+	<teleport id="317" x="115583" y="192261" z="-3488" price="3900" /> <!-- Alligator Island -->
+	<teleport id="318" x="-22224" y="14168" z="-3232" price="200" /> <!-- Dark Forest -->
+	<teleport id="320" x="-61095" y="75104" z="-3352" price="500" /> <!-- Spider Nest -->
+	<teleport id="321" x="146856" y="25803" z="-2008" price="1000" /> <!-- Town of Aden -->
+	<teleport id="324" x="146440" y="46723" z="-3432" price="2000" /> <!-- Coliseum -->
+	<teleport id="402" x="-24653" y="78033" z="-3448" price="6750" /> <!-- The Patriot's Necropolis -->
+	<teleport id="403" x="-55701" y="78306" z="-3016" price="15300" /> <!-- Necropolis of Devotion -->
+	<teleport id="404" x="177347" y="173049" z="-1920" price="15300" /> <!-- Wind Plateau -->
+	<teleport id="405" x="82098" y="252437" z="-10592" price="15300" /> <!-- Garden of Eva -->
+	<teleport id="409" x="-111728" y="244330" z="-3448" price="500" /> <!-- Singing Waterfall -->
+	<teleport id="410" x="-21472" y="36244" z="-2776" price="500" /> <!-- Swampland North -->
+	<teleport id="411" x="124904" y="61992" z="-3920" price="770" /> <!-- Southern Part of the Enchanted Valley -->
+	<teleport id="412" x="116220" y="41380" z="-3880" price="770" /> <!-- Northern Part of the Enchanted Valley -->
+	<teleport id="413" x="-16730" y="209417" z="-3664" price="1650" /> <!-- Southern Entrance of Wasteland -->
+	<teleport id="415" x="-116686" y="46482" z="360" price="1000" /> <!-- Kamael Village -->
+	<teleport id="417" x="-119618" y="51994" z="-832" price="200" /> <!-- Hill of Hope -->
+	<teleport id="418" x="-109670" y="45283" z="-1344" price="200" /> <!-- Golden Hills -->
+	<teleport id="419" x="116807" y="147708" z="-2782" price="50000" /> <!-- Right Side of the Giran Castle -->
+	<teleport id="420" x="107954" y="145841" z="-3224" price="50000" /> <!-- Front Side of the Giran Castle -->
+	<teleport id="421" x="117831" y="142657" z="-2733" price="50000" /> <!-- Left Side of the Giran Castle -->
+	<teleport id="422" x="107698" y="143854" z="-3440" price="770" /> <!-- Giran Castle Siege Warcamp -->
+	<teleport id="423" x="-27322" y="78056" z="-3536" price="200" /> <!-- Forest of Sacrifice -->
+	<teleport id="424" x="147932" y="-39016" z="-1984" price="770" /> <!-- Goddard Castle's Warcamp -->
+	<teleport id="425" x="152797" y="-49020" z="-2848" price="50000" /> <!-- Right Side of the Goddard Castle -->
+	<teleport id="426" x="147558" y="-43697" z="-2313" price="50000" /> <!-- Front Side of the Goddard Castle -->
+	<teleport id="427" x="139743" y="-46234" z="-2258" price="50000" /> <!-- Left Side of the Goddard Castle -->
+	<teleport id="429" x="46213" y="152871" z="-2742" price="1000" /> <!-- Death Knight Base -->
+	<teleport id="430" x="45753" y="147564" z="-3680" price="200" /> <!-- The First Training Grounds -->
+	<teleport id="431" x="52642" y="148105" z="-2424" price="200" /> <!-- The Second Training Grounds -->
+	<teleport id="432" x="111187" y="-12334" z="-1723" price="50000" /> <!-- Orc Fortress -->
+	<teleport id="433" x="104712" y="4803" z="-3288" price="1000" /> <!-- Road to Orc Fortress -->
+	<teleport id="434" x="-48363" y="140230" z="-2944" price="18000" /> <!-- Sel Mahum Base -->
+	<teleport id="435" x="73024" y="118485" z="-3720" price="15000" /> <!-- Entrance to Dragon Valley -->
+	<teleport id="436" x="88088" y="121578" z="-2960" price="18000" /> <!-- Center of the Dragon Valley -->
+	<teleport id="437" x="92821" y="18847" z="-3608" price="2000" /> <!-- Outskirts of the Ivory Tower -->
+	<teleport id="438" x="15074" y="246054" z="-176" price="200" special="true" /> <!-- Hellbound -->
+	<teleport id="439" x="8890" y="239060" z="-2440" price="200" special="true" /> <!-- Satina's Laboratory -->
+	<teleport id="440" x="2901" y="235565" z="-3352" price="200" special="true" /> <!-- Beleth's Magic Circle -->
+	<teleport id="441" x="7730" y="250566" z="-1800" price="200" special="true" /> <!-- Ivory Tower Camp -->
+	<teleport id="442" x="83996" y="16953" z="-3517" price="2000" /> <!-- Ivory Tower - Hellbound Portal -->
+	<teleport id="443" x="116887" y="16064" z="2952" price="100" special="true" /> <!-- Tower of Insolence (To the 7th Floor) -->
+	<teleport id="444" x="112196" y="16076" z="2952" price="100" special="true" /> <!-- Tower of Insolence (From the 7th Floor) -->
+	<teleport id="445" x="114628" y="18594" z="3960" price="100" special="true" /> <!-- Tower of Insolence (To the 8th Floor) -->
+	<teleport id="446" x="116320" y="14249" z="3960" price="100" special="true" /> <!-- Tower of Insolence (From the 8th Floor) -->
+	<teleport id="447" x="114843" y="18674" z="4976" price="100" special="true" /> <!-- Tower of Insolence (To the 9th Floor) -->
+	<teleport id="448" x="114643" y="13704" z="4976" price="100" special="true" /> <!-- Tower of Insolence (From the 9th Floor) -->
+	<teleport id="449" x="112866" y="14337" z="5984" price="150" special="true" /> <!-- Tower of Insolence (To the 10th Floor) -->
+	<teleport id="450" x="115380" y="14423" z="6136" price="150" special="true" /> <!-- Tower of Insolence (Left Exit from the 10th Floor) -->
+	<teleport id="451" x="112964" y="16764" z="6136" price="150" special="true" /> <!-- Tower of Insolence (Right Exit from the 10th Floor) -->
+	<teleport id="452" x="114901" y="13343" z="6992" price="150" special="true" /> <!-- Tower of Insolence (Left Exit from the 11th Floor) -->
+	<teleport id="453" x="111917" y="16297" z="6992" price="150" special="true" /> <!-- Tower of Insolence (Right Exit from the 11th Floor) -->
+	<teleport id="454" x="115282" y="14377" z="8112" price="300" special="true" /> <!-- Tower of Insolence (Left Exit from the 12th Floor) -->
+	<teleport id="455" x="112922" y="16665" z="8112" price="300" special="true" /> <!-- Tower of Insolence (Right Exit from the 12th Floor) -->
+	<teleport id="456" x="104277" y="58299" z="-3944" price="1000" /> <!-- Wind Village -->
+	<teleport id="457" x="107643" y="51995" z="-4800" price="200" /> <!-- Quiet Plain -->
+	<teleport id="458" x="109763" y="57475" z="-4360" price="200" /> <!-- Whispering Woods -->
+	<teleport id="459" x="17782" y="252753" z="-1744" price="0" /> <!-- Otherworldly Tower -->
+</list>

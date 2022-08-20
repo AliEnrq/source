@@ -1,0 +1,1093 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="95900" name="Maphr's Fortune Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95901" name="White Chocolate (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- White chocolate for celebrating the Valentine's Day. <How to use> Add to a collection to boost your stats. -->
+		<set name="icon" val="icon.ev_valentine_white_choco" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95902" name="Dark Chocolate (Time-limited)" type="EtcItem">
+		<!-- Dark chocolate for celebrating the Valentine's Day. <How to use> Add to a collection to boost your stats. -->
+		<set name="icon" val="icon.ev_valentine_dark_choco" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95903" name="Chocolate Ingredients (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Required for creating Valentine's Day Chocolate Box through the Special Craft. -->
+		<set name="icon" val="icon.etc_coda_seed_i08" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95904" name="Packing Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Required for creating Valentine's Day Chocolate Box through the Special Craft. -->
+		<set name="icon" val="icon.ev_valentine_basic_box" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95905" name="Pretty Ribbon (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Required for creating Valentine's Day Chocolate Box through the Special Craft. -->
+		<set name="icon" val="icon.ev_valentine_deco_ribbon" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95906" name="Valentine's Day Buff Scroll (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to apply one of the following buffs to your allies with a certain chance. <Available buffs> - Valentine's Day Blessing - Attack - Valentine's Day Blessing - Defense - Valentine's Day Blessing - Speed <Special effect> If all three buffs are active at the same time, an additional buff is applied: Valentine's Day Blessing - Harmony. Duration: 60 min. Cooldown: 10 sec. The effect remains after death. -->
+		<set name="icon" val="icon.event_altair_enchant_scroll_i03" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95907" name="Valentine's Day Chocolate Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain White Chocolate, Dark Chocolate and a random item from the list. -->
+		<set name="icon" val="icon.etc_whiteday_choco" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95908" name="Jewelry Box Lv. 5 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95909" name="Jewelry Box Lv. 3 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95910" name="New Year Blessing (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Applies the following effect when used. <Effect> Acquired XP +30% Acquired SP +30% The buff is renewed every hour. Maximum duration: 24 h. Grants various items with each buff renewal. <font color=ff6666>Note!</font> You cannot obtain a gift if you are dead. You cannot obtain a gift if you are teleporting. You cannot obtain a gift if you have too little space in your inventory. -->
+		<set name="icon" val="icon.ev_cow_bless_scrl" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95911" name="New Year's Token (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- A gift from the White Bull to celebrate the New Year. Can be exchanged for various items through the Special Craft. -->
+		<set name="icon" val="icon.ev_cow_coin" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="95912" name="New Year's Lucky Pouch (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.christmas_card_box2" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95913" name="+5 Top-grade A-grade Weapon Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95914" name="Boss' Weapon Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.aka_manaf_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95915" name="High-grade Spellbook Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95916" name="Lionel Hunter's Appearance - Not Available" additionalName="Test" type="Armor">
+		<!-- Test Item. -->
+		<set name="icon" val="icon.lionelhunter_dress" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+		<set name="price" val="5000000" />
+	</item>
+	<item id="95917" name="Lionel Hunter's Cloak - Not Available" additionalName="Test" type="Armor">
+		<!-- Test Item. -->
+		<set name="icon" val="icon.amor_goodness_cloak" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="95918" name="Package: New Year's Reward - Sayha's Cookie (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="BranchSys.icon.br_valentine_cookie_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95919" name="Package: New Year's Reward - Spirit Ore (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95920" name="Package: New Year's Reward - Soulshot Ticket (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95921" name="Package: New Year's Reward - Charging Stone of Random Craft - 1 Charge (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_chaser_stone" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95922" name="Aden's Blessing Pack Lv. 1 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="3031" min="10000" max="10000" chance="100" /> <!-- Spirit Ore -->
+			<item id="90907" min="200" max="200" chance="100" /> <!-- Soulshot Ticket -->
+			<item id="91641" min="100" max="100" chance="100" /> <!-- Sayha's Blessing -->
+			<item id="95481" min="5" max="5" chance="100" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95923" name="Aden's Blessing Pack Lv. 2 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="94269" min="100" max="100" chance="100" /> <!-- Scroll: Boost Attack -->
+			<item id="94271" min="100" max="100" chance="100" /> <!-- Scroll: Boost Defence -->
+			<item id="90907" min="200" max="200" chance="100" /> <!-- Soulshot Ticket -->
+			<item id="91641" min="200" max="200" chance="100" /> <!-- Sayha's Blessing -->
+			<item id="95481" min="5" max="5" chance="100" /> <!-- Aden Purge Crystal -->
+		</capsuled_items>
+	</item>
+	<item id="95924" name="Aden's Blessing Pack Lv. 3 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="93448" min="1" max="1" chance="100" /> <!-- A-grade Weapon Coupon -->
+			<item id="93449" min="2" max="2" chance="100" /> <!-- A-grade Armor Coupon -->
+			<item id="93976" min="3" max="3" chance="100" /> <!-- Scroll: Enchant A-grade Weapon -->
+			<item id="93977" min="6" max="6" chance="100" /> <!-- Scroll: Enchant A-grade Armor -->
+		</capsuled_items>
+	</item>
+	<item id="95925" name="Aden's Blessing Pack Lv. 4 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="93268" min="2" max="2" chance="100" /> <!-- Improved Scroll: Enchant A-grade Weapon -->
+			<item id="93269" min="2" max="2" chance="100" /> <!-- Improved Scroll: Enchant A-grade Armor -->
+			<item id="93270" min="2" max="2" chance="100" /> <!-- Cursed Scroll: Enchant A-grade Weapon -->
+			<item id="93271" min="2" max="2" chance="100" /> <!-- Cursed Scroll: Enchant A-grade Armor -->
+		</capsuled_items>
+	</item>
+	<item id="95926" name="Aden's Blessing Pack Lv. 5 (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="92314" min="100" max="100" chance="100" /> <!-- Giran Seal -->
+			<item id="95740" min="1" max="1" chance="100" /> <!-- Artisan's Scroll: Enchant Talisman of Aden -->
+			<item id="94208" min="1" max="1" chance="100" /> <!-- Scroll of Blessing -->
+			<item id="94328" min="10" max="10" chance="100" /> <!-- Elixir Powder -->
+		</capsuled_items>
+	</item>
+	<item id="95927" name="Resurrection Discount Charm - Not Available" additionalName="20%" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95928" name="Resurrection Discount Charm - Not Available" additionalName="30%" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95929" name="Resurrection Discount Charm - Not Available" additionalName="40%" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95930" name="Resurrection Discount Charm - Not Available" additionalName="50%" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95931" name="Einhasad's Blessing Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.bm_sayha_blessed_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95932" name="Helmet of Protection" type="Armor">
+		<!-- <Properties> STR +1 INT +1 MEN +1 P. Atk. +10% M. Atk. +10% HP Recovery Rate +10% MP Recovery Rate +10% Overweight limit +1500 -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="560" />
+		<set name="price" val="2032000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="pDef">110</stat>
+		</stats>
+		<skills>
+			<skill id="50541" level="1" /> <!-- A-grade: Helmet of Protection -->
+			<skill id="50542" level="1" type="ON_ENCHANT" type_value="0" /> <!-- Helmet of Protection -->
+			<skill id="50542" level="2" type="ON_ENCHANT" type_value="1" /> <!-- Helmet of Protection -->
+			<skill id="50543" level="1" type="ON_ENCHANT" type_value="1" /> <!-- +1 Helmet of Protection -->
+			<skill id="50543" level="2" type="ON_ENCHANT" type_value="2" /> <!-- +2 Helmet of Protection -->
+			<skill id="50543" level="3" type="ON_ENCHANT" type_value="3" /> <!-- +3 Helmet of Protection -->
+			<skill id="50543" level="4" type="ON_ENCHANT" type_value="4" /> <!-- +4 Helmet of Protection -->
+			<skill id="50543" level="5" type="ON_ENCHANT" type_value="5" /> <!-- +5 Helmet of Protection -->
+			<skill id="50543" level="6" type="ON_ENCHANT" type_value="6" /> <!-- +6 Helmet of Protection -->
+			<skill id="50543" level="7" type="ON_ENCHANT" type_value="7" /> <!-- +7 Helmet of Protection -->
+			<skill id="50543" level="8" type="ON_ENCHANT" type_value="8" /> <!-- +8 Helmet of Protection -->
+			<skill id="50543" level="9" type="ON_ENCHANT" type_value="9" /> <!-- +9 Helmet of Protection -->
+			<skill id="50543" level="10" type="ON_ENCHANT" type_value="10" /> <!-- +10 Helmet of Protection -->
+		</skills>
+	</item>
+	<item id="95933" name="Gauntlets of Protection" type="Armor">
+		<!-- <Properties> STR +1 INT +1 CON +1 Atk. Spd. +18% Casting Spd. +18% Max HP +250 Overweight limit +1000 -->
+		<set name="icon" val="icon.armor_t901_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="890000" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pDef">80</stat>
+		</stats>
+	</item>
+	<item id="95934" name="Boots of Protection" type="Armor">
+		<!-- <Properties> STR +1 INT +1 CON +1 Max HP +250 Speed +9 Overweight limit +1000 -->
+		<set name="icon" val="icon.armor_t901_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="1355000" />
+		<set name="enchant_enabled" val="true" />
+		<stats>
+			<stat type="pDef">75</stat>
+		</stats>
+	</item>
+	<item id="95935" name="Helmet of Protection" additionalName="Sealed" type="Armor">
+		<!-- <Properties> STR +1 INT +1 MEN +1 P. Atk. +10% M. Atk. +10% HP Recovery Rate +10% MP Recovery Rate +10% Overweight limit +1500 -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="head" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="560" />
+		<set name="price" val="2032000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">110</stat>
+		</stats>
+	</item>
+	<item id="95936" name="Gauntlets of Protection" additionalName="Sealed" type="Armor">
+		<!-- <Properties> STR +1 INT +1 CON +1 Atk. Spd. +18% Casting Spd. +18% Max HP +250 Overweight limit +1000 -->
+		<set name="icon" val="icon.armor_t901_g_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="gloves" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="890000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">80</stat>
+		</stats>
+	</item>
+	<item id="95937" name="Boots of Protection" additionalName="Sealed" type="Armor">
+		<!-- <Properties> STR +1 INT +1 CON +1 Max HP +250 Speed +9 Overweight limit +1000 -->
+		<set name="icon" val="icon.armor_t901_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="feet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1070" />
+		<set name="price" val="1355000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="pDef">75</stat>
+		</stats>
+	</item>
+	<item id="95938" name="Tower of Insolence's Shining Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_readybox_gold" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95939" name="Random Craft: Create +12 Yaksa Mace" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.weapon_yaksa_mace_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95940" name="Random Craft: Create +12 Saber Tooth" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.weapon_invincible_blade_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95941" name="Random Craft: Create +0 ~ +5 Zubei's Breastplate" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t64_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95942" name="Random Craft: Create +0 ~ +5 Blue Wolf Breastplate" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t68_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95943" name="Random Craft: Create +0 ~ +5 Zubei's Gaiters" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t64_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95944" name="Random Craft: Create +0 ~ +5 Avadon Breastplate" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t66_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95945" name="Random Craft: Create +0 ~ +5 Avadon Gaiters" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t66_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95946" name="Random Craft: Create +0 ~ +5 Blue Wolf Gaiters" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t68_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95947" name="Random Craft: Create +0 ~ +5 Doom Plate Armor" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t71_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95948" name="Random Craft: Create +0 ~ +5 Zubei's Leather Shirt" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t65_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95949" name="Random Craft: Create +0 ~ +5 Zubei's Leather Gaiters" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t65_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95950" name="Random Craft: Create +0 ~ +5 Avadon Leather Armor" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t67_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95951" name="Random Craft: Create +0 ~ +5 Blue Wolf Leather Armor" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t69_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95952" name="Random Craft: Create +0 ~ +5 Doom Leather Armor" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t72_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95953" name="Random Craft: Create +0 ~ +5 Zubei's Tunic" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t56_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95954" name="Random Craft: Create +0 ~ +5 Blue Wolf Tunic" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t70_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95955" name="Random Craft: Create +0 ~ +5 Doom Tunic" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t73_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95956" name="Random Craft: Create +0 ~ +5 Zubei's Stockings" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t56_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95957" name="Random Craft: Create +0 ~ +5 Blue Wolf Stockings" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t70_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95958" name="Random Craft: Create +0 ~ +5 Doom Stockings" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t73_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95959" name="Random Craft: Create +0 ~ +5 Avadon Robe" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t59_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95960" name="Random Craft: Create +0 ~ +5 Zubei's Gauntlets (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t64_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95961" name="Random Craft: Create +0 ~ +5 Zubei's Gauntlets (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t65_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95962" name="Random Craft: Create +0 ~ +5 Zubei's Gauntlets (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t56_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95963" name="Random Craft: Create +0 ~ +5 Avadon Gloves (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t66_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95964" name="Random Craft: Create +0 ~ +5 Avadon Gloves (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t67_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95965" name="Random Craft: Create +0 ~ +5 Avadon Gloves (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t59_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95966" name="Random Craft: Create +0 ~ +5 Blue Wolf Gloves (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t68_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95967" name="Random Craft: Create +0 ~ +5 Blue Wolf Gloves (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t69_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95968" name="Random Craft: Create +0 ~ +5 Blue Wolf Gloves (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t70_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95969" name="Random Craft: Create +0 ~ +5 Doom Gloves (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t71_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95970" name="Random Craft: Create +0 ~ +5 Doom Gloves (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t72_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95971" name="Random Craft: Create +0 ~ +5 Doom Gloves (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t73_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95972" name="Random Craft: Create +0 ~ +5 Zubei's Boots (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t64_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95973" name="Random Craft: Create +0 ~ +5 Zubei's Boots (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t65_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95974" name="Random Craft: Create +0 ~ +5 Zubei's Boots (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t56_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95975" name="Random Craft: Create +0 ~ +5 Avadon Boots (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t66_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95976" name="Random Craft: Create +0 ~ +5 Avadon Boots (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t67_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95977" name="Random Craft: Create +0 ~ +5 Avadon Boots (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t59_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95978" name="Random Craft: Create +0 ~ +5 Blue Wolf Boots (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t68_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95979" name="Random Craft: Create +0 ~ +5 Blue Wolf Boots (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t69_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95980" name="Random Craft: Create +0 ~ +5 Blue Wolf Boots (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t70_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95981" name="Random Craft: Create +0 ~ +5 Doom Boots (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t71_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95982" name="Random Craft: Create +0 ~ +5 Doom Boots (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t72_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95983" name="Random Craft: Create +0 ~ +5 Doom Boots (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_t73_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95984" name="Random Craft: Create +0 ~ +5 Avadon Circlet (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95985" name="Random Craft: Create +0 ~ +5 Avadon Circlet (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95986" name="Random Craft: Create +0 ~ +5 Avadon Circlet (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95987" name="Random Craft: Create +0 ~ +5 Zubei's Helmet (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95988" name="Random Craft: Create +0 ~ +5 Zubei's Helmet (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95989" name="Random Craft: Create +0 ~ +5 Zubei's Helmet (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95990" name="Random Craft: Create +0 ~ +5 Blue Wolf Helmet (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95991" name="Random Craft: Create +0 ~ +5 Blue Wolf Helmet (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95992" name="Random Craft: Create +0 ~ +5 Blue Wolf Helmet (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95993" name="Random Craft: Create +0 ~ +5 Doom Helmet (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95994" name="Random Craft: Create +0 ~ +5 Doom Helmet (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95995" name="Random Craft: Create +0 ~ +5 Doom Helmet (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95996" name="Random Craft: Create +0 ~ +5 Zubei's Shield" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.shield_shrnoens_shield_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95997" name="Random Craft: Create +0 ~ +5 Avadon Shield" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.shield_avadon_shield_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95998" name="Random Craft: Create +0 ~ +5 Doom Shield" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.shield_doom_shield_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="95999" name="Random Craft: Create +0 ~ +7 Ring of Insolence" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.ring_of_oman" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="52001" toLevel="1" name="Flag Display">
+		<!-- In order to get recognition, display the combat flag on the fortress' flagpole. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52002" toLevel="1" name="Flag Power - Warrior">
+		<!-- Flag Power for warriors. Decreases nearby enemies Speed. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52003" toLevel="1" name="Flag Power - Knight">
+		<!-- Flag Power for knights. Increases P./ M. Def. and Debuff Resistance. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52004" toLevel="1" name="Flag Power - Rogue">
+		<!-- Flag Power for rogues. Increases P. Evasion ? P. Skill Evasion. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52005" toLevel="1" name="Flag Power - Archer">
+		<!-- Flag Power for archers. Increases P. Evasion ? P. Skill Evasion. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52006" toLevel="1" name="Flag Power - Mage">
+		<!-- Flag power for mages. Inflicts Sleep on nearby enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52007" toLevel="1" name="Flag Power - Summoner">
+		<!-- Flag power for summoners. Inflicts Stun on nearby enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52008" toLevel="1" name="Flag Power - Healer">
+		<!-- Flag power for healers. Inflicts Sleep on nearby enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52009" toLevel="1" name="Flag Power - Enchanter">
+		<!-- Flag power for enchanters. Inflicts Hold on nearby enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52010" toLevel="1" name="Flag Power - Bard">
+		<!-- Flag power for bards. Inflicts Stun on nearby enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52011" toLevel="1" name="Flag Power - Shaman">
+		<!-- Flag power for shamans. Inflicts Fear on nearby enemies. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52012" toLevel="1" name="Flag Power - Fast Run">
+		<!-- Flag Power temporarily increases Speed. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52013" toLevel="1" name="Flag Carrier">
+		<!-- Speed of the flag bearer is decreased. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52014" toLevel="1" name="Get Combat Flag">
+		<!-- You have got the power of Combat Flag. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52015" toLevel="1" name="Drop Combat Flag">
+		<!-- You have lost the power of Combat Flag. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52016" toLevel="1" name="Orc Fortress Owner">
+		<!-- A special ability given to the clan members who own the Orc Fortress. Acquired XP/ SP +$s1, gained adena +$s2. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52017" toLevel="1" name="Remote Flag Display">
+		<!-- In order to get recognition, display the combat flag on the fortress' flagpole. There's a chance to fail. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52018" toLevel="1" name="Leader Power">
+		<!-- STR +1 INT +1 P. Evasion +20 HP Recovery Potions' Effect +10 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52019" toLevel="1" name="PvP Ranking">
+		<!-- Bonus for the 1st-3rd places in PvP Ranking. When you have killed, you can see a special visual effect for a short period of time. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52020" toLevel="1" name="PvP Ranking Effect">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52021" toLevel="1" name="Clan's Vitality Bonus">
+		<!-- Sayha's Grace charging rate $s1 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52022" toLevel="1" name="Sylph Blessing">
+		<!-- Atk. Spd. $s1 Casting Spd. $s1 Speed $s2 Soulshot Damage $s3 Spiritshot Damage $s3 Acquired XP/ SP $s4 -->
+		<icon>icon.ev_sylph_bless</icon>
+		<isMagic>4</isMagic>
+		<effectPoint>1</effectPoint>
+		<stayAfterDeath>true</stayAfterDeath>
+		<operateType>AU</operateType>
+		<effects>
+			<effect name="PhysicalAttackSpeed">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalAttackSpeed">
+				<amount>50</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>5</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="ShotsBonus">
+				<amount>10</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="ExpModify">
+				<amount>30</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>30</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="52023" toLevel="1" name="Giran Castle Owner">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52024" toLevel="1" name="Goddard Castle Owner">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52025" toLevel="20" name="">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52026" toLevel="10" name="Clan Members">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="52027" toLevel="1" name="Heroes' Power">
+		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+</list>

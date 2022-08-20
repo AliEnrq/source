@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="39200" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50499" level="1" />
+	</option>
+	<option id="39201" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="1" />
+	</option>
+	<option id="39202" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="2" />
+	</option>
+	<option id="39203" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="3" />
+	</option>
+	<option id="39204" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="4" />
+	</option>
+	<option id="39205" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="5" />
+	</option>
+	<option id="39206" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="6" />
+	</option>
+	<option id="39207" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="7" />
+	</option>
+	<option id="39208" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="8" />
+	</option>
+	<option id="39209" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="9" />
+	</option>
+	<option id="39210" name="A_weapon_empowered_by_Anakim_soul">
+		<passive_skill id="50500" level="10" />
+	</option>
+	<option id="39222" name="Clan Cloak">
+		<passive_skill id="50504" level="1" />
+	</option>
+	<option id="39223" name="Clan Cloak_lvl_01">
+		<passive_skill id="50504" level="2" />
+	</option>
+	<option id="39224" name="Clan Cloak_lvl_02">
+		<passive_skill id="50504" level="3" />
+	</option>
+	<option id="39225" name="Clan Cloak_lvl_03">
+		<passive_skill id="50504" level="4" />
+	</option>
+	<option id="39226" name="Clan Cloak_lvl_04">
+		<passive_skill id="50504" level="5" />
+	</option>
+	<option id="39227" name="Clan Cloak_lvl_05">
+		<passive_skill id="50504" level="6" />
+	</option>
+	<option id="39228" name="Clan Cloak_lvl_06">
+		<passive_skill id="50504" level="7" />
+	</option>
+	<option id="39229" name="Clan Cloak_lvl_07">
+		<passive_skill id="50504" level="8" />
+	</option>
+	<option id="39230" name="Clan Cloak_lvl_08">
+		<active_skill id="50505" level="1" />
+		<passive_skill id="50504" level="9" />
+	</option>
+	<option id="39231" name="Clan Cloak_lvl_09">
+		<active_skill id="50505" level="2" />
+		<passive_skill id="50504" level="10" />
+	</option>
+	<option id="39232" name="Clan Cloak_lvl_10">
+		<active_skill id="50505" level="3" />
+		<passive_skill id="50504" level="11" />
+	</option>
+	<option id="39269" name="Col_167">
+		<effects>
+			<effect name="CriticalRate">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39270" name="Col_168">
+		<effects>
+			<effect name="PAtk">
+				<amount>70</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>70</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39271" name="Col_169">
+		<effects>
+			<effect name="DefenceCriticalRate">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39272" name="Col_170">
+		<effects>
+			<effect name="PhysicalDefence">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39273" name="Col_171">
+		<effects>
+			<effect name="DefenceMagicCriticalRate">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39274" name="Col_172">
+		<effects>
+			<effect name="MagicCriticalRate">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39275" name="Col_173">
+		<effects>
+			<effect name="MagicCriticalDamage">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39276" name="Col_174">
+		<effects>
+			<effect name="DefenceSkillCriticalDamage">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39277" name="Col_175">
+		<effects>
+			<effect name="DefenceMagicCriticalDamage">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39278" name="Adventurers Talisman">
+		<!-- -->
+		<passive_skill id="50188" level="1" />
+	</option>
+	<option id="39279" name="Adventurers Talisman">
+		<!-- P. Def. +5, M. Def. +5, Atk. Spd. +10, Casting Spd. +10, Max HP +100, Max MP +30 -->
+		<passive_skill id="50188" level="2" />
+	</option>
+	<option id="39280" name="Col_177">
+	</option>
+	<option id="39281" name="Col_178">
+		<effects>
+			<effect name="PhysicalDefence">
+				<amount>6</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39282" name="Col_179">
+		<effects>
+			<effect name="MagicalDefence">
+				<amount>6</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39283" name="Col_180">
+		<effects>
+			<effect name="PAtk">
+				<amount>5</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39284" name="Col_181">
+		<effects>
+			<effect name="MAtk">
+				<amount>5</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39285" name="Col_182">
+		<effects>
+			<effect name="CpRegen">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MpRegen">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="HpRegen">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39286" name="Col_183">
+		<effects>
+			<effect name="VitalityPointsRate">
+				<amount>-1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39287" name="Col_184">
+		<effects>
+			<effect name="VitalityPointsRate">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39288" name="Col_185">
+		<effects>
+			<effect name="MaxCp">
+				<amount>25</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39289" name="Col_186">
+		<effects>
+			<effect name="MaxMp">
+				<amount>25</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39290" name="Col_187">
+		<effects>
+			<effect name="MaxHp">
+				<amount>25</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39291" name="Col_188">
+		<effects>
+			<effect name="VitalityPointsRate">
+				<amount>-1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39292" name="Col_189">
+		<effects>
+			<effect name="VitalityPointsRate">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39293" name="Col_190">
+		<effects>
+			<effect name="MaxCp">
+				<amount>35</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39294" name="Col_191">
+		<effects>
+			<effect name="MaxMp">
+				<amount>35</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39295" name="Col_192">
+		<effects>
+			<effect name="MaxHp">
+				<amount>35</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39296" name="Col_193">
+		<effects>
+			<effect name="WeightLimit">
+				<amount>250</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39297" name="Col_194">
+		<effects>
+			<effect name="GiveExpAndSp">
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39298" name="Col_195">
+		<effects>
+			<effect name="PAtk">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="39299" name="Col_196">
+		<effects>
+			<effect name="MAtk">
+				<amount>15</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+</list>

@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/EnchantItemOptions.xsd">
+	<item id="15383"> <!-- Weaver's Multi-colored Clothes - 7-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15384"> <!-- Weaver's Multi-colored Clothes - 30-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15385"> <!-- Weaver's Multi-colored Clothes - 60-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15386"> <!-- Weaver's Multi-colored Clothes - 90-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15387"> <!-- Weaver's Multi-colored Clothes - Permanent Use -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15388"> <!-- Weaver's Multi-colored Clothes (Event) - 7-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15389"> <!-- Weaver's Multi-colored Clothes (Event) - 30-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15390"> <!-- Weaver's Multi-colored Clothes (Event) - 60-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15391"> <!-- Weaver's Multi-colored Clothes (Event) - 90-day limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15392"> <!-- Weaver's Multi-colored Clothes (Event) - Permanent Use -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="20759"> <!-- Christmas Shirt - 24-hour limited period -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" option2="24855" option3="24902" />
+		<options level="5" option1="24809" option2="24856" option3="24903" />
+		<options level="6" option1="24810" option2="24857" option3="24904" />
+		<options level="7" option1="24811" option2="24858" option3="24905" />
+		<options level="8" option1="24812" option2="24859" option3="24906" />
+		<options level="9" option1="24813" option2="24860" option3="24907" />
+		<options level="10" option1="24814" option2="24861" option3="24908" />
+		<options level="11" option1="24815" option2="24862" option3="24909" />
+		<options level="12" option1="24816" option2="24863" option3="24910" />
+		<options level="13" option1="24817" option2="24864" option3="24911" />
+		<options level="14" option1="24818" option2="24865" option3="24912" />
+		<options level="15" option1="24819" option2="24866" option3="24913" />
+		<options level="16" option1="24820" option2="24867" option3="24914" />
+		<options level="17" option1="24821" option2="24868" option3="24915" />
+		<options level="18" option1="24822" option2="24869" option3="24916" />
+		<options level="19" option1="24823" option2="24870" option3="24917" />
+		<options level="20" option1="24824" option2="24871" option3="24918" />
+		<options level="21" option1="24825" option2="24872" option3="24919" />
+		<options level="22" option1="24826" option2="24873" option3="24920" />
+		<options level="23" option1="24827" option2="24874" option3="24921" />
+		<options level="24" option1="24828" option2="24875" option3="24922" />
+		<options level="25" option1="24829" option2="24876" option3="24923" />
+		<options level="26" option1="24830" option2="24877" option3="24924" />
+		<options level="27" option1="24831" option2="24878" option3="24925" />
+		<options level="28" option1="24832" option2="24879" option3="24926" />
+		<options level="29" option1="24833" option2="24880" option3="24927" />
+		<options level="30" option1="24834" option2="24881" option3="24928" />
+		<options level="31" option1="24835" option2="24882" option3="24929" />
+		<options level="32" option1="24836" option2="24883" option3="24930" />
+		<options level="33" option1="24837" option2="24884" option3="24931" />
+		<options level="34" option1="24838" option2="24885" option3="24932" />
+		<options level="35" option1="24839" option2="24886" option3="24933" />
+		<options level="36" option1="24840" option2="24887" option3="24934" />
+		<options level="37" option1="24841" option2="24888" option3="24935" />
+		<options level="38" option1="24842" option2="24889" option3="24936" />
+		<options level="39" option1="24843" option2="24890" option3="24937" />
+		<options level="40" option1="24844" option2="24891" option3="24938" />
+		<options level="41" option1="24845" option2="24892" option3="24939" />
+		<options level="42" option1="24846" option2="24893" option3="24940" />
+		<options level="43" option1="24847" option2="24894" option3="24941" />
+		<options level="44" option1="24848" option2="24895" option3="24942" />
+		<options level="45" option1="24849" option2="24896" option3="24943" />
+		<options level="46" option1="24850" option2="24897" option3="24944" />
+		<options level="47" option1="24851" option2="24898" option3="24945" />
+		<options level="48" option1="24852" option2="24899" option3="24946" />
+		<options level="49" option1="24853" option2="24900" option3="24947" />
+		<options level="50" option1="24854" option2="24901" option3="24948" />
+	</item>
+	<item id="15393"> <!-- Vitality Belt (7-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15394"> <!-- Vitality Belt (30-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15395"> <!-- Vitality Belt (60-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15396"> <!-- Vitality Belt (90-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15397"> <!-- Vitality Belt (Permanent Use) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15398"> <!-- Vitality Belt (Event) (7-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15399"> <!-- Vitality Belt (Event) (30-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15400"> <!-- Vitality Belt (Event) (60-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15401"> <!-- Vitality Belt (Event) (90-day limited period) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="15402"> <!-- Vitality Belt (Event) (Permanent Use) -->
+		<options level="0" option1="24949" />
+		<options level="1" option1="24805" />
+		<options level="2" option1="24806" />
+		<options level="3" option1="24807" />
+		<options level="4" option1="24808" />
+		<options level="5" option1="24809" />
+		<options level="6" option1="24810" />
+		<options level="7" option1="24811" />
+		<options level="8" option1="24812" />
+		<options level="9" option1="24813" />
+		<options level="10" option1="24814" />
+		<options level="11" option1="24815" />
+		<options level="12" option1="24816" />
+		<options level="13" option1="24817" />
+		<options level="14" option1="24818" />
+		<options level="15" option1="24819" />
+		<options level="16" option1="24820" />
+		<options level="17" option1="24821" />
+		<options level="18" option1="24822" />
+		<options level="19" option1="24823" />
+		<options level="20" option1="24824" />
+		<options level="21" option1="24825" />
+		<options level="22" option1="24826" />
+		<options level="23" option1="24827" />
+		<options level="24" option1="24828" />
+		<options level="25" option1="24829" />
+		<options level="26" option1="24830" />
+		<options level="27" option1="24831" />
+		<options level="28" option1="24832" />
+		<options level="29" option1="24833" />
+		<options level="30" option1="24834" />
+		<options level="31" option1="24835" />
+		<options level="32" option1="24836" />
+		<options level="33" option1="24837" />
+		<options level="34" option1="24838" />
+		<options level="35" option1="24839" />
+		<options level="36" option1="24840" />
+		<options level="37" option1="24841" />
+		<options level="38" option1="24842" />
+		<options level="39" option1="24843" />
+		<options level="40" option1="24844" />
+		<options level="41" option1="24845" />
+		<options level="42" option1="24846" />
+		<options level="43" option1="24847" />
+		<options level="44" option1="24848" />
+		<options level="45" option1="24849" />
+		<options level="46" option1="24850" />
+		<options level="47" option1="24851" />
+		<options level="48" option1="24852" />
+		<options level="49" option1="24853" />
+		<options level="50" option1="24854" />
+	</item>
+	<item id="21580"> <!-- Power Shirt -->
+		<options level="0" option1="24965" />
+		<options level="1" option1="24966" />
+		<options level="2" option1="24967" />
+		<options level="3" option1="24968" />
+		<options level="4" option1="24969" option2="24975" />
+		<options level="5" option1="24970" option2="24976" />
+		<options level="6" option1="24971" option2="24977" />
+		<options level="7" option1="24972" option2="24978" option3="24982" />
+		<options level="8" option1="24973" option2="24979" option3="24982" />
+		<options level="9" option1="24974" option2="24980" option3="24983" />
+		<options level="10" option1="24984" option2="24985" option3="24983" />
+	</item>
+	<item id="37718"> <!-- Shiny Elemental Shirt -->
+		<options level="0" option1="30299" />
+		<options level="1" option1="30300" />
+		<options level="2" option1="30301" />
+		<options level="3" option1="30302" />
+		<options level="4" option1="30303" />
+		<options level="5" option1="30304" />
+		<options level="6" option1="30305" option2="30310" />
+		<options level="7" option1="30306" option2="30311" />
+		<options level="8" option1="30307" option2="30312" />
+		<options level="9" option1="30308" option2="30313" />
+		<options level="10" option1="30309" option2="30314" />
+	</item>
+	<item id="23240"> <!-- Pa'agrio Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30238" />
+		<options level="8" option1="30235" option2="30239" />
+		<options level="9" option1="30236" option2="30238" />
+		<options level="10" option1="30237" option2="30239" />
+	</item>
+	<item id="23301"> <!-- Sayha Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30240" option3="30240" />
+		<options level="8" option1="30235" option2="30240" option3="30240" />
+		<options level="9" option1="30236" option2="30241" option3="30241" />
+		<options level="10" option1="30237" option2="30241" option3="30241" />
+	</item>
+	<item id="23304"> <!-- Eva's Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30243" />
+		<options level="8" option1="30235" option2="30243" />
+		<options level="9" option1="30236" option2="30244" />
+		<options level="10" option1="30237" option2="30244" />
+	</item>
+	<item id="23307"> <!-- Maphr Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30245" />
+		<options level="8" option1="30235" option2="30245" />
+		<options level="9" option1="30236" option2="30246" />
+		<options level="10" option1="30237" option2="30246" />
+	</item>
+	<item id="46193"> <!-- Physycal Reflect Shirt -->
+		<options level="0" option1="32839" />
+		<options level="1" option1="32840" />
+		<options level="2" option1="32841" />
+		<options level="3" option1="32842" />
+		<options level="4" option1="32843" />
+		<options level="5" option1="32844" />
+		<options level="6" option1="32845" />
+		<options level="7" option1="32846" />
+		<options level="8" option1="32847" />
+		<options level="9" option1="32848" />
+		<options level="10" option1="32849" />
+	</item>
+	<item id="46194"> <!-- Magical Reflect Shirt -->
+		<options level="0" option1="32850" />
+		<options level="1" option1="32851" />
+		<options level="2" option1="32852" />
+		<options level="3" option1="32853" />
+		<options level="4" option1="32854" />
+		<options level="5" option1="32855" />
+		<options level="6" option1="32856" />
+		<options level="7" option1="32857" />
+		<options level="8" option1="32858" />
+		<options level="9" option1="32859" />
+		<options level="10" option1="32860" />
+	</item>
+	<item id="21706"> <!-- Power Shirt (Event) -->
+		<options level="0" option1="24965" />
+		<options level="1" option1="24966" />
+		<options level="2" option1="24967" />
+		<options level="3" option1="24968" />
+		<options level="4" option1="24969" option2="24975" />
+		<options level="5" option1="24970" option2="24976" />
+		<options level="6" option1="24971" option2="24977" />
+		<options level="7" option1="24972" option2="24978" option3="24982" />
+		<options level="8" option1="24973" option2="24979" option3="24982" />
+		<options level="9" option1="24974" option2="24980" option3="24983" />
+		<options level="10" option1="24984" option2="24985" option3="24983" />
+	</item>
+	<item id="34717"> <!-- Refined Devil Horn -->
+		<options level="1" option1="30178" />
+		<options level="2" option1="30180" />
+		<options level="3" option1="30182" />
+		<options level="4" option1="30186" />
+		<options level="5" option1="30190" />
+		<options level="6" option1="30194" />
+		<options level="7" option1="30198" />
+		<options level="8" option1="30202" />
+		<options level="9" option1="30206" />
+		<options level="10" option1="30210" />
+		<options level="11" option1="30214" />
+		<options level="12" option1="30218" />
+		<options level="13" option1="30222" />
+		<options level="14" option1="30226" />
+	</item>
+	<!-- Shadow Weapons Option Data -->
+	<item id="46317"> <!-- Shadow Shaper -->
+		<options level="0" option1="32921" />
+		<options level="1" option1="32922" />
+		<options level="2" option1="32923" />
+		<options level="3" option1="32924" />
+		<options level="4" option1="32925" />
+		<options level="5" option1="32926" />
+		<options level="6" option1="32927" />
+		<options level="7" option1="32928" />
+		<options level="8" option1="32929" />
+		<options level="9" option1="32930" />
+		<options level="10" option1="32931" />
+	</item>
+	<item id="46318"> <!-- Shadow Cutter -->
+		<options level="0" option1="32873" />
+		<options level="1" option1="32874" />
+		<options level="2" option1="32875" />
+		<options level="3" option1="32876" />
+		<options level="4" option1="32877" />
+		<options level="5" option1="32878" />
+		<options level="6" option1="32879" />
+		<options level="7" option1="32880" />
+		<options level="8" option1="32881" />
+		<options level="9" option1="32882" />
+		<options level="10" option1="32883" />
+	</item>
+	<item id="46319"> <!-- Shadow Slasher -->
+		<options level="0" option1="32885" />
+		<options level="1" option1="32886" />
+		<options level="2" option1="32887" />
+		<options level="3" option1="32888" />
+		<options level="4" option1="32889" />
+		<options level="5" option1="32890" />
+		<options level="6" option1="32891" />
+		<options level="7" option1="32892" />
+		<options level="8" option1="32893" />
+		<options level="9" option1="32894" />
+		<options level="10" option1="32895" />
+	</item>
+	<item id="46320"> <!-- Shadow Fighter -->
+		<options level="0" option1="32897" />
+		<options level="1" option1="32898" />
+		<options level="2" option1="32899" />
+		<options level="3" option1="32900" />
+		<options level="4" option1="32901" />
+		<options level="5" option1="32902" />
+		<options level="6" option1="32903" />
+		<options level="7" option1="32904" />
+		<options level="8" option1="32905" />
+		<options level="9" option1="32906" />
+		<options level="10" option1="32907" />
+	</item>
+	<item id="46321"> <!-- Shadow Stormer -->
+		<options level="0" option1="32909" />
+		<options level="1" option1="32910" />
+		<options level="2" option1="32911" />
+		<options level="3" option1="32912" />
+		<options level="4" option1="32913" />
+		<options level="5" option1="32914" />
+		<options level="6" option1="32915" />
+		<options level="7" option1="32916" />
+		<options level="8" option1="32917" />
+		<options level="9" option1="32918" />
+		<options level="10" option1="32919" />
+	</item>
+	<item id="46322"> <!-- Shadow Thrower -->
+		<options level="0" option1="32933" />
+		<options level="1" option1="32934" />
+		<options level="2" option1="32935" />
+		<options level="3" option1="32936" />
+		<options level="4" option1="32937" />
+		<options level="5" option1="32938" />
+		<options level="6" option1="32939" />
+		<options level="7" option1="32940" />
+		<options level="8" option1="32941" />
+		<options level="9" option1="32942" />
+		<options level="10" option1="32943" />
+	</item>
+	<item id="46323"> <!-- Shadow Shooter -->
+		<options level="0" option1="32945" />
+		<options level="1" option1="32946" />
+		<options level="2" option1="32947" />
+		<options level="3" option1="32948" />
+		<options level="4" option1="32949" />
+		<options level="5" option1="32950" />
+		<options level="6" option1="32951" />
+		<options level="7" option1="32952" />
+		<options level="8" option1="32953" />
+		<options level="9" option1="32954" />
+		<options level="10" option1="32955" />
+	</item>
+	<item id="46324"> <!-- Shadow Buster -->
+		<options level="0" option1="32957" />
+		<options level="1" option1="32958" />
+		<options level="2" option1="32959" />
+		<options level="3" option1="32960" />
+		<options level="4" option1="32961" />
+		<options level="5" option1="32962" />
+		<options level="6" option1="32963" />
+		<options level="7" option1="32964" />
+		<options level="8" option1="32965" />
+		<options level="9" option1="32966" />
+		<options level="10" option1="32967" />
+	</item>
+	<item id="46325"> <!-- Shadow Retributer -->
+		<options level="0" option1="32969" />
+		<options level="1" option1="32970" />
+		<options level="2" option1="32971" />
+		<options level="3" option1="32972" />
+		<options level="4" option1="32973" />
+		<options level="5" option1="32974" />
+		<options level="6" option1="32975" />
+		<options level="7" option1="32976" />
+		<options level="8" option1="32977" />
+		<options level="9" option1="32978" />
+		<options level="10" option1="32979" />
+	</item>
+	<item id="46326"> <!-- Shadow Dualsword -->
+		<options level="0" option1="32861" />
+		<options level="1" option1="32862" />
+		<options level="2" option1="32863" />
+		<options level="3" option1="32864" />
+		<options level="4" option1="32865" />
+		<options level="5" option1="32866" />
+		<options level="6" option1="32867" />
+		<options level="7" option1="32868" />
+		<options level="8" option1="32869" />
+		<options level="9" option1="32870" />
+		<options level="10" option1="32871" />
+	</item>
+	<item id="34623"> <!-- Pa'agrio's Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30238" />
+		<options level="8" option1="30235" option2="30239" />
+		<options level="9" option1="30236" option2="30238" />
+		<options level="10" option1="30237" option2="30239" />
+	</item>
+	<item id="34624"> <!-- Sayha's Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30240" option3="30240" />
+		<options level="8" option1="30235" option2="30240" option3="30240" />
+		<options level="9" option1="30236" option2="30241" option3="30241" />
+		<options level="10" option1="30237" option2="30241" option3="30241" />
+	</item>
+	<item id="34625"> <!-- Eva's Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30243" />
+		<options level="8" option1="30235" option2="30243" />
+		<options level="9" option1="30236" option2="30244" />
+		<options level="10" option1="30237" option2="30244" />
+	</item>
+	<item id="34626"> <!-- Maphr's Shirt -->
+		<options level="0" option1="30227" />
+		<options level="1" option1="30228" />
+		<options level="2" option1="30229" />
+		<options level="3" option1="30230" />
+		<options level="4" option1="30231" />
+		<options level="5" option1="30232" />
+		<options level="6" option1="30233" />
+		<options level="7" option1="30234" option2="30245" />
+		<options level="8" option1="30235" option2="30245" />
+		<options level="9" option1="30236" option2="30246" />
+		<options level="10" option1="30237" option2="30246" />
+	</item>
+	<item id="37718"> <!-- Shiny Elemental Shirt -->
+		<options level="0" option1="30299" />
+		<options level="1" option1="30300" />
+		<options level="2" option1="30301" />
+		<options level="3" option1="30302" />
+		<options level="4" option1="30303" />
+		<options level="5" option1="30304" />
+		<options level="6" option1="30305" option2="30310" />
+		<options level="7" option1="30306" option2="30311" />
+		<options level="8" option1="30307" option2="30312" />
+		<options level="9" option1="30308" option2="30313" />
+		<options level="10" option1="30309" option2="30314" />
+	</item>
+	<item id="46193"> <!-- Physical Reflect Shirt -->
+		<options level="0" option1="32839" />
+		<options level="1" option1="32840" />
+		<options level="2" option1="32841" />
+		<options level="3" option1="32842" />
+		<options level="4" option1="32843" />
+		<options level="5" option1="32844" />
+		<options level="6" option1="32845" />
+		<options level="7" option1="32846" />
+		<options level="8" option1="32847" />
+		<options level="9" option1="32848" />
+		<options level="10" option1="32849" />
+	</item>
+	<item id="46194"> <!-- Magical Reflect Shirt -->
+		<options level="0" option1="32850" />
+		<options level="1" option1="32851" />
+		<options level="2" option1="32852" />
+		<options level="3" option1="32853" />
+		<options level="4" option1="32854" />
+		<options level="5" option1="32855" />
+		<options level="6" option1="32856" />
+		<options level="7" option1="32857" />
+		<options level="8" option1="32858" />
+		<options level="9" option1="32859" />
+		<options level="10" option1="32860" />
+	</item>
+	<item id="29704"> <!-- Fire Dragon Pedant Lv. 1 -->
+		<options level="0" option1="60000" />
+		<options level="1" option1="60001" />
+		<options level="2" option1="60002" />
+		<options level="3" option1="60003" />
+		<options level="4" option1="60004" />
+		<options level="5" option1="60005" />
+		<options level="6" option1="60006" />
+		<options level="7" option1="60007" />
+		<options level="8" option1="60008" />
+		<options level="9" option1="60009" />
+		<options level="10" option1="60010" />
+	</item>
+	<item id="29705"> <!-- Fire Dragon Pedant Lv. 2 -->
+		<options level="0" option1="60011" />
+		<options level="1" option1="60012" />
+		<options level="2" option1="60013" />
+		<options level="3" option1="60014" />
+		<options level="4" option1="60015" />
+		<options level="5" option1="60016" />
+		<options level="6" option1="60017" />
+		<options level="7" option1="60018" />
+		<options level="8" option1="60019" />
+		<options level="9" option1="60020" />
+		<options level="10" option1="60021" />
+	</item>
+	<item id="29706"> <!-- Fire Dragon Pedant Lv. 3 -->
+		<options level="0" option1="60022" />
+		<options level="1" option1="60023" />
+		<options level="2" option1="60024" />
+		<options level="3" option1="60025" />
+		<options level="4" option1="60026" />
+		<options level="5" option1="60027" />
+		<options level="6" option1="60028" />
+		<options level="7" option1="60029" />
+		<options level="8" option1="60030" />
+		<options level="9" option1="60031" />
+		<options level="10" option1="60032" />
+	</item>
+	<item id="29707"> <!-- Fire Dragon Pedant Lv. 4 -->
+		<options level="0" option1="60033" />
+		<options level="1" option1="60034" />
+		<options level="2" option1="60035" />
+		<options level="3" option1="60036" />
+		<options level="4" option1="60037" />
+		<options level="5" option1="60038" />
+		<options level="6" option1="60039" />
+		<options level="7" option1="60040" />
+		<options level="8" option1="60041" />
+		<options level="9" option1="60042" />
+		<options level="10" option1="60043" />
+	</item>
+	<item id="29708"> <!-- Fire Dragon Pedant Lv. 5 -->
+		<options level="0" option1="60044" />
+		<options level="1" option1="60045" />
+		<options level="2" option1="60046" />
+		<options level="3" option1="60047" />
+		<options level="4" option1="60048" />
+		<options level="5" option1="60049" />
+		<options level="6" option1="60050" />
+		<options level="7" option1="60051" />
+		<options level="8" option1="60052" />
+		<options level="9" option1="60053" />
+		<options level="10" option1="60054" />
+	</item>
+	<item id="29709"> <!-- Water Dragon Pedant Lv. 1 -->
+		<options level="0" option1="60055" />
+		<options level="1" option1="60056" />
+		<options level="2" option1="60057" />
+		<options level="3" option1="60058" />
+		<options level="4" option1="60059" />
+		<options level="5" option1="60060" />
+		<options level="6" option1="60061" />
+		<options level="7" option1="60062" />
+		<options level="8" option1="60063" />
+		<options level="9" option1="60064" />
+		<options level="10" option1="60065" />
+	</item>
+	<item id="29710"> <!-- Water Dragon Pedant Lv. 2 -->
+		<options level="0" option1="60066" />
+		<options level="1" option1="60067" />
+		<options level="2" option1="60068" />
+		<options level="3" option1="60069" />
+		<options level="4" option1="60070" />
+		<options level="5" option1="60071" />
+		<options level="6" option1="60072" />
+		<options level="7" option1="60073" />
+		<options level="8" option1="60074" />
+		<options level="9" option1="60075" />
+		<options level="10" option1="60076" />
+	</item>
+	<item id="29711"> <!-- Water Dragon Pedant Lv. 3 -->
+		<options level="0" option1="60077" />
+		<options level="1" option1="60078" />
+		<options level="2" option1="60079" />
+		<options level="3" option1="60080" />
+		<options level="4" option1="60081" />
+		<options level="5" option1="60082" />
+		<options level="6" option1="60083" />
+		<options level="7" option1="60084" />
+		<options level="8" option1="60085" />
+		<options level="9" option1="60086" />
+		<options level="10" option1="60087" />
+	</item>
+	<item id="29712"> <!-- Water Dragon Pedant Lv. 4 -->
+		<options level="0" option1="60088" />
+		<options level="1" option1="60089" />
+		<options level="2" option1="60090" />
+		<options level="3" option1="60091" />
+		<options level="4" option1="60092" />
+		<options level="5" option1="60093" />
+		<options level="6" option1="60094" />
+		<options level="7" option1="60095" />
+		<options level="8" option1="60096" />
+		<options level="9" option1="60097" />
+		<options level="10" option1="60098" />
+	</item>
+	<item id="29713"> <!-- Water Dragon Pedant Lv. 5 -->
+		<options level="0" option1="60099" />
+		<options level="1" option1="60100" />
+		<options level="2" option1="60101" />
+		<options level="3" option1="60102" />
+		<options level="4" option1="60103" />
+		<options level="5" option1="60104" />
+		<options level="6" option1="60105" />
+		<options level="7" option1="60106" />
+		<options level="8" option1="60107" />
+		<options level="9" option1="60108" />
+		<options level="10" option1="60109" />
+	</item>
+	<item id="29714"> <!-- Wind Dragon Pedant Lv. 1 -->
+		<options level="0" option1="60110" />
+		<options level="1" option1="60111" />
+		<options level="2" option1="60112" />
+		<options level="3" option1="60113" />
+		<options level="4" option1="60114" />
+		<options level="5" option1="60115" />
+		<options level="6" option1="60116" />
+		<options level="7" option1="60117" />
+		<options level="8" option1="60118" />
+		<options level="9" option1="60119" />
+		<options level="10" option1="60120" />
+	</item>
+	<item id="29715"> <!-- Wind Dragon Pedant Lv. 2 -->
+		<options level="0" option1="60121" />
+		<options level="1" option1="60122" />
+		<options level="2" option1="60123" />
+		<options level="3" option1="60124" />
+		<options level="4" option1="60125" />
+		<options level="5" option1="60126" />
+		<options level="6" option1="60127" />
+		<options level="7" option1="60128" />
+		<options level="8" option1="60129" />
+		<options level="9" option1="60130" />
+		<options level="10" option1="60131" />
+	</item>
+	<item id="29716"> <!-- Wind Dragon Pedant Lv. 3 -->
+		<options level="0" option1="60132" />
+		<options level="1" option1="60133" />
+		<options level="2" option1="60134" />
+		<options level="3" option1="60135" />
+		<options level="4" option1="60136" />
+		<options level="5" option1="60137" />
+		<options level="6" option1="60138" />
+		<options level="7" option1="60139" />
+		<options level="8" option1="60140" />
+		<options level="9" option1="60141" />
+		<options level="10" option1="60142" />
+	</item>
+	<item id="29717"> <!-- Wind Dragon Pedant Lv. 4 -->
+		<options level="0" option1="60143" />
+		<options level="1" option1="60144" />
+		<options level="2" option1="60145" />
+		<options level="3" option1="60146" />
+		<options level="4" option1="60147" />
+		<options level="5" option1="60148" />
+		<options level="6" option1="60149" />
+		<options level="7" option1="60150" />
+		<options level="8" option1="60151" />
+		<options level="9" option1="60152" />
+		<options level="10" option1="60153" />
+	</item>
+	<item id="29718"> <!-- Wind Dragon Pedant Lv. 5 -->
+		<options level="0" option1="60154" />
+		<options level="1" option1="60155" />
+		<options level="2" option1="60156" />
+		<options level="3" option1="60157" />
+		<options level="4" option1="60158" />
+		<options level="5" option1="60159" />
+		<options level="6" option1="60160" />
+		<options level="7" option1="60161" />
+		<options level="8" option1="60162" />
+		<options level="9" option1="60163" />
+		<options level="10" option1="60164" />
+	</item>
+	<item id="29719"> <!-- Land Dragon Pedant Lv. 1 -->
+		<options level="0" option1="60165" />
+		<options level="1" option1="60166" />
+		<options level="2" option1="60167" />
+		<options level="3" option1="60168" />
+		<options level="4" option1="60169" />
+		<options level="5" option1="60170" />
+		<options level="6" option1="60171" />
+		<options level="7" option1="60172" />
+		<options level="8" option1="60173" />
+		<options level="9" option1="60174" />
+		<options level="10" option1="60175" />
+	</item>
+	<item id="29720"> <!-- Land Dragon Pedant Lv. 2 -->
+		<options level="0" option1="60176" />
+		<options level="1" option1="60177" />
+		<options level="2" option1="60178" />
+		<options level="3" option1="60179" />
+		<options level="4" option1="60180" />
+		<options level="5" option1="60181" />
+		<options level="6" option1="60182" />
+		<options level="7" option1="60183" />
+		<options level="8" option1="60184" />
+		<options level="9" option1="60185" />
+		<options level="10" option1="60186" />
+	</item>
+	<item id="29721"> <!-- Land Dragon Pedant Lv. 3 -->
+		<options level="0" option1="60187" />
+		<options level="1" option1="60188" />
+		<options level="2" option1="60189" />
+		<options level="3" option1="60190" />
+		<options level="4" option1="60191" />
+		<options level="5" option1="60192" />
+		<options level="6" option1="60193" />
+		<options level="7" option1="60194" />
+		<options level="8" option1="60195" />
+		<options level="9" option1="60196" />
+		<options level="10" option1="60197" />
+	</item>
+	<item id="29722"> <!-- Land Dragon Pedant Lv. 4 -->
+		<options level="0" option1="60198" />
+		<options level="1" option1="60199" />
+		<options level="2" option1="60200" />
+		<options level="3" option1="60201" />
+		<options level="4" option1="60202" />
+		<options level="5" option1="60203" />
+		<options level="6" option1="60204" />
+		<options level="7" option1="60205" />
+		<options level="8" option1="60206" />
+		<options level="9" option1="60207" />
+		<options level="10" option1="60208" />
+	</item>
+	<item id="29723"> <!-- Land Dragon Pedant Lv. 5 -->
+		<options level="0" option1="60209" />
+		<options level="1" option1="60210" />
+		<options level="2" option1="60211" />
+		<options level="3" option1="60212" />
+		<options level="4" option1="60213" />
+		<options level="5" option1="60214" />
+		<options level="6" option1="60215" />
+		<options level="7" option1="60216" />
+		<options level="8" option1="60217" />
+		<options level="9" option1="60218" />
+		<options level="10" option1="60219" />
+	</item>
+	<item id="49467"> <!-- Fire Dragon Pendant -->
+		<options level="0" option1="50000" />
+		<options level="1" option1="50001" />
+		<options level="2" option1="50002" />
+		<options level="3" option1="50003" />
+		<options level="4" option1="50004" />
+		<options level="5" option1="50005" />
+		<options level="6" option1="50006" />
+		<options level="7" option1="50007" />
+		<options level="8" option1="50008" />
+		<options level="9" option1="50009" option2="50011" option3="50012" />
+		<options level="10" option1="50010" option2="50011" option3="50012" />
+	</item>
+	<item id="49468"> <!-- Earth Dragon Pendant -->
+		<options level="0" option1="50013" />
+		<options level="1" option1="50014" />
+		<options level="2" option1="50015" />
+		<options level="3" option1="50016" />
+		<options level="4" option1="50017" />
+		<options level="5" option1="50018" />
+		<options level="6" option1="50019" />
+		<options level="7" option1="50020" />
+		<options level="8" option1="50021" />
+		<options level="9" option1="50022" option2="50024" option3="50025" />
+		<options level="10" option1="50023" option2="50024" option3="50025" />
+	</item>
+	<item id="91244"> <!-- Dragon Pendant Lv1 -->
+		<options level="0" option1="30190" />
+		<options level="1" option1="30191" />
+		<options level="2" option1="30192" />
+		<options level="3" option1="30193" />
+		<options level="4" option1="30194" />
+		<options level="5" option1="30195" />
+	</item>
+	<item id="91245"> <!-- Dragon Pendant Lv2 -->
+		<options level="0" option1="30196" />
+		<options level="1" option1="30197" />
+		<options level="2" option1="30198" />
+		<options level="3" option1="30199" />
+		<options level="4" option1="30200" />
+		<options level="5" option1="30201" />
+	</item>
+	<item id="91246"> <!-- Dragon Pendant Lv3 -->
+		<options level="0" option1="30202" />
+		<options level="1" option1="30203" />
+		<options level="2" option1="30204" />
+		<options level="3" option1="30205" />
+		<options level="4" option1="30206" />
+		<options level="5" option1="30207" />
+	</item>
+	<item id="91247"> <!-- Dragon Pendant Lv4 -->
+		<options level="0" option1="30208" />
+		<options level="1" option1="30209" />
+		<options level="2" option1="30210" />
+		<options level="3" option1="30211" />
+		<options level="4" option1="30212" />
+		<options level="5" option1="30213" />
+	</item>
+	<item id="91745"> <!-- Talisman of Aden -->
+		<options level="0" option1="33338" />
+		<options level="1" option1="33339" />
+		<options level="2" option1="33340" />
+		<options level="3" option1="33341" />
+		<options level="4" option1="33342" />
+		<options level="5" option1="33343" />
+		<options level="6" option1="33344" />
+		<options level="7" option1="33345" />
+		<options level="8" option1="33346" />
+		<options level="9" option1="33347" />
+		<options level="10" option1="33348" />
+	</item>
+	<item id="91862"> <!-- Dragon Belt -->
+		<options level="0" option1="33359" />
+		<options level="1" option1="33360" />
+		<options level="2" option1="33361" />
+		<options level="3" option1="33362" />
+		<options level="4" option1="33363" />
+		<options level="5" option1="33364" />
+		<options level="6" option1="33365" />
+		<options level="7" option1="33366" />
+		<options level="8" option1="33367" />
+		<options level="9" option1="33368" />
+		<options level="10" option1="33369" />
+	</item>
+	<item id="94682"> <!-- Necklace of Spirits -->
+		<options level="0" option1="50465" />
+		<options level="1" option1="50465" />
+		<options level="2" option1="50465" />
+		<options level="3" option1="50465" />
+		<options level="4" option1="50465" />
+		<options level="5" option1="50465" />
+		<options level="6" option1="50465" />
+		<options level="7" option1="50465" />
+		<options level="8" option1="50465" />
+		<options level="9" option1="50465" />
+		<options level="10" option1="50465" />
+	</item>
+	<item id="92018"> <!-- Talisman of Eva -->
+		<options level="0" option1="33404" />
+		<options level="1" option1="33405" />
+		<options level="2" option1="33406" />
+		<options level="3" option1="33407" />
+		<options level="4" option1="33408" />
+		<options level="5" option1="33409" />
+		<options level="6" option1="33410" />
+		<options level="7" option1="33411" />
+		<options level="8" option1="33412" />
+		<options level="9" option1="33413" />
+		<options level="10" option1="33414" />
+	</item>
+	<item id="92403"> <!-- Talisman of Speed -->
+		<options level="0" option1="33415" />
+		<options level="1" option1="33416" />
+		<options level="2" option1="33417" />
+		<options level="3" option1="33418" />
+		<options level="4" option1="33419" />
+		<options level="5" option1="33420" />
+		<options level="6" option1="33421" />
+		<options level="7" option1="33422" />
+		<options level="8" option1="33423" />
+		<options level="9" option1="33424" />
+		<options level="10" option1="33425" />
+	</item>
+	<item id="91862"> <!-- Dragon Belt -->
+		<options level="0" option1="33359" />
+		<options level="1" option1="33360" />
+		<options level="2" option1="33361" />
+		<options level="3" option1="33362" />
+		<options level="4" option1="33363" />
+		<options level="5" option1="33364" />
+		<options level="6" option1="33365" />
+		<options level="7" option1="33366" />
+		<options level="8" option1="33367" />
+		<options level="9" option1="33368" />
+		<options level="10" option1="33369" />
+	</item>
+	<item id="91119"> <!-- Ignis' Necklace -->
+		<options level="0" option1="50333" />
+		<options level="1" option1="50334" />
+		<options level="2" option1="50335" />
+		<options level="3" option1="50336" />
+		<options level="4" option1="50337" />
+		<options level="5" option1="50338" />
+		<options level="6" option1="50339" />
+		<options level="7" option1="50340" />
+		<options level="8" option1="50341" />
+		<options level="9" option1="50342" />
+		<options level="10" option1="50343" />
+	</item>
+	<item id="91117"> <!-- Nebula's Necklace -->
+		<options level="0" option1="50344" />
+		<options level="1" option1="50345" />
+		<options level="2" option1="50346" />
+		<options level="3" option1="50347" />
+		<options level="4" option1="50348" />
+		<options level="5" option1="50349" />
+		<options level="6" option1="50350" />
+		<options level="7" option1="50351" />
+		<options level="8" option1="50352" />
+		<options level="9" option1="50353" />
+		<options level="10" option1="50354" />
+	</item>
+	<item id="91121"> <!-- Procella's Necklace -->
+		<options level="0" option1="50355" />
+		<options level="1" option1="50356" />
+		<options level="2" option1="50357" />
+		<options level="3" option1="50358" />
+		<options level="4" option1="50359" />
+		<options level="5" option1="50360" />
+		<options level="6" option1="50361" />
+		<options level="7" option1="50362" />
+		<options level="8" option1="50363" />
+		<options level="9" option1="50364" />
+		<options level="10" option1="50365" />
+	</item>
+	<item id="91123"> <!-- Petram's Necklace -->
+		<options level="0" option1="50366" />
+		<options level="1" option1="50367" />
+		<options level="2" option1="50368" />
+		<options level="3" option1="50369" />
+		<options level="4" option1="50370" />
+		<options level="5" option1="50371" />
+		<options level="6" option1="50372" />
+		<options level="7" option1="50373" />
+		<options level="8" option1="50374" />
+		<options level="9" option1="50375" />
+		<options level="10" option1="50376" />
+	</item>
+	<item id="90993"> <!-- Damaged Antharas' Earring -->
+		<options level="0" option1="50300" />
+		<options level="1" option1="50301" />
+		<options level="2" option1="50302" />
+		<options level="3" option1="50303" />
+		<options level="4" option1="50304" />
+		<options level="5" option1="50305" />
+		<options level="6" option1="50306" />
+		<options level="7" option1="50307" />
+		<options level="8" option1="50308" />
+		<options level="9" option1="50309" />
+		<options level="10" option1="50310" />
+	</item>
+	<item id="90994"> <!-- Damaged Baium's Ring -->
+		<options level="0" option1="50311" />
+		<options level="1" option1="50312" />
+		<options level="2" option1="50313" />
+		<options level="3" option1="50314" />
+		<options level="4" option1="50315" />
+		<options level="5" option1="50316" />
+		<options level="6" option1="50317" />
+		<options level="7" option1="50318" />
+		<options level="8" option1="50319" />
+		<options level="9" option1="50320" />
+		<options level="10" option1="50321" />
+	</item>
+	<item id="91006"> <!-- Damaged Zaken's Earring -->
+		<options level="0" option1="50322" />
+		<options level="1" option1="50323" />
+		<options level="2" option1="50324" />
+		<options level="3" option1="50325" />
+		<options level="4" option1="50326" />
+		<options level="5" option1="50327" />
+		<options level="6" option1="50328" />
+		<options level="7" option1="50329" />
+		<options level="8" option1="50330" />
+		<options level="9" option1="50331" />
+		<options level="10" option1="50332" />
+	</item>
+	<item id="91061"> <!-- Talisman of Authority -->
+		<options level="0" option1="33852" />
+		<options level="1" option1="33853" />
+		<options level="2" option1="33854" />
+		<options level="3" option1="33855" />
+		<options level="4" option1="33856" />
+		<options level="5" option1="33857" />
+		<options level="6" option1="33858" />
+		<options level="7" option1="33859" />
+		<options level="8" option1="33860" />
+		<options level="9" option1="33861" />
+		<options level="10" option1="33862" />
+	</item>
+	<item id="91937"> <!-- Adventurer's Talisman -->
+		<options level="0" option1="39278" />
+		<options level="1" option1="39279" />
+	</item>
+	<item id="91953"> <!-- Dragon valley earing -->
+		<options level="0" option1="33387" />
+		<options level="1" option1="33388" />
+		<options level="2" option1="33389" />
+		<options level="3" option1="33390" />
+		<options level="4" option1="33391" />
+		<options level="5" option1="33392" />
+		<options level="6" option1="33393" />
+		<options level="7" option1="33394" />
+		<options level="8" option1="33395" />
+		<options level="9" option1="33396" />
+		<options level="10" option1="33397" />
+	</item>
+	<item id="94166"> <!-- Circlet of Hero -->
+		<options level="0" option1="33918" />
+		<options level="1" option1="33919" />
+		<options level="2" option1="33920" />
+		<options level="3" option1="33921" />
+		<options level="4" option1="33922" />
+		<options level="5" option1="33923" />
+		<options level="6" option1="33924" />
+		<options level="7" option1="33925" />
+		<options level="8" option1="33926" />
+		<options level="9" option1="33927" />
+		<options level="10" option1="33928" />
+	</item>
+	<item id="91952"> <!-- Ring of Insolence -->
+		<options level="0" option1="33376" />
+		<options level="1" option1="33377" />
+		<options level="2" option1="33378" />
+		<options level="3" option1="33379" />
+		<options level="4" option1="33380" />
+		<options level="5" option1="33381" />
+		<options level="6" option1="33382" />
+		<options level="7" option1="33383" />
+		<options level="8" option1="33384" />
+		<options level="9" option1="33385" />
+		<options level="10" option1="33386" />
+	</item>
+	<!-- Special Sayha's Cloak -->
+	<item id="91719"> <!-- Special Black Sayha's Cloak -->
+		<options level="0" option1="33325" />
+		<options level="1" option1="33326" />
+		<options level="2" option1="33327" />
+		<options level="3" option1="33328" />
+		<options level="4" option1="33329" />
+		<options level="5" option1="33330" />
+		<options level="6" option1="33331" />
+		<options level="7" option1="33332" />
+		<options level="8" option1="33333" />
+		<options level="9" option1="33334" />
+		<options level="10" option1="33335" option2="33337" />
+	</item>
+	<item id="91720"> <!-- Special White Sayha's Cloak -->
+		<options level="0" option1="33325" />
+		<options level="1" option1="33326" />
+		<options level="2" option1="33327" />
+		<options level="3" option1="33328" />
+		<options level="4" option1="33329" />
+		<options level="5" option1="33330" />
+		<options level="6" option1="33331" />
+		<options level="7" option1="33332" />
+		<options level="8" option1="33333" />
+		<options level="9" option1="33334" />
+		<options level="10" option1="33335" option2="33337" />
+	</item>
+	<item id="91721"> <!-- Special Red Sayha's Cloak -->
+		<options level="0" option1="33325" />
+		<options level="1" option1="33326" />
+		<options level="2" option1="33327" />
+		<options level="3" option1="33328" />
+		<options level="4" option1="33329" />
+		<options level="5" option1="33330" />
+		<options level="6" option1="33331" />
+		<options level="7" option1="33332" />
+		<options level="8" option1="33333" />
+		<options level="9" option1="33334" />
+		<options level="10" option1="33335" option2="33337" />
+	</item>
+	<item id="93301"> <!-- Cloak of Protection -->
+		<options level="0" option1="33819" />
+		<options level="1" option1="33820" />
+		<options level="2" option1="33821" />
+		<options level="3" option1="33822" />
+		<options level="4" option1="33823" />
+		<options level="5" option1="33824" />
+		<options level="6" option1="33825" />
+		<options level="7" option1="33826" />
+		<options level="8" option1="33827" />
+		<options level="9" option1="33828" />
+		<options level="10" option1="33829" />
+	</item>
+	<item id="94621"> <!-- Blessed Dragon Belt -->
+		<options level="0" option1="38712" />
+		<options level="1" option1="38713" />
+		<options level="2" option1="38714" />
+		<options level="3" option1="38715" />
+		<options level="4" option1="38716" />
+		<options level="5" option1="38717" />
+		<options level="6" option1="38718" />
+		<options level="7" option1="38719" />
+		<options level="8" option1="38720" />
+		<options level="9" option1="38721" />
+		<options level="10" option1="38722" />
+	</item>
+	<item id="93864"> <!-- Death Knight's Flame Sword -->
+		<options level="0" option1="33885" />
+		<options level="1" option1="33886" />
+		<options level="2" option1="33887" />
+		<options level="3" option1="33888" />
+		<options level="4" option1="33889" />
+		<options level="5" option1="33890" />
+		<options level="6" option1="33891" />
+		<options level="7" option1="33892" />
+		<options level="8" option1="33893" />
+		<options level="9" option1="33894" />
+		<options level="10" option1="33895" />
+	</item>
+	<!-- Boss Weapons Option Data -->
+	<item id="92404"> <!-- Zaken's Blood Sword -->
+		<options level="0" option1="33448" />
+		<options level="1" option1="33449" />
+		<options level="2" option1="33450" />
+		<options level="3" option1="33451" />
+		<options level="4" option1="33452" />
+		<options level="5" option1="33453" />
+		<options level="6" option1="33454" />
+		<options level="7" option1="33455" />
+		<options level="8" option1="33456" />
+		<options level="9" option1="33457" />
+		<options level="10" option1="33458" />
+	</item>
+	<item id="93291"> <!-- Zaken's Blood Sword - Sealed -->
+		<options level="0" option1="33448" />
+		<options level="1" option1="33449" />
+		<options level="2" option1="33450" />
+		<options level="3" option1="33451" />
+		<options level="4" option1="33452" />
+		<options level="5" option1="33453" />
+		<options level="6" option1="33454" />
+		<options level="7" option1="33455" />
+		<options level="8" option1="33456" />
+		<options level="9" option1="33457" />
+		<options level="10" option1="33458" />
+	</item>
+	<item id="92405"> <!-- Core's Plasmic Bow -->
+		<options level="0" option1="33470" />
+		<options level="1" option1="33471" />
+		<options level="2" option1="33472" />
+		<options level="3" option1="33473" />
+		<options level="4" option1="33474" />
+		<options level="5" option1="33475" />
+		<options level="6" option1="33476" />
+		<options level="7" option1="33477" />
+		<options level="8" option1="33478" />
+		<options level="9" option1="33479" />
+		<options level="10" option1="33480" />
+	</item>
+	<item id="93292"> <!-- Core's Plasmic Bow - Sealed -->
+		<options level="0" option1="33470" />
+		<options level="1" option1="33471" />
+		<options level="2" option1="33472" />
+		<options level="3" option1="33473" />
+		<options level="4" option1="33474" />
+		<options level="5" option1="33475" />
+		<options level="6" option1="33476" />
+		<options level="7" option1="33477" />
+		<options level="8" option1="33478" />
+		<options level="9" option1="33479" />
+		<options level="10" option1="33480" />
+	</item>
+	<item id="92407"> <!-- Orfen's Venom Sword -->
+		<options level="0" option1="33459" />
+		<options level="1" option1="33460" />
+		<options level="2" option1="33461" />
+		<options level="3" option1="33462" />
+		<options level="4" option1="33463" />
+		<options level="5" option1="33464" />
+		<options level="6" option1="33465" />
+		<options level="7" option1="33466" />
+		<options level="8" option1="33467" />
+		<options level="9" option1="33468" />
+		<options level="10" option1="33469" />
+	</item>
+	<item id="93293"> <!-- Orfen's Venom Sword - Sealed -->
+		<options level="0" option1="33459" />
+		<options level="1" option1="33460" />
+		<options level="2" option1="33461" />
+		<options level="3" option1="33462" />
+		<options level="4" option1="33463" />
+		<options level="5" option1="33464" />
+		<options level="6" option1="33465" />
+		<options level="7" option1="33466" />
+		<options level="8" option1="33467" />
+		<options level="9" option1="33468" />
+		<options level="10" option1="33469" />
+	</item>
+	<item id="92408"> <!-- Baium's Thunder Breaker -->
+		<options level="0" option1="33426" />
+		<options level="1" option1="33427" />
+		<options level="2" option1="33428" />
+		<options level="3" option1="33429" />
+		<options level="4" option1="33430" />
+		<options level="5" option1="33431" />
+		<options level="6" option1="33432" />
+		<options level="7" option1="33433" />
+		<options level="8" option1="33434" />
+		<options level="9" option1="33435" />
+		<options level="10" option1="33436" />
+	</item>
+	<item id="93294"> <!-- Baium's Thunder Breaker - Sealed -->
+		<options level="0" option1="33426" />
+		<options level="1" option1="33427" />
+		<options level="2" option1="33428" />
+		<options level="3" option1="33429" />
+		<options level="4" option1="33430" />
+		<options level="5" option1="33431" />
+		<options level="6" option1="33432" />
+		<options level="7" option1="33433" />
+		<options level="8" option1="33434" />
+		<options level="9" option1="33435" />
+		<options level="10" option1="33436" />
+	</item>
+	<item id="92421"> <!-- Queen Ant's Stone Breaker -->
+		<options level="0" option1="33437" />
+		<options level="1" option1="33438" />
+		<options level="2" option1="33439" />
+		<options level="3" option1="33440" />
+		<options level="4" option1="33441" />
+		<options level="5" option1="33442" />
+		<options level="6" option1="33443" />
+		<options level="7" option1="33444" />
+		<options level="8" option1="33445" />
+		<options level="9" option1="33446" />
+		<options level="10" option1="33447" />
+	</item>
+	<item id="93295"> <!-- Queen Ant's Stone Breaker - Sealed -->
+		<options level="0" option1="33437" />
+		<options level="1" option1="33438" />
+		<options level="2" option1="33439" />
+		<options level="3" option1="33440" />
+		<options level="4" option1="33441" />
+		<options level="5" option1="33442" />
+		<options level="6" option1="33443" />
+		<options level="7" option1="33444" />
+		<options level="8" option1="33445" />
+		<options level="9" option1="33446" />
+		<options level="10" option1="33447" />
+	</item>
+	<item id="94888"> <!-- Anakim's Divine Pistols -->
+		<options level="0" option1="39200" />
+		<options level="1" option1="39201" />
+		<options level="2" option1="39202" />
+		<options level="3" option1="39203" />
+		<options level="4" option1="39204" />
+		<options level="5" option1="39205" />
+		<options level="6" option1="39206" />
+		<options level="7" option1="39207" />
+		<options level="8" option1="39208" />
+		<options level="9" option1="39209" />
+		<options level="10" option1="39210" />
+	</item>
+	<item id="95422"> <!-- Anakim's Divine Pistols - Sealed -->
+		<options level="0" option1="39200" />
+		<options level="1" option1="39201" />
+		<options level="2" option1="39202" />
+		<options level="3" option1="39203" />
+		<options level="4" option1="39204" />
+		<options level="5" option1="39205" />
+		<options level="6" option1="39206" />
+		<options level="7" option1="39207" />
+		<options level="8" option1="39208" />
+		<options level="9" option1="39209" />
+		<options level="10" option1="39210" />
+	</item>
+	<!-- Boss accessories -->
+	<item id="6660"> <!-- Queen Ant's Ring -->
+		<options level="0" option1="35422" />
+		<options level="1" option1="35423" />
+		<options level="2" option1="35424" />
+		<options level="3" option1="35425" />
+		<options level="4" option1="35426" />
+		<options level="5" option1="35427" />
+	</item>
+	<item id="6661"> <!-- Orfen's Earring -->
+		<options level="0" option1="35440" />
+		<options level="1" option1="35441" />
+		<options level="2" option1="35442" />
+		<options level="3" option1="35443" />
+		<options level="4" option1="35444" />
+		<options level="5" option1="35445" />
+	</item>
+	<item id="6662"> <!-- Ring of Core -->
+		<options level="0" option1="35428" />
+		<options level="1" option1="35429" />
+		<options level="2" option1="35430" />
+		<options level="3" option1="35431" />
+		<options level="4" option1="35432" />
+		<options level="5" option1="35433" />
+	</item>
+	<item id="49580"> <!-- Baium's Ring -->
+		<options level="0" option1="35434" />
+		<options level="1" option1="35435" />
+		<options level="2" option1="35436" />
+		<options level="3" option1="35437" />
+		<options level="4" option1="35438" />
+		<options level="5" option1="35439" />
+	</item>
+	<item id="90763"> <!-- Zaken's Earring -->
+		<options level="0" option1="35446" />
+		<options level="1" option1="35447" />
+		<options level="2" option1="35448" />
+		<options level="3" option1="35449" />
+		<options level="4" option1="35450" />
+		<options level="5" option1="35451" />
+	</item>
+	<item id="90992"> <!-- Antharas' Earring -->
+		<options level="0" option1="35452" />
+		<options level="1" option1="35453" />
+		<options level="2" option1="35454" />
+		<options level="3" option1="35455" />
+		<options level="4" option1="35456" />
+		<options level="5" option1="35457" />
+	</item>
+	<item id="91550"> <!-- Frintezza's Necklace -->
+		<options level="0" option1="35458" />
+		<options level="1" option1="35459" />
+		<options level="2" option1="35460" />
+		<options level="3" option1="35461" />
+		<options level="4" option1="35462" />
+		<options level="5" option1="35463" />
+	</item>
+	<item id="95636"> <!-- Clan Cloak -->
+		<options level="0" option1="39222" />
+		<options level="1" option1="39423" />
+		<options level="2" option1="39424" />
+		<options level="3" option1="39425" />
+		<options level="4" option1="39426" />
+		<options level="5" option1="39427" />
+		<options level="6" option1="39428" />
+		<options level="7" option1="39429" />
+		<options level="8" option1="39430" />
+		<options level="9" option1="39431" />
+		<options level="10" option1="39432" />
+	</item>
+	<item id="95725"> <!-- Frost Lord's Sword -->
+		<options level="0" option1="39323" />
+		<options level="1" option1="39324" />
+		<options level="2" option1="39325" />
+		<options level="3" option1="39326" />
+		<options level="4" option1="39327" />
+		<options level="5" option1="39328" />
+		<options level="6" option1="39329" />
+		<options level="7" option1="39330" />
+		<options level="8" option1="39331" />
+		<options level="9" option1="39332" />
+		<options level="10" option1="39333" />
+	</item>
+	<item id="95726"> <!-- Frost Lord's Two-handed Sword -->
+		<options level="0" option1="39400" />
+		<options level="1" option1="39401" />
+		<options level="2" option1="39402" />
+		<options level="3" option1="39403" />
+		<options level="4" option1="39404" />
+		<options level="5" option1="39405" />
+		<options level="6" option1="39406" />
+		<options level="7" option1="39407" />
+		<options level="8" option1="39408" />
+		<options level="9" option1="39409" />
+		<options level="10" option1="39410" />
+	</item>
+	<item id="95727"> <!-- Frost Lord's Axe -->
+		<options level="0" option1="39334" />
+		<options level="1" option1="39335" />
+		<options level="2" option1="39336" />
+		<options level="3" option1="39337" />
+		<options level="4" option1="39338" />
+		<options level="5" option1="39339" />
+		<options level="6" option1="39340" />
+		<options level="7" option1="39341" />
+		<options level="8" option1="39342" />
+		<options level="9" option1="39343" />
+		<options level="0" option1="39344" />
+	</item>
+	<item id="95728"> <!-- Frost Lord's Dagger -->
+		<options level="0" option1="39345" />
+		<options level="1" option1="39346" />
+		<options level="2" option1="39347" />
+		<options level="3" option1="39348" />
+		<options level="4" option1="39349" />
+		<options level="5" option1="39350" />
+		<options level="6" option1="39351" />
+		<options level="7" option1="39352" />
+		<options level="8" option1="39353" />
+		<options level="9" option1="39354" />
+		<options level="10" option1="39355" />
+	</item>
+	<item id="95729"> <!-- Frost Lord's Spear -->
+		<options level="0" option1="39378" />
+		<options level="1" option1="39379" />
+		<options level="2" option1="39380" />
+		<options level="3" option1="39381" />
+		<options level="4" option1="39382" />
+		<options level="5" option1="39383" />
+		<options level="6" option1="39384" />
+		<options level="7" option1="39385" />
+		<options level="8" option1="39386" />
+		<options level="9" option1="39387" />
+		<options level="10" option1="39388" />
+	</item>
+	<item id="95730"> <!-- Frost Lord's Bow -->
+		<options level="0" option1="39444" />
+		<options level="1" option1="39445" />
+		<options level="2" option1="39446" />
+		<options level="3" option1="39447" />
+		<options level="4" option1="39448" />
+		<options level="5" option1="39449" />
+		<options level="6" option1="39450" />
+		<options level="7" option1="39451" />
+		<options level="8" option1="39452" />
+		<options level="9" option1="39453" />
+		<options level="10" option1="39454" />
+	</item>
+	<item id="95731"> <!-- Frost Lord's Blade Fists -->
+		<options level="0" option1="39433" />
+		<options level="1" option1="39434" />
+		<options level="2" option1="39435" />
+		<options level="3" option1="39436" />
+		<options level="4" option1="39437" />
+		<options level="5" option1="39438" />
+		<options level="6" option1="39439" />
+		<options level="7" option1="39440" />
+		<options level="8" option1="39441" />
+		<options level="9" option1="39442" />
+		<options level="10" option1="39443" />
+	</item>
+	<item id="95732"> <!-- Frost Lord's Magic Blunt Weapon -->
+		<options level="0" option1="39367" />
+		<options level="1" option1="39368" />
+		<options level="2" option1="39369" />
+		<options level="3" option1="39370" />
+		<options level="4" option1="39371" />
+		<options level="5" option1="39372" />
+		<options level="6" option1="39373" />
+		<options level="7" option1="39374" />
+		<options level="8" option1="39375" />
+		<options level="9" option1="39376" />
+		<options level="10" option1="39377" />
+	</item>
+	<item id="95733"> <!-- Frost Lord's Staff -->
+		<options level="0" option1="39411" />
+		<options level="1" option1="39412" />
+		<options level="2" option1="39413" />
+		<options level="3" option1="39414" />
+		<options level="4" option1="39415" />
+		<options level="5" option1="39416" />
+		<options level="6" option1="39417" />
+		<options level="7" option1="39418" />
+		<options level="8" option1="39419" />
+		<options level="9" option1="39420" />
+		<options level="10" option1="39421" />
+	</item>
+	<item id="95734"> <!-- Frost Lord's Ancient Sword -->
+		<options level="0" option1="39389" />
+		<options level="1" option1="39390" />
+		<options level="2" option1="39391" />
+		<options level="3" option1="39392" />
+		<options level="4" option1="39393" />
+		<options level="5" option1="39394" />
+		<options level="6" option1="39395" />
+		<options level="7" option1="39396" />
+		<options level="8" option1="39397" />
+		<options level="9" option1="39398" />
+		<options level="10" option1="39399" />
+	</item>
+	<item id="95735"> <!-- Frost Lord's Rapier -->
+		<options level="0" option1="39356" />
+		<options level="1" option1="39357" />
+		<options level="2" option1="39358" />
+		<options level="3" option1="39359" />
+		<options level="4" option1="39360" />
+		<options level="5" option1="39361" />
+		<options level="6" option1="39362" />
+		<options level="7" option1="39363" />
+		<options level="8" option1="39364" />
+		<options level="9" option1="39365" />
+		<options level="10" option1="39366" />
+	</item>
+	<item id="95736"> <!-- Frost Lord's Pistols -->
+		<options level="0" option1="39455" />
+		<options level="1" option1="39456" />
+		<options level="2" option1="39457" />
+		<options level="3" option1="39458" />
+		<options level="4" option1="39459" />
+		<options level="5" option1="39460" />
+		<options level="6" option1="39461" />
+		<options level="7" option1="39462" />
+		<options level="8" option1="39463" />
+		<options level="9" option1="39464" />
+		<options level="10" option1="39465" />
+	</item>
+	<item id="95737"> <!-- Frost Lord's Dual Swords -->
+		<options level="0" option1="39422" />
+		<options level="1" option1="39423" />
+		<options level="2" option1="39424" />
+		<options level="3" option1="39425" />
+		<options level="4" option1="39426" />
+		<options level="5" option1="39427" />
+		<options level="6" option1="39428" />
+		<options level="7" option1="39429" />
+		<options level="8" option1="39430" />
+		<options level="9" option1="39431" />
+		<options level="10" option1="39432" />
+	</item>
+</list>

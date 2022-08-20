@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="48100" toLevel="1" name="Rat Focus">
+		<!-- An attack with strong energy of the Year of the Rat. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48101" toLevel="1" name="Wind Rat Attack">
+		<!-- A powerful attack with strong energy of the Year of the Rat. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48102" toLevel="1" name="Stunning Rat Attack">
+		<!-- A very powerful attack with strong energy of the Year of the Rat. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48103" toLevel="1" name="Queen Ant Transformation">
+		<!-- Transforms into Queen Ant to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 P. Def. +330 Speed +33 -->
+		<icon>icon.skill30530</icon>
+		<coolTime>500</coolTime>
+		<hitTime>500</hitTime>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>900</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<itemConsumeId>94202</itemConsumeId> <!-- Transformation Scroll: Queen Ant -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<reuseDelay>5000</reuseDelay>
+		<staticReuse>true</staticReuse>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>1</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>219</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="MaxHp">
+				<amount>100000</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="AdditionalPotionHp">
+				<amount>500</amount>
+			</effect>
+			<effect name="PhysicalDefence">
+				<amount>330</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Speed">
+				<amount>33</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="Transformation">
+				<transformationId>219</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48104" toLevel="1" name="Orfen Transformation">
+		<!-- Transforms into Orfen to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 -->
+		<icon>icon.skill30530</icon>
+		<abnormalTime>900</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<itemConsumeId>94203</itemConsumeId> <!-- Transformation Scroll: Orfen -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>211</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>211</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48105" toLevel="1" name="Baium Transformation">
+		<!-- Transforms into Baium to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 -->
+		<icon>icon.skill30530</icon>
+		<abnormalTime>900</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<itemConsumeId>94204</itemConsumeId> <!-- Transformation Scroll: Baium -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>212</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>212</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48106" toLevel="1" name="Zaken Transformation">
+		<!-- Transforms into Zaken to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 -->
+		<icon>icon.skill30530</icon>
+		<abnormalTime>900</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<itemConsumeId>94205</itemConsumeId> <!-- Transformation Scroll: Zaken -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>213</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>213</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48107" toLevel="1" name="Anakim Transformation">
+		<!-- Transforms into Anakim to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 -->
+		<icon>icon.skill30530</icon>
+		<abnormalTime>900</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<itemConsumeId>94206</itemConsumeId> <!-- Transformation Scroll: Anakim -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>217</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>217</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48108" toLevel="1" name="Lilith Transformation">
+		<!-- Transforms into Lilith to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 -->
+		<icon>icon.skill30530</icon>
+		<abnormalTime>900</abnormalTime>
+		<abnormalType>TRANSFORM</abnormalType>
+		<itemConsumeId>94207</itemConsumeId> <!-- Transformation Scroll: Lilith -->
+		<itemConsumeId>1</itemConsumeId>
+		<blockedInOlympiad>true</blockedInOlympiad>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-1</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<abnormalLevel>1</abnormalLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<irreplacableBuff>true</irreplacableBuff>
+		<isMagic>2</isMagic>
+		<magicLevel>76</magicLevel>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="CanTransform">
+				<transformId>218</transformId>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="Transformation">
+				<transformationId>218</transformationId>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48109" toLevel="1" name="Queen Ant's Earthquake">
+		<!-- Deals minor damage to nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill1607</icon>
+		<affectLimit>6-12</affectLimit>
+		<affectRange>200</affectRange>
+		<effectPoint>-100</effectPoint>
+		<coolTime>500</coolTime>
+		<hitTime>2000</hitTime>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>85</magicLevel>
+		<operateType>A1</operateType>
+		<reuseDelay>2000</reuseDelay>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>SELF</targetType>
+		<affectScope>POINT_BLANK</affectScope>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>4000</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48110" toLevel="1" name="Queen Ant's Rain of Stones">
+		<!-- Deals minor damage to the target and nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill32050</icon>
+		<castRange>600</castRange>
+		<affectLimit>6-12</affectLimit>
+		<affectRange>200</affectRange>
+		<effectPoint>-100</effectPoint>
+		<coolTime>500</coolTime>
+		<hitTime>2000</hitTime>
+		<isMagic>4</isMagic> <!-- Magic Skill -->
+		<magicLevel>85</magicLevel>
+		<operateType>A1</operateType>
+		<reuseDelay>1000</reuseDelay>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>ENEMY_ONLY</targetType>
+		<affectScope>RANGE</affectScope>
+		<affectObject>NOT_FRIEND</affectObject>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>9125</power>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="48111" toLevel="1" name="Orfen's Poisonous Sound">
+		<!-- Deals minor damage to nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48112" toLevel="1" name="Orfen's Ashen Strike">
+		<!-- Deals minor damage to the target and nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48113" toLevel="1" name="Baium's Earth Shaker">
+		<!-- Deals major damage to nearby enemies. Can only be used in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48114" toLevel="1" name="Baium's Lightning">
+		<!-- Deals major damage to the target and nearby enemies. Can only be used in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48115" toLevel="1" name="Zaken Dancing Swords">
+		<!-- Deals damage to nearby enemies. Can only be used in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48116" toLevel="1" name="Zaken's Bloody Tornado">
+		<!-- Deals damage to the target and nearby enemies. Can only be used in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48117" toLevel="1" name="Anakim's Energy Attack">
+		<!-- Deals significant damage to nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48118" toLevel="1" name="Anakim's Holy Rain">
+		<!-- Deals significant damage to the target and nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48119" toLevel="1" name="Lilith's Dark Bog">
+		<!-- Deals significant damage to nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48120" toLevel="1" name="Lilith's Unholy Strike">
+		<!-- Deals significant damage to the target and nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48121" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48122" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48123" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48124" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48125" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48126" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48127" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48128" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48129" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48130" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48131" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48132" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48133" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48134" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48135" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48136" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48137" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48138" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48139" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48140" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48141" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48142" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48143" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48144" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48145" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48146" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48147" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48148" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48149" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48150" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48151" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48152" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48153" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48154" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48155" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48156" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48157" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48158" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48159" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48160" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48161" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48162" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48163" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48164" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48165" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48166" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48167" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48168" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48169" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48170" toLevel="1" name="Boss' Significant Damage">
+		<!-- Deals physical damage to the target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48171" toLevel="3" name="Acumen">
+		<!-- For $s1, Casting Spd. +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48172" toLevel="3" name="Empower">
+		<!-- For $s1, M. Atk. +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48173" toLevel="2" name="Wild Magic">
+		<!-- For $s1, M. Skill Critical Rate +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48174" toLevel="2" name="Wind Walk">
+		<!-- For $s1, Speed +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48175" toLevel="2" name="Magic Barrier">
+		<!-- For $s1, M. Def. +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48176" toLevel="3" name="Focus">
+		<!-- For $s1, P. Critical Rate +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48177" toLevel="3" name="Death Whisper">
+		<!-- For $s1, P. Critical Damage +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48178" toLevel="2" name="Haste">
+		<!-- For $s1, Atk. Spd. +$s2. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48179" toLevel="2" name="Berserker Spirit">
+		<!-- For $s1, Max HP/ MP -$s2, P. Atk. +$s3, M. Atk. +$s4, Atk. Spd. +$s5, Casting Spd. +$s6, Speed +$s7. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48180" toLevel="3" name="Clarity">
+		<!-- For $s1, P. Skill/ Song/ Dance MP Consumption -$s2, M. Skill MP Consumption -$s3. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48181" toLevel="2" name="HP Recovery">
+		<!-- Continuously recovers a small amount of HP for 20 min. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48182" toLevel="2" name="MP Recovery">
+		<!-- Continuously recovers a small amount of MP for 20 min. Consumes 3 Spirit Ore. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48183" toLevel="25" name="Red's Luck Lv. 1">
+		<!-- STR/ DEX/ CON +1 INT/ WIT/ MEN +1 The buff is leveling up every hour, also various items are granted. <Rewards> Lv. 1-8: Sayha's Cookie (3 pcs.) Lv. 9-16: Sayha's Storm Lv. 3 (3 pcs.) Lv. 17-23: Red Libra Coin Lv. 24: Charging Stone of Random Craft (2 pcs.) Note! The effect is not renewed after death. Items cannot be obtained if the character is dead. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48184" toLevel="4" name="Red's Luck Reward Lv. 1">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48185" toLevel="1" name="Proof of Courage">
+		<!-- A proof needed to fight Sel Mahum Jisra. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48186" toLevel="1" name="Aqua Tornado">
+		<!-- Water energy throws the target into the air immobilizing them. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48187" toLevel="1" name="Aqua Arrow">
+		<!-- Deals M. Damage to a random target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48188" toLevel="1" name="Earth Invincibility">
+		<!-- Earth power runs through character's veins. Grants invincibility. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48189" toLevel="1" name="Earth Invincibility">
+		<!-- Earth power runs through character's veins. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48190" toLevel="3" name="Curse of Earth">
+		<!-- Curse Lv. 1: P./ M. Def. -10%. The curse stacks up to Lv. 3. Remove it before you are turned into a stone. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48191" toLevel="1" name="Curse of Stone">
+		<!-- You are petrified. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48192" toLevel="1" name="Blessing of Earth">
+		<!-- A temporarily active skill. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48193" toLevel="1" name="Pet Rescuer's Buff">
+		<!-- Sayha's Grace Consumption -10% -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48194" toLevel="1" name="Queen Ant Transformation">
+		<!-- Transforms into Mighty Queen Ant to attack the Black Anvil Guild Camp. <Transformation effect> Special skills are available. Max HP +100,000 HP Recovery Potions' Effect +500 P. Def. +330 Speed +33 -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48195" toLevel="1" name="Queen Ant's Earthquake">
+		<!-- Deals significant damage to nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48196" toLevel="1" name="Queen Ant's Rain of Stones">
+		<!-- Deals significant damage to the target and nearby enemies. Can be used only in the Black Anvil Guild Camp. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48197" toLevel="1" name="Pet Growth Effect">
+		<!-- P. Accuracy +30 M. Accuracy +30 Acquired XP +100% Removed when your pet is dead or recalled. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48198" toLevel="1" name="Improved Pet Skills">
+		<!-- Speed +30 Atk. Spd. +30 Casting Spd. +30 P. Accuracy +30 M. Accuracy +30 Removed when your pet is dead or recalled. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="48199" toLevel="1" name="Recovery">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+	</skill>
+</list>

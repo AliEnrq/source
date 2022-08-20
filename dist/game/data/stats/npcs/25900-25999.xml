@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="25901" level="80" type="Folk" name="Lilith" title="Apostle">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="37500000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="200" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="42.5" />
+			<height normal="55" />
+		</collision>
+	</npc>
+	<npc id="25902" level="80" type="Folk" name="Lilith' Agent">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="9" />
+			<height normal="34" />
+		</collision>
+	</npc>
+	<npc id="25903" level="80" type="Folk" name="Lilith' Escort">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="5800" lhand="5799" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="56" />
+				<run ground="220" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="50" />
+		</collision>
+	</npc>
+	<npc id="25904" level="80" type="Folk" name="Anakim" title="Fallen Angel">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="37500000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="200" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="20.15" />
+			<height normal="38.6" />
+		</collision>
+	</npc>
+	<npc id="25905" level="80" type="Folk" name="Anakim's Guardian">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="23" />
+			<height normal="40.5" />
+		</collision>
+	</npc>
+	<npc id="25906" level="80" type="Folk" name="Anakim's Royal Guard">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="65" />
+				<run ground="220" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="43" />
+		</collision>
+	</npc>
+	<npc id="25907" level="80" type="Folk" name="Anakim's Executor">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="65" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="25908" level="85" type="Folk" name="Queen Ant Drone Priest" title="Raid Fighter">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2384623" hpRegen="10.5" mp="3015" mpRegen="3.6" />
+			<speed>
+				<walk ground="45" />
+				<run ground="170" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="25" />
+			<height normal="54.5" />
+		</collision>
+	</npc>
+	<npc id="25909" level="80" type="Monster" name="Carcs" title="Elite">
+		<race>HUMANOID</race>
+		<equipment rhand="6719" /> <!-- Monster Only (Ketra Orc Chieftain) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="135763.583815029" hpRegen="8.5" mp="4242.24422442244" mpRegen="3" />
+			<speed>
+				<walk ground="24" />
+				<run ground="160" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="50009" level="44" /> <!-- Raid Boss (Lv. 80) -->
+		</skillList>
+		<collision>
+			<radius normal="11" />
+			<height normal="38.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="100" /> <!-- Sayha's Blessing Pouch -->
+				<item id="93003" min="4" max="8" chance="100" /> <!-- Sayha's Grace -->
+				<item id="90045" min="1" max="1" chance="83.18" /> <!-- Magical Tablet -->
+				<item id="49756" min="1" max="1" chance="0.75" /> <!-- Cloth Piece -->
+				<item id="91031" min="1" max="1" chance="0.3" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.3" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="91033" min="1" max="1" chance="0.3" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.3" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.3" /> <!-- Orc King's Treasure -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25910" level="80" type="Monster" name="Drak" title="Elite">
+		<race>HUMANOID</race>
+		<equipment rhand="38425" /> <!-- Monster Only: Amden Blunt Weapon - Not Available - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="135763.583815029" hpRegen="8.5" mp="4242.24422442244" mpRegen="3" />
+			<speed>
+				<walk ground="48" />
+				<run ground="160" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="50009" level="45" /> <!-- Raid Boss (Lv. 80) -->
+		</skillList>
+		<collision>
+			<radius normal="15" />
+			<height normal="33" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="100" /> <!-- Sayha's Blessing Pouch -->
+				<item id="93003" min="4" max="8" chance="100" /> <!-- Sayha's Grace -->
+				<item id="90045" min="1" max="1" chance="83.2" /> <!-- Magical Tablet -->
+				<item id="49756" min="1" max="1" chance="0.75" /> <!-- Cloth Piece -->
+				<item id="91031" min="1" max="1" chance="0.3" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.3" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="91033" min="1" max="1" chance="0.3" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.3" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.3" /> <!-- Orc King's Treasure -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25911" level="80" type="Monster" name="Ourick" title="Elite">
+		<race>HUMANOID</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="135763.583815029" hpRegen="8.5" mp="4242.24422442244" mpRegen="3" />
+			<speed>
+				<walk ground="50" />
+				<run ground="160" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+			<skill id="50009" level="46" /> <!-- Raid Boss (Lv. 80) -->
+		</skillList>
+		<collision>
+			<radius normal="20.8" />
+			<height normal="39.4" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="100" /> <!-- Sayha's Blessing Pouch -->
+				<item id="93003" min="4" max="8" chance="100" /> <!-- Sayha's Grace -->
+				<item id="90045" min="1" max="1" chance="82.32" /> <!-- Magical Tablet -->
+				<item id="49756" min="1" max="1" chance="0.75" /> <!-- Cloth Piece -->
+				<item id="91031" min="1" max="1" chance="0.3" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.3" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="91033" min="1" max="1" chance="0.3" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.3" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.3" /> <!-- Orc King's Treasure -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25912" level="85" type="Monster" name="Behemoth" title="Antharas' Avatar">
+		<race>DRAGON</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="15606936.416185" hpRegen="9.5" mp="22800" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="220" />
+			</speed>
+			<attack physical="4950.45286845088" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="218.125260801942" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="29.7" />
+			<height normal="80.7" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="6328" min="1" max="3" chance="28.99" /> <!-- Sealed Majestic Ring -->
+				<item id="6327" min="1" max="3" chance="27.29" /> <!-- Sealed Majestic Earring -->
+				<item id="6326" min="1" max="3" chance="27.29" /> <!-- Sealed Majestic Necklace -->
+				<item id="5318" min="1" max="3" chance="14.46" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5317" min="1" max="3" chance="14.41" /> <!-- Sealed Majestic Circlet -->
+				<item id="5329" min="1" max="3" chance="14.2" /> <!-- Sealed Majestic Robe -->
+				<item id="5319" min="1" max="3" chance="13.94" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="3" chance="13.23" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5323" min="1" max="3" chance="13.2" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="3" chance="12.49" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5314" min="1" max="3" chance="12.42" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5315" min="1" max="3" chance="12.21" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5313" min="1" max="3" chance="11.75" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5311" min="1" max="3" chance="11.67" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5326" min="1" max="3" chance="11.6" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5312" min="1" max="3" chance="11.39" /> <!-- Sealed Helm of Nightmare -->
+				<item id="91887" min="1" max="3" chance="6.028" /> <!-- Durendal -->
+				<item id="8686" min="1" max="3" chance="6.012" /> <!-- Themis' Tongue -->
+				<item id="8683" min="1" max="3" chance="5.975" /> <!-- Tiphon's Spear -->
+				<item id="91902" min="1" max="3" chance="5.957" /> <!-- Éclair Bijou -->
+				<item id="8682" min="1" max="3" chance="5.941" /> <!-- Naga's Storm -->
+				<item id="8687" min="1" max="3" chance="5.917" /> <!-- Cabrio's Hand -->
+				<item id="8688" min="1" max="3" chance="5.915" /> <!-- Daimon Crystal -->
+				<item id="8938" min="1" max="3" chance="5.908" /> <!-- Tallum Blade*Damascus -->
+				<item id="8679" min="1" max="3" chance="5.905" /> <!-- Sword of Ipos -->
+				<item id="8684" min="1" max="3" chance="5.902" /> <!-- Shyeed's Bow -->
+				<item id="8678" min="1" max="3" chance="5.899" /> <!-- Sirra's Blade -->
+				<item id="8681" min="1" max="3" chance="5.894" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8685" min="1" max="3" chance="5.886" /> <!-- Sobekk's Hurricane -->
+				<item id="8680" min="1" max="3" chance="5.883" /> <!-- Barakiel's Axe -->
+				<item id="49683" min="1" max="1" chance="5.065" /> <!-- Talisman of Baium -->
+				<item id="49756" min="9" max="15" chance="100" /> <!-- Cloth Piece -->
+				<item id="90045" min="24" max="36" chance="100" /> <!-- Magical Tablet -->
+				<item id="91951" min="1" max="1" chance="100" /> <!-- Scroll: Enchant Talisman of Baium -->
+				<item id="93914" min="80" max="120" chance="100" /> <!-- Dragon Blood - Sealed -->
+				<item id="729" min="4" max="8" chance="50.73" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="730" min="24" max="36" chance="49.1" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="93912" min="1" max="1" chance="10.009" /> <!-- Recipe: Flame Sword's Blade (10%) -->
+				<item id="93933" min="1" max="1" chance="9.954" /> <!-- Rare Accessory Pack -->
+				<item id="92990" min="1" max="1" chance="2.956" /> <!-- Boss' Weapon Pack -->
+				<item id="93387" min="1" max="1" chance="0.3" /> <!-- Spellbook: Ultimate Death Knight Transformation -->
+				<item id="93103" min="1" max="1" chance="0.3" /> <!-- Spellbook: Divine Beam -->
+				<item id="93913" min="1" max="1" chance="0.0009" /> <!-- Recipe: Death Knight's Flame Sword (100%) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25913" level="85" type="Monster" name="Karim" title="Antharas' Follower">
+		<race>DEMONIC</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="2623786.12716763" hpRegen="9.5" mp="4677.88778877888" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="300" />
+			</speed>
+			<attack physical="4950.45286845088" magical="913.314550866536" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="310.919540229885" magical="218.125260801942" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="9" /> <!-- Demons -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="48" />
+			<height normal="83" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="6327" min="1" max="1" chance="6.694" /> <!-- Sealed Majestic Earring -->
+				<item id="6326" min="1" max="1" chance="6.691" /> <!-- Sealed Majestic Necklace -->
+				<item id="6328" min="1" max="1" chance="6.647" /> <!-- Sealed Majestic Ring -->
+				<item id="5298" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5301" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5304" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Tunic -->
+				<item id="5305" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Stockings -->
+				<item id="5308" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5287" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5297" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5296" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Boots -->
+				<item id="5288" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5289" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5290" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5292" min="1" max="1" chance="0.75" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5293" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5294" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Helmet -->
+				<item id="5295" min="1" max="1" chance="0.75" /> <!-- Sealed Tallum Gloves -->
+				<item id="8686" min="1" max="1" chance="0.3" /> <!-- Themis' Tongue -->
+				<item id="8687" min="1" max="1" chance="0.3" /> <!-- Cabrio's Hand -->
+				<item id="8688" min="1" max="1" chance="0.3" /> <!-- Daimon Crystal -->
+				<item id="8938" min="1" max="1" chance="0.3" /> <!-- Tallum Blade*Damascus -->
+				<item id="91887" min="1" max="1" chance="0.3" /> <!-- Durendal -->
+				<item id="8685" min="1" max="1" chance="0.3" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.3" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.3" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.3" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.3" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.3" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.3" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.3" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.3" /> <!-- Éclair Bijou -->
+				<item id="729" min="1" max="1" chance="100" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="730" min="1" max="2" chance="100" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90045" min="1" max="3" chance="100" /> <!-- Magical Tablet -->
+				<item id="93914" min="32" max="48" chance="20.88" /> <!-- Dragon Blood - Sealed -->
+				<item id="93912" min="1" max="1" chance="1.503" /> <!-- Recipe: Flame Sword's Blade (10%) -->
+				<item id="93386" min="1" max="1" chance="0.75" /> <!-- Spellbook: Lightning Storm -->
+				<item id="93384" min="1" max="1" chance="0.75" /> <!-- Spellbook: Burning Field -->
+				<item id="90704" min="1" max="1" chance="0.3" /> <!-- Sealed Soul Crystal Lv. 11 -->
+				<item id="93385" min="1" max="1" chance="0.3" /> <!-- Spellbook: Frozen Field -->
+				<item id="90705" min="1" max="1" chance="0.03" /> <!-- Sealed Soul Crystal Lv. 12 -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25914" level="82" type="Monster" name="Atingo" title="Pet Legion's Master">
+		<race>HUMANOID</race>
+		<equipment rhand="95759" /> <!-- Helios Stormer (NPC) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46454.3761638734" hpRegen="9.5" mp="3494.71114727421" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="61.5" /> <!-- Sayha's Blessing Pouch -->
+				<item id="948" min="1" max="1" chance="9.002" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25915" level="82" type="Monster" name="Atingo" title="Pet Legion's Master">
+		<race>HUMANOID</race>
+		<equipment rhand="95759" /> <!-- Helios Stormer (NPC) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46454.3761638734" hpRegen="9.5" mp="3494.71114727421" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="58.76" /> <!-- Sayha's Blessing Pouch -->
+				<item id="948" min="1" max="1" chance="9.03" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25916" level="82" type="Monster" name="Atingo" title="Pet Legion's Master">
+		<race>HUMANOID</race>
+		<equipment rhand="95759" /> <!-- Helios Stormer (NPC) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46454.3761638734" hpRegen="9.5" mp="3494.71114727421" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="59.72" /> <!-- Sayha's Blessing Pouch -->
+				<item id="948" min="1" max="1" chance="9.055" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25917" level="82" type="Monster" name="Atingo" title="Pet Legion's Master">
+		<race>HUMANOID</race>
+		<equipment rhand="95759" /> <!-- Helios Stormer (NPC) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46454.3761638734" hpRegen="9.5" mp="3494.71114727421" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="59.03" /> <!-- Sayha's Blessing Pouch -->
+				<item id="948" min="1" max="1" chance="8.971" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25918" level="82" type="Monster" name="Wolf" title="Atingo's Pet">
+		<race>BEAST</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46454.3761638734" hpRegen="9.5" mp="3667.20911310008" mpRegen="3.3" />
+			<speed>
+				<walk ground="45" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<collision>
+			<radius normal="25" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="94097" min="1" max="1" chance="100" /> <!-- Sealed Wolf Necklace -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25919" level="82" type="Monster" name="Buffalo" title="Atingo's Pet">
+		<race>BEAST</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="60567.0391061452" hpRegen="9.5" mp="3667.20911310008" mpRegen="3.3" />
+			<speed>
+				<walk ground="20" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<collision>
+			<radius normal="27" />
+			<height normal="31" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="94098" min="1" max="1" chance="100" /> <!-- Sealed Buffalo Necklace -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25920" level="82" type="Monster" name="Tiger" title="Atingo's Pet">
+		<race>BEAST</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="42337.9888268156" hpRegen="9.5" mp="3667.20911310008" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<collision>
+			<radius normal="28" />
+			<height normal="21" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="94099" min="1" max="1" chance="100" /> <!-- Sealed Tiger Necklace -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25921" level="82" type="Monster" name="Kookaburra" title="Atingo's Pet">
+		<race>BEAST</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="30577.2811918063" hpRegen="9.5" mp="4240.032546786" mpRegen="3.3" />
+			<speed>
+				<walk ground="23" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+		</skillList>
+		<collision>
+			<radius normal="13" />
+			<height normal="32" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="94100" min="1" max="1" chance="100" /> <!-- Sealed Kookaburra Necklace -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25922" level="82" type="Monster" name="Strider" title="Atingo's Pet">
+		<race>DRAGON</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="53804.469273743" hpRegen="9.5" mp="3667.20911310008" mpRegen="3.3" />
+			<speed>
+				<walk ground="80" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+		</skillList>
+		<collision>
+			<radius normal="23" />
+			<height normal="30" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="94101" min="1" max="1" chance="100" /> <!-- Sealed Dragon's Necklace -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25923" level="82" type="Monster" name="Hawk" title="Atingo's Pet">
+		<race>ANIMAL</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="41162.0111731844" hpRegen="9.5" mp="3667.20911310008" mpRegen="3.3" />
+			<speed>
+				<walk ground="50" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<collision>
+			<radius normal="12" />
+			<height normal="45" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="94102" min="1" max="1" chance="100" /> <!-- Sealed Hawk Necklace -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25924" level="82" type="Monster" name="Sin Eater" title="Atingo's Favorite">
+		<race>FAIRY</race>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46454.3761638734" hpRegen="9.5" mp="3494.71114727421" mpRegen="3.3" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<attack physical="1147.53830572707" magical="397.790052226257" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="214.619883040936" magical="120.385041801683" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<collision>
+			<radius normal="10" />
+			<height normal="24" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="926" min="1" max="1" chance="5.158" /> <!-- Black Ore Necklace -->
+				<item id="895" min="1" max="1" chance="5.009" /> <!-- Black Ore Ring -->
+				<item id="864" min="1" max="1" chance="4.992" /> <!-- Black Ore Earring -->
+				<item id="357" min="1" max="1" chance="0.75" /> <!-- Zubei's Breastplate -->
+				<item id="358" min="1" max="1" chance="0.75" /> <!-- Blue Wolf Breastplate -->
+				<item id="383" min="1" max="1" chance="0.75" /> <!-- Zubei's Gaiters -->
+				<item id="503" min="1" max="1" chance="0.75" /> <!-- Sealed Zubei's Helmet -->
+				<item id="554" min="1" max="1" chance="0.75" /> <!-- Sealed Zubei's Boots -->
+				<item id="633" min="1" max="1" chance="0.75" /> <!-- Zubei's Shield -->
+				<item id="2380" min="1" max="1" chance="0.75" /> <!-- Blue Wolf Gaiters -->
+				<item id="2384" min="1" max="1" chance="0.75" /> <!-- Zubei's Leather Shirt -->
+				<item id="2388" min="1" max="1" chance="0.75" /> <!-- Zubei's Leather Gaiters -->
+				<item id="2487" min="1" max="1" chance="0.75" /> <!-- Sealed Blue Wolf Gloves -->
+				<item id="2439" min="1" max="1" chance="0.75" /> <!-- Sealed Blue Wolf Boots -->
+				<item id="2416" min="1" max="1" chance="0.75" /> <!-- Sealed Blue Wolf Helmet -->
+				<item id="2403" min="1" max="1" chance="0.75" /> <!-- Blue Wolf Stockings -->
+				<item id="2402" min="1" max="1" chance="0.75" /> <!-- Zubei's Stockings -->
+				<item id="2398" min="1" max="1" chance="0.75" /> <!-- Blue Wolf Tunic -->
+				<item id="2397" min="1" max="1" chance="0.75" /> <!-- Zubei's Tunic -->
+				<item id="2391" min="1" max="1" chance="0.75" /> <!-- Blue Wolf Leather Armor -->
+				<item id="612" min="1" max="1" chance="0.75" /> <!-- Sealed Zubei's Gauntlets -->
+				<item id="78" min="1" max="1" chance="0.3" /> <!-- Great Sword -->
+				<item id="92" min="1" max="1" chance="0.3" /> <!-- Spirit's Staff -->
+				<item id="142" min="1" max="1" chance="0.3" /> <!-- Keshanberk -->
+				<item id="148" min="1" max="1" chance="0.3" /> <!-- Sword of Valhalla -->
+				<item id="229" min="1" max="1" chance="0.3" /> <!-- Kris -->
+				<item id="243" min="1" max="1" chance="0.3" /> <!-- Twilight Knife -->
+				<item id="264" min="1" max="1" chance="0.3" /> <!-- Pata -->
+				<item id="267" min="1" max="1" chance="0.3" /> <!-- Arthro Nail -->
+				<item id="284" min="1" max="1" chance="0.3" /> <!-- Dark Elven Longbow -->
+				<item id="91" min="1" max="1" chance="0.3" /> <!-- Heavy War Axe -->
+				<item id="79" min="1" max="1" chance="0.075" /> <!-- Damascus Sword -->
+				<item id="91885" min="1" max="1" chance="0.075" /> <!-- Dismantler -->
+				<item id="175" min="1" max="1" chance="0.075" /> <!-- Art of Battle Axe -->
+				<item id="300" min="1" max="1" chance="0.075" /> <!-- Great Axe -->
+				<item id="91900" min="1" max="1" chance="0.075" /> <!-- Colichemarde -->
+				<item id="948" min="1" max="1" chance="45.79" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="5.042" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25925" level="85" type="RaidBoss" name="Jisra" title="Elite">
+		<parameters>
+			<param name="RaidSpawnMusic" value="Rm02_A" />
+			<skill name="RangeDDMagic_a" id="4178" level="2" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment lhand="2" /> <!-- Long Sword -->
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+		<vitals hp="3812812.68374633" hpRegen="43.8368677449012" mp="3539.96003996004" mpRegen="1.5" />
+		<attack physical="2743.69799488095" magical="219.514950783644" random="10" critical="4.75" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+		<defence physical="310.919540229885" magical="165.064820237234" evasion="-18" />
+		<speed>
+			<walk ground="50" />
+			<run ground="160" />
+		</speed>
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="4494" level="1" /> <!-- Raid Boss -->
+		</skillList>
+		<collision>
+			<radius normal="39" />
+			<height normal="76.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="100" /> <!-- Sayha's Blessing Pouch -->
+				<item id="730" min="1" max="1" chance="88.56" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="729" min="1" max="1" chance="10.004" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="91033" min="1" max="1" chance="0.3" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.3" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.3" /> <!-- Orc King's Treasure -->
+				<item id="91031" min="1" max="1" chance="0.3" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.3" /> <!-- Earth Spirit Evolution Stone -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25926" level="85" type="Monster" name="Kuka" title="Jisra's Prefect">
+		<parameters>
+			<param name="RaidSpawnMusic" value="Rm02_A" />
+			<skill name="RangeDDMagic_a" id="4178" level="2" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="72" /> <!-- Long Sword -->
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="3812812.68374633" hpRegen="43.8368677449012" mp="3539.96003996004" mpRegen="1.5" />
+			<attack physical="2743.69799488095" magical="219.514950783644" random="10" critical="4.75" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="165.064820237234" evasion="-18" />
+			<speed>
+				<walk ground="70" />
+				<run ground="160" />
+			</speed>
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<collision>
+			<radius normal="30" />
+			<height normal="58.5" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="100" /> <!-- Sayha's Blessing Pouch -->
+				<item id="948" min="1" max="2" chance="88.13" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="10.005" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+				<item id="91033" min="1" max="1" chance="0.3" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.3" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.3" /> <!-- Orc King's Treasure -->
+				<item id="91031" min="1" max="1" chance="0.3" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.3" /> <!-- Earth Spirit Evolution Stone -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25927" level="85" type="Folk" name="Kadin" title="Garden's Emperor">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7545450" hpRegen="10.5" mp="3349" mpRegen="3.6" />
+			<speed>
+				<walk ground="40" />
+				<run ground="220" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="60" />
+			<height normal="87" />
+		</collision>
+	</npc>
+	<npc id="25928" level="85" type="Folk" name="Pet Legion's Head Trainer" title="Pet Master">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="8683" /> <!-- Tiphon's Spear -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="3772725" hpRegen="10.5" mp="3486" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="27" />
+			<height normal="56.4" />
+		</collision>
+	</npc>
+	<npc id="25929" level="85" type="Folk" name="Crokin" title="Primeval Garden">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="50" />
+				<run ground="220" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="72" />
+			<height normal="114" />
+		</collision>
+	</npc>
+	<npc id="25930" level="85" type="Folk" name="Osboar" title="Primeval Garden">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="70" />
+			<height normal="102" />
+		</collision>
+	</npc>
+	<npc id="25931" level="85" type="Folk" name="Tigger" title="Bee Hive">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="70" />
+			<height normal="102" />
+		</collision>
+	</npc>
+	<npc id="25932" level="85" type="RaidBoss" name="Katuba" title="High Elite">
+		<parameters>
+			<param name="RaidSpawnMusic" value="Rm02_A" />
+			<skill name="RangeDDMagic_a" id="4178" level="2" />
+		</parameters>
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="164" int="188" dex="55" wit="78" con="111" men="149">
+			<vitals hp="3812812.68374633" hpRegen="43.8368677449012" mp="3539.96003996004" mpRegen="1.5" />
+			<attack physical="2743.69799488095" magical="219.514950783644" random="10" critical="4.75" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="165.064820237234" evasion="-18" />
+			<speed>
+				<walk ground="100" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+		</skillList>
+		<collision>
+			<radius normal="60" />
+			<height normal="112.5" />
+		</collision>
+		<ai aggroRange="450" clanHelpRange="300">
+			<clanList>
+				<clan>DRAGON</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<drop>
+				<item id="93002" min="1" max="2" chance="100" /> <!-- Sayha's Blessing Pouch -->
+				<item id="948" min="1" max="2" chance="88.13" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="947" min="1" max="1" chance="10.005" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+				<item id="91033" min="1" max="1" chance="0.3" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.3" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="92989" min="1" max="1" chance="0.3" /> <!-- Orc King's Treasure -->
+				<item id="91031" min="1" max="1" chance="0.3" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.3" /> <!-- Earth Spirit Evolution Stone -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25933" level="85" type="Folk" name="Deiman" title="Mutant">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="32000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="200" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="30" />
+			<height normal="70.5" />
+		</collision>
+	</npc>
+	<npc id="25934" level="85" type="Folk" name="Satina" title="Vampire Queen">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="18000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="150" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="24" />
+			<height normal="67" />
+		</collision>
+	</npc>
+	<npc id="25935" level="85" type="Folk" name="Ultimate Behemoth" title="Antharas' Avatar">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="12000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="220" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="29.7" />
+			<height normal="80.7" />
+		</collision>
+	</npc>
+	<npc id="25936" level="85" type="Folk" name="Ryuminir" title="Tower Lord">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="32000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="45" />
+			<height normal="78.25" />
+		</collision>
+	</npc>
+	<npc id="25937" level="85" type="Folk" name="Aizen Kelsour" title="Blood and Iron Commander">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="32000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="35" />
+			<height normal="75.125" />
+		</collision>
+	</npc>
+	<npc id="25938" level="85" type="Folk" name="Tanas" title="Forgotten Sage Spider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="4000000" hpRegen="10.5" mp="12240" mpRegen="3.6" />
+			<speed>
+				<walk ground="140" />
+				<run ground="230" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="60" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="25939" level="85" type="Folk" name="Tulana" title="Forgotten Sage Spider">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="90576" hpRegen="10.5" mp="71253" mpRegen="3.6" />
+			<speed>
+				<walk ground="140" />
+				<run ground="140" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="60" />
+			<height normal="40" />
+		</collision>
+	</npc>
+	<npc id="25940" level="85" type="Folk" name="Young Spider" title="Pinrul">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="90576" hpRegen="10.5" mp="71253" mpRegen="3.6" />
+			<speed>
+				<walk ground="105" />
+				<run ground="105" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="45" />
+			<height normal="39" />
+		</collision>
+	</npc>
+	<npc id="25941" level="85" type="Folk" name="Atingo" title="Pet Legion's Master">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="95759" />
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="31577" hpRegen="10.5" mp="3486" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="175" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+	</npc>
+	<npc id="25942" level="85" type="RaidBoss" name="Reggiesys" title="Counsellor's Servitor">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="45" con="82" men="78">
+			<vitals hp="12000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="100" />
+			<height normal="98" />
+		</collision>
+		<skillList>
+			<skill id="48358" level="1" /> <!-- Rasygies' Freezing Attack Explosion -->
+			<skill id="48361" level="1" /> <!-- Reggiesys' Freezing Attack -->
+			<skill id="48363" level="1" /> <!-- Reggiesys Enhancement -->
+			<skill id="48375" level="3" /> <!-- Freezing Curse -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="50.2" /> <!-- Ice core -->
+				<item id="57" min="70000" max="400000" chance="70" /> <!-- Adena -->
+				<item id="95743" min="1" max="1" chance="7.748" /> <!-- Top Grade A Weapon pack -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25943" level="85" type="RaidBoss" name="Slicing" title="Counsellor's Servitor">
+		<!-- FROST LORD CASTLEZONE -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="45" con="82" men="78">
+			<vitals hp="12000000" hpRegen="10.5" mp="18000" mpRegen="3.6" />
+			<speed>
+				<walk ground="30" />
+				<run ground="200" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="40" />
+			<height normal="103" />
+		</collision>
+		<skillList>
+			<skill id="48391" level="1" /> <!-- Self-destruction -->
+			<skill id="48392" level="1" /> <!-- Ice Storm -->
+		</skillList>
+			<dropLists>
+			<drop>
+				<item id="95781" min="1" max="1" chance="50.2" /> <!-- Ice core -->
+				<item id="57" min="70000" max="400000" chance="70" /> <!-- Adena -->
+				<item id="95743" min="1" max="1" chance="7.748" /> <!-- Top Grade A Weapon pack -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="25944" level="85" type="Folk" name="Royal Vampire" title="Gatekeeper">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="242088" hpRegen="10.5" mp="3834" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22" />
+			<height normal="43" />
+		</collision>
+	</npc>
+	<npc id="25945" level="85" type="Folk" name="Tower Knight" title="Gatekeeper">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="428" /> <!-- Feriotic Tunic -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="242088" hpRegen="10.5" mp="3834" mpRegen="3.6" />
+			<speed>
+				<walk ground="42" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="22.88" />
+			<height normal="41.6" />
+		</collision>
+	</npc>
+	<npc id="25946" level="85" type="Folk" name="Knight of Darkness" title="Battlefield Nightmare">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="418328" hpRegen="10.5" mp="4047" mpRegen="3.6" />
+			<speed>
+				<walk ground="80" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="23" />
+			<height normal="64" />
+		</collision>
+	</npc>
+	<npc id="25947" level="85" type="Folk" name="Dark Banshee" title="Battlefield Nightmare">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="418328" hpRegen="10.5" mp="4047" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="160" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="20" />
+			<height normal="49" />
+		</collision>
+	</npc>
+	<npc id="25948" level="85" type="Folk" name="Beoro" title="Bee Hive Emperor">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="420292" hpRegen="10.5" mp="3693" mpRegen="3.6" />
+			<speed>
+				<walk ground="18" />
+				<run ground="190" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="70.4" />
+			<height normal="62.56" />
+		</collision>
+	</npc>
+	<npc id="25949" level="85" type="Folk" name="Hermit Beoro" title="Bee Hive Emperor">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="420292" hpRegen="10.5" mp="3693" mpRegen="3.6" />
+			<speed>
+				<walk ground="105" />
+				<run ground="360" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="54" />
+			<height normal="66" />
+		</collision>
+	</npc>
+	<npc id="25950" level="85" type="Folk" name="Royda" title="Pet Legion's Grand Master">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="95759" /> <!-- Helios Stormer (NPC) -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="521936" hpRegen="10.5" mp="3486" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+	</npc>
+	<npc id="25951" level="85" type="Folk" name="Sin Eater" title="Atingo's Favorite">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="31577" hpRegen="10.5" mp="3486" mpRegen="3.6" />
+			<speed>
+				<walk ground="60" />
+				<run ground="80" />
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
+			<defence physical="405.85106382979" magical="297.0297029703" />
+		</stats>
+		<status attackable="false" />
+		<collision>
+			<radius normal="12" />
+			<height normal="29.4" />
+		</collision>
+	</npc>
+</list>

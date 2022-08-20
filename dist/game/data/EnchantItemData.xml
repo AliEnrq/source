@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/EnchantItemData.xsd">
+	<!-- Scrolls: Enchant Weapon -->
+	<enchant id="959" targetGrade="S" maxEnchant="16" safeEnchant="4" />
+	<enchant id="729" targetGrade="A" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93976" targetGrade="A" maxEnchant="16" safeEnchant="4" />
+	<enchant id="947" targetGrade="B" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93406" targetGrade="B" maxEnchant="16" safeEnchant="4" />
+	<enchant id="951" targetGrade="C" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93408" targetGrade="C" maxEnchant="16" safeEnchant="4" />
+	<enchant id="955" targetGrade="D" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93410" targetGrade="D" maxEnchant="16" safeEnchant="4" />
+
+	<!-- Scrolls: Enchant Armor -->
+	<enchant id="960" targetGrade="S" maxEnchant="16" safeEnchant="4" />
+	<enchant id="730" targetGrade="A" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93977" targetGrade="A" maxEnchant="16" safeEnchant="4" />
+	<enchant id="948" targetGrade="B" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93407" targetGrade="B" maxEnchant="16" safeEnchant="4" />
+	<enchant id="952" targetGrade="C" maxEnchant="16" safeEnchant="4" />
+	<enchant id="93409" targetGrade="C" maxEnchant="16" safeEnchant="4" />
+	<enchant id="956" targetGrade="D" maxEnchant="16" safeEnchant="4" scrollGroupId="0" /> <!-- Default scroll groups binding. -->
+	<enchant id="93411" targetGrade="D" maxEnchant="16" safeEnchant="4" scrollGroupId="0" /> <!-- Default scroll groups binding. -->
+
+	<!-- Blessed Scrolls: Enchant Weapon -->
+	<enchant id="6577" targetGrade="S" maxEnchant="16" />
+	<enchant id="6569" targetGrade="A" maxEnchant="16" />
+	<enchant id="6571" targetGrade="B" maxEnchant="16" />
+	<enchant id="6573" targetGrade="C" maxEnchant="16" />
+	<enchant id="6575" targetGrade="D" maxEnchant="16" />
+
+	<enchant id="22221" targetGrade="S" maxEnchant="7" />
+	<enchant id="22223" targetGrade="A" maxEnchant="7" />
+	<enchant id="49486" targetGrade="B" maxEnchant="7" />
+	<enchant id="49484" targetGrade="C" maxEnchant="7" />
+	<enchant id="49482" targetGrade="D" maxEnchant="7" />
+
+	<!-- Blessed Scrolls: Enchant Armor -->
+	<enchant id="6578" targetGrade="S" maxEnchant="16" />
+	<enchant id="6570" targetGrade="A" maxEnchant="16" />
+	<enchant id="6572" targetGrade="B" maxEnchant="16" />
+	<enchant id="6574" targetGrade="C" maxEnchant="16" />
+	<enchant id="6576" targetGrade="D" maxEnchant="16" />
+
+	<enchant id="22222" targetGrade="S" maxEnchant="6" />
+	<enchant id="22224" targetGrade="A" maxEnchant="6" />
+	<enchant id="49485" targetGrade="B" maxEnchant="6" />
+	<enchant id="49483" targetGrade="C" maxEnchant="6" />
+	<enchant id="49481" targetGrade="D" maxEnchant="6" />
+
+	<!-- Improved Scrolls: Enchant Weapon -->
+	<enchant id="33810" targetGrade="S" maxEnchant="16" />
+	<enchant id="33809" targetGrade="A" maxEnchant="16" />
+	<enchant id="33808" targetGrade="B" maxEnchant="16" />
+	<enchant id="33807" targetGrade="C" maxEnchant="16" />
+	<enchant id="33806" targetGrade="D" maxEnchant="16" />
+
+	<!-- Improved Scrolls: Enchant Armor -->
+	<enchant id="33816" targetGrade="S" maxEnchant="16" />
+	<enchant id="33815" targetGrade="A" maxEnchant="16" />
+	<enchant id="33814" targetGrade="B" maxEnchant="16" />
+	<enchant id="33813" targetGrade="C" maxEnchant="16" />
+	<enchant id="33812" targetGrade="D" maxEnchant="16" />
+
+	<!-- Improved Scrolls: Enchant Armor -->
+	<enchant id="93269" targetGrade="A" maxEnchant="16" />
+	<enchant id="93256" targetGrade="A" maxEnchant="16" />
+
+	<!-- Improved Scrolls: Enchant Weapon -->
+	<enchant id="93268" targetGrade="A" maxEnchant="16" />
+	<enchant id="93255" targetGrade="A" maxEnchant="16" />
+
+	<!-- Cursed Scrolls: Enchant Weapon -->
+	<enchant id="93257" targetGrade="A" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="93270" targetGrade="A" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95700" targetGrade="B" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95706" targetGrade="B" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95702" targetGrade="C" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95708" targetGrade="C" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95704" targetGrade="D" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95710" targetGrade="D" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+
+	<!-- Cursed Scrolls: Enchant Armor -->
+	<enchant id="93258" targetGrade="A" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="93271" targetGrade="A" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95701" targetGrade="B" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95707" targetGrade="B" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95703" targetGrade="C" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95709" targetGrade="C" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95705" targetGrade="D" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+	<enchant id="95711" targetGrade="D" minEnchant="2" maxEnchant="16" safeEnchant="16"/>
+
+	<!-- Fire Dragon Pendant -->
+	<enchant id="49469" maxEnchant="10" safeEnchant="3">
+		<item id="49467" />
+		<item id="49468" />
+	</enchant>
+
+	<!-- Fire Dragon Pendant -->
+	<enchant id="49470" maxEnchant="8" safeEnchant="3">
+		<item id="49467" />
+		<item id="49468" />
+	</enchant>
+	<!-- Pendant Matte Varnish -->
+	<enchant id="90137" maxEnchant="6" safeEnchant="3">
+		<item id="49467" />
+		<item id="49468" />
+	</enchant>
+	<!-- Pendant Shiny Varnish -->
+	<enchant id="90138" maxEnchant="9" safeEnchant="3">
+		<item id="49467" />
+		<item id="49468" />
+	</enchant>
+
+	<!-- Savior Scroll: Enchant Weapon -->
+	<enchant id="90149" targetGrade="C" maxEnchant="10">
+		<item id="90150" />
+		<item id="90151" />
+		<item id="90152" />
+		<item id="90153" />
+		<item id="90154" />
+		<item id="90867" />
+		<item id="90868" />
+		<item id="90869" />
+		<item id="90870" />
+		<item id="90871" />
+	</enchant>
+
+	<!-- Scroll: Enchant Fishing Weapon -->
+	<enchant id="90958" maxEnchant="17">
+		<item id="90957" />
+	</enchant>
+
+	<!-- Improved Scroll: Enchant Fishing Weapon -->
+	<enchant id="90959" maxEnchant="17" randomEnchantMin="1" randomEnchantMax="3">
+		<item id="90957" />
+	</enchant>
+
+	<!-- Scroll: Enchant Savior's Earring -->
+	<enchant id="90990" maxEnchant="7">
+		<item id="90987" />
+		<item id="90988" />
+		<item id="91243" />
+	</enchant>
+
+	<!-- Balthus Knights' Varnish -->
+	<enchant id="90995" maxEnchant="10">
+		<item id="90993" />
+		<item id="90994" />
+		<item id="91006" />
+	</enchant>
+	<!-- Balthus Knights' Shining Varnish -->
+	<enchant id="90997" maxEnchant="8">
+		<item id="90993" />
+		<item id="90994" />
+		<item id="91006" />
+	</enchant>
+	<!-- Balthus Knights' Glittering Varnish -->
+	<enchant id="90998" maxEnchant="9">
+		<item id="90993" />
+		<item id="90994" />
+		<item id="91006" />
+	</enchant>
+
+	<!-- Sibi's Weapon Enchant Scroll -->
+	<enchant id="91155" maxEnchant="23">
+		<item id="91154" />
+	</enchant>
+
+	<!-- Radiant Spirit's Varnish -->
+	<enchant id="91124" maxEnchant="9">
+		<item id="94682" />
+	</enchant>
+
+	<!-- Spirit's Varnish -->
+	<enchant id="91187" maxEnchant="10">
+		<item id="94682" />
+	</enchant>
+
+	<!-- Blessed Spirit's Varnish -->
+	<enchant id="91188" maxEnchant="10">
+		<item id="94682" />
+	</enchant>
+
+	<!-- Sayha's Cloak -->
+	<enchant id="91213" maxEnchant="10">
+		<item id="91210" />
+		<item id="91211" />
+		<item id="91212" />
+	</enchant>
+
+	<!-- Sayha's Cloak -->
+	<enchant id="91214" maxEnchant="9">
+		<item id="91210" />
+		<item id="91211" />
+		<item id="91212" />
+	</enchant>
+
+	<!-- Sayha's Cloak -->
+	<enchant id="91215" maxEnchant="7">
+		<item id="91210" />
+		<item id="91211" />
+		<item id="91212" />
+	</enchant>
+
+	<!-- Dragon Varnish -->
+	<enchant id="91249" maxEnchant="5">
+		<item id="91244" />
+		<item id="91245" />
+		<item id="91246" />
+		<item id="91247" />
+	</enchant>
+	<!-- Radiant Dragon Varnish -->
+	<enchant id="91250" maxEnchant="5">
+		<item id="91244" />
+		<item id="91245" />
+		<item id="91246" />
+		<item id="91247" />
+	</enchant>
+
+	<!-- Scroll: Enchant Excalibur -->
+	<enchant id="91575" maxEnchant="15">
+		<item id="91574" />
+	</enchant>
+
+	<!-- Scroll: Enchant Special Sayha's Cloak -->
+	<enchant id="91722" maxEnchant="10">
+		<item id="91719" />
+		<item id="91720" />
+		<item id="91721" />
+	</enchant>
+
+	<!-- Talisman of Aden -->
+	<enchant id="91756" maxEnchant="10" safeEnchant="1">
+		<item id="91745" />
+	</enchant>
+
+	<!-- Dragon Belt -->
+	<enchant id="91863" maxEnchant="10">
+		<item id="91862" />
+	</enchant>
+	<!-- Scroll: Enchant Dragon Belt -->
+	<enchant id="95596" maxEnchant="9">
+		<item id="91862" />
+	</enchant>
+
+	<!-- Enchant Scroll (PA Event) -->
+	<enchant id="91867" maxEnchant="10">
+		<item id="91866" />
+	</enchant>
+
+	<!-- Special Enchant Scroll (PA Event) -->
+	<enchant id="91868" maxEnchant="7">
+		<item id="91866" />
+	</enchant>
+
+	<!-- Talisman of Baium -->
+	<enchant id="91951" maxEnchant="5">
+		<item id="49683" />
+		<item id="94119" />
+	</enchant>
+
+	<!-- Scroll: Enchant Ring of Insolence -->
+	<enchant id="91966" maxEnchant="10">
+		<item id="91952" />
+		<item id="95718" />
+	</enchant>
+	<!-- Scroll: Enchant Ring of Insolence - Sealed -->
+	<enchant id="95720" maxEnchant="10">
+		<item id="91952" />
+		<item id="95718" />
+	</enchant>
+
+	<!-- Scroll: Enchant Dragon Valley's Earring -->
+	<enchant id="91967" maxEnchant="10">
+		<item id="91953" />
+		<item id="95719" />
+	</enchant>
+	<!-- Scroll: Enchant Dragon Valley's Earring - Sealed -->
+	<enchant id="95721" maxEnchant="10">
+		<item id="91953" />
+		<item id="95719" />
+	</enchant>
+
+	<!-- Scroll: Enchant Talisman of Eva -->
+	<enchant id="92017" maxEnchant="10">
+		<item id="92018" />
+	</enchant>
+
+	<!-- Talisman of Speed -->
+	<enchant id="92402" maxEnchant="10">
+		<item id="92403" />
+	</enchant>
+
+	<!-- Scroll Enchant Aden Weapon -->
+	<enchant id="93038" targetGrade="D" safeEnchant="4" maxEnchant="10" bonusRate="100">
+		<item id="93028" />
+		<item id="93029" />
+		<item id="93030" />
+		<item id="93031" />
+		<item id="93032" />
+		<item id="93033" />
+		<item id="93034" />
+		<item id="93035" />
+		<item id="93036" />
+		<item id="94897" />
+	</enchant>
+
+	<!-- Traveler's Agathion - Griffin -->
+	<enchant id="93040" maxEnchant="10" safeEnchant="3">
+		<item id="91935" />
+	</enchant>
+
+	<!-- Adventurer's Sheep Hat -->
+	<enchant id="93043" maxEnchant="10" safeEnchant="4">
+		<item id="93044" />
+	</enchant>
+
+	<!-- Adventurer's Cloak -->
+	<enchant id="93045" maxEnchant="10" safeEnchant="3">
+		<item id="93041" />
+	</enchant>
+
+	<!-- Adventurer's Belt -->
+	<enchant id="93046" maxEnchant="10" safeEnchant="3">
+		<item id="93042" />
+	</enchant>
+
+	<!-- Cloak of Protection -->
+	<enchant id="93302" maxEnchant="10">
+		<item id="93301" />
+	</enchant>
+	<!-- Cloak of Protection -->
+	<enchant id="95597" maxEnchant="9">
+		<item id="93301" />
+	</enchant>
+
+	<!-- Talisman of Authority -->
+	<enchant id="93329" maxEnchant="10">
+		<item id="91061" />
+	</enchant>
+
+	<!-- Scroll: Enchant Death Knight's Flame Sword -->
+	<enchant id="93931" targetGrade="A" maxEnchant="10">
+		<item id="93864" /> <!-- Death Knight's Flame Sword -->
+	</enchant>
+	<enchant id="93932" targetGrade="A" maxEnchant="10">
+		<item id="93864" /> <!-- Death Knight's Flame Sword -->
+	</enchant>
+
+	<!-- Circlet of Hero -->
+	<enchant id="94169" maxEnchant="10">
+		<item id="94166" />
+	</enchant>
+	<!-- Scroll: Enchant Circlet of Hero -->
+	<enchant id="95598" maxEnchant="9">
+		<item id="94166" />
+	</enchant>
+
+	<!-- Scroll: Enchant Rare Accessories -->
+	<enchant id="94383" maxEnchant="5" safeEnchant="1">
+		<item id="6660" /> <!-- Queen Ant's Ring -->
+		<item id="6661" /> <!-- Orfen's Earring -->
+		<item id="6662" /> <!-- Ring of Core -->
+		<item id="49580" /> <!-- Baium's Ring -->
+		<item id="90763" /> <!-- Zaken's Earring -->
+		<item id="90992" /> <!-- Antharas' Earring -->
+		<item id="91550" /> <!-- Frintezza's Necklace -->
+	</enchant>
+
+	<!-- Scroll: Enchant Rare Accessories (Event) -->
+	<enchant id="94384" maxEnchant="5" safeEnchant="1">
+		<item id="6660" /> <!-- Queen Ant's Ring -->
+		<item id="6661" /> <!-- Orfen's Earring -->
+		<item id="6662" /> <!-- Ring of Core -->
+		<item id="49580" /> <!-- Baium's Ring -->
+		<item id="90763" /> <!-- Zaken's Earring -->
+		<item id="90992" /> <!-- Antharas' Earring -->
+		<item id="91550" /> <!-- Frintezza's Necklace -->
+	</enchant>
+
+	<!-- Improved Scroll: Enchant Rare Accessories -->
+	<enchant id="94385" maxEnchant="5" safeEnchant="1">
+		<item id="49580" /> <!-- Baium's Ring -->
+		<item id="91550" /> <!-- Frintezza's Necklace -->
+		<item id="90992" /> <!-- Antharas' Earring -->
+	</enchant>
+
+	<!-- Improved Scroll: Enchant Rare Accessories (Event) -->
+	<enchant id="94386" maxEnchant="5" safeEnchant="1">
+		<item id="49580" /> <!-- Baium's Ring -->
+		<item id="90992" /> <!-- Antharas' Earring -->
+		<item id="91550" /> <!-- Frintezza's Necklace -->
+	</enchant>
+
+	<!-- Scroll: Enchant Necklace of Spirits -->
+	<enchant id="94683" maxEnchant="10" safeEnchant="1">
+		<item id="94682" />
+	</enchant>
+
+	<!-- Enchannt Hellbound Ring -->
+	<enchant id="94719" maxEnchant="10">
+		<item id="94718" /> <!-- Hellbound Ring -->
+	</enchant>
+
+	<!-- Scroll: Enchant Clan Equipment -->
+	<enchant id="95638" maxEnchant="10">
+		<item id="95636" />
+		<item id="95637" />
+	</enchant>
+
+	<!-- Adventurer's Talisman -->
+	<enchant id="95688" maxEnchant="1" safeEnchant="1">
+		<item id="91937" />
+	</enchant>
+
+	<!-- Enchant Spirit - Zodiac Agathion -->
+	<enchant id="48046" maxEnchant="10" safeEnchant="3">
+		<item id="93128" /> <!-- Agathion Ignis -->
+		<item id="93129" /> <!-- Agathion Nebula -->
+		<item id="93130" /> <!-- Agathion Procella -->
+		<item id="93131" /> <!-- Agathion Petram -->
+		<item id="93132" /> <!-- Agathion Joy -->
+		<item id="48048" /> <!-- Agathion Virgo -->
+		<item id="48049" /> <!-- Agathion Capricorn -->
+		<item id="48050" /> <!-- Agathion Libra -->
+		<item id="48052" /> <!-- Agathion Taurus -->
+		<item id="48053" /> <!-- Agathion Leo -->
+		<item id="48054" /> <!-- Agathion Gemini -->
+		<item id="48055" /> <!-- Agathion Scorpio -->
+		<item id="48056" /> <!-- Agathion Aquarius -->
+		<item id="48058" /> <!-- Agathion Sagittarius -->
+	</enchant>
+	<!-- Quality Agathion Enchant Scroll -->
+	<enchant id="48047" maxEnchant="8" safeEnchant="3" randomEnchantMin="1" randomEnchantMax="3">
+		<item id="93128" /> <!-- Agathion Ignis -->
+		<item id="93129" /> <!-- Agathion Nebula -->
+		<item id="93130" /> <!-- Agathion Procella -->
+		<item id="93131" /> <!-- Agathion Petram -->
+		<item id="93132" /> <!-- Agathion Joy -->
+		<item id="48048" /> <!-- Agathion Virgo -->
+		<item id="48049" /> <!-- Agathion Capricorn -->
+		<item id="48050" /> <!-- Agathion Libra -->
+		<item id="48052" /> <!-- Agathion Taurus -->
+		<item id="48053" /> <!-- Agathion Leo -->
+		<item id="48054" /> <!-- Agathion Gemini -->
+		<item id="48055" /> <!-- Agathion Scorpio -->
+		<item id="48056" /> <!-- Agathion Aquarius -->
+		<item id="48058" /> <!-- Agathion Sagittarius -->
+	</enchant>
+	<!-- Solid Scroll: Enchant Agathion -->
+	<enchant id="90963" maxEnchant="10" safeEnchant="3">
+		<item id="93128" /> <!-- Agathion Ignis -->
+		<item id="93129" /> <!-- Agathion Nebula -->
+		<item id="93130" /> <!-- Agathion Procella -->
+		<item id="93131" /> <!-- Agathion Petram -->
+		<item id="93132" /> <!-- Agathion Joy -->
+		<item id="48048" /> <!-- Agathion Virgo -->
+		<item id="48049" /> <!-- Agathion Capricorn -->
+		<item id="48050" /> <!-- Agathion Libra -->
+		<item id="48052" /> <!-- Agathion Taurus -->
+		<item id="48053" /> <!-- Agathion Leo -->
+		<item id="48054" /> <!-- Agathion Gemini -->
+		<item id="48055" /> <!-- Agathion Scorpio -->
+		<item id="48056" /> <!-- Agathion Aquarius -->
+		<item id="48058" /> <!-- Agathion Sagittarius -->
+	</enchant>
+	<!-- Stable Scroll: Enchant High Quality Agathion -->
+	<enchant id="91623" maxEnchant="10" safeEnchant="3">
+		<item id="93128" /> <!-- Agathion Ignis -->
+		<item id="93129" /> <!-- Agathion Nebula -->
+		<item id="93130" /> <!-- Agathion Procella -->
+		<item id="93131" /> <!-- Agathion Petram -->
+		<item id="93132" /> <!-- Agathion Joy -->
+		<item id="48048" /> <!-- Agathion Virgo -->
+		<item id="48049" /> <!-- Agathion Capricorn -->
+		<item id="48050" /> <!-- Agathion Libra -->
+		<item id="48052" /> <!-- Agathion Taurus -->
+		<item id="48053" /> <!-- Agathion Leo -->
+		<item id="48054" /> <!-- Agathion Gemini -->
+		<item id="48055" /> <!-- Agathion Scorpio -->
+		<item id="48056" /> <!-- Agathion Aquarius -->
+		<item id="48058" /> <!-- Agathion Sagittarius -->
+	</enchant>
+	<!-- Scroll: Enchant Agathion -->
+	<enchant id="93133" maxEnchant="10" safeEnchant="3">
+		<item id="93128" /> <!-- Agathion Ignis -->
+		<item id="93129" /> <!-- Agathion Nebula -->
+		<item id="93130" /> <!-- Agathion Procella -->
+		<item id="93131" /> <!-- Agathion Petram -->
+		<item id="93132" /> <!-- Agathion Joy -->
+		<item id="48048" /> <!-- Agathion Virgo -->
+		<item id="48049" /> <!-- Agathion Capricorn -->
+		<item id="48050" /> <!-- Agathion Libra -->
+		<item id="48052" /> <!-- Agathion Taurus -->
+		<item id="48053" /> <!-- Agathion Leo -->
+		<item id="48054" /> <!-- Agathion Gemini -->
+		<item id="48055" /> <!-- Agathion Scorpio -->
+		<item id="48056" /> <!-- Agathion Aquarius -->
+		<item id="48058" /> <!-- Agathion Sagittarius -->
+	</enchant>
+</list>

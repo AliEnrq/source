@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="DefeatTheQueen" active="22 09 2021-13 10 2029" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<spawnlist>
+		<add npc="34184" x="83332" y="149161" z="-3384" heading="49151" /> <!-- Antri Giran -->
+		<add npc="34184" x="147783" y="25627" z="-1996" heading="28180" /> <!-- Antri Aden Acord -->
+		<add npc="34184" x="-14789" y="123676" z="-3121" heading="7037" /> <!-- Antri Gludio -->
+		<add npc="34185" x="-9913" y="175356" z="-4154" heading="21798" /> <!-- Jio Ant Nest -->
+	</spawnlist>
+	<messages>
+		<add type="onEnd" text="Defeat the Queen: Event end!" />
+		<add type="onEnter" text="Defeat the Queen: Event ongoing!" />
+	</messages>
+</event>

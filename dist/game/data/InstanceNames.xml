@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/InstanceNames.xsd">
+	<instance id="147" name="Olympiad" />
+	<instance id="148" name="Olympiad" />
+	<instance id="149" name="Olympiad" />
+	<instance id="150" name="Olympiad" />
+	<instance id="151" name="Team Match" />
+	<instance id="152" name="Team Match" />
+	<instance id="153" name="Team Match" />
+	<instance id="182" name="Balthus Knight - Baium Expedition" />
+	<instance id="183" name="Balthus Knight - Antharas Expedition" />
+	<instance id="184" name="Balthus Knight - Zaken Expedition" />
+	<instance id="186" name="Orchid Hall" />
+	<instance id="187" name="Ellia Hall" />
+	<instance id="188" name="Laurell Hall" />
+	<instance id="189" name="Orchid Hall" />
+	<instance id="190" name="Ellia Hall" />
+	<instance id="191" name="Laurell Hall" />
+	<instance id="192" name="Monster Arena" />
+	<instance id="193" name="Elite Monster Arena" />
+	<instance id="194" name="Clan Arena" />
+	<instance id="195" name="Residence of King Ignis" />
+	<instance id="196" name="Residence of Queen Nebula" />
+	<instance id="197" name="Residence of King Procella" />
+	<instance id="198" name="Residence of King Petram" />
+	<instance id="199" name="Lilith" />
+	<instance id="200" name="Anakim" />
+	<instance id="201" name="Residence of King Ignis (extreme)" />
+	<instance id="202" name="Residence of Queen Nebula (extreme)" />
+	<instance id="203" name="Residence of King Procella (extreme)" />
+	<instance id="204" name="Residence of King Petram (extreme)" />
+	<instance id="205" name="Last Imperial Tomb - Frintezza" />
+	<instance id="206" name="Red Libra Guild Event - Talking Island" />
+	<instance id="207" name="Goldberg's Room" />
+	<instance id="208" name="Transcendent Instance Zone" /> <!-- Sea of Spores -->
+	<instance id="209" name="Transcendent Instance Zone" /> <!-- Enchanted Valley -->
+	<instance id="210" name="Transcendent Instance Zone" /> <!-- Blazing Swamp -->
+	<instance id="211" name="Transcendent Instance Zone" /> <!-- War-Torn Plains -->
+	<instance id="212" name="Transcendent Instance Zone" /> <!-- Dragon Valley -->
+	<instance id="213" name="Transcendent Instance Zone" /> <!-- Sel Mahum Base -->
+	<instance id="214" name="Dwelling of Spirits" />
+	<instance id="215" name="Transcendent Instance Zone" />
+	<instance id="216" name="Zaken's Headquarters" />
+	<instance id="217" name="Queen Ant's Lair" />
+	<instance id="218" name="Orfen's Lair" />
+	<instance id="219" name="Cruma's Central Control Room" />
+	<instance id="220" name="Baium's Lair" />
+	<instance id="222" name="Bandit Stronghold" />
+	<instance id="223" name="Bandit Stronghold" />
+	<instance id="1001" name="Primeval Isle" />
+	<instance id="1005" name="Alligator Island" />
+	<instance id="1006" name="Antharas' Lair" />
+	<instance id="1009" name="Forgotten Primeval Garden" />
+	<instance id="1013" name="Frost Lord's Castle" />
+	<instance id="1014" name="Frost Lord's Castle Hard" />
+	<instance id="1015" name="Black Anvil Guild Camp" />
+</list>

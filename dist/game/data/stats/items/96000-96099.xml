@@ -1,0 +1,1003 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="96000" name="Random Craft: Create +0 ~ +7 Dragon Valley's Earring" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to create one of the following items. -->
+		<set name="icon" val="icon.accessary_catseye_earing_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="STEEL" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96001" name="Aden Coin (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Can be added to a collection or exchanged for various items through the Game Assistant. -->
+		<set name="icon" val="icon.etc_magic_coin_gold_i01" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="96002" name="Aden Scroll (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect> All stats +1 P./ M. Atk. +100 P./ M. Def. +100 Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bm_challenger_scroll" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="etcitem_type" val="SCROLL" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="commissionItemType" val="SCROLL_OTHER" />
+		<cond addName="1" msgId="113">
+			<player flyMounted="false" />
+		</cond>
+		<skills>
+			<skill id="40374" level="1" /> <!-- Aden Scroll Lv. 1 -->
+		</skills>
+	</item>
+	<item id="96003" name="Random Craft: Spirit Ore (1000 pcs.)" additionalName="Sealed" type="EtcItem">
+		<!-- You will get the specified item after the successful craft attempt. -->
+		<set name="icon" val="icon.etc_stone_gray_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96004" name="Random Craft: HP Recovery Potion (10,000 pcs.)" additionalName="Sealed" type="EtcItem">
+		<!-- You will get the specified item after the successful craft attempt. -->
+		<set name="icon" val="icon.etc_lesser_potion_red_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96005" name="Random Craft: Soulshot Ticket (50 pcs.)" additionalName="Sealed" type="EtcItem">
+		<!-- You will get the specified item after the successful craft attempt. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96006" name="+5 Top-grade A-grade Weapon Pack" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.weapon_sirr_blade_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96007" name="Package: +5 Armor of Nightmare" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t80_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96008" name="Package: +5 Helm of Nightmare (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96009" name="Package: +5 Gauntlets of Nightmare (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t80_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96010" name="Package: +5 Boots of Nightmare (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t80_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96011" name="Package: +5 Majestic Plate Armor" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t83_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96012" name="Package: +5 Majestic Circlet (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96013" name="Package: +5 Majestic Gauntlets (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t83_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96014" name="Package: +5 Majestic Boots (Heavy)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t83_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96015" name="Package: +5 Leather Armor of Nightmare" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t81_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96016" name="Package: +5 Helm of Nightmare (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96017" name="Package: +5 Gauntlets of Nightmare (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t81_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96018" name="Package: +5 Boots of Nightmare (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t81_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96019" name="Package: +5 Majestic Leather Armor" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t84_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96020" name="Package: +5 Majestic Circlet (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96021" name="Package: +5 Majestic Gauntlets (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t84_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96022" name="Package: +5 Majestic Boots (Light)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t84_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96023" name="Package: +5 Robe of Nightmare" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t82_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96024" name="Package: +5 Helm of Nightmare (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96025" name="Package: +5 Gauntlets of Nightmare (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t82_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96026" name="Package: +5 Boots of Nightmare (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t82_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96027" name="Package: +5 Majestic Robe" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t85_ul_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96028" name="Package: +5 Majestic Circlet (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96029" name="Package: +5 Majestic Gauntlets (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t85_g_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96030" name="Package: +5 Majestic Boots (Robe)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t85_b_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96031" name="Package: +5 Leather Armor of Lightning" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t101_u_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96032" name="Package: +5 Leather Leggings of Lightning" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t102_l_i00" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96033" name="Package: +5 Ice Crystal Breastplate" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t94_u_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96034" name="Package: +5 Ice Crystal Gaiters" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t94_l_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96035" name="Package: +5 Flaming Tunic" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t96_u_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96036" name="Package: +5 Flaming Stockings" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.armor_t96_l_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96037" name="Spellbook: Sensation" type="EtcItem">
+		<!-- A spellbook for learning the Sensation skill. <Class> Cardinal <Skill effect> Recovers 100% HP/ CP of nearby clan members. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96038" name="Spellbook: Balanced Body" type="EtcItem">
+		<!-- A spellbook for learning the Balanced Body skill. <Class> Cardinal <Skill effect> Equalizes health level of nearby party members. Recovers 10% of Max HP. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96039" name="Spellbook: Advanced Cleanse" type="EtcItem">
+		<!-- A spellbook for learning the Advanced Cleanse skill. <Class> Cardinal <Skill effect> Removes debuffs and anomalies from the target. Applies a buff that increases Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96040" name="Spellbook: Treatment" type="EtcItem">
+		<!-- A spellbook for learning the Treatment skill. <Class> Eva's Saint <Skill effect> For the target and nearby allies: Removes Paralysis/ Shock/ Sleep/ Fear/ Imprisonment/ Knockback debuffs. Recovers a part of Max MP. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96041" name="Spellbook: Eva's Nocturne" type="EtcItem">
+		<!-- A spellbook for learning the Eva's Nocturne skill. <Class> Eva's Saint <Skill effect> Removes debuffs and anomalies from nearby party members. Applies a buff that increases Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96042" name="Spellbook: Eva's Power" type="EtcItem">
+		<!-- A spellbook for learning the Eva's Power skill. <Class> Eva's Saint <Skill effect> Increases the trigger rate of the following skills: Sleep Dryad Root -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96043" name="Spellbook: Duress" type="EtcItem">
+		<!-- A spellbook for learning the Duress skill. <Class> Shillien Saint <Skill effect> Holds the target and nearby enemies. Decreases P./ M. Atk. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96044" name="Spellbook: Nemesis" type="EtcItem">
+		<!-- A spellbook for learning the Nemesis skill. <Class> Shillien Saint <Skill effect> Decreases Received Healing of the target and nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96045" name="Spellbook: Shillien's Power" type="EtcItem">
+		<!-- A spellbook for learning the Shillien's Power skill. <Class> Shillien Saint <Skill effect> Increases your M. Atk. With a certain chance after using M. skills: Increases M. Atk./ Casting Spd. for a short time. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96046" name="Spellbook: Divine Recovery" type="EtcItem">
+		<!-- A spellbook for learning the Divine Recovery skill. <Classes> Cardinal Eva's Saint <Skill effect> Recovers MP when killing monsters. Recovers a lot of MP when killing in PvP. (Cooldown: 60 sec.) -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96047" name="Spellbook: Sacred Power" type="EtcItem">
+		<!-- A spellbook for learning the Sacred Power skill. <Classes> Cardinal Eva's Saint Shillien Saint <Skill effect> Increases M. Atk. according to your M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96048" name="Spellbook: Improved Resilience" type="EtcItem">
+		<!-- A spellbook for learning the Improved Resilience skill. <Classes> Eva's Saint Hierophant <Skill effect> Increases Shock/ Knockback/ Infection Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96049" name="Spellbook: Holy Buster" type="EtcItem">
+		<!-- A spellbook for learning the Holy Buster skill. <Classes> Cardinal Eva's Saint Shillien Saint Hierophant <Skill effect> When using the Divine Beam skill: With a certain chance, makes an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96050" name="Spellbook: Unleashing" type="EtcItem">
+		<!-- A spellbook for learning the Unleashing skill. <Classes> Cardinal Eva's Saint Shillien Saint <Skill effect> For a short time: Increases M. Atk./ Casting Spd./ M. Critical Rate/ Healing Power. Decreases M. Skill MP Consumption. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96051" name="Spellbook: Sensation" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Sensation skill. <Class> Cardinal <Skill effect> Recovers 100% HP/ CP of nearby clan members. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96052" name="Spellbook: Balanced Body" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Balanced Body skill. <Class> Cardinal <Skill effect> Equalizes health level of nearby party members. Recovers 10% of Max HP. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96053" name="Spellbook: Advanced Cleanse" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Advanced Cleanse skill. <Class> Cardinal <Skill effect> Removes debuffs and anomalies from the target. Applies a buff that increases Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96054" name="Spellbook: Treatment" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Treatment skill. <Class> Eva's Saint <Skill effect> For the target and nearby allies: Removes Paralysis/ Shock/ Sleep/ Fear/ Imprisonment/ Knockback debuffs. Recovers a part of Max MP. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96055" name="Spellbook: Eva's Nocturne" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Eva's Nocturne skill. <Class> Eva's Saint <Skill effect> Removes debuffs and anomalies from nearby party members. Applies a buff that increases Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96056" name="Spellbook: Eva's Power" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Eva's Power skill. <Class> Eva's Saint <Skill effect> Increases the trigger rate of the following skills: Sleep Dryad Root -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96057" name="Spellbook: Duress" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Duress skill. <Class> Shillien Saint <Skill effect> Holds the target and nearby enemies. Decreases P./ M. Atk. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96058" name="Spellbook: Nemesis" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Nemesis skill. <Class> Shillien Saint <Skill effect> Decreases Received Healing of the target and nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96059" name="Spellbook: Shillien's Power" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Shillien's Power skill. <Class> Shillien Saint <Skill effect> Increases your M. Atk. With a certain chance after using M. skills: Increases M. Atk./ Casting Spd. for a short time. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96060" name="Spellbook: Divine Recovery" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Divine Recovery skill. <Classes> Cardinal Eva's Saint <Skill effect> Recovers MP when killing monsters. Recovers a lot of MP when killing in PvP. (Cooldown: 60 sec.) -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96061" name="Spellbook: Sacred Power" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Sacred Power skill. <Classes> Cardinal Eva's Saint Shillien Saint <Skill effect> Increases M. Atk. according to your M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96062" name="Spellbook: Improved Resilience" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Improved Resilience skill. <Classes> Eva's Saint Hierophant <Skill effect> Increases Shock/ Knockback/ Infection Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96063" name="Spellbook: Unleashing" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Unleashing skill. <Classes> Cardinal Eva's Saint Shillien Saint <Skill effect> For a short time: Increases M. Atk./ Casting Spd./ M. Critical Rate/ Healing Power. Decreases M. Skill MP Consumption. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96064" name="Spellbook: Holy Buster" additionalName="Sealed" type="EtcItem">
+		<!-- A spellbook for learning the Holy Buster skill. <Classes> Cardinal Eva's Saint Shillien Saint Hierophant <Skill effect> When using the Divine Beam skill: With a certain chance, makes an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96065" name="Emerald Weapon - Ancient Sword" type="Weapon">
+		<set name="icon" val="BranchSys3.Icon.g_beam_twohand_sword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ANCIENTSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_type" val="B" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="209" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="96066" name="Elder Green's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i07" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96067" name="White Day's Star Candy (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- A candy for celebrating the White Day. Can be exchanged for various items through the Special Craft. -->
+		<set name="icon" val="BranchSys.br_rudolf_food_orange_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+	</item>
+	<item id="96068" name="White Day's Deluxe Candy Basket (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_whiteday_candy" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96069" name="White Day's Candy Basket (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_candy_basket_i04_1" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96070" name="Hero's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.present_of_destination_event" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96071" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96072" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96073" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96074" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96075" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96076" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96077" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96078" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96079" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96080" name="Red Libra's Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. - Various supplies (potions, scrolls, etc.) - Pet Book/ Accessory - Special armor - Boss' weapon - +5 Top-grade A-grade weapon - Rare accessory - Talisman of Baium - Master's Book - Rare spellbook - High-grade C-/ B-/ A-grade equipment -->
+		<set name="icon" val="icon.festival_question_box_i01" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96081" name="Red Libra's Coupon (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Required for exchanging items in the Red Libra's secret shop. -->
+		<set name="icon" val="icon.red_save_ticket" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96082" name="Daily Kit: Equipment (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.freya_box_i03" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96083" name="Garden of Genesis' Time Stone (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Prolongs your session zone's raid for 60 min. <Hunting zone> Garden of Genesis -->
+		<set name="icon" val="icon.bm_timezone_refill_pccafe_a_60" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="5" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96084" name="Treasure Chest of Genesis (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.new_user_box" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96085" name="Spring Energy (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Craft points +5000. <Effect> Sayha's Grace points +750. -->
+		<set name="icon" val="icon.etc_flower_i07" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="price" val="10000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96086" name="Invigorating Spring Energy (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Craft points +10,000. <Effect> Momentarily recovers 500 HP. If HP is full, CP is recovered. -->
+		<set name="icon" val="icon.etc_flower_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="price" val="20000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96087" name="Spring Crystal Shard (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- A crystal shard from the Garden of Genesis. <Effect> Can be exchanged for Spring Crystals in the Special Craft window. -->
+		<set name="icon" val="icon.etc_jewel_piece" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96088" name="Spring Crystal (Time-limited)" type="EtcItem">
+		<!-- Apherus' crystal. <Effect> Required for a collection to get additional stat bonuses. Can be used once to acquire craft points. -->
+		<set name="icon" val="icon.rare_acc_smith_piece" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="LIQUID" />
+		<set name="price" val="2000000" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96089" name="Aden Cloak" additionalName="Sealed" type="Armor">
+		<!-- Can be enchanted with Scroll: Enchant Aden Cloak. Depending on the enchant value, activates special effects. <font color=ff6666>Note! The item is destroyed if failing enchanting to +1. Available only to clan members.</font> -->
+		<set name="icon" val="BranchSys2.Icon.7anni_cloack_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96090" name="World Siege Reward Cloak - Not Available" additionalName="Not Available" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96091" name="Scroll: 100,000,000 SP" additionalName="Sealed" type="EtcItem">
+		<!-- SP +1,000,000,000. -->
+		<set name="icon" val="icon.etc_sp_scroll3_i00" />
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96092" name="Protection Treasure Chest (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.bm_dragon_present_5" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="FISH" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96093" name="Buff Expansion Book Lv. 3" additionalName="Sealed" type="EtcItem">
+		<!-- Required for learning the Divine Inspiration Lv. 3 skill. <Classes> All classes after the 3rd class change <Skill effect> Increases the number of buff slots. -->
+		<set name="icon" val="icon.etc_add_buffslot_i02" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96094" name="Buff Expansion Book Lv. 4" additionalName="Sealed" type="EtcItem">
+		<!-- Required for learning the Divine Inspiration Lv. 4 skill. <Classes> All classes after the 3rd class change <Skill effect> Increases the number of buff slots. -->
+		<set name="icon" val="icon.etc_add_buffslot_i03" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="120" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96095" name="Herphah's Mark (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain Shining Battle Support Chest through the Special Craft. Craft points +100,000. -->
+		<set name="icon" val="icon.etc_bereths_gold_dragon_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96096" name="Mark of Combat (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Required for a collection to get additional stat bonuses. -->
+		<set name="icon" val="icon.shield_bread_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96097" name="Shining Mark of Combat (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Required for a collection to get additional stat bonuses. -->
+		<set name="icon" val="icon.shield_bread_i01" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96098" name="Battle Support Mark (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain Battle Support Chest through the Special Craft. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+	<item id="96099" name="Mysterious Box (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Mysterious Box that lost all its power. Double-click to obtain the following items. -->
+		<set name="icon" val="icon.sayha2017_box_i04" />
+		<set name="default_action" val="PEEL" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+	</item>
+</list>

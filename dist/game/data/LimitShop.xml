@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/LimitShop.xsd">
+	<!-- Cat 0 Equipment -->
+	<product id="212" category="0" maxLevel="84">
+		<ingredient id="91663" count="4000" /> <!-- L-Coin -->
+		<production id="94735" accountBuyLimit="1" /> <!-- Starter Kit -->
+	</product>
+	<product id="213" category="0" maxLevel="84">
+		<ingredient id="91663" count="6000" /> <!-- L-Coin -->
+		<production id="94736" accountBuyLimit="3" /> <!-- Settling Kit: Jewel -->
+	</product>
+	<product id="214" category="0" maxLevel="84">
+		<ingredient id="91663" count="6000" /> <!-- L-Coin -->
+		<production id="94737" accountBuyLimit="3" /> <!-- Settling Kit: Agathion -->
+	</product>
+	<product id="215" category="0" maxLevel="84">
+		<ingredient id="91663" count="5000" /> <!-- L-Coin -->
+		<production id="94738" accountBuyLimit="3" /> <!-- Settling Kit: Upgrading -->
+	</product>
+	<product id="216" category="0">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="9589" /> <!-- Talisman Bracelet Lv. 1 -->
+	</product>
+	<product id="217" category="0">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="90311" /> <!-- Brooch Lv. 1 -->
+	</product>
+	<product id="218" category="0">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="90888" /> <!-- Agathion Bracelet Lv. 1 -->
+	</product>
+	<!-- Cat 1 Upgrade -->
+	<product id="219" category="1">
+		<ingredient id="91663" count="1500" /> <!-- L-Coin -->
+		<production id="729" /> <!-- Scroll: Enchant A-grade Weapon -->
+	</product>
+	<product id="220" category="1">
+		<ingredient id="91663" count="600" /> <!-- L-Coin -->
+		<production id="947" /> <!-- Scroll: Enchant B-grade Weapon -->
+	</product>
+	<product id="221" category="1">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="951" /> <!-- Scroll: Enchant C-grade Weapon -->
+	</product>
+	<product id="222" category="1">
+		<ingredient id="91663" count="350" /> <!-- L-Coin -->
+		<production id="730" /> <!-- Scroll: Enchant A-grade Armor -->
+	</product>
+	<product id="223" category="1">
+		<ingredient id="91663" count="100" /> <!-- L-Coin -->
+		<production id="948" /> <!-- Scroll: Enchant B-grade Armor -->
+	</product>
+	<product id="224" category="1">
+		<ingredient id="91663" count="50" /> <!-- L-Coin -->
+		<production id="952" /> <!-- Scroll: Enchant C-grade Armor -->
+	</product>
+	<!-- Cat 2 Supplies -->
+	<product id="225" category="2">
+		<ingredient id="91663" count="120" /> <!-- L-Coin -->
+		<production id="71900" /> <!-- Limited Sayha's Blessing (1 Day) -->
+	</product>
+	<product id="226" category="2">
+		<ingredient id="91663" count="2000" /> <!-- L-Coin -->
+		<production id="71899" /> <!-- Limited Sayha's Blessing (30 Day) -->
+	</product>
+	<product id="227" category="2">
+		<ingredient id="91663" count="20" /> <!-- L-Coin -->
+		<production id="91641" /> <!-- Sayha's Blessing -->
+	</product>
+	<product id="228" category="2">
+		<ingredient id="91663" count="6" /> <!-- L-Coin -->
+		<production id="90907" /> <!-- Soulshot Ticket -->
+	</product>
+	<product id="229" category="2">
+		<ingredient id="91663" count="20" /> <!-- L-Coin -->
+		<production id="49674" /> <!-- XP Growth Scroll -->
+	</product>
+	<product id="230" category="1" minLevel="60">
+		<ingredient id="91663" count="6" /> <!-- L-Coin -->
+		<production id="91690" /> <!-- Special HP Recovery Potion -->
+	</product>
+	<product id="231" category="2">
+		<ingredient id="91663" count="300" /> <!-- L-Coin -->
+		<production id="90404" /> <!-- My Teleport Book -->
+	</product>
+	<product id="232" category="2">
+		<ingredient id="91663" count="20" /> <!-- L-Coin -->
+		<production id="90405" /> <!-- My Teleport Scroll -->
+	</product>
+	<product id="233" category="2">
+		<ingredient id="91663" count="50" /> <!-- L-Coin -->
+		<production id="91996" /> <!-- Scroll of Escape Pack: Tower of Insolence (Floors 1-7) -->
+	</product>
+	<product id="234" category="2">
+		<ingredient id="91663" count="100" /> <!-- L-Coin -->
+		<production id="92973" /> <!-- Scroll of Escape Pack: Tower of Insolence (Floors 8-12) -->
+	</product>
+	<!-- Cat 3 Misc. -->
+	<product id="235" category="3">
+		<ingredient id="91663" count="300" /> <!-- L-Coin -->
+		<production id="92400" accountDailyLimit="1" /> <!-- Forgotten Primeval Garden's Time Stone -->
+	</product>
+	<product id="236" category="2" minLevel="76">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="91983" accountDailyLimit="1" /> <!-- Primeval Isle's Time Stone -->
+	</product>
+	<product id="237" category="3">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="93704" accountDailyLimit="1" /> <!-- Alligator Island's Time Stone -->
+	</product>
+	<product id="238" category="3">
+		<ingredient id="91663" count="600" /> <!-- L-Coin -->
+		<production id="93948" accountDailyLimit="1" /> <!-- Extra Pass: Transcendent Instance Zone -->
+	</product>
+	<!-- Cat 4 Adena store -->
+	<product id="239" category="4">
+		<ingredient id="57" count="50000" /> <!-- Adena -->
+		<production id="91641" accountDailyLimit="30" /> <!-- Sayha's Blessing -->
+	</product>
+	<product id="240" category="4">
+		<ingredient id="57" count="30000" /> <!-- Adena -->
+		<production id="91690" accountDailyLimit="100" /> <!-- Special HP Recovery Potion -->
+	</product>
+	<product id="241" category="4" minLevel="80">
+		<ingredient id="57" count="30000000" /> <!-- Adena -->
+		<production id="94208" accountDailyLimit="1" /> <!-- Scroll of Blessing -->
+	</product>
+	<product id="242" category="4">
+		<ingredient id="57" count="150000" /> <!-- Adena -->
+		<production id="94377" accountDailyLimit="10" /> <!-- Supply Pouch -->
+	</product>
+	<product id="243" category="4">
+		<ingredient id="57" count="5000000" /> <!-- Adena -->
+		<production id="94781" /> <!-- Growth Rune Lv. 1 -->
+	</product>
+	<product id="244" category="4">
+		<ingredient id="57" count="1000000" /> <!-- Adena -->
+		<production id="94780" accountDailyLimit="2" /> <!-- Growth Rune Fragment -->
+	</product>
+	<product id="245" category="4">
+		<ingredient id="57" count="1000000" /> <!-- Adena -->
+		<production id="94690" accountDailyLimit="3" /> <!-- Package: Scroll: Boost Attack (10 pcs.) -->
+	</product>
+	<product id="246" category="4">
+		<ingredient id="57" count="1000000" /> <!-- Adena -->
+		<production id="94691" accountDailyLimit="3" /> <!-- Package: Scroll: Boost Defense (10 pcs.) -->
+	</product>
+	<product id="247" category="4">
+		<ingredient id="57" count="500000" /> <!-- Adena -->
+		<production id="94777" accountDailyLimit="6" /> <!-- Berserker's Scroll -->
+	</product>
+	<product id="248" category="4">
+		<ingredient id="57" count="3000000" /> <!-- Adena -->
+		<production id="93038" accountDailyLimit="1" /> <!-- Scroll: Enchant Aden Weapon -->
+	</product>
+	<product id="249" category="4" minLevel="76">
+		<ingredient id="57" count="500000" /> <!-- Adena -->
+		<production id="91983" accountDailyLimit="4" /> <!-- Primeval Isle's Time Stone -->
+	</product>
+	<product id="250" category="4">
+		<ingredient id="57" count="1000000" /> <!-- Adena -->
+		<production id="91839" /> <!-- Blessed Scroll of Escape (Time-limited) -->
+	</product>
+	<!-- 
+	<product id="251" category="4">
+		<ingredient id="57" count="100000" /> Adena
+		<production id="95749" accountDailyLimit="20" /> Daily Enchant Scroll Pack
+	</product>
+	<product id="252" category="4">
+		<ingredient id="57" count="2000000" /> Adena
+		<production id="95746" accountDailyLimit="1" /> Enchant Package: Talisman of Aden
+	</product>
+	<product id="253" category="4">
+		<ingredient id="57" count="1000000" /> Adena
+		<production id="95747" accountDailyLimit="1" /> Enchant Package: Ring of Insolence
+	</product>
+	<product id="254" category="4">
+		<ingredient id="57" count="1000000" /> Adena
+		<production id="95748" accountDailyLimit="1" /> Enchant Package: Dragon Valley's Earring
+	</product>
+	-->
+	<!-- Cat 5 Events and Offers -->
+	<product id="210" category="5" minLevel="60">
+		<ingredient id="91663" count="5000" /> <!-- L-Coin -->
+		<production id="95681" accountBuyLimit="1" /> <!-- Premium Growth Kit -->
+	</product>
+	<product id="211" category="5">
+		<ingredient id="91663" count="200" /> <!-- L-Coin -->
+		<production id="93740" /> <!-- Giran Seal Pack -->
+	</product>
+</list>
