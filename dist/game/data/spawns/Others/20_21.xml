@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_21">
+		<group>
+			<npc id="22211" x="13773" y="116072" z="-9000" heading="14469" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13688" y="115784" z="-9000" heading="46158" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13488" y="115865" z="-9000" heading="28754" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13521" y="116137" z="-9000" heading="32041" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11707" y="112116" z="-9000" heading="44821" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11855" y="112012" z="-9000" heading="59147" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11778" y="112222" z="-9000" heading="24948" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11595" y="112359" z="-9000" heading="24948" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11690" y="112459" z="-9000" heading="8459" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21556" y="109464" z="-8976" heading="25636" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21722" y="109477" z="-8976" heading="4338" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21670" y="109197" z="-8976" heading="47218" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21512" y="109093" z="-8976" heading="32928" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21424" y="109153" z="-8976" heading="26526" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23823" y="119432" z="-8976" heading="14040" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23777" y="119603" z="-8976" heading="19739" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23818" y="119647" z="-8976" heading="3618" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="24032" y="119298" z="-8976" heading="48996" respawnTime="60sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23933" y="119543" z="-8976" heading="13573" respawnTime="60sec" /> <!-- Death Lord -->
+		</group>
+	</spawn>
+</list>

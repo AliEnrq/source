@@ -1065,7 +1065,7 @@
 		<isDebuff>true</isDebuff>
 		<abnormalVisualEffect>KNOCKDOWN</abnormalVisualEffect>
 		<trait>SHOCK</trait>
-		<targetType>ENEMY</targetType>
+		<targetType>SELF</targetType>
 		<affectScope>RANGE</affectScope>
 		<affectObject>NOT_FRIEND</affectObject>
 		<effects>
@@ -2145,7 +2145,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="47055" toLevel="1" name="Elemental Remedy">
+	<skill id="47055" toLevel="2" name="Elemental Remedy">
 		<!-- Spirit's power restores HP. -->
 		<icon>icon.skill19427</icon>
 		<abnormalLevel>1</abnormalLevel>

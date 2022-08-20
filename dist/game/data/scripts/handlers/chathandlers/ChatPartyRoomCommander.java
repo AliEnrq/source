@@ -36,7 +36,7 @@ public class ChatPartyRoomCommander implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
 	{
 		if (activeChar.isInParty() && activeChar.getParty().isInCommandChannel() && activeChar.getParty().getCommandChannel().getLeader().equals(activeChar))
 		{
@@ -50,7 +50,7 @@ public class ChatPartyRoomCommander implements IChatHandler
 				activeChar.sendPacket(SystemMessageId.CHATTING_IS_CURRENTLY_PROHIBITED);
 				return;
 			}
-			activeChar.getParty().getCommandChannel().broadcastCreatureSay(new CreatureSay(activeChar, type, activeChar.getName(), text), activeChar);
+			activeChar.getParty().getCommandChannel().broadcastCreatureSay(new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing), activeChar);
 		}
 	}
 	

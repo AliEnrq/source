@@ -42,6 +42,6 @@ public class ExRequestSharingLocationUi implements IClientIncomingPacket
 			return;
 		}
 		
-		client.sendPacket(new ExShowSharingLocationUi());
+		player.sendPacket(new ExShowSharingLocationUi());
 	}
 }

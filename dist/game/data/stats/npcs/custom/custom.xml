@@ -90,4 +90,624 @@
 			<height normal="12.5" />
 		</collision>
 	</npc>
+		<npc id="29228" level="80" type="GrandBoss" name="Valakas" title="Fire Dragon">
+		<parameters>
+			<param name="ultra_respawn_time" value="3" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="106719367.588933" hpRegen="319.2293199" mp="2542442.77305428" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="50" />
+				<run ground="279" />
+			</speed>
+			<abnormalResist physical="230" magical="230" />
+		</stats>
+		<status undying="false" noSleepMode="true" isDeathPenalty="true" />
+		<skillList>
+			<skill id="4122" level="1" /> <!-- Antharas -->
+			<skill id="4416" level="10" /> <!-- Dragons -->
+			<skill id="4112" level="1" /> <!-- Ordinary Attack -->
+			<skill id="5093" level="1" /> <!-- Antharas Meteor -->
+		</skillList>
+		<corpseTime>14</corpseTime>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="4096" clanHelpRange="300" isAggressive="true">
+			<skill maxChance="25" primaryId="4112" />
+		</ai>
+		<collision>
+			<radius normal="190" />
+			<height normal="335" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="5315" min="2" max="4" chance="50.41" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5292" min="2" max="4" chance="49.89" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5293" min="3" max="5" chance="20.98" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5311" min="1" max="3" chance="20.68" /> <!-- Sealed Armor of Nightmare -->
+				<item id="90992" min="1" max="1" chance="20.26" /> <!-- Antharas' Earring -->
+				<item id="5320" min="1" max="3" chance="20.12" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5316" min="1" max="3" chance="20.09" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5329" min="1" max="3" chance="20.09" /> <!-- Sealed Majestic Robe -->
+				<item id="5323" min="1" max="3" chance="19.95" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5326" min="1" max="3" chance="19.7" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5301" min="3" max="5" chance="17.35" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5308" min="3" max="5" chance="16.7" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5317" min="1" max="3" chance="13.24" /> <!-- Sealed Majestic Circlet -->
+				<item id="5295" min="3" max="5" chance="13.1" /> <!-- Sealed Tallum Gloves -->
+				<item id="5313" min="1" max="3" chance="13.14" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5319" min="1" max="3" chance="13.13" /> <!-- Sealed Majestic Boots -->
+				<item id="5298" min="3" max="5" chance="12.99" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5318" min="1" max="3" chance="12.9" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5312" min="1" max="3" chance="12.9" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5314" min="1" max="3" chance="12.86" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5304" min="3" max="5" chance="12.76" /> <!-- Sealed Tallum Tunic -->
+				<item id="5287" min="3" max="5" chance="12.69" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5288" min="3" max="5" chance="12.64" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5296" min="3" max="5" chance="12.32" /> <!-- Sealed Tallum Boots -->
+				<item id="5289" min="3" max="5" chance="12.1" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5297" min="3" max="5" chance="11.97" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5294" min="3" max="5" chance="11.9" /> <!-- Sealed Tallum Helmet -->
+				<item id="5305" min="3" max="5" chance="11.9" /> <!-- Sealed Tallum Stockings -->
+				<item id="5290" min="3" max="5" chance="10.07" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="3" max="5" chance="9.958" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="151" min="2" max="4" chance="8.446" /> <!-- Sword of Miracles -->
+				<item id="164" min="2" max="4" chance="8.44" /> <!-- Elysian -->
+				<item id="98" min="2" max="4" chance="8.408" /> <!-- Halberd -->
+				<item id="80" min="2" max="4" chance="8.387" /> <!-- Tallum Blade -->
+				<item id="91903" min="2" max="4" chance="8.366" /> <!-- Lacerator -->
+				<item id="213" min="2" max="4" chance="8.375" /> <!-- Branch of the Mother Tree -->
+				<item id="212" min="2" max="4" chance="8.362" /> <!-- Dasparion's Staff -->
+				<item id="305" min="2" max="4" chance="8.348" /> <!-- Tallum Glaive -->
+				<item id="288" min="2" max="4" chance="8.346" /> <!-- Carnage Bow -->
+				<item id="81" min="2" max="4" chance="8.353" /> <!-- Dragon Slayer -->
+				<item id="7884" min="2" max="4" chance="8.333" /> <!-- Infernal Master -->
+				<item id="150" min="2" max="4" chance="8.332" /> <!-- Elemental Sword -->
+				<item id="7895" min="2" max="4" chance="8.301" /> <!-- Flaming Dragon Skull -->
+				<item id="2504" min="2" max="4" chance="8.3" /> <!-- Meteor Shower -->
+				<item id="235" min="2" max="4" chance="8.294" /> <!-- Bloody Orchid -->
+				<item id="2500" min="2" max="4" chance="8.28" /> <!-- Dark Legion's Edge -->
+				<item id="91888" min="2" max="4" chance="8.277" /> <!-- Undertaker -->
+				<item id="269" min="2" max="4" chance="8.274" /> <!-- Blood Tornado -->
+				<item id="7899" min="2" max="4" chance="8.266" /> <!-- Destroyer Hammer -->
+				<item id="236" min="2" max="4" chance="8.254" /> <!-- Soul Separator -->
+				<item id="270" min="2" max="4" chance="8.251" /> <!-- Dragon Grinder -->
+				<item id="289" min="2" max="4" chance="8.24" /> <!-- Soul Bow -->
+				<item id="7894" min="2" max="4" chance="8.233" /> <!-- Spiritual Eye -->
+				<item id="7902" min="2" max="4" chance="8.232" /> <!-- Doom Crusher -->
+				<item id="8681" min="1" max="3" chance="7.256" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8678" min="1" max="3" chance="7.21" /> <!-- Sirra's Blade -->
+				<item id="8679" min="1" max="3" chance="7.181" /> <!-- Sword of Ipos -->
+				<item id="8682" min="1" max="3" chance="7.18" /> <!-- Naga's Storm -->
+				<item id="8687" min="1" max="3" chance="7.169" /> <!-- Cabrio's Hand -->
+				<item id="8680" min="1" max="3" chance="7.15" /> <!-- Barakiel's Axe -->
+				<item id="8683" min="1" max="3" chance="7.144" /> <!-- Tiphon's Spear -->
+				<item id="8686" min="1" max="3" chance="7.122" /> <!-- Themis' Tongue -->
+				<item id="5706" min="1" max="3" chance="7.12" /> <!-- Damascus*Damascus -->
+				<item id="91887" min="1" max="3" chance="7.109" /> <!-- Durendal -->
+				<item id="8684" min="1" max="3" chance="7.104" /> <!-- Shyeed's Bow -->
+				<item id="91902" min="1" max="3" chance="7.1" /> <!-- Éclair Bijou -->
+				<item id="8688" min="1" max="3" chance="7.047" /> <!-- Daimon Crystal -->
+				<item id="8685" min="1" max="3" chance="7.047" /> <!-- Sobekk's Hurricane -->
+				<item id="729" min="16" max="24" chance="100" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="730" min="32" max="48" chance="100" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="947" min="24" max="36" chance="100" /> <!-- Scroll: Enchant B-grade Weapon (Exchangeable) -->
+				<item id="948" min="32" max="48" chance="100" /> <!-- Scroll: Enchant B-grade Armor (Exchangeable) -->
+				<item id="93387" min="1" max="1" chance="20.69" /> <!-- Spellbook: Ultimate Death Knight Transformation -->
+			</drop>
+		</dropLists>
+	</npc>
+		<npc id="29304" level="80" type="RaidBoss" name="Helios" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="105" />
+			<height normal="152" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+		<npc id="29320" level="80" type="RaidBoss" name="Kain Van Halter" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="136.2" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+		<npc id="29250" level="80" type="RaidBoss" name="Beleth" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="136.2" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+		<npc id="26328" level="80" type="RaidBoss" name="Etis Van Etinas" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="42" />
+			<height normal="136.2" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>	
+	<npc id="56716" level="80" type="RaidBoss" name="Lindvior Guardian" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="105" />
+			<height normal="152" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56717" level="80" type="RaidBoss" name="Ramona Giant Queen" element="EARTH">
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="0" sp="0" attributeExp="104000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2851877.47035573" hpRegen="319.2293199" mp="4203.40091563113" mpRegen="3" />
+			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="208.284023668639" magical="95.9748607784026" />
+			<speed>
+				<walk ground="40" />
+				<run ground="190" />
+			</speed>
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="105" />
+			<height normal="152" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="7" /> <!-- Spirits -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48047" level="1" /> <!-- Monster of Earth Element -->
+			<skill id="50082" level="1" /> <!-- Raid Boss (Lv. 82) -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="5311" min="1" max="1" chance="1.96" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5293" min="1" max="1" chance="1.956" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5287" min="1" max="1" chance="1.933" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5305" min="1" max="1" chance="1.932" /> <!-- Sealed Tallum Stockings -->
+				<item id="5295" min="1" max="1" chance="1.93" /> <!-- Sealed Tallum Gloves -->
+				<item id="5312" min="1" max="1" chance="1.925" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5297" min="1" max="1" chance="1.919" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5314" min="1" max="1" chance="1.913" /> <!-- Sealed Boots of Nightmare -->
+				<item id="5290" min="1" max="1" chance="1.912" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5323" min="1" max="1" chance="1.904" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5320" min="1" max="1" chance="1.902" /> <!-- Sealed Leather Armor of Nightmare -->
+				<item id="5289" min="1" max="1" chance="1.897" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5318" min="1" max="1" chance="1.895" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5313" min="1" max="1" chance="1.895" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="5308" min="1" max="1" chance="1.894" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5288" min="1" max="1" chance="1.883" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5292" min="1" max="1" chance="1.878" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5317" min="1" max="1" chance="1.867" /> <!-- Sealed Majestic Circlet -->
+				<item id="5319" min="1" max="1" chance="1.866" /> <!-- Sealed Majestic Boots -->
+				<item id="5316" min="1" max="1" chance="1.865" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5298" min="1" max="1" chance="1.858" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5315" min="1" max="1" chance="1.854" /> <!-- Sealed Shield of Nightmare -->
+				<item id="5291" min="1" max="1" chance="1.85" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5304" min="1" max="1" chance="1.845" /> <!-- Sealed Tallum Tunic -->
+				<item id="5294" min="1" max="1" chance="1.844" /> <!-- Sealed Tallum Helmet -->
+				<item id="5301" min="1" max="1" chance="1.843" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5296" min="1" max="1" chance="1.842" /> <!-- Sealed Tallum Boots -->
+				<item id="5326" min="1" max="1" chance="1.836" /> <!-- Sealed Robe of Nightmare -->
+				<item id="5329" min="1" max="1" chance="1.83" /> <!-- Sealed Majestic Robe -->
+				<item id="91887" min="1" max="1" chance="0.075" /> <!-- Durendal -->
+				<item id="8938" min="1" max="1" chance="0.075" /> <!-- Tallum Blade*Damascus -->
+				<item id="8688" min="1" max="1" chance="0.075" /> <!-- Daimon Crystal -->
+				<item id="8687" min="1" max="1" chance="0.075" /> <!-- Cabrio's Hand -->
+				<item id="8686" min="1" max="1" chance="0.075" /> <!-- Themis' Tongue -->
+				<item id="8685" min="1" max="1" chance="0.075" /> <!-- Sobekk's Hurricane -->
+				<item id="8684" min="1" max="1" chance="0.075" /> <!-- Shyeed's Bow -->
+				<item id="8683" min="1" max="1" chance="0.075" /> <!-- Tiphon's Spear -->
+				<item id="8682" min="1" max="1" chance="0.075" /> <!-- Naga's Storm -->
+				<item id="8681" min="1" max="1" chance="0.075" /> <!-- Behemoth' Tuning Fork -->
+				<item id="8680" min="1" max="1" chance="0.075" /> <!-- Barakiel's Axe -->
+				<item id="8679" min="1" max="1" chance="0.075" /> <!-- Sword of Ipos -->
+				<item id="8678" min="1" max="1" chance="0.075" /> <!-- Sirra's Blade -->
+				<item id="91902" min="1" max="1" chance="0.075" /> <!-- Éclair Bijou -->
+				<item id="91034" min="1" max="1" chance="1.94" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="90006" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90005" min="1" max="1" chance="0.3" /> <!-- Best WIT Dye <WIT +4 INT -2> - 3rd Class Transfer -->
+				<item id="90004" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90003" min="1" max="1" chance="0.3" /> <!-- Best MEN Dye <MEN +4 INT -2> - 3rd Class Transfer -->
+				<item id="90002" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 WIT -2> - 3rd Class Transfer -->
+				<item id="90001" min="1" max="1" chance="0.3" /> <!-- Best INT Dye <INT +4 MEN -2> - 3rd Class Transfer -->
+				<item id="90000" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 CON -2> - 3rd Class Transfer -->
+				<item id="49999" min="1" max="1" chance="0.3" /> <!-- Best DEX Dye <DEX +4 STR -2> - 3rd Class Transfer -->
+				<item id="49998" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49997" min="1" max="1" chance="0.3" /> <!-- Best CON Dye <CON +4 STR -2> - 3rd Class Transfer -->
+				<item id="49996" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 DEX -2> - 3rd Class Transfer -->
+				<item id="49995" min="1" max="1" chance="0.3" /> <!-- Best STR Dye <STR +4 CON -2> - 3rd Class Transfer -->
+			</drop>
+		</dropLists>
+	</npc>
 </list>

@@ -296,7 +296,7 @@ public class AdminAdmin implements IAdminCommandHandler
 						sb.append(" ");
 					}
 					
-					final CreatureSay cs = new CreatureSay(activeChar, ChatType.WORLD, activeChar.getName(), sb.toString());
+					final CreatureSay cs = new CreatureSay(activeChar, ChatType.WORLD, activeChar.getName(), sb.toString(), 0);
 					for (Player player : World.getInstance().getPlayers())
 					{
 						if (player.isNotBlocked(activeChar))

@@ -1695,7 +1695,7 @@
 	<skill id="1148" toLevel="30" name="Death Spike">
 		<!-- Attacks with dark energy. Deals great damage to the enemy with $s1 power. The skill is available after the 3nd class change. Consumes 1 Cursed Bone. -->
 		<icon>icon.skill1148</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-220</value>
 			<value level="2">-235</value>
@@ -1733,8 +1733,6 @@
 		<attributeValue>20</attributeValue>
 		<hitTime>4000</hitTime>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
-		<itemConsumeCount>1</itemConsumeCount>
-		<itemConsumeId>2508</itemConsumeId> <!-- Cursed Bone -->
 		<magicLevel>
 			<value level="1">40</value>
 			<value level="2">43</value>
@@ -2318,7 +2316,7 @@
 	<skill id="1159" toLevel="30" name="Curse Death Link">
 		<!-- Transfers your pain to the enemy. Deals magic damage with $s1 power. The lower your HP, the stronger the skill effect. -->
 		<icon>icon.skill1159</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-270</value>
 			<value level="2">-280</value>
@@ -3769,7 +3767,7 @@
 	<skill id="1175" toLevel="40" name="Aqua Swirl">
 		<!-- Releases a water vortex. Inflicts magic damage with $s1 power. -->
 		<icon>icon.skill1175</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-105</value>
 			<value level="2">-120</value>
@@ -3958,7 +3956,7 @@
 		<icon>icon.skill1176</icon>
 		<affectLimit>5-12</affectLimit>
 		<affectRange>200</affectRange>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-110</value>
 			<value level="2">-115</value>
@@ -4163,7 +4161,7 @@
 	<skill id="1178" toLevel="40" name="Twister">
 		<!-- Summons a wind blade. Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1178</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-105</value>
 			<value level="2">-120</value>

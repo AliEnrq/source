@@ -5603,7 +5603,7 @@
 	</skill>
 	<skill id="45241" toLevel="15" name="Divine Beam">
 		<!-- Purifies with holy light. Inflicts magic damage with $s1 power. When the held enemy is attacked Inflicts an additional attack if Hold is canceled. Deals additional damage to demons and undead. -->
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<attributeType>HOLY</attributeType>
 		<attributeValue>20</attributeValue>
 		<effectPoint>

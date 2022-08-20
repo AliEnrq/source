@@ -111,7 +111,13 @@
 		<item id="49467" />
 		<item id="49468" />
 	</enchant>
-
+	
+    <!-- Talisman of Baium -->
+    <enchant id="91951" maxEnchant="5">
+        <item id="49683" />
+        <item id="94119" />
+    </enchant>
+	
 	<!-- Savior Scroll: Enchant Weapon -->
 	<enchant id="90149" targetGrade="C" maxEnchant="10">
 		<item id="90150" />

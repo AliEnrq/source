@@ -928,9 +928,6 @@
 			<effect name="VitalityPointUp">
 				<value>35000</value>
 			</effect>
-			<effect name="ModifyMagicLampPoints">
-				<amount>50000</amount>
-			</effect>
 			<effect name="ModifyCraftPoints">
 				<amount>3250</amount>
 			</effect>

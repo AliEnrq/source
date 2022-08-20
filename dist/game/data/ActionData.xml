@@ -63,6 +63,7 @@
 	<action id="88" handler="SocialAction" option="29" /> <!-- Provoke -->
 	<action id="89" handler="SocialAction" option="30" /> <!-- Beauty Shop -->
 	<action id="90" handler="InstanceZoneInfo" />
+	<action id="99" handler="InstanceZoneInfo" />
 	<action id="1000" handler="ServitorSkillUse" option="4079" /> <!-- Siege Golem - Siege Hammer -->
 	<action id="1003" handler="PetSkillUse" option="4710" /> <!-- Wind Hatchling/Strider - Wild Stun -->
 	<action id="1004" handler="PetSkillUse" option="4711" /> <!-- Wind Hatchling/Strider - Wild Defense -->

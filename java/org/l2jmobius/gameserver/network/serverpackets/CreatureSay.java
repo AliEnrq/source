@@ -23,6 +23,7 @@ import org.l2jmobius.commons.network.PacketWriter;
 import org.l2jmobius.gameserver.enums.ChatType;
 import org.l2jmobius.gameserver.instancemanager.MentorManager;
 import org.l2jmobius.gameserver.instancemanager.RankManager;
+import org.l2jmobius.gameserver.instancemanager.SharedTeleportManager;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.clan.Clan;
@@ -40,6 +41,7 @@ public class CreatureSay implements IClientOutgoingPacket
 	private int _messageId = -1;
 	private int _mask;
 	private List<String> _parameters;
+	private int _isLocSharing;
 	
 	/**
 	 * @param sender
@@ -47,13 +49,15 @@ public class CreatureSay implements IClientOutgoingPacket
 	 * @param name
 	 * @param chatType
 	 * @param text
+	 * @param isLocSharing
 	 */
-	public CreatureSay(Player sender, Player receiver, String name, ChatType chatType, String text)
+	public CreatureSay(Player sender, Player receiver, String name, ChatType chatType, String text, int isLocSharing)
 	{
 		_sender = sender;
 		_senderName = name;
 		_chatType = chatType;
 		_text = text;
+		_isLocSharing = isLocSharing;
 		if (receiver != null)
 		{
 			if (receiver.getFriendList().contains(sender.getObjectId()))
@@ -80,12 +84,13 @@ public class CreatureSay implements IClientOutgoingPacket
 		}
 	}
 	
-	public CreatureSay(Creature sender, ChatType chatType, String senderName, String text)
+	public CreatureSay(Creature sender, ChatType chatType, String senderName, String text, int isLocSharing)
 	{
 		_sender = sender;
 		_chatType = chatType;
 		_senderName = senderName;
 		_text = text;
+		_isLocSharing = isLocSharing;
 	}
 	
 	public CreatureSay(Creature sender, ChatType chatType, NpcStringId npcStringId)
@@ -186,6 +191,12 @@ public class CreatureSay implements IClientOutgoingPacket
 			else
 			{
 				packet.writeC(0);
+			}
+			if ((_isLocSharing == 1))
+			{
+				packet.writeC(1);
+				SharedTeleportManager.getInstance().addSharedTeleport((Player) _sender);
+				packet.writeH(SharedTeleportManager.getInstance().getLastSharedId());
 			}
 		}
 		else

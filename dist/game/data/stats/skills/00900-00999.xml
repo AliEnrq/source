@@ -1340,7 +1340,8 @@
 		<icon>icon.skill0922</icon>
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalType>HIDE</abnormalType>
-		<abnormalVisualEffect>STEALTH</abnormalVisualEffect>
+		<abnormalVisualEffect>RO_COUNTER_TRASPIE</abnormalVisualEffect>
+		<abnormalVisualEffect>RO_GHOST_REFLECT</abnormalVisualEffect>
 		<abnormalTime>
 			<value level="1">15</value>
 			<value level="2">20</value>
@@ -4808,7 +4809,7 @@
 	<skill id="990" toLevel="1" name="Death Sting">
 		<!-- <Silence Skill> Shoots an arrow of death at the enemy. Deals physical damage with 13006 power. For 3 sec., blocks magical skill usage. Critical. -->
 		<icon>icon.skill0990</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<coolTime>500</coolTime>
 		<effectPoint>-415</effectPoint>
 		<effectRange>1400</effectRange>

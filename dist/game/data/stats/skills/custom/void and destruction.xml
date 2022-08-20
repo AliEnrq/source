@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/skills.xsd">
+		<skill id="11620" toLevel="2" name="Epic Talisman">
+		<!-- <Effect> P. Atk. +14 M. Atk. +22 -->
+		<icon>
+			<value level="1">icon.accesory_longing_talisman_i01</value>
+			<value level="2">icon.accesory_hellfire_talisman_i01</value>
+		</icon>
+		<operateType>P</operateType>
+		<magicLevel>1</magicLevel>
+		<excludedFromCheck>true</excludedFromCheck>
+		<effects>
+			<effect name="PAtk">
+				<amount>
+					<value level="1">400</value>
+					<value level="2">800</value>
+				</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>
+					<value level="1">500</value>
+					<value level="2">900</value>
+				</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+				<amount>
+					<value level="1">13</value>
+					<value level="2">15</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="PhysicalSkillPower">
+				<amount>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="MagicalSkillPower">
+				<amount>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="DefenceTrait">
+				<BLUNT>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</BLUNT>
+				<SWORD>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</SWORD>
+				<DUAL>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</DUAL>
+				<BOW>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</BOW>
+				<POLE>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</POLE>
+				<DAGGER>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</DAGGER>
+				<DUALFIST>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</DUALFIST>
+				<DUALDAGGER>
+					<value level="1">7</value>
+					<value level="2">10</value>
+				</DUALDAGGER>
+			</effect>
+			<effect name="StatUp">
+				<amount>
+					<value level="1">2</value>
+					<value level="2">2</value>
+				</amount>
+				<stat>CON</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>
+					<value level="1">2</value>
+					<value level="2">2</value>
+				</amount>
+				<stat>MEN</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>
+					<value level="1">1</value>
+					<value level="2">2</value>
+				</amount>
+				<stat>STR</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>
+					<value level="1">1</value>
+					<value level="2">2</value>
+				</amount>
+				<stat>INT</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>
+					<value level="1">1</value>
+					<value level="2">2</value>
+				</amount>
+				<stat>DEX</stat>
+			</effect>
+			<effect name="StatUp">
+				<amount>
+					<value level="1">1</value>
+					<value level="2">2</value>
+				</amount>
+				<stat>WIT</stat>
+			</effect>
+			<effect name="MagicCriticalRate">
+				<amount>
+					<value level="1">30</value>
+					<value level="2">50</value>
+				</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="PhysicalSkillCriticalRate">
+				<amount>
+					<value level="1">2</value>
+					<value level="2">5</value>
+				</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="Reuse">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">8</value>
+				</amount>
+				<mode>PER</mode>
+				<magicType>0</magicType>
+			</effect>
+			<effect name="Reuse">
+				<amount>
+					<value level="1">5</value>
+					<value level="2">8</value>
+				</amount>
+				<mode>PER</mode>
+				<magicType>1</magicType>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="11623" toLevel="1" name="Talisman of Valakas">
+		<!-- Imbues with Talisman of Baium power. -->
+		<icon>icon.accesory_hellfire_talisman_i01</icon>
+		<abnormalType>SEED_TALISMAN1</abnormalType>
+		<abnormalVisualEffect>BR_Y_3_TALI_DECO_WING</abnormalVisualEffect>
+		<operateType>A2</operateType>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-2</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<buffProtectLevel>31</buffProtectLevel>
+		<magicLevel>40</magicLevel>
+		<abnormalLevel>6</abnormalLevel>
+		<abnormalTime>-1</abnormalTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<blockActionUseSkill>true</blockActionUseSkill>
+		<isMagic>3</isMagic>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+	</skill>
+	<skill id="11621" toLevel="1" name="Talisman of Void">
+		<!-- Imbues with Talisman of Baium power. -->
+		<icon>icon.accesory_longing_talisman_i01</icon>
+		<abnormalType>SEED_TALISMAN1</abnormalType>
+		<abnormalVisualEffect>SEED_TALISMAN1</abnormalVisualEffect>
+		<operateType>A2</operateType>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<specialLevel>-2</specialLevel>
+		<hitCancelTime>0</hitCancelTime>
+		<buffProtectLevel>31</buffProtectLevel>
+		<magicLevel>40</magicLevel>
+		<abnormalLevel>6</abnormalLevel>
+		<abnormalTime>-1</abnormalTime>
+		<irreplacableBuff>true</irreplacableBuff>
+		<blockActionUseSkill>true</blockActionUseSkill>
+		<isMagic>3</isMagic>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+	</skill>
+	<skill id="11622" toLevel="1" name="Talisman removal">
+		<!-- The effect of Talisman of Baium weakens. -->
+		<icon>icon.tallisman_baium</icon>
+		<operateType>A1</operateType>
+		<effectPoint>1</effectPoint>
+		<magicCriticalRate>5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<magicLevel>40</magicLevel>
+		<trait>HOLD</trait>
+		<isMagic>2</isMagic>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="DispelBySlot">
+				<dispel>SEED_TALISMAN1,-1</dispel>
+			</effect>
+		</effects>
+	</skill>
+</list>

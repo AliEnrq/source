@@ -156,6 +156,7 @@ import org.l2jmobius.gameserver.network.clientpackets.subjugation.RequestSubjuga
 import org.l2jmobius.gameserver.network.clientpackets.subjugation.RequestSubjugationGachaUI;
 import org.l2jmobius.gameserver.network.clientpackets.subjugation.RequestSubjugationList;
 import org.l2jmobius.gameserver.network.clientpackets.subjugation.RequestSubjugationRanking;
+import org.l2jmobius.gameserver.network.clientpackets.teleports.ExRequestSharedLocationTeleport;
 import org.l2jmobius.gameserver.network.clientpackets.teleports.ExRequestSharedLocationTeleportUi;
 import org.l2jmobius.gameserver.network.clientpackets.teleports.ExRequestSharingLocationUi;
 import org.l2jmobius.gameserver.network.clientpackets.teleports.ExRequestTeleport;
@@ -594,7 +595,7 @@ public enum ExIncomingPackets implements IIncomingPackets<GameClient>
 	// 270
 	EX_SHARED_POSITION_SHARING_UI(0x1A1, ExRequestSharingLocationUi::new, ConnectionState.IN_GAME),
 	EX_SHARED_POSITION_TELEPORT_UI(0x1A2, ExRequestSharedLocationTeleportUi::new, ConnectionState.IN_GAME),
-	EX_SHARED_POSITION_TELEPORT(0x1A3, ExRequestSharedLocationTeleportUi::new, ConnectionState.IN_GAME),
+	EX_SHARED_POSITION_TELEPORT(0x1A3, ExRequestSharedLocationTeleport::new, ConnectionState.IN_GAME),
 	EX_AUTH_RECONNECT(0x1A4, null, ConnectionState.IN_GAME),
 	EX_PET_EQUIP_ITEM(0x1A5, ExPetEquipItem::new, ConnectionState.IN_GAME),
 	EX_PET_UNEQUIP_ITEM(0x1A6, ExPetUnequipItem::new, ConnectionState.IN_GAME),

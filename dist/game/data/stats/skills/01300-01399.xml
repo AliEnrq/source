@@ -1567,7 +1567,7 @@
 		<!-- <Infection skill> Summons a hurricane imbued with the power of fire. A magical attack. Power $s1. The effect lasts for $s2 Speed -$s3 Atk. Spd. -$s4 Casting Spd. -$s5 Constantly consumes MP. -->
 		<icon>icon.skill1339</icon>
 		<basicProperty>MAGIC</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-500</value>
 			<value level="2">-502</value>
@@ -1622,7 +1622,7 @@
 		<!-- <Infection skill> Summons a hurricane imbued with the power of water. A magical attack. Power $s1. The effect lasts for $s2 Speed -$s3 Constantly consumes MP. -->
 		<icon>icon.skill1340</icon>
 		<basicProperty>MAGIC</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-500</value>
 			<value level="2">-502</value>
@@ -1676,7 +1676,7 @@
 		<!-- <Infection skill> Summons a hurricane imbued with the power of wind. A magical attack. Power $s1. The effect lasts for $s2 Atk. Spd. -$s3 Casting Spd. -$s4 Constantly consumes MP. -->
 		<icon>icon.skill1341</icon>
 		<basicProperty>MAGIC</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-500</value>
 			<value level="2">-502</value>

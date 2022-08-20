@@ -124,7 +124,7 @@ public class FindPvP implements IBypassHandler
 				
 				if (biggestAllyId == allyId)
 				{
-					player.sendPacket(new CreatureSay(null, ChatType.WHISPER, target.getName(), "Sorry, your clan/ally is outnumbering the place already so you can't move there."));
+					player.sendPacket(new CreatureSay(null, ChatType.WHISPER, target.getName(), "Sorry, your clan/ally is outnumbering the place already so you can't move there.", 0));
 					return true;
 				}
 			}
@@ -139,7 +139,7 @@ public class FindPvP implements IBypassHandler
 		}
 		else
 		{
-			player.sendPacket(new CreatureSay(null, ChatType.WHISPER, target.getName(), "Sorry, I can't find anyone in flag status right now."));
+			player.sendPacket(new CreatureSay(null, ChatType.WHISPER, target.getName(), "Sorry, I can't find anyone in flag status right now.", 0));
 		}
 		return false;
 	}

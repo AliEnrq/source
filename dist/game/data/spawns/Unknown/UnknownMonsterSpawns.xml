@@ -6,7 +6,6 @@
 			<npc id="20205" x="32657" y="135396" z="-3280" heading="0" respawnTime="24sec" /> <!-- Dire Wolf -->
 			<npc id="20205" x="32663" y="137441" z="-3123" heading="27139" respawnTime="24sec" /> <!-- Dire Wolf -->
 			<npc id="20206" x="80" y="161534" z="-3131" heading="44906" respawnTime="29sec" /> <!-- Cardiff Werewolf -->
-			<npc id="20240" x="98129" y="109578" z="-3717" heading="644" respawnTime="36sec" /> <!-- Royal Cave Servant -->
 			<npc id="20241" x="89452" y="-61" z="-3592" heading="31293" respawnTime="41sec" /> <!-- Gargoyle Hunter -->
 			<npc id="20241" x="91219" y="-94" z="-3714" heading="11642" respawnTime="41sec" /> <!-- Gargoyle Hunter -->
 			<npc id="20241" x="98042" y="-9903" z="-3236" heading="62044" respawnTime="41sec" /> <!-- Gargoyle Hunter -->

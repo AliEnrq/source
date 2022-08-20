@@ -23,13 +23,16 @@ import org.l2jmobius.gameserver.network.clientpackets.IClientIncomingPacket;
 import org.l2jmobius.gameserver.network.serverpackets.teleports.ExShowSharedLocationTeleportUi;
 
 /**
- * @author GustavoFonseca
+ * @author NasSeKa
  */
 public class ExRequestSharedLocationTeleportUi implements IClientIncomingPacket
 {
+	private int _id;
+	
 	@Override
 	public boolean read(GameClient client, PacketReader packet)
 	{
+		_id = packet.readD();
 		return true;
 	}
 	
@@ -42,6 +45,8 @@ public class ExRequestSharedLocationTeleportUi implements IClientIncomingPacket
 			return;
 		}
 		
-		client.sendPacket(new ExShowSharedLocationTeleportUi());
+		int tpId = (_id - 1) / 256;
+		
+		client.sendPacket(new ExShowSharedLocationTeleportUi(tpId));
 	}
 }

@@ -22,4 +22,362 @@
 			<skill id="26030" level="1" /> <!-- Mana Potion -->
 		</skills>
 	</item>
+	<item id="35000" name="Gold's Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35001" name="Twitch's Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35002" name="	Purple's Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35005" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35006" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35007" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35008" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35009" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35010" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35011" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35012" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35013" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35014" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35015" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35016" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35017" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35018" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35019" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35020" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35021" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="35022" name="Cloak" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="back" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="220" />
+		<set name="price" val="29674485" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<skills>
+			<skill id="45020" level="1" /> <!-- Zaken's Cloak -->
+		</skills>
+	</item>
 </list>
+

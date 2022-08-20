@@ -111,7 +111,7 @@
 		<!-- The curse of the Raid Boss guardian spirit temporarily petrifies the target. This curse befalls those who attempt to challenge a raid boss who is 9 or more levels below their own, or those who do not meet the requirements for the raid. The curse is irreversible. -->
 		<icon>icon.skill4111</icon>
 		<abnormalLevel>99</abnormalLevel>
-		<abnormalTime>120</abnormalTime>
+		<abnormalTime>15</abnormalTime>
 		<abnormalType>TURN_STONE</abnormalType>
 		<abnormalVisualEffect>FLESH_STONE</abnormalVisualEffect>
 		<canBeDispelled>false</canBeDispelled>

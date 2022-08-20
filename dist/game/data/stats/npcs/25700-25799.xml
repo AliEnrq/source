@@ -158,20 +158,20 @@
 	<npc id="25739" level="80" type="RaidBoss" name="Angel Priest of Baium" title="High Elite">
 		<race>DIVINE</race>
 		<sex>MALE</sex>
-		<equipment rhand="98" />
+		<equipment rhand="0" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="4456058.49802372" hpRegen="310.756323" mp="4203.40091563113" mpRegen="3" />
 			<attack physical="680.441457140486" magical="127.33579646414" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="208.284023668639" magical="95.9748607784026" />
 			<speed>
-				<walk ground="50" />
-				<run ground="170" />
+				<walk ground="60" />
+				<run ground="180" />
 			</speed>
 		</stats>
 		<status attackable="true" />
 		<collision>
-			<radius normal="22" />
-			<height normal="120" />
+			<radius normal="40.0" />
+			<height normal="76.0" />
 		</collision>
 		<skillList>
 			<skill id="4416" level="8" /> <!-- Angels -->
@@ -1278,7 +1278,7 @@
 	<npc id="25762" level="75" type="RaidBoss" name="Demon Bedukel" title="High Elite">
 		<race>DEMONIC</race>
 		<sex>MALE</sex>
-		<equipment rhand="8203" lhand="8203" />
+		<equipment rhand="0" lhand="0" />
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="2766861.66007905" hpRegen="294.2109061" mp="3784.1726618705" mpRegen="2.7" />
 			<attack physical="499.250138132449" magical="99.8076606476567" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />

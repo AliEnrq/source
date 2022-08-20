@@ -1010,15 +1010,15 @@
 		<effects>
 			<effect name="Resurrection">
 				<power>
-					<value level="1">0</value>
-					<value level="2">20</value>
-					<value level="3">30</value>
-					<value level="4">40</value>
-					<value level="5">50</value>
-					<value level="6">55</value>
-					<value level="7">60</value>
-					<value level="8">65</value>
-					<value level="9">70</value>
+					<value level="1">100</value>
+					<value level="2">100</value>
+					<value level="3">100</value>
+					<value level="4">100</value>
+					<value level="5">100</value>
+					<value level="6">100</value>
+					<value level="7">100</value>
+					<value level="8">100</value>
+					<value level="9">100</value>
 				</power>
 			</effect>
 		</effects>
@@ -1381,7 +1381,7 @@
 	<skill id="1028" toLevel="35" name="Might of Heaven">
 		<!-- Strikes with holy light. Inflicts magic damage with $s1 power. Deals additional damage to demons and undead. -->
 		<icon>icon.skill1028</icon>
-		<castRange>600</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-190</value>
 			<value level="2">-200</value>
@@ -1589,7 +1589,7 @@
 	<skill id="1031" toLevel="10" name="Divine Strike">
 		<!-- Summons holy light. Inflicts magic damage with $s1 power. Deals additional damage to demons and undead. -->
 		<icon>icon.skill1031</icon>
-		<castRange>600</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-90</value>
 			<value level="2">-100</value>

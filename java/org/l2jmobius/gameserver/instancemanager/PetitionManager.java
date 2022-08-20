@@ -332,7 +332,7 @@ public class PetitionManager
 			
 			if ((currPetition.getPetitioner() != null) && (currPetition.getPetitioner().getObjectId() == player.getObjectId()))
 			{
-				cs = new CreatureSay(player, ChatType.PETITION_PLAYER, player.getName(), messageText);
+				cs = new CreatureSay(player, ChatType.PETITION_PLAYER, player.getName(), messageText, 0);
 				currPetition.addLogMessage(cs);
 				
 				currPetition.sendResponderPacket(cs);
@@ -342,7 +342,7 @@ public class PetitionManager
 			
 			if ((currPetition.getResponder() != null) && (currPetition.getResponder().getObjectId() == player.getObjectId()))
 			{
-				cs = new CreatureSay(player, ChatType.PETITION_GM, player.getName(), messageText);
+				cs = new CreatureSay(player, ChatType.PETITION_GM, player.getName(), messageText, 0);
 				currPetition.addLogMessage(cs);
 				
 				currPetition.sendResponderPacket(cs);
@@ -415,7 +415,7 @@ public class PetitionManager
 		
 		// Notify all GMs that a new petition has been submitted.
 		final String msgContent = petitioner.getName() + " has submitted a new petition."; // (ID: " + newPetitionId + ").";
-		AdminData.getInstance().broadcastToGMs(new CreatureSay(petitioner, ChatType.HERO_VOICE, "Petition System", msgContent));
+		AdminData.getInstance().broadcastToGMs(new CreatureSay(petitioner, ChatType.HERO_VOICE, "Petition System", msgContent, 0));
 		return newPetitionId;
 	}
 	

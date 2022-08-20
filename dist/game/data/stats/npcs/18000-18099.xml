@@ -393,9 +393,6 @@
 		<parameters>
 			<param name="RoomIndex" value="1" />
 			<param name="SSQPart" value="TWILIGHT" />
-			<minions name="Privates">
-				<npc id="18010" count="2" respawnTime="120" weightPoint="0" />
-			</minions>
 			<skill name="DDMagic" id="4078" level="3" />
 		</parameters>
 		<race>HUMANOID</race>

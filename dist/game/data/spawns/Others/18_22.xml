@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="18_22">
+		<group>
+			<npc id="22239" x="-52688" y="139693" z="-2920" heading="50212" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
+			<npc id="22240" x="-52804" y="139840" z="-2920" heading="23352" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
+			<npc id="22237" x="-52936" y="140006" z="-2888" heading="14849" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
+			<npc id="22240" x="-52597" y="139884" z="-2927" heading="56751" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
+			<npc id="22254" x="-53227" y="139422" z="-2920" heading="38908" respawnTime="60sec" /> <!-- Sel Mahum Knight Captain -->
+			<npc id="22240" x="-53293" y="139839" z="-2856" heading="34754" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
+			<npc id="22254" x="-53163" y="140117" z="-2856" heading="8107" respawnTime="60sec" /> <!-- Sel Mahum Knight Captain -->
+			<npc id="22239" x="-53104" y="140313" z="-2888" heading="42114" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
+			<npc id="22239" x="-52846" y="139106" z="-2920" heading="61657" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
+			<npc id="22238" x="-52562" y="139280" z="-2936" heading="51999" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
+			<npc id="22254" x="-53679" y="139253" z="-2920" heading="28471" respawnTime="60sec" /> <!-- Sel Mahum Knight Captain -->
+			<npc id="22245" x="-55932" y="140806" z="-2632" heading="28197" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22243" x="-56131" y="140604" z="-2632" heading="41803" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22245" x="-55585" y="140403" z="-2632" heading="52094" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22243" x="-55436" y="140029" z="-2632" heading="53044" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22245" x="-55565" y="139522" z="-2648" heading="50841" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22245" x="-55508" y="139927" z="-2632" heading="62516" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22243" x="-55532" y="140298" z="-2632" heading="61355" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22242" x="-55681" y="140730" z="-2632" heading="14470" respawnTime="60sec" /> <!-- Sel Mahum Wizard -->
+			<npc id="22244" x="-55357" y="141276" z="-2616" heading="15473" respawnTime="60sec" /> <!-- Sel Mahum Footman -->
+			<npc id="22245" x="-55605" y="141390" z="-2616" heading="37064" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22244" x="-56864" y="142097" z="-2617" heading="18242" respawnTime="60sec" /> <!-- Sel Mahum Footman -->
+			<npc id="22242" x="-57254" y="142169" z="-2584" heading="47944" respawnTime="60sec" /> <!-- Sel Mahum Wizard -->
+			<npc id="22243" x="-57151" y="142073" z="-2616" heading="57710" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22242" x="-57137" y="141827" z="-2632" heading="49744" respawnTime="60sec" /> <!-- Sel Mahum Wizard -->
+			<npc id="22241" x="-56999" y="141858" z="-2632" heading="2304" respawnTime="60sec" /> <!-- Sel Mahum Thief -->
+			<npc id="22243" x="-56781" y="142642" z="-2600" heading="15178" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22242" x="-56664" y="142755" z="-2616" heading="16475" respawnTime="60sec" /> <!-- Sel Mahum Wizard -->
+			<npc id="22245" x="-56449" y="142277" z="-2616" heading="20089" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22243" x="-56573" y="142011" z="-2632" heading="59402" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22245" x="-56044" y="141527" z="-2616" heading="4065" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22243" x="-56203" y="141676" z="-2632" heading="26687" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22245" x="-56594" y="140574" z="-2632" heading="38779" respawnTime="60sec" /> <!-- Sel Mahum Bowman -->
+			<npc id="22243" x="-56470" y="140742" z="-2632" heading="50670" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22242" x="-56377" y="140224" z="-2632" heading="43943" respawnTime="60sec" /> <!-- Sel Mahum Wizard -->
+			<npc id="22243" x="-55986" y="141815" z="-2616" heading="19344" respawnTime="60sec" /> <!-- Sel Mahum Knight -->
+			<npc id="22244" x="-56909" y="140368" z="-2616" heading="51757" respawnTime="60sec" /> <!-- Sel Mahum Footman -->
+			<npc id="22237" x="-52286" y="140160" z="-2920" heading="42954" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
+			<npc id="22239" x="-52335" y="139730" z="-2936" heading="29832" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
+			<npc id="22239" x="-54126" y="137626" z="-2776" heading="38951" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
+		</group>
+	</spawn>
+</list>

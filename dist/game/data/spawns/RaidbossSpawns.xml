@@ -91,6 +91,7 @@
 			<npc id="25925" x="-60496" y="137347" z="-2392" heading="46378" dbSave="true" dbName="Jisra" respawnTime="24hour" respawnRandom="12hour" />
 			<npc id="25926" x="-58974" y="135294" z="-2392" heading="46378" dbSave="true" dbName="Kuka" respawnTime="24hour" respawnRandom="12hour" />
 			<npc id="25932" x="127644" y="114568" z="-3520" heading="46378" dbSave="true" dbName="Katuba" respawnTime="24hour" respawnRandom="12hour" />
+			<npc id="29014" x="63709" y="31161" z="-3736" heading="35545" dbSave="true" dbName="Orfen" respawnTime="48hour" respawnRandom="20hour"/> <!-- Orfen -->
 		</group>
 	</spawn>
 </list>

@@ -43,7 +43,6 @@
 			<npc id="20622" x="137953" y="114272" z="-3727" heading="58498" respawnTime="60sec" /> <!-- Maluk Soldier -->
 			<npc id="20620" x="138840" y="114458" z="-3724" heading="1923" respawnTime="60sec" /> <!-- Cave Beast -->
 			<npc id="20621" x="138743" y="114602" z="-3727" heading="30250" respawnTime="60sec" /> <!-- Death Wave -->
-			<npc id="20622" x="138630" y="114463" z="-3727" heading="52507" respawnTime="60sec" /> <!-- Maluk Soldier -->
 			<npc id="20623" x="138761" y="114292" z="-3727" heading="61284" respawnTime="60sec" /> <!-- Plando -->
 			<npc id="21084" x="138489" y="114273" z="-3727" heading="31162" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20620" x="138458" y="114485" z="-3727" heading="23561" respawnTime="60sec" /> <!-- Cave Beast -->
@@ -53,11 +52,9 @@
 			<npc id="21084" x="137345" y="114333" z="-3727" heading="60097" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20623" x="138604" y="114603" z="-3727" heading="27545" respawnTime="60sec" /> <!-- Plando -->
 			<npc id="20621" x="139744" y="114274" z="-3727" heading="60291" respawnTime="60sec" /> <!-- Death Wave -->
-			<npc id="21084" x="139899" y="114344" z="-3727" heading="4587" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20624" x="139956" y="114188" z="-3727" heading="51992" respawnTime="60sec" /> <!-- Cave Howler -->
 			<npc id="20625" x="140175" y="114127" z="-3727" heading="28095" respawnTime="60sec" /> <!-- Maluk Knight -->
 			<npc id="20626" x="140103" y="114275" z="-3727" heading="34872" respawnTime="60sec" /> <!-- Maluk Berserker -->
-			<npc id="20627" x="140336" y="114261" z="-3727" heading="48735" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="20627" x="140200" y="114822" z="-3727" heading="19129" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="21084" x="139759" y="114662" z="-3727" heading="32212" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20621" x="139940" y="114572" z="-3727" heading="63697" respawnTime="60sec" /> <!-- Death Wave -->
@@ -65,17 +62,13 @@
 			<npc id="20625" x="140371" y="114528" z="-3727" heading="56189" respawnTime="60sec" /> <!-- Maluk Knight -->
 			<npc id="20626" x="140532" y="114318" z="-3727" heading="52459" respawnTime="60sec" /> <!-- Maluk Berserker -->
 			<npc id="20627" x="140458" y="114084" z="-3727" heading="35426" respawnTime="60sec" /> <!-- Maluk Lord -->
-			<npc id="21084" x="140279" y="113930" z="-3727" heading="50073" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20621" x="140464" y="113786" z="-3727" heading="63387" respawnTime="60sec" /> <!-- Death Wave -->
 			<npc id="20624" x="140717" y="113740" z="-3727" heading="13744" respawnTime="60sec" /> <!-- Cave Howler -->
-			<npc id="20625" x="140807" y="114110" z="-3713" heading="9978" respawnTime="60sec" /> <!-- Maluk Knight -->
 			<npc id="20624" x="141016" y="114056" z="-3718" heading="31470" respawnTime="60sec" /> <!-- Cave Howler -->
 			<npc id="20626" x="141111" y="114368" z="-3726" heading="24468" respawnTime="60sec" /> <!-- Maluk Berserker -->
 			<npc id="21084" x="140812" y="114307" z="-3713" heading="34271" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20626" x="140945" y="114537" z="-3722" heading="5566" respawnTime="60sec" /> <!-- Maluk Berserker -->
 			<npc id="20621" x="141060" y="114788" z="-3727" heading="7065" respawnTime="60sec" /> <!-- Death Wave -->
-			<npc id="20627" x="140697" y="114537" z="-3727" heading="40959" respawnTime="60sec" /> <!-- Maluk Lord -->
-			<npc id="20627" x="140796" y="114964" z="-3727" heading="18704" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="21084" x="140916" y="115218" z="-3727" heading="12211" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20624" x="140660" y="115219" z="-3727" heading="31956" respawnTime="60sec" /> <!-- Cave Howler -->
 			<npc id="20625" x="140470" y="115045" z="-3727" heading="39635" respawnTime="60sec" /> <!-- Maluk Knight -->
@@ -97,8 +90,6 @@
 			<npc id="20621" x="142629" y="113514" z="-3727" heading="60384" respawnTime="60sec" /> <!-- Death Wave -->
 			<npc id="20407" x="143551" y="114648" z="-3727" heading="12160" respawnTime="60sec" /> <!-- Maluk Banshee -->
 			<npc id="20628" x="143701" y="114653" z="-3727" heading="22517" respawnTime="60sec" /> <!-- Limal Karinness -->
-			<npc id="21085" x="143722" y="114800" z="-3727" heading="16383" respawnTime="60sec" /> <!-- Bloody Sniper -->
-			<npc id="20629" x="143844" y="114738" z="-3727" heading="25595" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="143687" y="114548" z="-3727" heading="28348" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="20407" x="144086" y="114372" z="-3727" heading="60226" respawnTime="60sec" /> <!-- Maluk Banshee -->
 			<npc id="20628" x="144298" y="114440" z="-3727" heading="61793" respawnTime="60sec" /> <!-- Limal Karinness -->
@@ -106,7 +97,6 @@
 			<npc id="20629" x="144497" y="114413" z="-3725" heading="25862" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="144541" y="114635" z="-3717" heading="11863" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="20628" x="144287" y="114930" z="-3727" heading="10338" respawnTime="60sec" /> <!-- Limal Karinness -->
-			<npc id="21085" x="144254" y="115109" z="-3727" heading="26490" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="20629" x="144485" y="115036" z="-3727" heading="65176" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="144538" y="114847" z="-3727" heading="58127" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="20407" x="144721" y="114948" z="-3727" heading="839" respawnTime="60sec" /> <!-- Maluk Banshee -->
@@ -191,11 +181,9 @@
 			<npc id="20407" x="149074" y="115143" z="-3727" heading="5492" respawnTime="60sec" /> <!-- Maluk Banshee -->
 			<npc id="20628" x="149242" y="115216" z="-3727" heading="18468" respawnTime="60sec" /> <!-- Limal Karinness -->
 			<npc id="21085" x="149112" y="115338" z="-3727" heading="14580" respawnTime="60sec" /> <!-- Bloody Sniper -->
-			<npc id="20629" x="149264" y="115448" z="-3721" heading="21117" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="149141" y="115527" z="-3718" heading="16837" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="21084" x="148972" y="115291" z="-3725" heading="41508" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20407" x="148882" y="115377" z="-3727" heading="3355" respawnTime="60sec" /> <!-- Maluk Banshee -->
-			<npc id="20628" x="149003" y="115549" z="-3727" heading="15813" respawnTime="60sec" /> <!-- Limal Karinness -->
 			<npc id="20629" x="148412" y="115802" z="-3727" heading="36300" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="148207" y="115880" z="-3727" heading="27537" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="20628" x="148342" y="116069" z="-3727" heading="8815" respawnTime="60sec" /> <!-- Limal Karinness -->
@@ -209,12 +197,10 @@
 			<npc id="20628" x="149508" y="116345" z="-3708" heading="18259" respawnTime="60sec" /> <!-- Limal Karinness -->
 			<npc id="20625" x="149725" y="116414" z="-3708" heading="3300" respawnTime="60sec" /> <!-- Maluk Knight -->
 			<npc id="20625" x="149696" y="116539" z="-3708" heading="18761" respawnTime="60sec" /> <!-- Maluk Knight -->
-			<npc id="21085" x="149597" y="116345" z="-3708" heading="40630" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="20629" x="149659" y="116664" z="-3708" heading="15640" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="149907" y="116644" z="-3708" heading="9310" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="21084" x="149915" y="116864" z="-3708" heading="16308" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="21084" x="150113" y="116865" z="-3708" heading="64132" respawnTime="60sec" /> <!-- Bloody Lady -->
-			<npc id="20629" x="149983" y="116623" z="-3708" heading="31372" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20629" x="149780" y="116289" z="-3708" heading="42066" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="21085" x="150100" y="117106" z="-3699" heading="11982" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="20407" x="150376" y="117017" z="-3704" heading="63418" respawnTime="60sec" /> <!-- Maluk Banshee -->
@@ -240,7 +226,6 @@
 			<npc id="20628" x="149340" y="113740" z="-3727" heading="46125" respawnTime="60sec" /> <!-- Limal Karinness -->
 			<npc id="21085" x="149159" y="113618" z="-3727" heading="33617" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="21085" x="148949" y="113641" z="-3727" heading="33241" respawnTime="60sec" /> <!-- Bloody Sniper -->
-			<npc id="21085" x="149068" y="114148" z="-3727" heading="11273" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="20629" x="149325" y="114530" z="-3727" heading="10851" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20629" x="149335" y="114352" z="-3727" heading="49151" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="21084" x="149115" y="114465" z="-3727" heading="25885" respawnTime="60sec" /> <!-- Bloody Lady -->
@@ -252,20 +237,17 @@
 			<npc id="20407" x="148212" y="111996" z="-3727" heading="32709" respawnTime="60sec" /> <!-- Maluk Banshee -->
 			<npc id="20628" x="148427" y="111869" z="-3727" heading="56138" respawnTime="60sec" /> <!-- Limal Karinness -->
 			<npc id="21085" x="148361" y="112059" z="-3727" heading="28583" respawnTime="60sec" /> <!-- Bloody Sniper -->
-			<npc id="20629" x="148602" y="111889" z="-3715" heading="54728" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="148595" y="112092" z="-3709" heading="18003" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="21084" x="148820" y="111902" z="-3709" heading="11647" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20625" x="148881" y="112141" z="-3727" heading="15045" respawnTime="60sec" /> <!-- Maluk Knight -->
 			<npc id="20407" x="148754" y="112019" z="-3712" heading="15988" respawnTime="60sec" /> <!-- Maluk Banshee -->
 			<npc id="20628" x="148761" y="112325" z="-3724" heading="21761" respawnTime="60sec" /> <!-- Limal Karinness -->
-			<npc id="21085" x="148526" y="112274" z="-3716" heading="42750" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="20629" x="148315" y="112346" z="-3711" heading="33796" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20627" x="148530" y="112553" z="-3727" heading="49151" respawnTime="60sec" /> <!-- Maluk Lord -->
 			<npc id="21084" x="148779" y="112566" z="-3727" heading="49151" respawnTime="60sec" /> <!-- Bloody Lady -->
 			<npc id="20625" x="148940" y="112713" z="-3727" heading="7718" respawnTime="60sec" /> <!-- Maluk Knight -->
 			<npc id="21085" x="148626" y="112747" z="-3727" heading="26504" respawnTime="60sec" /> <!-- Bloody Sniper -->
 			<npc id="21085" x="148207" y="112744" z="-3727" heading="34068" respawnTime="60sec" /> <!-- Bloody Sniper -->
-			<npc id="20629" x="148765" y="112487" z="-3727" heading="59777" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20629" x="149006" y="112296" z="-3727" heading="56108" respawnTime="60sec" /> <!-- Karik -->
 			<npc id="20407" x="149090" y="112799" z="-3727" heading="14142" respawnTime="60sec" /> <!-- Maluk Banshee -->
 			<npc id="20628" x="148275" y="112462" z="-3711" heading="35597" respawnTime="60sec" /> <!-- Limal Karinness -->

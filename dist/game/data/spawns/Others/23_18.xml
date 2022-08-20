@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_18">
+		<group>
+			<npc id="22003" x="113506" y="17095" z="-2120" heading="26953" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22003" x="113401" y="17085" z="-2120" heading="28521" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113935" y="14825" z="-2120" heading="64572" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22002" x="113982" y="14688" z="-2120" heading="47093" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22002" x="113973" y="14657" z="-2120" heading="46204" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113570" y="15040" z="-2120" heading="9346" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22003" x="113335" y="15495" z="-2120" heading="19420" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113339" y="15059" z="-2120" heading="11712" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22002" x="113740" y="17348" z="-2120" heading="8314" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115148" y="16741" z="-2120" heading="39142" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22002" x="115318" y="16795" z="-2120" heading="6409" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115162" y="16690" z="-2120" heading="38989" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="114951" y="16626" z="-2120" heading="34980" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="114783" y="16557" z="-2120" heading="36832" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="113832" y="16874" z="-2120" heading="31635" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22003" x="113758" y="16906" z="-2120" heading="29114" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="113559" y="17070" z="-2120" heading="23688" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22001" x="113559" y="17070" z="-2120" heading="23688" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22000" x="112677" y="16948" z="-2120" heading="35827" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22000" x="112559" y="17145" z="-2120" heading="11618" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22002" x="112775" y="17403" z="-2120" heading="22274" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="112842" y="17793" z="-2120" heading="32672" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22000" x="113292" y="17782" z="-2120" heading="35552" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22000" x="113155" y="17542" z="-2120" heading="24776" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113831" y="17978" z="-2120" heading="21188" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22001" x="113752" y="17970" z="-2120" heading="23421" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22001" x="113547" y="17684" z="-2120" heading="44987" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22002" x="112704" y="16889" z="-2120" heading="40959" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="112894" y="16677" z="-2120" heading="57966" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22001" x="112946" y="16684" z="-2120" heading="1509" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22001" x="112880" y="17434" z="-2120" heading="25397" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22000" x="113662" y="17851" z="-2120" heading="7043" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22002" x="113643" y="17574" z="-2120" heading="53165" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113433" y="17157" z="-2120" heading="44286" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22003" x="113155" y="16759" z="-2120" heading="51326" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113421" y="16757" z="-2120" heading="28949" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113533" y="17112" z="-2120" heading="28693" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22000" x="114454" y="16376" z="-2120" heading="48358" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22003" x="114589" y="16679" z="-2120" heading="36031" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="113963" y="15406" z="-2120" heading="6606" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22001" x="113992" y="15444" z="-2120" heading="9361" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22003" x="114099" y="16077" z="-2120" heading="19679" respawnTime="60sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="113904" y="16003" z="-2120" heading="25651" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22002" x="114134" y="15853" z="-2120" heading="60220" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113887" y="16474" z="-2120" heading="19286" respawnTime="60sec" /> <!-- Corrupted Sage -->
+			<npc id="22002" x="115311" y="16153" z="-2120" heading="42522" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="115451" y="15771" z="-2120" heading="62504" respawnTime="60sec" /> <!-- Corrupted Ghost -->
+			<npc id="22002" x="114672" y="15361" z="-2120" heading="30140" respawnTime="60sec" /> <!-- Corrupted Warrior -->
+			<npc id="22006" x="114464" y="16537" z="-640" heading="58243" respawnTime="60sec" /> <!-- Hallate's Knight -->
+			<npc id="22006" x="114150" y="16626" z="-640" heading="27131" respawnTime="60sec" /> <!-- Hallate's Knight -->
+			<npc id="22006" x="114497" y="16470" z="-640" heading="60201" respawnTime="60sec" /> <!-- Hallate's Knight -->
+			<npc id="22008" x="114281" y="16571" z="-640" heading="48474" respawnTime="60sec" /> <!-- Hallate's Maid -->
+			<npc id="22008" x="114051" y="16601" z="-640" heading="24167" respawnTime="60sec" /> <!-- Hallate's Maid -->
+			<npc id="22008" x="114542" y="16712" z="-640" heading="60908" respawnTime="60sec" /> <!-- Hallate's Maid -->
+			<npc id="22008" x="114238" y="16843" z="-640" heading="27172" respawnTime="60sec" /> <!-- Hallate's Maid -->
+			<npc id="22008" x="114104" y="15763" z="-640" heading="36991" respawnTime="60sec" /> <!-- Hallate's Maid -->
+			<npc id="22010" x="115219" y="13740" z="928" heading="37240" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="115287" y="13658" z="928" heading="56373" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="115225" y="13644" z="928" heading="35084" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22013" x="115352" y="13491" z="928" heading="64404" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22013" x="115474" y="13517" z="928" heading="43794" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="115747" y="13648" z="928" heading="4666" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="115672" y="13850" z="928" heading="20159" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22011" x="115317" y="13982" z="928" heading="29513" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22011" x="115282" y="14103" z="928" heading="33073" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="115519" y="14215" z="928" heading="2766" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="115814" y="14287" z="928" heading="6365" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="116358" y="14382" z="928" heading="65405" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22012" x="113816" y="13703" z="928" heading="34627" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22010" x="113971" y="14034" z="928" heading="21798" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="113986" y="14014" z="928" heading="21409" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22012" x="113146" y="14416" z="928" heading="24235" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22010" x="113041" y="14529" z="928" heading="24235" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113229" y="13954" z="928" heading="43792" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113830" y="13553" z="928" heading="61386" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113944" y="13798" z="928" heading="32380" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="114618" y="16361" z="928" heading="16213" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="114762" y="16279" z="928" heading="53044" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="114830" y="16018" z="928" heading="48796" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22013" x="114679" y="15281" z="928" heading="52397" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22013" x="114735" y="15954" z="928" heading="18461" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22013" x="114512" y="16741" z="928" heading="44597" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22011" x="114864" y="16661" z="928" heading="50534" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22013" x="115644" y="16845" z="928" heading="49447" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22013" x="115440" y="15181" z="928" heading="46917" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22010" x="115497" y="15112" z="928" heading="56353" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="116454" y="17836" z="928" heading="58258" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="115400" y="18178" z="928" heading="29309" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="115335" y="18635" z="928" heading="22537" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22010" x="115320" y="18232" z="928" heading="56340" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="113063" y="17920" z="928" heading="32957" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="113446" y="16854" z="928" heading="20833" respawnTime="60sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="113719" y="16223" z="928" heading="55029" respawnTime="60sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22011" x="113472" y="16330" z="928" heading="15157" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113810" y="16386" z="928" heading="59690" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113639" y="17083" z="928" heading="18762" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113415" y="17052" z="928" heading="40889" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113177" y="16260" z="928" heading="44906" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113179" y="15609" z="928" heading="51723" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113573" y="15129" z="928" heading="56803" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="115667" y="16853" z="940" heading="7663" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="116629" y="17842" z="928" heading="61215" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="115952" y="18371" z="928" heading="27808" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="115112" y="18414" z="928" heading="42507" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="114149" y="18214" z="928" heading="38474" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113245" y="18088" z="928" heading="33156" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112944" y="17687" z="928" heading="53887" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113137" y="18025" z="928" heading="11744" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113505" y="18197" z="928" heading="3004" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="114071" y="18604" z="928" heading="19818" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113791" y="18064" z="928" heading="46008" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="114334" y="18420" z="928" heading="40506" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="112842" y="17769" z="928" heading="36012" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112672" y="17863" z="928" heading="25789" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="113435" y="18448" z="928" heading="6868" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="114302" y="18285" z="928" heading="54235" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="115991" y="17806" z="928" heading="55571" respawnTime="60sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="116729" y="17624" z="928" heading="11920" respawnTime="60sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22022" x="114263" y="16349" z="2992" heading="33623" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114562" y="14525" z="2952" heading="52033" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114420" y="16066" z="2992" heading="52033" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114546" y="16382" z="2992" heading="35878" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114507" y="15879" z="2992" heading="16926" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115113" y="14548" z="2952" heading="57851" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113971" y="14600" z="2952" heading="31621" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113864" y="14848" z="2952" heading="20632" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113255" y="15491" z="2952" heading="21104" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113228" y="15730" z="2952" heading="65402" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113088" y="16514" z="2952" heading="17998" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113175" y="16823" z="2952" heading="14182" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114099" y="17456" z="2952" heading="6115" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114636" y="17488" z="2952" heading="63164" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115217" y="17261" z="2952" heading="62826" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115745" y="17042" z="2952" heading="48540" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115538" y="15435" z="2952" heading="48952" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115070" y="14661" z="2952" heading="38029" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114141" y="14820" z="2952" heading="30599" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113027" y="15509" z="2952" heading="28147" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113107" y="16663" z="2952" heading="13953" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114219" y="17340" z="2952" heading="3113" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115233" y="16910" z="2952" heading="60650" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114043" y="16058" z="2992" heading="24027" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113965" y="16434" z="2992" heading="18426" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115780" y="15140" z="2952" heading="50869" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115039" y="14772" z="2952" heading="35620" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="112963" y="15918" z="2952" heading="23302" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115335" y="17117" z="2952" heading="63938" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113793" y="18425" z="2952" heading="28679" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113863" y="18502" z="2952" heading="8703" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114336" y="18439" z="2952" heading="61294" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114978" y="18271" z="2952" heading="65456" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115552" y="18296" z="2952" heading="1284" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115681" y="18543" z="2952" heading="17020" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115376" y="18447" z="2952" heading="35402" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115082" y="18361" z="2952" heading="35704" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114465" y="18227" z="2952" heading="35143" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113964" y="18075" z="2952" heading="36159" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114019" y="18120" z="2952" heading="6753" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114678" y="18703" z="2952" heading="9832" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115262" y="18659" z="2952" heading="18128" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="114054" y="18558" z="2952" heading="33611" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="114290" y="18232" z="2952" heading="59355" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="115763" y="18462" z="2952" heading="65333" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="115299" y="18086" z="2952" heading="56913" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="115430" y="15196" z="2952" heading="42535" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="116107" y="15450" z="2952" heading="3743" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="114852" y="14479" z="2952" heading="49190" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="113957" y="14658" z="2952" heading="55758" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114243" y="16068" z="2992" heading="55758" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="113136" y="16033" z="2952" heading="12422" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="113192" y="17129" z="2952" heading="30153" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="112954" y="16520" z="2952" heading="39448" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="114043" y="17677" z="2952" heading="18528" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="114435" y="17729" z="2952" heading="1375" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="115555" y="17325" z="2952" heading="65454" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="114591" y="14787" z="2952" heading="58446" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="114030" y="14451" z="2952" heading="38396" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22037" x="114511" y="16163" z="6992" heading="26564" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114561" y="16328" z="6992" heading="13315" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22031" x="113935" y="17232" z="4976" heading="5218" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="114200" y="17299" z="4976" heading="8863" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22031" x="114948" y="17076" z="4976" heading="63485" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="114452" y="17392" z="4976" heading="27545" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="114188" y="17249" z="4976" heading="34454" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="113192" y="16415" z="4976" heading="43902" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="113329" y="15812" z="4976" heading="51574" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="115411" y="14744" z="4976" heading="56902" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="115819" y="14986" z="4976" heading="12974" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="116074" y="15509" z="4976" heading="12567" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="116061" y="16161" z="4976" heading="18799" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="115475" y="17298" z="4976" heading="22580" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="114357" y="17156" z="4976" heading="55734" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22030" x="115192" y="17334" z="4976" heading="45066" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="115072" y="17014" z="4976" heading="45750" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="114762" y="16540" z="4986" heading="23973" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22030" x="114650" y="16666" z="4979" heading="23973" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="113301" y="15824" z="4976" heading="33928" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="113671" y="16466" z="4976" heading="11455" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="113944" y="16075" z="4976" heading="47934" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="114511" y="15272" z="4976" heading="8176" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22030" x="115034" y="15216" z="4976" heading="63237" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22031" x="114718" y="15471" z="4976" heading="30921" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22028" x="115545" y="14849" z="4976" heading="493" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="116035" y="15545" z="4976" heading="11332" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="116026" y="15402" z="4976" heading="12855" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="115735" y="15806" z="4976" heading="27610" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="115558" y="15942" z="4976" heading="24812" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="115558" y="15942" z="4976" heading="24812" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="115775" y="16476" z="4976" heading="1299" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22031" x="115821" y="16359" z="4976" heading="42523" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115928" y="15983" z="4976" heading="54403" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115852" y="15612" z="4976" heading="45426" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115823" y="15461" z="4976" heading="50367" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="116021" y="15489" z="4991" heading="13865" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="116092" y="16091" z="4997" heading="17857" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115980" y="16867" z="4999" heading="18397" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115883" y="17065" z="4999" heading="23788" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="114018" y="17461" z="4999" heading="28915" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22031" x="114018" y="17461" z="4999" heading="28915" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22028" x="113320" y="16640" z="4999" heading="52756" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="113339" y="16587" z="4999" heading="52756" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="113377" y="16481" z="4999" heading="52756" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="113415" y="16376" z="4999" heading="52756" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="113578" y="15898" z="4999" heading="52444" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="113149" y="15527" z="4976" heading="50106" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="113115" y="15922" z="4976" heading="20210" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="113193" y="16070" z="4976" heading="11307" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="114463" y="15207" z="4976" heading="3121" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115478" y="14926" z="4976" heading="63025" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="115900" y="15171" z="4976" heading="9746" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22028" x="115443" y="16228" z="4976" heading="21592" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="116015" y="16730" z="4976" heading="60127" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="116015" y="16730" z="4976" heading="60127" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="116033" y="16622" z="4976" heading="50874" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="114708" y="17391" z="4976" heading="28870" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="114173" y="17590" z="4976" heading="43760" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="113576" y="17351" z="4976" heading="37942" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22028" x="113747" y="17270" z="4976" heading="42981" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22028" x="115201" y="15958" z="4976" heading="47917" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="115189" y="15998" z="4976" heading="19424" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="115206" y="16040" z="4976" heading="12372" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="114851" y="15259" z="4976" heading="208" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22025" x="114251" y="14515" z="3960" heading="32184" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="113987" y="14686" z="3960" heading="24131" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114069" y="15070" z="3960" heading="10974" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114623" y="15760" z="3960" heading="7310" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114936" y="16070" z="3960" heading="10362" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114988" y="16345" z="3960" heading="23492" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114774" y="16505" z="3960" heading="29865" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114460" y="16400" z="3960" heading="43616" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114251" y="16256" z="3960" heading="53114" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="115086" y="17179" z="3960" heading="16409" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="115344" y="17344" z="3960" heading="4200" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="115073" y="17664" z="3960" heading="27149" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114703" y="17216" z="3960" heading="46844" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114089" y="17618" z="3960" heading="32821" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="113721" y="17510" z="3960" heading="37728" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114176" y="17307" z="3960" heading="3445" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="116043" y="16916" z="3960" heading="62344" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="116175" y="16664" z="3960" heading="50800" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="116404" y="16306" z="3960" heading="58641" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="116243" y="16835" z="3960" heading="20894" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="116138" y="16876" z="3960" heading="28815" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="115300" y="17107" z="3960" heading="30977" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="114170" y="14967" z="3960" heading="49968" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="113068" y="15525" z="3960" heading="21019" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="113037" y="15658" z="3960" heading="59461" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="113094" y="15318" z="3960" heading="25918" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="112908" y="15612" z="3960" heading="22287" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113785" y="14934" z="3960" heading="60013" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113873" y="14754" z="3960" heading="52469" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113981" y="14593" z="3960" heading="57551" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114467" y="14733" z="3960" heading="8158" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114543" y="15080" z="3960" heading="17453" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113905" y="15369" z="3960" heading="29200" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113953" y="15148" z="3960" heading="51382" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114309" y="15061" z="3960" heading="56654" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114520" y="14739" z="3960" heading="50373" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114527" y="14567" z="3960" heading="65031" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115448" y="14800" z="3960" heading="23680" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114663" y="15798" z="3960" heading="9847" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114958" y="15943" z="3960" heading="3804" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115137" y="16240" z="3960" heading="10995" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114394" y="16501" z="3960" heading="25911" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114323" y="16172" z="3960" heading="46626" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114200" y="15826" z="3960" heading="44366" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114595" y="16005" z="3960" heading="4591" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115160" y="17095" z="3960" heading="11582" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115281" y="17408" z="3960" heading="12133" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115167" y="17518" z="3960" heading="33613" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114762" y="17382" z="3960" heading="40422" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113958" y="17503" z="3960" heading="35755" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113912" y="17473" z="3960" heading="4160" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115273" y="17284" z="3960" heading="60890" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115440" y="17023" z="3960" heading="46963" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115950" y="16472" z="3960" heading="38944" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="116308" y="16246" z="3960" heading="59782" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="116370" y="16431" z="3960" heading="13011" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="116103" y="17060" z="3960" heading="21248" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114716" y="16130" z="3960" heading="46428" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="114650" y="16363" z="3960" heading="19386" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22022" x="115250" y="14992" z="2952" heading="50436" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115463" y="14923" z="2952" heading="62307" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115190" y="15226" z="2952" heading="24167" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115374" y="15694" z="2952" heading="12711" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115588" y="16675" z="2952" heading="15995" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115508" y="16998" z="2952" heading="20389" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115449" y="17155" z="2952" heading="19435" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="115338" y="17527" z="2952" heading="28217" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114952" y="17597" z="2952" heading="39551" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114667" y="17489" z="2952" heading="38776" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114145" y="17187" z="2952" heading="34807" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113702" y="17105" z="2952" heading="35424" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113268" y="16743" z="2952" heading="42825" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113161" y="16292" z="2952" heading="42185" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113221" y="15760" z="2958" heading="58031" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113556" y="15393" z="2960" heading="55271" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114201" y="14895" z="2960" heading="60373" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="114034" y="15687" z="2992" heading="41576" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113839" y="15797" z="2992" heading="27410" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22022" x="113835" y="16255" z="2992" heading="14984" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22034" count="2" x="116964" y="16066" z="5984" heading="11547" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="116937" y="16752" z="5984" heading="16426" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="116987" y="15594" z="5984" heading="49728" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="116249" y="14231" z="5984" heading="45983" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="115445" y="13803" z="5984" heading="36272" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="114650" y="13610" z="5984" heading="35192" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="114264" y="13592" z="5984" heading="33254" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="115505" y="13674" z="5984" heading="1959" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="116137" y="14172" z="5984" heading="12467" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="116968" y="15188" z="5984" heading="11202" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" count="2" x="116586" y="14648" z="5984" heading="45767" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" count="2" x="116863" y="14914" z="5984" heading="45852" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" count="2" x="117059" y="15559" z="5984" heading="13256" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" count="2" x="117070" y="16559" z="5984" heading="16383" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" count="2" x="116216" y="14372" z="5984" heading="44115" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" count="2" x="115787" y="13958" z="5984" heading="40774" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" count="2" x="114868" y="13656" z="5984" heading="36708" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" count="2" x="114278" y="13542" z="5984" heading="34354" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="114295" y="16982" z="5984" heading="38045" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="114545" y="17006" z="5984" heading="23521" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="114868" y="16963" z="5984" heading="64155" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="114918" y="15850" z="5984" heading="55466" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="114455" y="15733" z="5984" heading="27578" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="114954" y="15804" z="5984" heading="1474" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="114175" y="16143" z="5984" heading="31729" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="114406" y="16267" z="5984" heading="5138" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="114671" y="15690" z="5984" heading="65309" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="115115" y="15267" z="5984" heading="12895" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="114850" y="15278" z="5984" heading="32335" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="114324" y="15256" z="5984" heading="33203" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="114277" y="15025" z="5984" heading="39835" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="114620" y="14957" z="5984" heading="32013" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="115088" y="15028" z="5984" heading="1570" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="115541" y="15490" z="5984" heading="62654" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="115541" y="15490" z="5984" heading="62654" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="115437" y="16645" z="5984" heading="16869" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="115413" y="16535" z="5984" heading="46911" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="115506" y="15909" z="5984" heading="18892" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="115459" y="16325" z="5984" heading="49625" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="115001" y="16103" z="5984" heading="64957" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="114662" y="15945" z="5984" heading="56753" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="114883" y="16238" z="5984" heading="3992" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="115159" y="16810" z="5984" heading="63110" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="113966" y="16925" z="5984" heading="30434" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="114071" y="16940" z="5984" heading="1480" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="114928" y="16849" z="5984" heading="58866" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22034" x="114410" y="16924" z="5984" heading="65054" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="113708" y="16668" z="5984" heading="13892" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="113625" y="15493" z="5984" heading="7377" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22034" x="113702" y="16183" z="5984" heading="17301" respawnTime="60sec" /> <!-- Sealed Archangel -->
+			<npc id="22032" x="113652" y="16604" z="5984" heading="17616" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="113875" y="15755" z="5984" heading="51870" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22032" x="113739" y="15993" z="5984" heading="24336" respawnTime="60sec" /> <!-- Sealed Angel -->
+			<npc id="22037" x="115427" y="16517" z="6992" heading="55611" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="115236" y="15767" z="6992" heading="56757" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="115683" y="15157" z="6992" heading="55726" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="116090" y="14621" z="6992" heading="56011" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="116150" y="14755" z="6992" heading="15393" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="115106" y="15362" z="6992" heading="25393" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114019" y="16696" z="6992" heading="20522" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113777" y="17060" z="6992" heading="27445" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113307" y="17635" z="6992" heading="20412" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="112971" y="17482" z="6992" heading="50225" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113536" y="16835" z="6992" heading="57851" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113769" y="15917" z="6992" heading="44131" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113416" y="15291" z="6992" heading="44874" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113348" y="14774" z="6992" heading="49123" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113622" y="14591" z="6992" heading="59394" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114198" y="15189" z="6992" heading="8343" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114726" y="14334" z="6992" heading="56635" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="115147" y="14077" z="6992" heading="61769" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="115365" y="14159" z="6992" heading="20558" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114791" y="14553" z="6992" heading="27692" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="112617" y="16612" z="6992" heading="23888" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="112664" y="15908" z="6992" heading="37919" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113128" y="15942" z="6992" heading="2164" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="113201" y="16352" z="6992" heading="26185" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="112853" y="16290" z="6992" heading="27572" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22035" x="113837" y="15269" z="6992" heading="56253" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113528" y="15511" z="6992" heading="25821" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113014" y="16146" z="6992" heading="22187" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="112825" y="16721" z="6992" heading="18733" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="112478" y="16297" z="6992" heading="41998" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113641" y="15623" z="6992" heading="59509" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114705" y="14425" z="6992" heading="56128" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114767" y="14353" z="6992" heading="9594" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114767" y="14353" z="6992" heading="52241" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114332" y="15447" z="6992" heading="10862" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114697" y="15778" z="6992" heading="6095" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="115273" y="15454" z="6992" heading="58795" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="115728" y="14762" z="6992" heading="53717" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="116079" y="14408" z="6992" heading="58818" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="116027" y="15072" z="6992" heading="28515" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="115579" y="15050" z="6992" heading="31974" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114347" y="16365" z="6992" heading="25351" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113988" y="16791" z="6992" heading="25239" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113584" y="16980" z="6992" heading="28491" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113330" y="17258" z="6992" heading="21535" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113299" y="17583" z="6992" heading="8713" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114592" y="17663" z="6992" heading="25774" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114079" y="17877" z="6992" heading="29151" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="113983" y="18029" z="6992" heading="1802" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="114469" y="17979" z="6992" heading="61432" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="116276" y="15938" z="6992" heading="56223" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="116446" y="15592" z="6992" heading="52202" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="116559" y="15216" z="6992" heading="52202" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22035" x="116616" y="15568" z="6992" heading="16038" respawnTime="60sec" /> <!-- Tower Guardian Archangel -->
+			<npc id="22037" x="116365" y="15824" z="6992" heading="54121" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="116366" y="15428" z="6992" heading="48198" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="116718" y="15365" z="6992" heading="64391" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="116566" y="15962" z="6992" heading="18689" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114652" y="17743" z="6992" heading="21971" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114474" y="18137" z="6992" heading="20187" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114063" y="17799" z="6992" heading="47438" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22037" x="114265" y="17563" z="6992" heading="60311" respawnTime="60sec" /> <!-- Tower Guardian Warrior -->
+			<npc id="22036" x="115126" y="17083" z="6992" heading="56716" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="115554" y="16517" z="6992" heading="57522" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="116222" y="16042" z="6992" heading="58817" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="116577" y="15781" z="6992" heading="58984" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="114755" y="16086" z="6992" heading="46120" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="115371" y="15485" z="6992" heading="58652" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="115995" y="14580" z="6992" heading="59392" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="113734" y="16895" z="6992" heading="21567" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="113260" y="17456" z="6992" heading="27029" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="114121" y="15687" z="6992" heading="49131" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="113861" y="15468" z="6992" heading="36824" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="113541" y="14999" z="6992" heading="52362" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="114741" y="14467" z="6992" heading="58672" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="115315" y="14221" z="6992" heading="62808" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="113053" y="16193" z="6992" heading="21471" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="112583" y="16880" z="6992" heading="24764" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22036" x="112517" y="16235" z="6992" heading="53791" respawnTime="60sec" /> <!-- Tower Guardian Archer -->
+			<npc id="22040" x="114573" y="15915" z="7992" heading="6367" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114887" y="16138" z="7992" heading="6711" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114600" y="16344" z="7992" heading="26274" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114252" y="15903" z="7992" heading="42183" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114526" y="16055" z="7992" heading="5755" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115599" y="16037" z="7992" heading="64554" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115616" y="15644" z="7992" heading="49619" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115088" y="15202" z="7992" heading="40193" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114638" y="15184" z="7992" heading="32929" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114270" y="15091" z="7992" heading="38518" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114915" y="15116" z="7992" heading="3005" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115660" y="16274" z="7992" heading="18836" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115468" y="16522" z="7992" heading="25496" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114543" y="16941" z="7992" heading="20382" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115034" y="16929" z="7992" heading="58804" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="115358" y="16906" z="7992" heading="1421" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="114225" y="16860" z="7992" heading="32869" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="113730" y="16594" z="7992" heading="38196" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="113687" y="16152" z="7992" heading="45929" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22040" x="113668" y="15689" z="7992" heading="48888" respawnTime="60sec" /> <!-- Tower Guardian Leader -->
+			<npc id="22039" x="113686" y="16228" z="7992" heading="46106" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="113766" y="15786" z="7992" heading="51372" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="113831" y="16023" z="7992" heading="17117" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="113837" y="16471" z="7992" heading="16129" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114038" y="17028" z="7992" heading="11908" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114307" y="17104" z="7992" heading="1060" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114580" y="16926" z="7992" heading="64075" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="115034" y="16929" z="7992" heading="5180" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114786" y="16138" z="7992" heading="53069" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114639" y="15785" z="7992" heading="39718" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114340" y="15640" z="7992" heading="33304" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114338" y="16183" z="7992" heading="13028" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114979" y="15988" z="7992" heading="61909" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114804" y="16035" z="7992" heading="35653" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="115594" y="16247" z="7992" heading="15090" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="115403" y="16417" z="7992" heading="35223" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="115464" y="16005" z="7992" heading="51301" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="115498" y="15562" z="7992" heading="44817" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="115023" y="15293" z="7992" heading="36247" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114417" y="15233" z="7992" heading="33289" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114259" y="15119" z="7992" heading="43173" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="114853" y="15009" z="7992" heading="64314" respawnTime="60sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22021" x="114539" y="16127" z="2992" heading="14691" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="113891" y="15970" z="2992" heading="33615" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22027" x="114379" y="17823" z="3960" heading="16490" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115655" y="14729" z="3960" heading="23963" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115121" y="15051" z="3960" heading="13828" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115016" y="14871" z="3960" heading="37490" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115906" y="14692" z="3960" heading="1775" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115238" y="14930" z="3960" heading="28899" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115286" y="14738" z="3960" heading="59545" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="113242" y="15025" z="3960" heading="46879" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="113293" y="14826" z="3960" heading="49793" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="113588" y="15553" z="3960" heading="5842" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="113487" y="15661" z="3960" heading="2836" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22025" x="113370" y="15676" z="3960" heading="12160" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="112798" y="15858" z="3960" heading="26710" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="115139" y="15267" z="3987" heading="47437" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115329" y="15651" z="3987" heading="12312" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="116135" y="15219" z="3989" heading="327" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="116308" y="15416" z="3989" heading="6240" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22027" x="116292" y="15851" z="3989" heading="30251" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="116292" y="15851" z="3989" heading="30251" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="116066" y="15974" z="3989" heading="21896" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115906" y="16021" z="3989" heading="36898" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115761" y="15847" z="3989" heading="49623" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115972" y="15831" z="3989" heading="3368" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="116081" y="15705" z="3989" heading="52507" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="116195" y="15471" z="3989" heading="43822" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="116035" y="15187" z="3989" heading="44307" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115766" y="15246" z="3989" heading="27631" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115827" y="15518" z="3989" heading="12279" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115763" y="15678" z="3989" heading="45394" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115633" y="15493" z="3989" heading="29263" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115444" y="15375" z="3989" heading="47135" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115659" y="15220" z="3989" heading="62204" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115956" y="15025" z="3989" heading="64964" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115963" y="15376" z="3989" heading="18857" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22025" x="115562" y="15637" z="3989" heading="33951" respawnTime="60sec" /> <!-- Prime Messenger of Insolence -->
+			<npc id="22027" x="115595" y="15860" z="3989" heading="21452" respawnTime="60sec" /> <!-- Mighty Messenger of Insolence -->
+			<npc id="22021" x="114915" y="15774" z="2992" heading="58745" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="114854" y="16448" z="2992" heading="13634" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="114139" y="16754" z="2992" heading="26012" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22021" x="114310" y="15458" z="2992" heading="48912" respawnTime="60sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="114766" y="15613" z="2992" heading="44869" respawnTime="60sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22031" x="113914" y="14536" z="4976" heading="20352" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="113914" y="14536" z="4976" heading="20352" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="114212" y="14758" z="4976" heading="11422" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22030" x="114195" y="14360" z="4976" heading="57797" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22031" x="114202" y="14544" z="4976" heading="60457" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="114003" y="14425" z="4976" heading="48134" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22030" x="114053" y="14635" z="4976" heading="10817" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22031" x="113999" y="16240" z="4976" heading="651" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="113614" y="16269" z="4976" heading="25227" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22028" x="113402" y="15600" z="4976" heading="41468" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22030" x="113115" y="16805" z="4976" heading="19357" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22030" x="113955" y="17647" z="4976" heading="8775" respawnTime="60sec" /> <!-- Messenger Scout -->
+			<npc id="22028" x="114379" y="17715" z="4976" heading="59041" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+			<npc id="22031" x="114634" y="16810" z="4976" heading="54363" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="114911" y="17026" z="4976" heading="6188" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22031" x="114681" y="17076" z="4976" heading="48206" respawnTime="60sec" /> <!-- Messenger Judge -->
+			<npc id="22028" x="114957" y="17561" z="4976" heading="15516" respawnTime="60sec" /> <!-- Virtuous Guardian Angel -->
+		</group>
+	</spawn>
+</list>

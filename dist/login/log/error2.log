@@ -1,0 +1,14 @@
+Aug 20, 2022 12:47:59 AM org.l2jmobius.loginserver.LoginServer <init>
+SEVERE: FATAL: Failed to start the Game Server Listener. Reason: Address already in use: bind
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:643)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at org.l2jmobius.loginserver.FloodProtectedListener.<init>(FloodProtectedListener.java:47)
+	at org.l2jmobius.loginserver.GameServerListener.<init>(GameServerListener.java:35)
+	at org.l2jmobius.loginserver.LoginServer.<init>(LoginServer.java:121)
+	at org.l2jmobius.loginserver.LoginServer.main(LoginServer.java:56)
+

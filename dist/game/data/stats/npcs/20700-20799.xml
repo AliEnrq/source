@@ -6,9 +6,6 @@
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 			<param name="MoveAroundSocial2" value="0" />
-			<minions name="Privates">
-				<npc id="20739" count="3" respawnTime="0" weightPoint="1" /> <!-- Bepook's Pet -->
-			</minions>
 			<param name="ShoutMsg1" value="1000092" />
 			<param name="ShoutMsg2" value="1000093" />
 			<param name="ShoutMsg3" value="1000094" />
@@ -381,9 +378,6 @@
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
 			<param name="MoveAroundSocial2" value="110" />
-			<minions name="Privates">
-				<npc id="20748" count="2" respawnTime="0" weightPoint="1" />
-			</minions>
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
@@ -512,9 +506,6 @@
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 			<param name="MoveAroundSocial2" value="0" />
-			<minions name="Privates">
-				<npc id="20750" count="2" respawnTime="0" weightPoint="1" />
-			</minions>
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
@@ -635,10 +626,6 @@
 			<param name="IsAggressive" value="1" />
 			<param name="MoveArounding" value="0" />
 			<param name="Party_Type" value="2" />
-			<minions name="Privates">
-				<npc id="20752" count="2" respawnTime="0" weightPoint="1" />
-				<npc id="21039" count="1" respawnTime="0" weightPoint="1" />
-			</minions>
 			<param name="Skill02_Probablity" value="1000" />
 			<param name="Skill03_Target" value="3" />
 			<param name="Skill03_Type" value="1" />
@@ -768,10 +755,6 @@
 			<param name="AttackRange" value="2" />
 			<param name="MoveArounding" value="0" />
 			<param name="Party_Type" value="2" />
-			<minions name="Privates">
-				<npc id="20754" count="2" respawnTime="0" weightPoint="1" />
-				<npc id="21040" count="2" respawnTime="0" weightPoint="1" />
-			</minions>
 			<param name="Skill01_AttackSplash" value="1" />
 			<param name="Skill02_Target" value="3" />
 			<param name="Skill02_AttackSplash" value="1" />
@@ -925,10 +908,6 @@
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="90" />
 			<param name="MoveAroundSocial2" value="90" />
-			<minions name="Privates">
-				<npc id="20756" count="1" respawnTime="300" weightPoint="1" />
-				<npc id="20757" count="1" respawnTime="300" weightPoint="1" />
-			</minions>
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
@@ -1118,10 +1097,6 @@
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
 			<skill name="PhysicalSpecial" id="4032" level="9" /> <!-- NPC Strike -->
-			<minions name="Privates">
-				<npc id="20759" count="1" respawnTime="300" weightPoint="1" />
-				<npc id="20760" count="1" respawnTime="300" weightPoint="1" />
-			</minions>
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
@@ -1335,9 +1310,6 @@
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
 			<skill name="DDMagic" id="4002" level="10" /> <!-- NPC HP Drain -->
-			<minions name="Privates">
-				<npc id="20762" count="2" respawnTime="1200" weightPoint="1" />
-			</minions>
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
@@ -1706,11 +1678,6 @@
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
 			<param name="MoveAroundSocial2" value="60" />
-			<minions name="Privates">
-				<npc id="20768" count="1" respawnTime="1200" weightPoint="1" />
-				<npc id="20769" count="1" respawnTime="1200" weightPoint="1" />
-				<npc id="20770" count="1" respawnTime="1200" weightPoint="1" />
-			</minions>
 			<param name="RandomAggressive" value="30" />
 			<param name="SummonPrivateRate" value="50" />
 			<param name="SoulShot" value="100" />

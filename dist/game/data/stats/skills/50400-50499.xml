@@ -2120,6 +2120,8 @@
 				<chance>3</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<skillId>50453</skillId> <!-- Baium Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
@@ -2129,6 +2131,8 @@
 				<chance>3</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<skillId>50453</skillId> <!-- Baium Power -->
 				<skillLevel>1</skillLevel>
 			</effect>

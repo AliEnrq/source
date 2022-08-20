@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_23">
+		<group>
+			<npc id="22293" x="29527" y="183092" z="-3710" heading="59857" respawnTime="60sec" /> <!-- Bear -->
+			<npc id="22296" x="29862" y="182677" z="-3704" heading="54970" respawnTime="60sec" /> <!-- Honeybee -->
+			<npc id="22294" x="30145" y="183257" z="-3688" heading="60142" respawnTime="60sec" /> <!-- Hog -->
+		</group>
+	</spawn>
+</list>

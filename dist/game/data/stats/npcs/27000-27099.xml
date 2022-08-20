@@ -947,9 +947,6 @@
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
 			<param name="MoveAroundSocial2" value="75" />
-			<minions name="Privates">
-				<npc id="27037" count="4" respawnTime="240" weightPoint="1" />
-			</minions>
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>

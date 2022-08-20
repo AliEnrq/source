@@ -280,7 +280,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="1405" toLevel="4" name="Divine Inspiration">
+	<skill id="1405" toLevel="6" name="Divine Inspiration">
 		<!-- Max Buffs +$s1 -->
 		<icon>icon.skill1405</icon>
 		<magicLevel>
@@ -288,6 +288,8 @@
 			<value level="2">61</value>
 			<value level="3">76</value>
 			<value level="4">76</value>
+			<value level="5">99</value>
+			<value level="6">99</value>
 		</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -298,6 +300,8 @@
 					<value level="2">2</value>
 					<value level="3">3</value>
 					<value level="4">4</value>
+					<value level="5">5</value>
+					<value level="6">6</value>
 				</slots>
 			</effect>
 		</effects>
@@ -545,9 +549,9 @@
 		<abnormalLevel>3</abnormalLevel>
 		<abnormalType>ABNORMAL_INVINCIBILITY</abnormalType>
 		<abnormalTime>
-			<value level="1">5</value>
+			<value level="1">10</value>
 			<value level="2">10</value>
-			<value level="3">15</value>
+			<value level="3">10</value>
 		</abnormalTime>
 		<castRange>400</castRange>
 		<effectRange>900</effectRange>
@@ -2741,7 +2745,7 @@
 	<skill id="1451" toLevel="2" name="Fire Vortex Buster">
 		<!-- Summons a fire hurricane to attack the target with $s1 power. -->
 		<icon>icon.skill1451</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-500</value>
 			<value level="2">-510</value>
@@ -2821,7 +2825,7 @@
 	<skill id="1453" toLevel="2" name="Ice Vortex Crusher">
 		<!-- Summons an ice hurricane to attack the target with $s1 power. -->
 		<icon>icon.skill1453</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-500</value>
 			<value level="2">-510</value>
@@ -2934,7 +2938,7 @@
 	<skill id="1456" toLevel="2" name="Wind Vortex Slug">
 		<!-- Summons a wind hurricane to attack the target with $s1 power. -->
 		<icon>icon.skill1456</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-500</value>
 			<value level="2">-510</value>

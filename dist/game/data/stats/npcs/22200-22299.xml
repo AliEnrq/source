@@ -1167,7 +1167,7 @@
 				<run ground="174" />
 			</speed>
 			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
-			<defence physical="1405.85106382979" magical="1297.0297029703" />
+			<defence physical="888.33333" magical="888.3333" />
 		</stats>
 		<status attackable="false" />
 		<skillList>
@@ -1210,7 +1210,7 @@
 				<run ground="174" />
 			</speed>
 			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
-			<defence physical="3405.85106382979" magical="1297.0297029703" />
+			<defence physical="888.33333" magical="888.3333" />
 		</stats>
 		<status attackable="false" />
 		<skillList>
@@ -1257,7 +1257,7 @@
 				<run ground="174" />
 			</speed>
 			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
-			<defence physical="405.85106382979" magical="297.0297029703" />
+			<defence physical="888.33333" magical="888.3333" />
 		</stats>
 		<status attackable="false" />
 		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
@@ -1311,7 +1311,7 @@
 				<run ground="174" />
 			</speed>
 			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
-			<defence physical="3405.85106382979" magical="1297.0297029703" />
+			<defence physical="888.33333" magical="888.3333" />
 		</stats>
 		<status attackable="false" />
 		<skillList>
@@ -1352,7 +1352,7 @@
 				<run ground="174" />
 			</speed>
 			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
-			<defence physical="3405.85106382979" magical="1297.0297029703" />
+			<defence physical="888.33333" magical="888.3333" />
 		</stats>
 		<status attackable="false" />
 		<skillList>
@@ -1394,7 +1394,7 @@
 				<run ground="174" />
 			</speed>
 			<attack physical="3950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40" />
-			<defence physical="3405.85106382979" magical="1297.0297029703" />
+			<defence physical="888.33333" magical="888.3333" />
 		</stats>
 		<status attackable="false" />
 		<skillList>

@@ -598,62 +598,6 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20809" level="54" type="Monster" name="Ghost of the Tower" element="WIND">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="SoulShot" value="100" />
-			<param name="SoulShotRate" value="10" />
-			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="5" />
-			<skill name="W_LongRangeDDMagic" id="4158" level="6" /> <!-- NPC Prominence - Magic -->
-			<skill name="W_ShortRangeDDMagic" id="4160" level="6" /> <!-- NPC Aura Burn - Magic -->
-			<skill name="DeBuff" id="4098" level="6" /> <!-- Silence -->
-		</parameters>
-		<race>UNDEAD</race>
-		<sex>MALE</sex>
-		<acquire exp="51088" sp="1533" attributeExp="10" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="2515.5183116077" hpRegen="6.5" mp="863.303498779496" mpRegen="2.4" />
-			<attack physical="481.34551" magical="328.69659" random="50" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="247.65008" magical="181.21958" />
-			<speed>
-				<walk ground="80" />
-				<run ground="143" />
-			</speed>
-			<hitTime>390</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
-			<skill id="4278" level="1" /> <!-- Dark Attack -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4438" level="2" /> <!-- Greater Sleep Resistance -->
-			<skill id="4458" level="2" /> <!-- Spear Vulnerability -->
-			<skill id="48046" level="1" /> <!-- Monster of Wind Element -->
-			<skill id="4098" level="6" /> <!-- Silence -->
-			<skill id="4158" level="6" /> <!-- NPC Prominence - Magic -->
-			<skill id="4160" level="6" /> <!-- NPC Aura Burn - Magic -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>3</sNpcPropHpRate>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>TOWER_GHOST</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="8" />
-			<height normal="22" />
-		</collision>
-	</npc>
 	<npc id="20810" level="55" type="Monster" name="Hallate's Watchman">
 		<parameters>
 			<param name="MoveAroundSocial" value="40" />
@@ -706,61 +650,6 @@
 		<collision>
 			<radius normal="15" />
 			<height normal="30" />
-		</collision>
-	</npc>
-	<npc id="20811" level="56" type="Monster" name="Ghastly Warrior" element="WIND">
-		<parameters>
-			<param name="MoveAroundSocial" value="100" />
-			<param name="MoveAroundSocial1" value="100" />
-			<param name="MoveAroundSocial2" value="100" />
-			<param name="SoulShot" value="100" />
-			<param name="SoulShotRate" value="10" />
-			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="5" />
-			<param name="LongRangeGuardRate" value="5" />
-			<skill name="SelfRangeDDMagic" id="4072" level="6" /> <!-- Stun -->
-			<skill name="SelfBuff" id="4092" level="1" /> <!-- NPC Puma Spirit Totem -->
-			<skill name="PhysicalSpecial" id="4032" level="6" /> <!-- NPC Strike -->
-		</parameters>
-		<race>UNDEAD</race>
-		<sex>MALE</sex>
-		<acquire exp="54507" sp="1636" attributeExp="12" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="2675.97765363128" hpRegen="6.5" mp="920.260374288039" mpRegen="2.4" />
-			<attack physical="398.5869045" magical="342.17315" random="10" critical="8" accuracy="0" attackSpeed="289" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="277.742806" magical="184.76376" />
-			<speed>
-				<walk ground="21" />
-				<run ground="150" />
-			</speed>
-			<hitTime>590</hitTime>
-		</stats>
-		<status undying="false" canBeSown="true" />
-		<skillList>
-			<skill id="4275" level="2" /> <!-- Holy Attack Vulnerability -->
-			<skill id="4278" level="1" /> <!-- Dark Attack -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4458" level="2" /> <!-- Spear Vulnerability -->
-			<skill id="48046" level="1" /> <!-- Monster of Wind Element -->
-			<skill id="4032" level="6" /> <!-- NPC Strike -->
-			<skill id="4072" level="6" /> <!-- Stun -->
-			<skill id="4092" level="1" /> <!-- NPC Puma Spirit Totem -->
-		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>3</sNpcPropHpRate>
-		<ai type="BALANCED" aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>TOWER_GHOST</clan>
-			</clanList>
-		</ai>
-		<collision>
-			<radius normal="12" />
-			<height normal="26" />
 		</collision>
 	</npc>
 	<npc id="20812" level="57" type="Monster" name="Archer of Despair" element="WIND">

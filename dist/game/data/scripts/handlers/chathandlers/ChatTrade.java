@@ -24,6 +24,8 @@ import org.l2jmobius.gameserver.instancemanager.MapRegionManager;
 import org.l2jmobius.gameserver.model.BlockList;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.itemcontainer.Inventory;
+import org.l2jmobius.gameserver.model.zone.ZoneId;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 import org.l2jmobius.gameserver.network.serverpackets.CreatureSay;
 import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
@@ -40,7 +42,7 @@ public class ChatTrade implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
 	{
 		if (activeChar.isChatBanned() && Config.BAN_CHAT_CHANNELS.contains(type))
 		{
@@ -58,7 +60,24 @@ public class ChatTrade implements IChatHandler
 			return;
 		}
 		
-		final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text);
+		if ((isLocSharing == 1) && (activeChar.getInventory().getInventoryItemCount(Inventory.LCOIN_ID, -1) < Config.SHARING_LOCATION_COST))
+		{
+			activeChar.sendPacket(SystemMessageId.THERE_ARE_NOT_ENOUGH_L_COINS);
+			return;
+		}
+		
+		if ((isLocSharing == 1) && (activeChar.isInInstance() || activeChar.isInsideZone(ZoneId.SIEGE)))
+		{
+			activeChar.sendPacket(SystemMessageId.LOCATION_CANNOT_BE_SHARED_SINCE_THE_CONDITIONS_ARE_NOT_MET);
+			return;
+		}
+		
+		if (isLocSharing == 1)
+		{
+			activeChar.destroyItemByItemId("TeleToSharedLoc", Inventory.LCOIN_ID, Config.SHARING_LOCATION_COST, activeChar, true);
+		}
+		
+		final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing);
 		if (Config.DEFAULT_TRADE_CHAT.equalsIgnoreCase("on") || (Config.DEFAULT_TRADE_CHAT.equalsIgnoreCase("gm") && activeChar.canOverrideCond(PlayerCondOverride.CHAT_CONDITIONS)))
 		{
 			final int region = MapRegionManager.getInstance().getMapRegionLocId(activeChar);

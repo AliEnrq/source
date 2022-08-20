@@ -200,7 +200,7 @@ public class Broadcast
 	
 	public static void toAllOnlinePlayers(String text, boolean isCritical)
 	{
-		toAllOnlinePlayers(new CreatureSay(null, isCritical ? ChatType.CRITICAL_ANNOUNCE : ChatType.ANNOUNCEMENT, "", text));
+		toAllOnlinePlayers(new CreatureSay(null, isCritical ? ChatType.CRITICAL_ANNOUNCE : ChatType.ANNOUNCEMENT, "", text, 0));
 	}
 	
 	public static void toAllOnlinePlayersOnScreen(String text)

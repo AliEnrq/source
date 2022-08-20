@@ -1372,9 +1372,8 @@
 			<value level="3">3</value>
 			<value level="4">4</value>
 		</abnormalLevel>
-		<abnormalTime>30</abnormalTime>
+		<abnormalTime>1200</abnormalTime>
 		<abnormalType>REAL_TARGET</abnormalType>
-		<abnormalVisualEffect>REAL_TARGET</abnormalVisualEffect>
 		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">-760</value>
@@ -1384,7 +1383,7 @@
 		</effectPoint>
 		<effectRange>1200</effectRange>
 		<hitTime>1500</hitTime>
-		<isDebuff>true</isDebuff>
+		<isDebuff>false</isDebuff>
 		<magicLevel>
 			<value level="1">78</value>
 			<value level="2">80</value>
@@ -1401,7 +1400,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>5</magicCriticalRate>
-		<targetType>ENEMY</targetType>
+		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="AttackTrait">
@@ -1412,19 +1411,29 @@
 					<value level="4">5</value>
 				</SHOCK>
 			</effect>
-			<effect name="DefenceTrait">
-				<BOW>
-					<value level="1">-15</value>
-					<value level="2">-20</value>
-					<value level="3">-20</value>
-					<value level="4">-25</value>
-				</BOW>
-				<SHOCK>
-					<value level="1">-10</value>
-					<value level="2">-15</value>
-					<value level="3">-20</value>
-					<value level="4">-25</value>
-				</SHOCK>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<minDamage>1</minDamage>
+				<chance>14</chance>
+				<targetType>ENEMY</targetType>
+				<isCritical>false</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>11900</skillId>
+				<skillLevel>1</skillLevel>
+			</effect>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<minDamage>1</minDamage>
+				<chance>14</chance>
+				<targetType>ENEMY</targetType>
+				<isCritical>true</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>11900</skillId>
+				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
 	</skill>
@@ -1777,6 +1786,7 @@
 			<condition name="EquipWeapon">
 				<weaponType>
 					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
 				</weaponType>
 			</condition>
 		</conditions>

@@ -624,24 +624,6 @@
 			</condition>
 		</conditions>
 		<effects>
-			<effect name="Speed">
-				<amount>
-					<value level="1">-50</value>
-					<value level="2">-45</value>
-					<value level="3">-40</value>
-					<value level="4">-35</value>
-					<value level="5">-30</value>
-					<value level="6">-25</value>
-					<value level="7">-20</value>
-					<value level="8">-15</value>
-					<value level="9">-10</value>
-					<value level="10">-5</value>
-				</amount>
-				<mode>DIFF</mode>
-				<weaponType>
-					<item>BOW</item>
-				</weaponType>
-			</effect>
 			<effect name="PAtk">
 				<amount>
 					<value level="1">140</value>
@@ -679,6 +661,13 @@
 				</weaponType>
 			</effect>
 			<effect name="CriticalRate">
+				<amount>20</amount>
+				<mode>PER</mode>
+				<weaponType>
+					<item>BOW</item>
+				</weaponType>
+			</effect>
+			<effect name="PhysicalSkillCriticalRate">
 				<amount>20</amount>
 				<mode>PER</mode>
 				<weaponType>
@@ -1432,60 +1421,16 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="335" toLevel="5" name="Fortitude">
+	<skill id="335" toLevel="1" name="Fortitude">
 		<!-- Paralysis Resistance $s1 Shock Resistance $s1 -->
 		<icon>icon.skill0335</icon>
-		<magicLevel>
-			<value level="1">41</value>
-			<value level="2">65</value>
-			<value level="3">76</value>
-			<value level="4">84</value>
-			<value level="5">88</value>
-		</magicLevel>
+		<magicLevel>76</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
-			<effect name="DefenceTrait" fromLevel="1" toLevel="2">
-				<BOW>
-					<value level="1">40</value>
-					<value level="2">40</value>
-				</BOW>
-				<PISTOLS>
-					<value level="1">40</value>
-					<value level="2">40</value>
-				</PISTOLS>
-			</effect>
-			<effect name="DefenceTrait" fromLevel="3" toLevel="5">
-				<BOW>
-					<value level="3">40</value>
-					<value level="4">50</value>
-					<value level="5">60</value>
-				</BOW>
-				<PISTOLS>
-					<value level="3">40</value>
-					<value level="4">50</value>
-					<value level="5">60</value>
-				</PISTOLS>
-				<SHOCK>
-					<value level="3">10</value>
-					<value level="4">20</value>
-					<value level="5">30</value>
-				</SHOCK>
-				<PARALYZE>
-					<value level="3">10</value>
-					<value level="4">20</value>
-					<value level="5">30</value>
-				</PARALYZE>
-			</effect>
-			<effect name="ResistDDMagic">
-				<amount>
-					<value level="1">20</value>
-					<value level="2">30</value>
-					<value level="3">40</value>
-					<value level="4">50</value>
-					<value level="5">60</value>
-				</amount>
-				<mode>PER</mode>
+			<effect name="DefenceTrait">
+				<SHOCK>30</SHOCK>
+				<PARALYZE>30</PARALYZE>
 			</effect>
 		</effects>
 	</skill>
@@ -1760,7 +1705,7 @@
 	<skill id="343" toLevel="15" name="Lethal Shot">
 		<!-- Shoots with a deadly arrow. Attacks the target with $s1 power. Ignores Shield Defense. Ignores $s2 of the target's defense. Critical. -->
 		<icon>icon.skill0343</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<coolTime>500</coolTime>
 		<effectPoint>
 			<value level="1">-400</value>
@@ -1858,7 +1803,6 @@
 		<!-- Attacks the target's weak point. Deals physical damage with $s1 power. Critical. -->
 		<icon>icon.skill0344</icon>
 		<castRange>40</castRange>
-		<coolTime>500</coolTime>
 		<effectPoint>
 			<value level="1">-400</value>
 			<value level="2">-405</value>
@@ -1877,7 +1821,7 @@
 			<value level="15">-470</value>
 		</effectPoint>
 		<effectRange>400</effectRange>
-		<hitTime>1500</hitTime>
+		<hitTime>2000</hitTime>
 		<magicLevel>
 			<value level="1">76</value>
 			<value level="2">77</value>
@@ -1923,6 +1867,7 @@
 			<condition name="EquipWeapon">
 				<weaponType>
 					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
 				</weaponType>
 			</condition>
 		</conditions>
@@ -2502,7 +2447,7 @@
 	<skill id="354" toLevel="1" name="Hamstring Shot">
 		<!-- <Suppression Skill> Shoots an arrow with $s1 power. For $s2, Speed $s3. Critical. -->
 		<icon>icon.skill0354</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>-405</effectPoint>
 		<effectRange>1400</effectRange>
 		<hitTime>4000</hitTime>
@@ -2535,17 +2480,14 @@
 		</effects>
 	</skill>
 	<skill id="355" toLevel="1" name="Focus Death">
-		<!-- Duration: 20 min. Vital Point Critical Damage +30% -->
+		<!-- Duration: $s1 P. Critical Rate $s2 Vital Point Attack Rate +$s3 When attacking from the front: P. Critical Damage $s4 When backstabbing: P. Critical Damage $s5 Note! Only one of the following skills can be used: Focus Death, Focus Chance, or Focus Power. -->
 		<icon>icon.skill0355</icon>
-		<castRange>-1</castRange>
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
 		<abnormalType>FOCUS_DAGGER</abnormalType>
 		<hitTime>2000</hitTime>
-		<itemConsumeCount>10</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
 		<magicLevel>78</magicLevel>
-		<mpConsume>65</mpConsume>
+		<mpConsume>108</mpConsume>
 		<operateType>A2</operateType>
 		<reuseDelay>30000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
@@ -2556,58 +2498,40 @@
 			<condition name="EquipWeapon">
 				<weaponType>
 					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
 				</weaponType>
 			</condition>
 		</conditions>
 		<effects>
-			<effect name="FatalBlowRate">
-				<amount>30</amount>
+			<effect name="CriticalRate">
+				<amount>-20</amount>
 				<mode>PER</mode>
 			</effect>
-		</effects>
-	</skill>
-	<skill id="356" toLevel="1" name="Focus Chance">
-		<!-- Duration: 20 min. Vital Point Attack Rate +40%. Vital Point Critical Rate +40% -->
-		<icon>icon.skill0356</icon>
-		<abnormalLevel>1</abnormalLevel>
-		<abnormalTime>1200</abnormalTime>
-		<abnormalType>FOCUS_DAGGER</abnormalType>
-		<hitTime>2000</hitTime>
-		<itemConsumeCount>10</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
-		<magicLevel>78</magicLevel>
-		<mpConsume>65</mpConsume>
-		<operateType>A2</operateType>
-		<reuseDelay>30000</reuseDelay>
-		<basicProperty>NONE</basicProperty>
-		<magicCriticalRate>5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>SINGLE</affectScope>
-		<conditions>
-			<condition name="EquipWeapon">
-				<weaponType>
-					<item>DAGGER</item>
-				</weaponType>
-			</condition>
-		</conditions>
-		<effects>
+			<effect name="CriticalDamagePosition">
+				<amount>-30</amount>
+				<mode>PER</mode>
+				<position>FRONT</position>
+			</effect>
 			<effect name="FatalBlowRate">
 				<amount>40</amount>
 				<mode>PER</mode>
 			</effect>
+			<effect name="CriticalDamagePosition">
+				<amount>90</amount>
+				<mode>PER</mode>
+				<position>BACK</position>
+			</effect>
 		</effects>
 	</skill>
-	<skill id="357" toLevel="1" name="Focus Power">
-		<!-- Duration: 20 min. Dagger Attack Power +10% -->
-		<icon>icon.skill0357</icon>
+	<skill id="356" toLevel="1" name="Focus Chance">
+		<!-- Duration: $s1 Vital Point Attack Rate $s2 When attacking from the front: P. Critical Rate $s3 When flanking: P. Critical Rate $s4 When backstabbing: P. Critical Rate $s5 Note! Only one of the following skills can be used: Focus Death, Focus Chance, or Focus Power. -->
+		<icon>icon.skill0356</icon>
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
-		<abnormalType>FOCUS_DAGGER</abnormalType>
+		<abnormalType>NPC_ATTACK1</abnormalType>
 		<hitTime>2000</hitTime>
-		<itemConsumeCount>10</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
 		<magicLevel>78</magicLevel>
-		<mpConsume>65</mpConsume>
+		<mpConsume>108</mpConsume>
 		<operateType>A2</operateType>
 		<reuseDelay>30000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
@@ -2618,6 +2542,52 @@
 			<condition name="EquipWeapon">
 				<weaponType>
 					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
+				</weaponType>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="CriticalRatePositionBonus">
+				<amount>-30</amount>
+				<mode>PER</mode>
+				<position>FRONT</position>
+			</effect>
+			<effect name="FatalBlowRate">
+				<amount>20</amount>
+				<mode>PER</mode>
+			</effect>
+			<effect name="CriticalRatePositionBonus">
+				<amount>30</amount>
+				<mode>PER</mode>
+				<position>SIDE</position>
+			</effect>
+			<effect name="CriticalDamagePosition">
+				<amount>60</amount>
+				<mode>PER</mode>
+				<position>BACK</position>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="357" toLevel="1" name="Focus Power">
+		<!-- Duration: $s1 When attacking from the front: P. Critical Damage $s2 When flanking: P. Critical Damage $s3 When flanking: P. Critical Damage $s4 Note! Only one of the following skills can be used: Focus Death, Focus Chance, or Focus Power. -->
+		<icon>icon.skill0357</icon>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>1200</abnormalTime>
+		<abnormalType>DUAL_DEFENCE_UP</abnormalType>
+		<hitTime>2000</hitTime>
+		<magicLevel>78</magicLevel>
+		<mpConsume>108</mpConsume>
+		<operateType>A2</operateType>
+		<reuseDelay>30000</reuseDelay>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="EquipWeapon">
+				<weaponType>
+					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
 				</weaponType>
 			</condition>
 		</conditions>
@@ -2649,7 +2619,6 @@
 		<activateRate>80</activateRate>
 		<basicProperty>PHYSICAL</basicProperty>
 		<castRange>40</castRange>
-		<coolTime>500</coolTime>
 		<effectPoint>
 			<value level="1">-760</value>
 			<value level="2">-770</value>
@@ -2684,17 +2653,17 @@
 		</magicLevel>
 		<mpConsume>
 			<value level="1">35</value>
-			<value level="2">35</value>
-			<value level="3">35</value>
-			<value level="4">35</value>
-			<value level="5">40</value>
+			<value level="2">36</value>
+			<value level="3">37</value>
+			<value level="4">38</value>
+			<value level="5">39</value>
 			<value level="6">40</value>
-			<value level="7">40</value>
-			<value level="8">40</value>
-			<value level="9">40</value>
-			<value level="10">45</value>
+			<value level="7">41</value>
+			<value level="8">42</value>
+			<value level="9">43</value>
+			<value level="10">44</value>
 			<value level="11">45</value>
-			<value level="12">45</value>
+			<value level="12">46</value>
 		</mpConsume>
 		<operateType>A2</operateType>
 		<reuseDelay>8000</reuseDelay>

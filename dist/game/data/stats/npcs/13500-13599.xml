@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
-	<npc id="13591" level="85" type="Folk" name="Fire Dragon's Agathion Virgo">
+	<npc id="13591" level="85" type="Folk" name="nebu agathion">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
@@ -19,7 +19,7 @@
 			<height normal="5.15" />
 		</collision>
 	</npc>
-	<npc id="13500" level="80" type="Folk" name="Virgo">
+	<npc id="13500" level="80" type="Folk" name="ignis">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
@@ -38,7 +38,7 @@
 			<height normal="5.15" />
 		</collision>
 	</npc>
-	<npc id="13501" level="80" type="Folk" name="Aries">
+	<npc id="13501" level="80" type="Folk" name="petram">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
@@ -57,7 +57,7 @@
 			<height normal="5.15" />
 		</collision>
 	</npc>
-	<npc id="13502" level="80" type="Folk" name="Capricorn">
+	<npc id="13502" level="80" type="Folk" name="procella">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
@@ -76,7 +76,7 @@
 			<height normal="5.15" />
 		</collision>
 	</npc>
-	<npc id="13503" level="80" type="Folk" name="Gemini">
+	<npc id="13503" level="80" type="Folk" name="joy">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>

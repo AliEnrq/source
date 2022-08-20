@@ -82,7 +82,7 @@
 			<value level="4">4</value>
 			<value level="5">5</value>
 		</abnormalLevel>
-		<abnormalTime>60</abnormalTime>
+		<abnormalTime>40</abnormalTime>
 		<abnormalType>AVOID_SKILL</abnormalType>
 		<hitTime>1000</hitTime>
 		<magicLevel>
@@ -1486,6 +1486,7 @@
 		</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
 		<abnormalType>POLEARM_ATTACK</abnormalType>
+		<abnormalVisualEffect>WIDE_SWORD</abnormalVisualEffect>
 		<operateType>A2</operateType>
 		<hitTime>2000</hitTime>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -1599,6 +1600,7 @@
 			<condition name="EquipWeapon">
 				<weaponType>
 					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
 				</weaponType>
 			</condition>
 		</conditions>
@@ -1644,6 +1646,7 @@
 			<condition name="EquipWeapon">
 				<weaponType>
 					<item>DAGGER</item>
+					<item>DUALDAGGER</item>
 				</weaponType>
 			</condition>
 		</conditions>

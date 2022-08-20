@@ -2190,7 +2190,7 @@
 		<abnormalType>RESIST_POISON</abnormalType>
 		<activateRate>80</activateRate>
 		<basicProperty>PHYSICAL</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-243</value>
 			<value level="2">-285</value>
@@ -3008,7 +3008,7 @@
 	<skill id="1230" toLevel="45" name="Prominence">
 		<!-- Summons a flame. Inflicts magic damage with $s1 power. -->
 		<icon>icon.skill1230</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-210</value>
 			<value level="2">-220</value>
@@ -3561,7 +3561,7 @@
 	<skill id="1234" toLevel="45" name="Vampiric Claw">
 		<!-- <Drain skill> Inflicts magic damage on the target with $s1 power. Absorbs $s2 of the inflicted damage as HP. -->
 		<icon>icon.skill1234</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-210</value>
 			<value level="2">-220</value>
@@ -3817,7 +3817,7 @@
 	<skill id="1235" toLevel="45" name="Hydro Blast">
 		<!-- Strike the enemy with the rush of water. Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1235</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-210</value>
 			<value level="2">-220</value>
@@ -4074,7 +4074,7 @@
 		<!-- <Suppression Skill> Momentarily freezes the surrounding air. Inflicts magic damage on the enemy with $s1 power. For 30 sec. target's Speed -20%. -->
 		<icon>icon.skill1236</icon>
 		<basicProperty>MAGIC</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<coolTime>200</coolTime>
 		<effectPoint>
 			<value level="1">-210</value>
@@ -4321,7 +4321,7 @@
 		<!-- <Infection Skill> Summons a wind blade. Inflicts magic damage on the enemy with $s1 power. Deals damage over time for $s2 -->
 		<icon>icon.skill1237</icon>
 		<basicProperty>PHYSICAL</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-230</value>
 			<value level="2">-240</value>
@@ -4519,7 +4519,7 @@
 	<skill id="1239" toLevel="45" name="Hurricane">
 		<!-- Summons a devastating tornado. Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1239</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-210</value>
 			<value level="2">-220</value>
@@ -5160,7 +5160,7 @@
 	<skill id="1245" toLevel="25" name="Steal Essence">
 		<!-- <Drain skill> Inflicts magic damage on the target with $s1 power. Absorbs $s2 of the inflicted damage as HP. -->
 		<icon>icon.skill1245</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-220</value>
 			<value level="2">-240</value>
@@ -5929,12 +5929,12 @@
 		<effects>
 			<effect name="Resurrection">
 				<power>
-					<value level="1">0</value>
-					<value level="2">20</value>
-					<value level="3">30</value>
-					<value level="4">40</value>
-					<value level="5">50</value>
-					<value level="6">55</value>
+					<value level="1">100</value>
+					<value level="2">100</value>
+					<value level="3">100</value>
+					<value level="4">100</value>
+					<value level="5">100</value>
+					<value level="6">100</value>
 				</power>
 			</effect>
 		</effects>
@@ -6561,7 +6561,7 @@
 	<skill id="1264" toLevel="3" name="Solar Spark">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1264</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-152</value>
 			<value level="2">-179</value>
@@ -6606,7 +6606,7 @@
 	<skill id="1265" toLevel="14" name="Solar Flare">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1265</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-237</value>
 			<value level="2">-262</value>
@@ -6706,7 +6706,7 @@
 	<skill id="1266" toLevel="3" name="Shadow Spark">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1266</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-152</value>
 			<value level="2">-179</value>
@@ -6751,7 +6751,7 @@
 	<skill id="1267" toLevel="14" name="Shadow Flare">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1267</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-237</value>
 			<value level="2">-262</value>
@@ -7239,7 +7239,7 @@
 	<skill id="1274" toLevel="4" name="Energy Bolt">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1274</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-120</value>
 			<value level="2">-145</value>
@@ -7286,7 +7286,7 @@
 	<skill id="1275" toLevel="14" name="Aura Bolt">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
 		<icon>icon.skill1275</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-220</value>
 			<value level="2">-240</value>
@@ -8251,7 +8251,7 @@
 	<skill id="1288" toLevel="1" name="Aura Symphony">
 		<!-- Deals magic damage to the target with 150 power. -->
 		<icon>icon.skill1288</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>-2100</effectPoint>
 		<effectRange>1400</effectRange>
 		<hitTime>4000</hitTime>
@@ -8273,7 +8273,7 @@
 	<skill id="1289" toLevel="6" name="Inferno">
 		<!-- <Infection Skill> Deals fire damage with $s1 power. Burns $s2 MP from the enemy. Deals damage over time for $s3 -->
 		<icon>icon.skill1289</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-2100</value>
 			<value level="2">-2110</value>
@@ -8357,7 +8357,7 @@
 		<!-- <Suppression Skill> Inflicts water damage on the enemy with $s1 power. For $s2, Speed -$s3. -->
 		<icon>icon.skill1290</icon>
 		<basicProperty>MAGIC</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-2100</value>
 			<value level="2">-2110</value>
@@ -8431,7 +8431,7 @@
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>120</abnormalTime>
 		<abnormalType>HEAL_EFFECT_DOWN</abnormalType>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-2100</value>
 			<value level="2">-2110</value>
@@ -8503,7 +8503,7 @@
 	<skill id="1292" toLevel="1" name="Elemental Symphony">
 		<!-- Deals magic damage to the target. Power 200. -->
 		<icon>icon.skill1292</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>-3000</effectPoint>
 		<effectRange>1400</effectRange>
 		<hitTime>4000</hitTime>
@@ -8526,7 +8526,7 @@
 	<skill id="1293" toLevel="1" name="Elemental Symphony">
 		<!-- Deals magic damage to the target. Power 200. -->
 		<icon>icon.skill1293</icon>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>-3000</effectPoint>
 		<effectRange>1400</effectRange>
 		<hitTime>4000</hitTime>
@@ -8573,7 +8573,7 @@
 		<icon>icon.skill1295</icon>
 		<affectLimit>5-12</affectLimit>
 		<affectRange>200</affectRange>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-138</value>
 			<value level="2">-142</value>
@@ -8690,7 +8690,7 @@
 		<icon>icon.skill1296</icon>
 		<affectLimit>5-12</affectLimit>
 		<affectRange>100</affectRange>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-138</value>
 			<value level="2">-142</value>

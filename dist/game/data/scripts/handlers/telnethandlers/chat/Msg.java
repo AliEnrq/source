@@ -56,7 +56,7 @@ public class Msg implements ITelnetCommand
 			{
 				sb.append(args[i] + " ");
 			}
-			player.sendPacket(new CreatureSay(null, ChatType.WHISPER, "Telnet Priv", sb.toString()));
+			player.sendPacket(new CreatureSay(null, ChatType.WHISPER, "Telnet Priv", sb.toString(), 0));
 			return "Announcement sent!";
 		}
 		return "Couldn't find player with such name.";

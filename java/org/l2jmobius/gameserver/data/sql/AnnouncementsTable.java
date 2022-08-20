@@ -110,7 +110,7 @@ public class AnnouncementsTable
 		{
 			if (announce.isValid() && (announce.getType() == type))
 			{
-				player.sendPacket(new CreatureSay(null, type == AnnouncementType.CRITICAL ? ChatType.CRITICAL_ANNOUNCE : ChatType.ANNOUNCEMENT, player.getName(), announce.getContent()));
+				player.sendPacket(new CreatureSay(null, type == AnnouncementType.CRITICAL ? ChatType.CRITICAL_ANNOUNCE : ChatType.ANNOUNCEMENT, player.getName(), announce.getContent(), 0));
 			}
 		}
 	}

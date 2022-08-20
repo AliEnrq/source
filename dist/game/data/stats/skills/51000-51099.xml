@@ -575,7 +575,7 @@
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="SummonAgathion">
-				<npcId>16056</npcId> <!-- Joy -->
+				<npcId>13503</npcId> <!-- Joy -->
 			</effect>
 		</effects>
 	</skill>

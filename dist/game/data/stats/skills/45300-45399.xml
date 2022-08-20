@@ -1218,7 +1218,7 @@
 		</magicLevel>
 		<operateType>A2</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<hitTime>1000</hitTime>
 		<coolTime>500</coolTime>
 		<reuseDelay>3000</reuseDelay>
@@ -1283,6 +1283,7 @@
 		<abnormalTime>10</abnormalTime>
 		<abnormalType>MULTI_DEBUFF</abnormalType>
 		<activateRate>80</activateRate>
+		<affectLimit>5-15</affectLimit>
 		<affectRange>400</affectRange>
 		<effectRange>600</effectRange>
 		<basicProperty>PHYSICAL</basicProperty>
@@ -1367,7 +1368,6 @@
 					<value level="14">5080</value>
 					<value level="15">5142</value>
 				</power>
-				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<overHit>true</overHit>
 				<pDefMod>0.9</pDefMod>
@@ -1400,6 +1400,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<affectRange>400</affectRange>
 		<effectRange>600</effectRange>
+		<affectLimit>5-15</affectLimit>
 		<reuseDelay>30000</reuseDelay>
 		<targetType>SELF</targetType>
 		<affectScope>POINT_BLANK</affectScope>
@@ -1443,7 +1444,7 @@
 			</effect>
 		</selfEffects>
 	</skill>
-	<skill id="45314" toLevel="3" name="Ignite">
+	<skill id="45314" toLevel="3" name="Conflagration">
 		<!-- Burns the body and decreases HP. -->
 		<abnormalLevel>3</abnormalLevel>
 		<abnormalTime>10</abnormalTime>
@@ -1509,6 +1510,7 @@
 		<affectRange>400</affectRange>
 		<effectRange>600</effectRange>
 		<reuseDelay>30000</reuseDelay>
+		<affectLimit>5-15</affectLimit>
 		<targetType>SELF</targetType>
 		<affectScope>POINT_BLANK</affectScope>
 		<affectObject>NOT_FRIEND</affectObject>
@@ -1602,6 +1604,7 @@
 		<operateType>A1</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<affectRange>400</affectRange>
+		<affectLimit>5-15</affectLimit>
 		<effectRange>600</effectRange>
 		<reuseDelay>30000</reuseDelay>
 		<targetType>SELF</targetType>
@@ -2422,6 +2425,7 @@
 		<abnormalType>TURN_STONE</abnormalType>
 		<abnormalVisualEffect>DK_BONEPRISON_AVE</abnormalVisualEffect>
 		<activateRate>80</activateRate>
+		<staticReuse>true</staticReuse>
 		<basicProperty>MAGIC</basicProperty>
 		<coolTime>500</coolTime>
 		<effectPoint>
@@ -4629,7 +4633,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="45371" toLevel="1" name="Eva's Help">
+	<skill id="45371" toLevel="1" name="Power of Eva">
 		<!-- There is a certain chance after using Tribunal that the cross will be imbued with power of Eva. The energy strikes the enemy provoking them to attack you. -->
 		<magicLevel>76</magicLevel>
 		<operateType>P</operateType>
@@ -4733,7 +4737,7 @@
 	</skill>
 	<skill id="45377" toLevel="15" name="Ethereal Strike">
 		<!-- Creates a mysterious cyclone that attacks. A magical attack with $s1 power. -->
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-400</value>
 			<value level="2">-405</value>
@@ -4818,7 +4822,7 @@
 	</skill>
 	<skill id="45378" toLevel="15" name="Flame Explosion">
 		<!-- Makes an flame explosion. Inflicts magic damage with $s1 power on the enemy. When attacking the enemy affected by Sleep Sleep is removed and an extra attack is triggered. -->
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<attributeType>FIRE</attributeType>
 		<attributeValue>20</attributeValue>
 		<effectPoint>
@@ -4912,7 +4916,7 @@
 	</skill>
 	<skill id="45379" toLevel="15" name="Water Explosion">
 		<!-- Inflicts water damage with $s1 power. When you are attacking the enemy affected by Sleep, the debuff is cancelled and an extra attack is triggered. -->
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<attributeType>WATER</attributeType>
 		<attributeValue>20</attributeValue>
 		<effectPoint>
@@ -5006,7 +5010,7 @@
 	</skill>
 	<skill id="45380" toLevel="15" name="Thunder Explosion">
 		<!-- Inflicts wind damage with $s1 power. When you are attacking the enemy affected by Sleep, the debuff is cancelled and an extra attack is triggered. -->
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<attributeType>WIND</attributeType>
 		<attributeValue>20</attributeValue>
 		<effectPoint>
@@ -5100,7 +5104,7 @@
 	</skill>
 	<skill id="45381" toLevel="15" name="Void Explosion">
 		<!-- Inflicts dark damage with $s1 power. When you are attacking the enemy affected by Sleep, the debuff is cancelled and an extra attack is triggered. -->
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<attributeType>DARK</attributeType>
 		<attributeValue>20</attributeValue>
 		<effectPoint>
@@ -5299,7 +5303,7 @@
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
 	</skill>
-	<skill id="45386" toLevel="55" name="Transcendent Vortex">
+	<skill id="45386" toLevel="55" name="Transcendent Spinning Slasher">
 		<!-- Attacks nearby enemies with $s1 power. Ignores Shield Defense. Critical. Can be used only in the transcendent instance zones. -->
 		<affectLimit>6-12</affectLimit>
 		<affectRange>150</affectRange>

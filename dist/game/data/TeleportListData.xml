@@ -108,7 +108,7 @@
 	<teleport id="433" x="104712" y="4803" z="-3288" price="1000" /> <!-- Road to Orc Fortress -->
 	<teleport id="434" x="-48363" y="140230" z="-2944" price="18000" /> <!-- Sel Mahum Base -->
 	<teleport id="435" x="73024" y="118485" z="-3720" price="15000" /> <!-- Entrance to Dragon Valley -->
-	<teleport id="436" x="88088" y="121578" z="-2960" price="18000" /> <!-- Center of the Dragon Valley -->
+	<teleport id="436" x="117424" y="115992" z="-3704" price="18000" /> <!-- Center of the Dragon Valley -->
 	<teleport id="437" x="92821" y="18847" z="-3608" price="2000" /> <!-- Outskirts of the Ivory Tower -->
 	<teleport id="438" x="15074" y="246054" z="-176" price="200" special="true" /> <!-- Hellbound -->
 	<teleport id="439" x="8890" y="239060" z="-2440" price="200" special="true" /> <!-- Satina's Laboratory -->

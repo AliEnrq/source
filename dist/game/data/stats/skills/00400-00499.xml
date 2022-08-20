@@ -1669,14 +1669,13 @@
 					<item>BOW</item>
 				</weaponType>
 			</effect>
-			<effect name="PhysicalAttackSpeed">
-				<amount>-5</amount>
+		<effect name="SkillCriticalDamage">
+				<amount>
+					<value level="1">20</value>
+				</amount>
 				<mode>PER</mode>
-				<weaponType>
-					<item>BOW</item>
-				</weaponType>
 			</effect>
-		</effects>
+	</effects>
 	</skill>
 	<skill id="415" toLevel="3" name="Spirit of Sagittarius">
 		<!-- P. Skill MP Consumption -$s1. -->
@@ -1824,8 +1823,9 @@
 			<value level="2">2</value>
 			<value level="3">3</value>
 		</abnormalLevel>
-		<abnormalTime>60</abnormalTime>
+		<abnormalTime>40</abnormalTime>
 		<abnormalType>PD_UP_SPECIAL</abnormalType>
+		<abnormalVisualEffect>H_R_ORC_TITAN_AVE</abnormalVisualEffect>
 		<hitTime>2000</hitTime>
 		<magicLevel>
 			<value level="1">58</value>
@@ -1872,7 +1872,7 @@
 				<amount>
 					<value level="1">11</value>
 					<value level="2">22</value>
-					<value level="3">33</value>
+					<value level="3">23</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
@@ -1880,7 +1880,7 @@
 				<amount>
 					<value level="1">11</value>
 					<value level="2">22</value>
-					<value level="3">33</value>
+					<value level="3">23</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
@@ -2568,7 +2568,7 @@
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>10</abnormalTime>
 		<abnormalType>INVINCIBILITY</abnormalType>
-		<abnormalVisualEffect>INVINCIBILITY</abnormalVisualEffect>
+		<abnormalVisualEffect>HE_PROTECT</abnormalVisualEffect>
 		<chargeConsume>3</chargeConsume>
 		<effectPoint>673</effectPoint>
 		<hitTime>2000</hitTime>
@@ -2611,7 +2611,7 @@
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>10</abnormalTime>
 		<abnormalType>INVINCIBILITY</abnormalType>
-		<abnormalVisualEffect>INVINCIBILITY</abnormalVisualEffect>
+		<abnormalVisualEffect>HE_PROTECT</abnormalVisualEffect>
 		<chargeConsume>3</chargeConsume>
 		<hitTime>2000</hitTime>
 		<magicLevel>77</magicLevel>
@@ -2666,26 +2666,15 @@
 			<effect name="ConsumeBody" />
 		</effects>
 	</skill>
-	<skill id="445" toLevel="2" name="Mirage">
+	<skill id="445" toLevel="1" name="Mirage">
 		<!-- The effect lasts for $s1 Vital Point Attack Rate $s2 Received P. Critical Damage $s3 Received M. Skill Critical Damage $s3 -->
 		<icon>icon.skill0445</icon>
-		<abnormalLevel>
-			<value level="1">1</value>
-			<value level="2">2</value>
-		</abnormalLevel>
-		<abnormalTime>
-			<value level="1">60</value>
-			<value level="2">90</value>
-		</abnormalTime>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>120</abnormalTime>
 		<abnormalType>MIRAGE</abnormalType>
-		<hitTime>500</hitTime>
+		<hitTime>2000</hitTime>
 		<magicLevel>79</magicLevel>
-		<mpConsume>40</mpConsume>
-		<itemConsumeCount>
-			<value level="1">0</value>
-			<value level="2">5</value>
-		</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
+		<mpConsume>47</mpConsume>
 		<operateType>A2</operateType>
 		<reuseDelay>300000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
@@ -2694,10 +2683,7 @@
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="FatalBlowRate">
-				<amount>
-					<value level="1">15</value>
-					<value level="2">20</value>
-				</amount>
+				<amount>15</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="DefenceCriticalDamage">
@@ -2708,45 +2694,17 @@
 				<amount>10</amount>
 				<mode>PER</mode>
 			</effect>
-			<effect name="DefenceCriticalRate">
-				<amount>
-					<value level="1">0</value>
-					<value level="2">15</value>
-				</amount>
-				<mode>PER</mode>
-			</effect>
-			<effect name="DefenceMagicCriticalRate">
-				<amount>
-					<value level="1">0</value>
-					<value level="2">15</value>
-				</amount>
-				<mode>PER</mode>
-			</effect>
 		</effects>
 	</skill>
-	<skill id="446" toLevel="2" name="Evasion">
+	<skill id="446" toLevel="1" name="Evasion">
 		<!-- The effect lasts for $s1 P. Skill Evasion $s2 M. Skill Evasion $s2 -->
 		<icon>icon.skill0446</icon>
-		<abnormalLevel>
-			<value level="1">1</value>
-			<value level="2">2</value>
-		</abnormalLevel>
-		<abnormalTime>
-			<value level="1">60</value>
-			<value level="2">70</value>
-		</abnormalTime>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>60</abnormalTime>
 		<abnormalType>AVOID_SKILL</abnormalType>
-		<itemConsumeCount>
-			<value level="1">0</value>
-			<value level="2">5</value>
-		</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
 		<hitTime>500</hitTime>
-		<magicLevel>
-			<value level="1">79</value>
-			<value level="2">82</value>
-		</magicLevel>
-		<mpConsume>40</mpConsume>
+		<magicLevel>79</magicLevel>
+		<mpConsume>32</mpConsume>
 		<operateType>A2</operateType>
 		<reuseDelay>300000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
@@ -2756,42 +2714,22 @@
 		<effects>
 			<effect name="SkillEvasion">
 				<magicType>0</magicType>
-				<amount>
-					<value level="1">50</value>
-					<value level="2">70</value>
-				</amount>
+				<amount>70</amount>
 			</effect>
 			<effect name="SkillEvasion">
 				<magicType>1</magicType>
-				<amount>
-					<value level="1">50</value>
-					<value level="2">70</value>
-				</amount>
+				<amount>70</amount>
 			</effect>
 		</effects>
 	</skill>
-	<skill id="447" toLevel="2" name="Counterattack">
+	<skill id="447" toLevel="1" name="Counterattack">
 		<!-- The effect lasts for $s1 Reflects $s2 of the received damage. -->
 		<icon>icon.skill0447</icon>
-		<abnormalLevel>
-			<value level="1">1</value>
-			<value level="2">2</value>
-		</abnormalLevel>
-		<abnormalTime>
-			<value level="1">40</value>
-			<value level="2">50</value>
-		</abnormalTime>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>40</abnormalTime>
 		<abnormalType>COUNTER_SKILL</abnormalType>
-		<itemConsumeCount>
-			<value level="1">0</value>
-			<value level="2">5</value>
-		</itemConsumeCount>
-		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
 		<hitTime>500</hitTime>
-		<magicLevel>
-			<value level="1">79</value>
-			<value level="2">82</value>
-		</magicLevel>
+		<magicLevel>79</magicLevel>
 		<mpConsume>32</mpConsume>
 		<operateType>A2</operateType>
 		<reuseDelay>300000</reuseDelay>
@@ -2802,10 +2740,6 @@
 		<effects>
 			<effect name="DamageShield">
 				<amount>20</amount>
-			</effect>
-			<effect name="CallSkill" fromLevel="2" toLevel="2">
-				<skillId>47358</skillId> <!-- Revenge Counterattack -->
-				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
 	</skill>

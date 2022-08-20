@@ -165,11 +165,11 @@
 		<icon>icon.scrl_of_ladies_silver_knife_01</icon>
 		<abnormalLevel>4</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
-		<reuseDelay>60000</reuseDelay>
+		<reuseDelay>1</reuseDelay>
 		<abnormalType>BOOST_ATTACK</abnormalType>
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>94268</itemConsumeId> <!-- Scroll: Boost Attack (Exchangeable) -->
-		<hitTime>1000</hitTime>
+		<hitTime>1</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<magicLevel>1</magicLevel>
 		<operateType>A2</operateType>
@@ -202,11 +202,11 @@
 		<icon>icon.scrl_of_ladies_silver_knife_01</icon>
 		<abnormalLevel>4</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
-		<reuseDelay>60000</reuseDelay>
+		<reuseDelay>1</reuseDelay>
 		<abnormalType>BOOST_ATTACK</abnormalType>
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>94269</itemConsumeId> <!-- Scroll: Boost Attack -->
-		<hitTime>1000</hitTime>
+		<hitTime>1</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<magicLevel>1</magicLevel>
 		<operateType>A2</operateType>
@@ -239,11 +239,11 @@
 		<icon>icon.scrl_of_ench_bracelet_lucien_01</icon>
 		<abnormalLevel>4</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
-		<reuseDelay>60000</reuseDelay>
+		<reuseDelay>1</reuseDelay>
 		<abnormalType>BOOST_DEFENCE</abnormalType>
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>94270</itemConsumeId> <!-- Scroll: Boost Defense (Exchangeable) -->
-		<hitTime>1000</hitTime>
+		<hitTime>1</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<magicLevel>1</magicLevel>
 		<operateType>A2</operateType>
@@ -276,11 +276,11 @@
 		<icon>icon.scrl_of_ench_bracelet_lucien_01</icon>
 		<abnormalLevel>4</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
-		<reuseDelay>60000</reuseDelay>
+		<reuseDelay>1</reuseDelay>
 		<abnormalType>BOOST_DEFENCE</abnormalType>
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>94271</itemConsumeId> <!-- Scroll: Boost Defense -->
-		<hitTime>1000</hitTime>
+		<hitTime>1</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<magicLevel>1</magicLevel>
 		<operateType>A2</operateType>
@@ -312,8 +312,8 @@
 		<!-- All stats +1 The effect remains after death. You can cancel the effect by yourself. -->
 		<icon>icon.stat_up_scroll</icon>
 		<operateType>A2</operateType>
-		<reuseDelay>60000</reuseDelay>
-		<hitTime>1000</hitTime>
+		<reuseDelay>1</reuseDelay>
+		<hitTime>1</hitTime>
 		<itemConsumeId>94305</itemConsumeId> <!-- Scroll: Enchant Stats (Exchangeable) -->
 		<itemConsumeCount>1</itemConsumeCount>
 		<targetType>SELF</targetType>

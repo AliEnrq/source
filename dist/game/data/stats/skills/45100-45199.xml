@@ -2154,7 +2154,7 @@
 		<icon>icon.skill55474</icon>
 		<operateType>A1</operateType>
 		<hitTime>1000</hitTime>
-		<reuseDelay>900000</reuseDelay>
+		<reuseDelay>300000</reuseDelay>
 		<mpConsume>50</mpConsume>
 		<itemConsumeCount>30</itemConsumeCount>
 		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
@@ -2180,7 +2180,7 @@
 		<icon>icon.skill55475</icon>
 		<operateType>A1</operateType>
 		<hitTime>1000</hitTime>
-		<reuseDelay>900000</reuseDelay>
+		<reuseDelay>300000</reuseDelay>
 		<mpConsume>50</mpConsume>
 		<itemConsumeCount>30</itemConsumeCount>
 		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
@@ -3660,8 +3660,8 @@
 		<effects>
 			<effect name="ManaHealOverTime">
 				<power>
-					<value level="1">15</value>
-					<value level="2">30</value>
+					<value level="1">999999</value>
+					<value level="2">999999</value>
 				</power>
 				<ticks>3</ticks>
 			</effect>
@@ -4008,6 +4008,7 @@
 			<value level="2">85</value>
 		</magicLevel>
 		<abnormalLevel>2</abnormalLevel>
+		<abnormalTime>2</abnormalTime>
 		<activateRate>-1</activateRate>
 		<abnormalType>BLOCK_ESCAPE</abnormalType>
 		<mpConsume>70</mpConsume>

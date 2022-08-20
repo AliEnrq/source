@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+	<item id="35004" name="Talisman of Void" type="Armor">
+		<set name="icon" val="icon.accesory_longing_talisman_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="talisman" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="120" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<set name="enchant_limit" val="5" />
+		<skills>
+			<skill id="11621" level="1" type="ON_EQUIP" /> <!-- Equip Talisman - Void -->
+			<skill id="11622" level="1" type="ON_UNEQUIP" /> <!-- Unequip Talisman - Void -->
+			<skill id="11620" level="1" /> <!-- Equip Talisman - Void -->
+			<skill id="50191" level="1" type="ON_ENCHANT" type_value="1" /> <!-- Enchant Effect: +1 Talisman of Baium -->
+			<skill id="50191" level="2" type="ON_ENCHANT" type_value="2" /> <!-- Enchant Effect: +2 Talisman of Baium -->
+			<skill id="50191" level="3" type="ON_ENCHANT" type_value="3" /> <!-- Enchant Effect: +3 Talisman of Baium -->
+			<skill id="50191" level="4" type="ON_ENCHANT" type_value="4" /> <!-- Enchant Effect: +4 Talisman of Baium -->
+			<skill id="50191" level="5" type="ON_ENCHANT" type_value="5" /> <!-- Enchant Effect: +5 Talisman of Baium -->
+		</skills>
+	</item>
+	<item id="35003" name="Talisman of Valakas" type="Armor">
+		<set name="icon" val="icon.accesory_hellfire_talisman_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="talisman" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="120" />
+		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
+		<set name="enchant_limit" val="5" />
+		<skills>
+			<skill id="11623" level="1" type="ON_EQUIP" /> <!-- Equip Talisman - Valakas -->
+			<skill id="11622" level="1" type="ON_UNEQUIP" /> <!-- Unequip Talisman - Valakas -->
+			<skill id="11620" level="2" /> <!-- Equip Talisman - Valakas -->
+			<skill id="50191" level="1" type="ON_ENCHANT" type_value="1" /> <!-- Enchant Effect: +1 Talisman of Baium -->
+			<skill id="50191" level="2" type="ON_ENCHANT" type_value="2" /> <!-- Enchant Effect: +2 Talisman of Baium -->
+			<skill id="50191" level="3" type="ON_ENCHANT" type_value="3" /> <!-- Enchant Effect: +3 Talisman of Baium -->
+			<skill id="50191" level="4" type="ON_ENCHANT" type_value="4" /> <!-- Enchant Effect: +4 Talisman of Baium -->
+			<skill id="50191" level="5" type="ON_ENCHANT" type_value="5" /> <!-- Enchant Effect: +5 Talisman of Baium -->
+		</skills>
+	</item>
+	<item id="35004" name="Ring of Insolence" additionalName="Sealed" type="Armor">
+		<!-- Increases Sleep Resistance. Effects of two identical items do not stack. -->
+		<set name="icon" val="icon.ring_of_oman" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="404000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">42</stat>
+		</stats>
+	</item>
+	<item id="35005" name="Dragon Valley's Earring" additionalName="Sealed" type="Armor">
+		<!-- Increases Shock Resistance. Effects of two identical items do not stack. -->
+		<set name="icon" val="icon.accessary_catseye_earing_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="606000" />
+		<set name="enchant_enabled" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<stats>
+			<stat type="mDef">60</stat>
+		</stats>
+	</item>
+</list>
+

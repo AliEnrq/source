@@ -2091,7 +2091,85 @@
 		<options level="10" option1="33895" />
 	</item>
 	<!-- Boss Weapons Option Data -->
-	<item id="92404"> <!-- Zaken's Blood Sword -->
+	<item id="35110"><!-- helios -->
+		<options level="0" option1="60220" />
+		<options level="1" option1="60221" />
+		<options level="2" option1="60222" />
+		<options level="3" option1="60223" />
+		<options level="4" option1="60224" />
+		<options level="5" option1="60225" />
+		<options level="6" option1="60226" />
+		<options level="7" option1="60227" />
+		<options level="8" option1="60228" />
+		<options level="9" option1="60229" />
+		<options level="10" option1="60230" />
+	</item>
+	<item id="35108"> <!-- antharas -->
+		<options level="0" option1="60231" />
+		<options level="1" option1="60232" />
+		<options level="2" option1="60233" />
+		<options level="3" option1="60234" />
+		<options level="4" option1="60235" />
+		<options level="5" option1="60236" />
+		<options level="6" option1="60237" />
+		<options level="7" option1="60238" />
+		<options level="8" option1="60239" />
+		<options level="9" option1="60240" />
+		<options level="10" option1="60241" />
+	</item>
+	<item id="35109"> <!-- kain -->
+		<options level="0" option1="60242" />
+		<options level="1" option1="60243" />
+		<options level="2" option1="60244" />
+		<options level="3" option1="60245" />
+		<options level="4" option1="60246" />
+		<options level="5" option1="60247" />
+		<options level="6" option1="60248" />
+		<options level="7" option1="60249" />
+		<options level="8" option1="60250" />
+		<options level="9" option1="60251" />
+		<options level="10" option1="60252" />
+	</item>
+	<item id="35112"> <!-- etinas -->
+		<options level="0" option1="60264" />
+		<options level="1" option1="60265" />
+		<options level="2" option1="60266" />
+		<options level="3" option1="60267" />
+		<options level="4" option1="60268" />
+		<options level="5" option1="60269" />
+		<options level="6" option1="60270" />
+		<options level="7" option1="60271" />
+		<options level="8" option1="60272" />
+		<options level="9" option1="60273" />
+		<options level="10" option1="60274" />
+	</item>
+	<item id="35111"> <!-- valakas -->
+		<options level="0" option1="60275" />
+		<options level="1" option1="60276" />
+		<options level="2" option1="60277" />
+		<options level="3" option1="60278" />
+		<options level="4" option1="60279" />
+		<options level="5" option1="60280" />
+		<options level="6" option1="60281" />
+		<options level="7" option1="60282" />
+		<options level="8" option1="60283" />
+		<options level="9" option1="60284" />
+		<options level="10" option1="60285" />
+	</item>
+	<item id="35107"> <!-- Lilith -->
+		<options level="0" option1="60253" />
+		<options level="1" option1="60254" />
+		<options level="2" option1="60255" />
+		<options level="3" option1="60256" />
+		<options level="4" option1="60257" />
+		<options level="5" option1="60258" />
+		<options level="6" option1="60259" />
+		<options level="7" option1="60260" />
+		<options level="8" option1="60261" />
+		<options level="9" option1="60262" />
+		<options level="10" option1="60263" />
+	</item>
+	<item id="92404"><!-- Zaken's Blood Sword -->
 		<options level="0" option1="33448" />
 		<options level="1" option1="33449" />
 		<options level="2" option1="33450" />

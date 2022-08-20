@@ -775,70 +775,40 @@
 			<npc id="22211" x="13080" y="109864" z="-9072" heading="46901" respawnTime="60sec" /> <!-- Death Lord -->
 			<npc id="22209" x="12820" y="109619" z="-9072" heading="40546" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22208" x="12792" y="109592" z="-9072" heading="40546" respawnTime="60sec" /> <!-- Dicor -->
-			<npc id="22210" x="13544" y="115880" z="-9003" heading="17331" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13544" y="115880" z="-9003" heading="17331" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13544" y="115880" z="-9003" heading="17331" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22207" x="13640" y="115976" z="-9003" heading="10522" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13640" y="115976" z="-9003" heading="10522" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13496" y="116008" z="-9003" heading="33388" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22210" x="13565" y="115501" z="-9042" heading="50191" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13576" y="115384" z="-9064" heading="50191" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13576" y="115384" z="-9064" heading="50191" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13793" y="115212" z="-9070" heading="58481" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13800" y="115208" z="-9072" heading="58481" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13800" y="115208" z="-9072" heading="58481" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13800" y="115000" z="-9072" heading="44103" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13800" y="115000" z="-9072" heading="44103" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13800" y="115000" z="-9072" heading="44103" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13592" y="115048" z="-9072" heading="30858" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13592" y="115048" z="-9072" heading="30858" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13592" y="115048" z="-9072" heading="30858" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13578" y="114770" z="-9072" heading="48396" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13576" y="114696" z="-9072" heading="48396" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13576" y="114696" z="-9072" heading="48396" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13784" y="114680" z="-9072" heading="64466" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13784" y="114680" z="-9072" heading="64466" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13784" y="114680" z="-9072" heading="64466" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13832" y="114408" z="-9072" heading="51122" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13832" y="114408" z="-9072" heading="51122" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13832" y="114408" z="-9072" heading="51122" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13576" y="114296" z="-9072" heading="38877" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13576" y="114296" z="-9072" heading="38877" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13576" y="114296" z="-9072" heading="38877" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13787" y="114011" z="-9072" heading="54689" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13816" y="113960" z="-9072" heading="54689" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13816" y="113960" z="-9072" heading="54689" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13608" y="113912" z="-9072" heading="35415" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13608" y="113912" z="-9072" heading="35415" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13608" y="113912" z="-9072" heading="35415" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13480" y="113944" z="-9072" heading="30692" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22210" x="13640" y="113928" z="-9071" heading="56567" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13544" y="113736" z="-9072" heading="45005" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22210" x="13576" y="113464" z="-9072" heading="48371" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13576" y="113464" z="-9072" heading="48371" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13576" y="113464" z="-9072" heading="48371" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13816" y="113512" z="-9072" heading="1792" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="13816" y="113512" z="-9072" heading="1792" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13816" y="113512" z="-9072" heading="1792" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22209" x="13640" y="113976" z="-9071" heading="15532" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13784" y="113192" z="-9072" heading="3937" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13784" y="113192" z="-9072" heading="3937" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13784" y="113192" z="-9072" heading="3937" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22207" x="13784" y="112968" z="-9072" heading="45557" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13784" y="112968" z="-9072" heading="45557" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13784" y="112968" z="-9072" heading="45557" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13544" y="112920" z="-9072" heading="34409" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22210" x="13544" y="112920" z="-9072" heading="34409" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22209" x="13544" y="112920" z="-9072" heading="34409" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22207" x="13568" y="112763" z="-9072" heading="50795" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22210" x="13576" y="112712" z="-9072" heading="50795" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22210" x="13784" y="112648" z="-9072" heading="62415" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13784" y="112648" z="-9072" heading="62415" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13784" y="112648" z="-9072" heading="62415" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13656" y="112568" z="-9072" heading="38070" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13656" y="112568" z="-9072" heading="38070" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="13656" y="112568" z="-9072" heading="38070" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="13560" y="112440" z="-9072" heading="42251" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="13560" y="112440" z="-9072" heading="42251" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="13560" y="112440" z="-9072" heading="42251" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="13736" y="112360" z="-9072" heading="60916" respawnTime="60sec" /> <!-- Torfe -->
@@ -908,18 +878,12 @@
 			<npc id="22208" x="12295" y="118525" z="-9072" heading="36467" respawnTime="60sec" /> <!-- Dicor -->
 			<npc id="22209" x="12200" y="118488" z="-9072" heading="36467" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11640" y="115848" z="-9072" heading="44725" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="11640" y="115848" z="-9072" heading="44725" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11640" y="115848" z="-9072" heading="44725" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11944" y="115752" z="-9072" heading="58953" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11944" y="115752" z="-9072" heading="58953" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11944" y="115752" z="-9072" heading="58953" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11876" y="115483" z="-9072" heading="46682" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11864" y="115432" z="-9072" heading="46682" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="11864" y="115432" z="-9072" heading="46682" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11704" y="115432" z="-9072" heading="32701" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11704" y="115432" z="-9072" heading="32701" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="11704" y="115432" z="-9072" heading="32701" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11688" y="115115" z="-9072" heading="48177" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11688" y="115112" z="-9072" heading="48177" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="11688" y="115112" z="-9072" heading="48177" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11864" y="114936" z="-9072" heading="58555" respawnTime="60sec" /> <!-- Torfe -->
@@ -933,10 +897,8 @@
 			<npc id="22209" x="11880" y="114424" z="-9072" heading="53523" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11672" y="114248" z="-9072" heading="40186" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11672" y="114248" z="-9072" heading="40186" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11672" y="114248" z="-9072" heading="40186" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11847" y="114088" z="-9072" heading="57895" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11848" y="114088" z="-9072" heading="57895" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11848" y="114088" z="-9072" heading="57895" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11672" y="113864" z="-9072" heading="42359" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11672" y="113864" z="-9072" heading="42359" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="11672" y="113864" z="-9072" heading="42359" respawnTime="60sec" /> <!-- Perum -->
@@ -948,18 +910,6 @@
 			<npc id="22210" x="11912" y="113064" z="-9072" heading="56868" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11912" y="113064" z="-9072" heading="56868" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="11912" y="113064" z="-9072" heading="56868" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11624" y="112792" z="-9049" heading="39878" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="11624" y="112792" z="-9049" heading="39878" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11624" y="112792" z="-9049" heading="39878" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11901" y="112655" z="-9014" heading="58527" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="11912" y="112648" z="-9012" heading="58527" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11912" y="112648" z="-9012" heading="58527" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11816" y="112296" z="-9003" heading="46405" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="11816" y="112296" z="-9003" heading="46405" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11816" y="112296" z="-9003" heading="46405" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="11720" y="112200" z="-9003" heading="43298" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="11720" y="112200" z="-9003" heading="43298" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="11720" y="112200" z="-9003" heading="43298" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="11877" y="113086" z="-9054" heading="13040" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="11901" y="113160" z="-9065" heading="13040" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22206" x="15160" y="118408" z="-9051" heading="63998" respawnTime="60sec" /> <!-- Premo -->
@@ -1119,16 +1069,6 @@
 			<npc id="22208" x="23646" y="113962" z="-9052" heading="17229" respawnTime="60sec" /> <!-- Dicor -->
 			<npc id="22209" x="23639" y="114041" z="-9052" heading="17229" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22211" x="23624" y="114198" z="-9056" heading="17229" respawnTime="60sec" /> <!-- Death Lord -->
-			<npc id="22209" x="23992" y="119368" z="-8981" heading="10956" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="23992" y="119368" z="-8981" heading="10956" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22209" x="23736" y="119288" z="-8981" heading="35149" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="23736" y="119288" z="-8981" heading="35149" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="23880" y="119336" z="-8981" heading="2911" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22207" x="23976" y="119528" z="-8981" heading="10145" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22207" x="23830" y="119086" z="-8997" heading="43905" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="23795" y="119017" z="-9010" heading="43905" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="23759" y="118948" z="-9024" heading="43905" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="23640" y="118808" z="-9050" heading="36736" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="23640" y="118808" z="-9050" heading="36736" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="23640" y="118808" z="-9050" heading="36736" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="23752" y="118360" z="-9050" heading="51599" respawnTime="60sec" /> <!-- Validus -->
@@ -1176,18 +1116,6 @@
 			<npc id="22207" x="21424" y="109954" z="-9018" heading="48681" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="21424" y="109954" z="-9018" heading="48681" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="21423" y="109915" z="-9013" heading="48681" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="21394" y="109640" z="-8987" heading="47548" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="21389" y="109601" z="-8984" heading="47548" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="21384" y="109561" z="-8981" heading="47548" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="21522" y="109276" z="-8981" heading="54007" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="21560" y="109208" z="-8981" heading="54007" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="21560" y="109208" z="-8981" heading="6006" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="21755" y="109343" z="-8981" heading="6006" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="21768" y="109352" z="-8981" heading="6006" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="21768" y="109352" z="-8981" heading="15047" respawnTime="60sec" /> <!-- Torfe -->
-			<npc id="22207" x="21792" y="109664" z="-8986" heading="17773" respawnTime="60sec" /> <!-- Validus -->
-			<npc id="22209" x="21792" y="109664" z="-8986" heading="17773" respawnTime="60sec" /> <!-- Perum -->
-			<npc id="22210" x="21787" y="109703" z="-8989" heading="17773" respawnTime="60sec" /> <!-- Torfe -->
 			<npc id="22207" x="21752" y="110016" z="-9007" heading="17367" respawnTime="60sec" /> <!-- Validus -->
 			<npc id="22209" x="21748" y="110055" z="-9009" heading="17367" respawnTime="60sec" /> <!-- Perum -->
 			<npc id="22210" x="21744" y="110095" z="-9011" heading="17367" respawnTime="60sec" /> <!-- Torfe -->

@@ -986,7 +986,7 @@
 		<effects>
 			<effect name="Teleport">
 				<x>
-					<value level="1">121685</value>
+					<value level="1">119182</value>
 					<value level="2">114665</value>
 					<value level="3">111249</value>
 					<value level="4">114605</value>
@@ -1000,7 +1000,7 @@
 					<value level="12">113288</value>
 				</x>
 				<y>
-					<value level="1">15749</value>
+					<value level="1">16074</value>
 					<value level="2">12697</value>
 					<value level="3">16031</value>
 					<value level="4">19371</value>
@@ -1014,7 +1014,7 @@
 					<value level="12">14692</value>
 				</y>
 				<z>
-					<value level="1">-3852</value>
+					<value level="1">-5120</value>
 					<value level="2">-3609</value>
 					<value level="3">-2127</value>
 					<value level="4">-645</value>

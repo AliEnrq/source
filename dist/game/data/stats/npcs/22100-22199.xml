@@ -308,7 +308,7 @@
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<equipment rhand="75" /> <!-- rhand: Caliburs -->
+		<equipment rhand="0" /> <!-- rhand: Caliburs -->
 		<acquire exp="2919" sp="192" attributeExp="11" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="3451.58286778399" hpRegen="6.5" mp="890.968266883645" mpRegen="2.4" />
@@ -973,7 +973,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="2" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="3816" hpRegen="10.5" mp="2049" mpRegen="3.6" />
 			<speed>
@@ -993,7 +993,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="121" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="3875" hpRegen="10.5" mp="2093" mpRegen="3.6" />
 			<speed>
@@ -1013,7 +1013,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="14" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="3932" hpRegen="10.5" mp="2137" mpRegen="3.6" />
 			<speed>
@@ -1033,7 +1033,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="127" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="4041" hpRegen="10.5" mp="2227" mpRegen="3.6" />
 			<speed>
@@ -1053,7 +1053,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="7" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="3987" hpRegen="10.5" mp="2182" mpRegen="3.6" />
 			<speed>
@@ -1073,7 +1073,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="75" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="4041" hpRegen="10.5" mp="2227" mpRegen="3.6" />
 			<speed>
@@ -1093,7 +1093,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="207788" sp="11807" attributeExp="765" />
-		<equipment rhand="2" /> <!-- Long Sword -->
+		<equipment rhand="38445" /> <!-- Long Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1139,7 +1139,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="201682" sp="71424" attributeExp="850" />
-		<equipment rhand="68" /> <!-- Falchion -->
+		<equipment rhand="0" /> <!-- Falchion -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1184,7 +1184,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="207788" sp="71843" attributeExp="935" />
-		<equipment rhand="14" /> <!-- Bow -->
+		<equipment rhand="0" /> <!-- Bow -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1229,7 +1229,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="209463" sp="17940" attributeExp="1105" />
-		<equipment rhand="127" /> <!-- Crimson Sword -->
+		<equipment rhand="0" /> <!-- Crimson Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="20249.710982659" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1272,11 +1272,11 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="22139" level="85" type="Monster" name="Turek Orc Shaman" element="FIRE">
+	<npc id="22139" level="85" type="Monster" name="Turek Beast" element="FIRE">
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="207788" sp="21901" attributeExp="1020" />
-		<equipment rhand="179" /> <!-- Mace of Prayer -->
+		<equipment rhand="0" /> <!-- Mace of Prayer -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="10124.8554913295" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1368,7 +1368,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="202228" sp="10662" attributeExp="1190" />
-		<equipment rhand="79" /> <!-- Damascus Sword -->
+		<equipment rhand="0" /> <!-- Damascus Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="17911.5606936416" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1458,7 +1458,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="52228" sp="2782" attributeExp="1360" />
-		<equipment rhand="288" /> <!-- Carnage Bow -->
+		<equipment rhand="0" /> <!-- Carnage Bow -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="17911.5606936416" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1503,7 +1503,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="171467" sp="3360" attributeExp="1530" />
-		<equipment rhand="38425" /> <!-- Monster Only: Amden Blunt Weapon - Not Available - Not Available -->
+		<equipment rhand="95430" /> <!-- Monster Only: Amden Blunt Weapon - Not Available - Not Available -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="35823.1213872832" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -1550,7 +1550,7 @@
 		<race>HUMANOID</race>
 		<sex>FEMALE</sex>
 		<acquire exp="253544" sp="23042" attributeExp="1445" />
-		<equipment rhand="213" /> <!-- Branch of the Mother Tree -->
+		<equipment rhand="0" /> <!-- Branch of the Mother Tree -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="17911.5606936416" hpRegen="10.5" mp="2252.80528052805" mpRegen="3.6" />
 			<speed>
@@ -2412,7 +2412,7 @@
 	<npc id="22175" level="77" type="Monster" name="Orc Soldier">
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="123" />
+		<equipment rhand="0" />
 		<acquire exp="8841" sp="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="7981.50289017341" hpRegen="10.5" mp="1279.86798679868" mpRegen="3.6" />
@@ -2432,7 +2432,7 @@
 	<npc id="22176" level="77" type="Monster" name="Orc Warrior">
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="123" lhand="19" />
+		<equipment rhand="0" lhand="0" />
 		<acquire exp="8841" sp="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="7981.50289017341" hpRegen="10.5" mp="1279.86798679868" mpRegen="3.6" />
@@ -2452,7 +2452,7 @@
 	<npc id="22177" level="77" type="Monster" name="Orc Prefect">
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="79" />
+		<equipment rhand="0" />
 		<acquire exp="8841" sp="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="7981.50289017341" hpRegen="10.5" mp="1279.86798679868" mpRegen="3.6" />
@@ -2473,7 +2473,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="7" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="2913" hpRegen="10.5" mp="1574" mpRegen="3.6" />
 			<speed>
@@ -2493,7 +2493,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="9" />
+		<equipment rhand="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="2913" hpRegen="10.5" mp="1574" mpRegen="3.6" />
 			<speed>
@@ -2512,7 +2512,7 @@
 	<npc id="22180" level="77" type="Monster" name="Orc Archer">
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="13" />
+		<equipment rhand="0" />
 		<acquire exp="8841" sp="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="7981.50289017341" hpRegen="10.5" mp="1279.86798679868" mpRegen="3.6" />
@@ -2532,7 +2532,7 @@
 	<npc id="22181" level="77" type="Monster" name="Orc Archer">
 		<race>ETC</race>
 		<sex>FEMALE</sex>
-		<equipment rhand="279" />
+		<equipment rhand="0" />
 		<acquire exp="8841" sp="0" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
 			<vitals hp="7981.50289017341" hpRegen="10.5" mp="1279.86798679868" mpRegen="3.6" />

@@ -5,22 +5,11 @@
 			<npc id="20555" x="62280" y="25800" z="-3788" heading="42766" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62280" y="25800" z="-3788" heading="42766" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62280" y="25800" z="-3788" heading="42766" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62264" y="26152" z="-3785" heading="16883" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62264" y="26152" z="-3785" heading="16883" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62264" y="26152" z="-3785" heading="16883" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62072" y="26312" z="-3781" heading="25490" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62072" y="26312" z="-3781" heading="25490" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62072" y="26312" z="-3781" heading="25490" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62264" y="26520" z="-3756" heading="8619" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62264" y="26520" z="-3756" heading="8619" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62264" y="26520" z="-3756" heading="8619" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20557" x="62536" y="26856" z="-3770" heading="9330" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62536" y="26856" z="-3770" heading="9330" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62536" y="26856" z="-3770" heading="9330" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62536" y="26856" z="-3770" heading="9330" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62536" y="26856" z="-3770" heading="9330" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62424" y="26744" z="-3761" heading="40781" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62424" y="26744" z="-3761" heading="40781" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62424" y="26744" z="-3761" heading="40781" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62168" y="26872" z="-3782" heading="28113" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62168" y="26872" z="-3782" heading="28113" respawnTime="60sec" /> <!-- Dire Wyrm -->
@@ -31,12 +20,6 @@
 			<npc id="20555" x="61848" y="27064" z="-3795" heading="38315" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61848" y="27064" z="-3795" heading="38315" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61848" y="27064" z="-3795" heading="38315" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62088" y="27080" z="-3801" heading="5826" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62088" y="27080" z="-3801" heading="5826" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62088" y="27080" z="-3801" heading="5826" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62088" y="26952" z="-3792" heading="48833" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62088" y="26952" z="-3792" heading="48833" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62088" y="26952" z="-3792" heading="48833" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61640" y="26856" z="-3850" heading="34941" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61640" y="26856" z="-3850" heading="34941" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61640" y="26856" z="-3850" heading="34941" respawnTime="60sec" /> <!-- Giant Monster Eye -->
@@ -46,9 +29,6 @@
 			<npc id="20555" x="61880" y="26680" z="-3793" heading="5511" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61880" y="26680" z="-3793" heading="5511" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61880" y="26680" z="-3793" heading="5511" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="61864" y="25720" z="-3820" heading="51835" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="61864" y="25720" z="-3820" heading="51835" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61864" y="25720" z="-3820" heading="51835" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61640" y="25960" z="-3881" heading="34848" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61640" y="25960" z="-3881" heading="34848" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61640" y="25960" z="-3881" heading="34848" respawnTime="60sec" /> <!-- Giant Monster Eye -->
@@ -59,73 +39,38 @@
 			<npc id="20557" x="61768" y="25416" z="-3852" heading="50386" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61768" y="25416" z="-3852" heading="50386" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62088" y="25160" z="-3788" heading="58591" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62088" y="25160" z="-3788" heading="58591" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62088" y="25160" z="-3788" heading="58591" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62408" y="25304" z="-3778" heading="4328" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62408" y="25304" z="-3778" heading="4328" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62408" y="25304" z="-3778" heading="4328" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62936" y="25480" z="-3784" heading="3504" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62936" y="25480" z="-3784" heading="3504" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62936" y="25480" z="-3784" heading="3504" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="63352" y="25400" z="-3773" heading="63651" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="63352" y="25400" z="-3773" heading="63651" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="63352" y="25400" z="-3773" heading="63651" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="63080" y="24888" z="-3815" heading="20594" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="63080" y="24888" z="-3815" heading="20594" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="63080" y="24888" z="-3815" heading="20594" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="63128" y="25144" z="-3789" heading="14621" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="63128" y="25144" z="-3789" heading="14621" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="63128" y="25144" z="-3789" heading="14621" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62744" y="25224" z="-3789" heading="30744" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62744" y="25224" z="-3789" heading="30744" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62744" y="25224" z="-3789" heading="30744" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62184" y="24968" z="-3790" heading="37321" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62184" y="24968" z="-3790" heading="37321" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62184" y="24968" z="-3790" heading="37321" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61656" y="24952" z="-3838" heading="33139" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61656" y="24952" z="-3838" heading="33139" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61656" y="24952" z="-3838" heading="33139" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62152" y="24424" z="-3792" heading="61907" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62152" y="24424" z="-3792" heading="61907" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62152" y="24424" z="-3792" heading="61907" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62802" y="24798" z="-3800" heading="63947" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62802" y="24798" z="-3800" heading="63947" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62802" y="24798" z="-3800" heading="63947" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62456" y="25080" z="-3783" heading="25551" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62456" y="25080" z="-3783" heading="25551" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62456" y="25080" z="-3783" heading="25551" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62776" y="25432" z="-3787" heading="8812" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62776" y="25432" z="-3787" heading="8812" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62776" y="25432" z="-3787" heading="8812" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="63480" y="24568" z="-3801" heading="55576" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="63480" y="24568" z="-3801" heading="55576" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="63480" y="24568" z="-3801" heading="55576" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="63176" y="24504" z="-3811" heading="34965" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="63176" y="24504" z="-3811" heading="34965" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="63176" y="24504" z="-3811" heading="34965" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62595" y="24461" z="-3784" heading="57343" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62595" y="24461" z="-3784" heading="57343" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62595" y="24461" z="-3784" heading="57343" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62233" y="24649" z="-3784" heading="18293" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62233" y="24649" z="-3784" heading="18293" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62233" y="24649" z="-3784" heading="18293" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62040" y="24984" z="-3797" heading="21939" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62040" y="24984" z="-3797" heading="21939" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62040" y="24984" z="-3797" heading="21939" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61816" y="24936" z="-3814" heading="35199" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61816" y="24936" z="-3814" heading="35199" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61816" y="24936" z="-3814" heading="35199" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61560" y="24344" z="-3894" heading="44985" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61560" y="24344" z="-3894" heading="44985" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61560" y="24344" z="-3894" heading="44985" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="61944" y="24040" z="-3879" heading="58641" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="61944" y="24040" z="-3879" heading="58641" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61944" y="24040" z="-3879" heading="58641" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62408" y="24168" z="-3817" heading="2908" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62408" y="24168" z="-3817" heading="2908" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62408" y="24168" z="-3817" heading="2908" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62808" y="24296" z="-3801" heading="3068" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62808" y="24296" z="-3801" heading="3068" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62808" y="24296" z="-3801" heading="3068" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="63240" y="24296" z="-3804" heading="97" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="63240" y="24296" z="-3804" heading="97" respawnTime="60sec" /> <!-- Dire Wyrm -->
@@ -141,55 +86,32 @@
 			<npc id="20556" x="62200" y="23624" z="-3874" heading="37307" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62248" y="23144" z="-3819" heading="50154" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62248" y="23144" z="-3819" heading="50154" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62248" y="23144" z="-3819" heading="50154" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62744" y="23512" z="-3791" heading="6705" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62744" y="23512" z="-3791" heading="6705" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62744" y="23512" z="-3791" heading="6705" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62600" y="23896" z="-3803" heading="20043" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62600" y="23896" z="-3803" heading="20043" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62600" y="23896" z="-3803" heading="20043" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="63224" y="23544" z="-3773" heading="60165" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="63224" y="23544" z="-3773" heading="60165" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="63224" y="23544" z="-3773" heading="60165" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62264" y="23416" z="-3860" heading="29025" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62264" y="23416" z="-3860" heading="29025" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62264" y="23416" z="-3860" heading="29025" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62856" y="23256" z="-3766" heading="61428" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62856" y="23256" z="-3766" heading="61428" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62856" y="23256" z="-3766" heading="61428" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20557" x="62648" y="22904" z="-3770" heading="43428" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20555" x="62648" y="22904" z="-3770" heading="43428" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20556" x="62648" y="22904" z="-3770" heading="43428" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20557" x="62248" y="22600" z="-3824" heading="39520" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20555" x="62248" y="22600" z="-3824" heading="39520" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20556" x="62248" y="22600" z="-3824" heading="39520" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61784" y="24568" z="-3829" heading="36632" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="61784" y="24568" z="-3829" heading="36632" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61784" y="24568" z="-3829" heading="36632" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61448" y="25560" z="-3924" heading="9098" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61448" y="25560" z="-3924" heading="9098" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61448" y="25560" z="-3924" heading="9098" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62040" y="25912" z="-3804" heading="5689" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62040" y="25912" z="-3804" heading="5689" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62040" y="25912" z="-3804" heading="5689" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="61720" y="27752" z="-3748" heading="17122" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61720" y="27752" z="-3748" heading="17122" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61720" y="27752" z="-3748" heading="17122" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62792" y="27608" z="-3773" heading="64142" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62792" y="27608" z="-3773" heading="64142" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62792" y="27608" z="-3773" heading="64142" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="62232" y="27576" z="-3760" heading="37547" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62232" y="27576" z="-3760" heading="37547" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62232" y="27576" z="-3760" heading="37547" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62344" y="27960" z="-3749" heading="13249" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="62344" y="27960" z="-3749" heading="13249" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="62344" y="27960" z="-3749" heading="13249" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="62008" y="27992" z="-3729" heading="31939" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="62008" y="27992" z="-3729" heading="31939" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="62008" y="27992" z="-3729" heading="31939" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="61366" y="27925" z="-3704" heading="31782" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="61366" y="27925" z="-3704" heading="31782" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61366" y="27925" z="-3704" heading="31782" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61268" y="27594" z="-3760" heading="40124" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61268" y="27594" z="-3760" heading="40124" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61268" y="27594" z="-3760" heading="40124" respawnTime="60sec" /> <!-- Giant Monster Eye -->
@@ -199,12 +121,8 @@
 			<npc id="20557" x="61064" y="27272" z="-3854" heading="31307" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20555" x="61064" y="27272" z="-3854" heading="31307" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20556" x="61064" y="27272" z="-3854" heading="31307" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20555" x="61016" y="27592" z="-3823" heading="17873" respawnTime="60sec" /> <!-- Giant Fungus -->
-			<npc id="20557" x="61016" y="27592" z="-3823" heading="17873" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61016" y="27592" z="-3823" heading="17873" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61128" y="28168" z="-3780" heading="14436" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61128" y="28168" z="-3780" heading="14436" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="61128" y="28168" z="-3780" heading="14436" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="61608" y="28232" z="-3715" heading="1427" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="61608" y="28232" z="-3715" heading="1427" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="61608" y="28232" z="-3715" heading="1427" respawnTime="60sec" /> <!-- Giant Monster Eye -->
@@ -219,7 +137,6 @@
 			<npc id="20556" x="60568" y="27704" z="-3889" heading="45177" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="60872" y="27368" z="-3869" heading="56934" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="60872" y="27368" z="-3869" heading="56934" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="60872" y="27368" z="-3869" heading="56934" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20555" x="60424" y="28104" z="-3763" heading="22193" respawnTime="60sec" /> <!-- Giant Fungus -->
 			<npc id="20557" x="60424" y="28104" z="-3763" heading="22193" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60424" y="28104" z="-3763" heading="22193" respawnTime="60sec" /> <!-- Giant Monster Eye -->
@@ -251,75 +168,45 @@
 			<npc id="20556" x="58648" y="24552" z="-4592" heading="28023" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20557" x="59768" y="25272" z="-4356" heading="28023" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="59768" y="25272" z="-4356" heading="28023" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20557" x="60072" y="25560" z="-4293" heading="23041" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="60072" y="25560" z="-4293" heading="23041" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="60072" y="25560" z="-4293" heading="23041" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20558" x="60024" y="25928" z="-4311" heading="17569" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="60024" y="25928" z="-4311" heading="17569" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60024" y="25928" z="-4311" heading="17569" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59928" y="26408" z="-4290" heading="18529" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="59928" y="26408" z="-4290" heading="18529" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="59928" y="26408" z="-4290" heading="18529" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59832" y="27048" z="-4183" heading="14559" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59832" y="27048" z="-4183" heading="14559" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="59832" y="27048" z="-4183" heading="14559" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59624" y="27336" z="-4134" heading="22887" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="59624" y="27336" z="-4134" heading="22887" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="59624" y="27336" z="-4134" heading="22887" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59384" y="27208" z="-4289" heading="38004" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20558" x="59256" y="27048" z="-4403" heading="42048" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20558" x="59368" y="26840" z="-4418" heading="54169" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59368" y="26840" z="-4418" heading="54169" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="59368" y="26840" z="-4418" heading="54169" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59592" y="26616" z="-4386" heading="57297" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59592" y="26616" z="-4386" heading="57297" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="59592" y="26616" z="-4386" heading="57297" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20558" x="59768" y="26760" z="-4287" heading="7355" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59768" y="26760" z="-4287" heading="7355" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="59768" y="26760" z="-4287" heading="7355" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59640" y="26984" z="-4277" heading="21946" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59640" y="26984" z="-4277" heading="21946" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="59640" y="26984" z="-4277" heading="21946" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59752" y="25592" z="-4387" heading="17484" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59752" y="25592" z="-4387" heading="17484" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="59752" y="25592" z="-4387" heading="17484" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="60168" y="24952" z="-4177" heading="43825" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="60168" y="24952" z="-4177" heading="43825" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60168" y="24952" z="-4177" heading="43825" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59976" y="24888" z="-4231" heading="36342" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20558" x="59976" y="24888" z="-4231" heading="36342" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20558" x="59976" y="24888" z="-4231" heading="36342" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20558" x="59928" y="24664" z="-4201" heading="46940" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="59928" y="24664" z="-4201" heading="46940" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="59928" y="24664" z="-4201" heading="46940" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59960" y="24472" z="-4185" heading="50668" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="59960" y="24472" z="-4185" heading="50668" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="59960" y="24472" z="-4185" heading="50668" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="60280" y="24104" z="-4228" heading="56688" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="60280" y="24104" z="-4228" heading="56688" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60280" y="24104" z="-4228" heading="56688" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="60552" y="23768" z="-4265" heading="56989" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="60552" y="23768" z="-4265" heading="56989" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60552" y="23768" z="-4265" heading="56989" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="60344" y="23912" z="-4273" heading="26194" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="60344" y="23912" z="-4273" heading="26194" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60344" y="23912" z="-4273" heading="26194" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20558" x="60728" y="23352" z="-4269" heading="58963" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="60728" y="23352" z="-4269" heading="58963" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20556" x="60728" y="23352" z="-4269" heading="58963" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20557" x="60952" y="23112" z="-4210" heading="57079" respawnTime="60sec" /> <!-- Dire Wyrm -->
 			<npc id="20558" x="60952" y="23112" z="-4210" heading="57079" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20556" x="60952" y="23112" z="-4210" heading="57079" respawnTime="60sec" /> <!-- Giant Monster Eye -->
-			<npc id="20558" x="60952" y="23112" z="-4210" heading="57079" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20558" x="60792" y="23288" z="-4258" heading="24363" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20558" x="60792" y="23288" z="-4258" heading="24363" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20558" x="60232" y="23992" z="-4282" heading="59019" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20557" x="60232" y="23992" z="-4282" heading="59019" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="60232" y="23992" z="-4282" heading="59019" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59976" y="24312" z="-4223" heading="23465" respawnTime="60sec" /> <!-- Rotting Tree -->
-			<npc id="20558" x="59672" y="26472" z="-4375" heading="24780" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="59672" y="26472" z="-4375" heading="24780" respawnTime="60sec" /> <!-- Dire Wyrm -->
-			<npc id="20556" x="59672" y="26472" z="-4375" heading="24780" respawnTime="60sec" /> <!-- Giant Monster Eye -->
 			<npc id="20558" x="59672" y="26472" z="-4375" heading="24780" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20558" x="58344" y="28264" z="-4320" heading="32701" respawnTime="60sec" /> <!-- Rotting Tree -->
 			<npc id="20557" x="58344" y="28264" z="-4320" heading="32701" respawnTime="60sec" /> <!-- Dire Wyrm -->

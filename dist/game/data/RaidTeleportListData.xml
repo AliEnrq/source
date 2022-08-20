@@ -2,7 +2,7 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/RaidTeleportListData.xsd">
 	<teleport id="29001" x="93001" y="7913" z="-3904" price="10" />
 	<teleport id="29006" x="17756" y="110388" z="-6648" price="10" />
-	<teleport id="29014" x="67180" y="28562" z="-3744" price="10" />
+	<teleport id="29014" x="63709" y="31161" z="-3736" price="10" />
 	<teleport id="25004" x="-61466" y="79786" z="-3488" price="10" />
 	<teleport id="25095" x="168148" y="-20504" z="-3680" price="10" />
 	<teleport id="25152" x="119877" y="13565" z="-5184" price="10" />

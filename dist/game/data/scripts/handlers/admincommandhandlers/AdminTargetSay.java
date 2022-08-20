@@ -53,7 +53,7 @@ public class AdminTargetSay implements IAdminCommandHandler
 				
 				final String message = command.substring(16);
 				final Creature target = (Creature) obj;
-				target.broadcastPacket(new CreatureSay(target, target.isPlayer() ? ChatType.GENERAL : ChatType.NPC_GENERAL, target.getName(), message));
+				target.broadcastPacket(new CreatureSay(target, target.isPlayer() ? ChatType.GENERAL : ChatType.NPC_GENERAL, target.getName(), message, 0));
 			}
 			catch (StringIndexOutOfBoundsException e)
 			{

@@ -517,12 +517,18 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="SkillCriticalDamage">
-				<amount>50</amount>
+				<amount>30</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="Speed">
-				<amount>20</amount>
+				<amount>10</amount>
 				<mode>DIFF</mode>
+			</effect>
+			<effect name="MaxHp">
+				<amount>
+					<value level="1">35</value>
+				</amount>
+				<mode>PER</mode>
 			</effect>
 		</effects>
 	</skill>
@@ -1016,7 +1022,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="45440" toLevel="1" name="Cacophony of War - Mark">
+	<skill id="45440" toLevel="1" name="Stigma of Death">
 		<!-- When the character using the Cacophony of War skill is attacked, HP and CP drop to 1. -->
 		<icon>icon.war_roar</icon>
 		<abnormalLevel>1</abnormalLevel>
@@ -1054,7 +1060,7 @@
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
 	</skill>
-	<skill id="45443" toLevel="1" name="Cacophony of War - Inevitability">
+	<skill id="45443" toLevel="1" name="Stigma of Death">
 		<!-- Cancels recovery effects for a certain period of time. -->
 		<icon>icon.war_roar</icon>
 		<operateType>A2</operateType>
@@ -1392,7 +1398,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="45452" toLevel="1" name="Enhanced Seal of Infection">
+	<skill id="45452" toLevel="1" name="Enhanced Infection Seal">
 		<!-- The effect lass for $s1 For a target and nearby clan members, Received Healing $s2 HP Recovery Rate $s3 MP Recovery Rate $s4 HP Recovery Potions' Effect $s5 -->
 		<icon>icon.e_seal_of_disease</icon>
 		<abnormalLevel>1</abnormalLevel>
@@ -1586,7 +1592,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="45458" toLevel="1" name="Blood Bond">
+	<skill id="45458" toLevel="1" name="Blood Chain">
 		<!-- <Drain skill> Attacks enemies with magic. Power $s1. Inflicts the Curse Blood debuff. Makes an additional attack if Curse Blood is applied $s2. Absorbs $s3 of the damage as HP. -->
 		<icon>icon.blood_link</icon>
 		<castRange>700</castRange>
@@ -1617,7 +1623,7 @@
 			</effect>
 		</pveEffects>
 	</skill>
-	<skill id="45459" toLevel="3" name="Blood Curse">
+	<skill id="45459" toLevel="3" name="Curse Blood">
 		<!-- An effect from the Blood Chain skill. If applied $s1, the target gets additional damage. -->
 		<icon>icon.blood_link1</icon>
 		<abnormalLevel>
@@ -1797,7 +1803,7 @@
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
 	</skill>
-	<skill id="45468" toLevel="1" name="Seal of Infection">
+	<skill id="45468" toLevel="1" name="Infection Seal">
 		<!-- The effect lass for $s1 For a target and nearby clan members, Received Healing $s2 HP Recovery Rate $s3 MP Recovery Rate $s4 -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
@@ -2085,9 +2091,9 @@
 			<value level="2">2</value>
 			<value level="3">3</value>
 		</abnormalLevel>
-		<abnormalTime>3</abnormalTime>
+		<abnormalTime>2</abnormalTime>
 		<abnormalType>KNOCKDOWN</abnormalType>
-		<activateRate>60</activateRate>
+		<activateRate>80</activateRate>
 		<castRange>40</castRange>
 		<lvlBonusRate>20</lvlBonusRate>
 		<basicProperty>PHYSICAL</basicProperty>

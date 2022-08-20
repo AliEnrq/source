@@ -1,0 +1,16 @@
+Aug 20, 2022 12:48:27 AM org.l2jmobius.gameserver.scripting.ScriptEngineManager executeScriptList
+WARNING: ScriptEngine: C:\Users\admin\Documents\GitHub\source\dist\game\data\scripts\ai\bosses\Orfen\Orfen.java failed execution!
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.l2jmobius.gameserver.scripting.java.JavaExecutionContext.executeScripts(JavaExecutionContext.java:209)
+	at org.l2jmobius.gameserver.scripting.ScriptEngineManager.executeScriptList(ScriptEngineManager.java:181)
+	at org.l2jmobius.gameserver.GameServer.<init>(GameServer.java:415)
+	at org.l2jmobius.gameserver.GameServer.main(GameServer.java:537)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.l2jmobius.gameserver.model.StatSet.getInt(String)" because "info" is null
+	at ai.bosses.Orfen.Orfen.<init>(Orfen.java:131)
+	at ai.bosses.Orfen.Orfen.main(Orfen.java:348)
+	... 8 more
+

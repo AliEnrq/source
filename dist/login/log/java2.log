@@ -1,0 +1,8 @@
+2022.08.20 00:47:59,378	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2022.08.20 00:47:59,413	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2022.08.20 00:47:59,657	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2022.08.20 00:47:59,716	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2022.08.20 00:47:59,718	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2022.08.20 00:47:59,752	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2022.08.20 00:47:59,754	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2022.08.20 00:47:59,755	SEVERE	1	org.l2jmobius.loginserver.LoginServer	FATAL: Failed to start the Game Server Listener. Reason: Address already in use: bind

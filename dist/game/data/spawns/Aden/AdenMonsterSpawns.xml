@@ -27,7 +27,6 @@
 			<npc id="20660" x="156249" y="33118" z="-3232" heading="38735" respawnTime="60sec" /> <!-- Archer of Greed -->
 			<npc id="20659" x="155793" y="33033" z="-3221" heading="32935" respawnTime="60sec" /> <!-- Graveyard Wanderer -->
 			<npc id="20667" x="155214" y="32915" z="-3184" heading="34947" respawnTime="60sec" /> <!-- Farcran -->
-			<npc id="30938" x="131240" y="114159" z="-3696" heading="10747" respawnTime="60sec" /> <!-- Vanutu -->
 		</group>
 	</spawn>
 	<spawn name="AdenMonsterSpawns2">

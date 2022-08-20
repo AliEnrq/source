@@ -25,7 +25,6 @@
 			<npc id="30878" x="47984" y="186832" z="-3445" heading="42000" respawnTime="60sec" /> <!-- Angelina -->
 			<npc id="31031" x="82272" y="147072" z="-3514" heading="16384" respawnTime="5sec" /> <!-- Anchor Crystal -->
 			<npc id="30640" x="106345" y="135523" z="-3415" heading="0" respawnTime="60sec" /> <!-- Brynthea -->
-			<npc id="30755" x="131176" y="114676" z="-3718" heading="40960" respawnTime="60sec" /> <!-- Theodric -->
 			<npc id="13001" x="154695" y="121097" z="-3757" heading="0" respawnTime="60sec" /> <!-- Heart of Warding -->
 			<npc id="30015" x="105285" y="162607" z="-3600" heading="40961" respawnTime="60sec" /> <!-- Ferma -->
 			<npc id="30016" x="102247" y="155354" z="-3688" heading="7774" respawnTime="60sec" /> <!-- Baikal -->

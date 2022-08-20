@@ -81,10 +81,6 @@
 	</npc>
 	<npc id="25202" level="74" type="RaidBoss" name="Krokian Padisha Sobekk" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25203" count="2" respawnTime="360" weightPoint="1" />
-				<npc id="25204" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="7" />
 		</parameters>
@@ -204,10 +200,6 @@
 	</npc>
 	<npc id="25205" level="76" type="RaidBoss" name="Ocean Flame Ashakiel" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25206" count="1" respawnTime="360" weightPoint="1" />
-				<npc id="25207" count="4" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<param name="doSummonNPC" value="1" />
 			<skill name="DDMagic_a" id="4193" level="8" />
@@ -330,10 +322,6 @@
 	</npc>
 	<npc id="25208" level="40" type="RaidBoss" name="Water Couatl Ateka" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25209" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25210" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="4" />
 		</parameters>
@@ -454,10 +442,6 @@
 	</npc>
 	<npc id="25211" level="36" type="RaidBoss" name="Sebek" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25212" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25213" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="PhysicalSpecial_b" id="4741" level="3" />
 		</parameters>
@@ -575,10 +559,6 @@
 	</npc>
 	<npc id="25214" level="40" type="RaidBoss" name="Fafurion's Servant Sika" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25215" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25216" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="4" />
 		</parameters>
@@ -700,10 +680,6 @@
 	</npc>
 	<npc id="25217" level="75" type="RaidBoss" name="Cursed Kele" title="Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25218" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25219" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4752" level="5" />
 		</parameters>
@@ -821,16 +797,12 @@
 	</npc>
 	<npc id="25220" level="83" type="RaidBoss" name="Death Lord Hallate" title="High Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25221" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25222" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="RangeHold_a" id="4197" level="7" />
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<equipment rhand="78" /> <!-- Great Sword -->
+		<equipment rhand="0" /> <!-- Great Sword -->
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
 			<vitals hp="9218282.21343874" hpRegen="319.2293199" mp="4460.43165467626" mpRegen="3" />
 			<attack physical="1070.5953187326" magical="162.22571080196" random="10" critical="4.75" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1008,10 +980,6 @@
 	</npc>
 	<npc id="25223" level="65" type="RaidBoss" name="Soul Collector Acheron" title="High Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25224" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25225" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="RangeHold_a" id="4197" level="3" />
 		</parameters>
@@ -1151,10 +1119,6 @@
 	</npc>
 	<npc id="25226" level="65" type="RaidBoss" name="Roaring Lord Kastor" title="Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25227" count="2" respawnTime="360" weightPoint="1" />
-				<npc id="25228" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="6" />
 		</parameters>
@@ -1321,10 +1285,6 @@
 	</npc>
 	<npc id="25230" level="70" type="RaidBoss" name="Priest Ragoth" title="Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25231" count="1" respawnTime="360" weightPoint="1" />
-				<npc id="25232" count="4" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="DDMagic_a" id="4195" level="5" />
 			<skill name="SelfRangeDebuff_a" id="4184" level="5" />
@@ -1543,10 +1503,6 @@
 	</npc>
 	<npc id="25235" level="72" type="RaidBoss" name="Vanor Chief Kandra" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25236" count="2" respawnTime="360" weightPoint="1" />
-				<npc id="25237" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="7" />
 		</parameters>
@@ -1666,10 +1622,6 @@
 	</npc>
 	<npc id="25238" level="59" type="RaidBoss" name="Abyss Brukunt" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25239" count="2" respawnTime="360" weightPoint="1" />
-				<npc id="25240" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeDDMagic_a" id="4178" level="5" />
 		</parameters>
@@ -1784,10 +1736,6 @@
 	</npc>
 	<npc id="25241" level="80" type="RaidBoss" name="Hero Tamash" title="High Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25242" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25243" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4745" level="5" />
 		</parameters>
@@ -2012,10 +1960,6 @@
 	</npc>
 	<npc id="25245" level="78" type="RaidBoss" name="Last Lesser Giant Glaki" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25246" count="1" respawnTime="360" weightPoint="1" />
-				<npc id="25247" count="4" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="DDMagic_a" id="4194" level="8" />
 			<skill name="SelfRangeDebuff_a" id="4188" level="8" />
@@ -2188,10 +2132,6 @@
 	</npc>
 	<npc id="25249" level="75" type="RaidBoss" name="Menacing Palatanos" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25250" count="3" respawnTime="360" weightPoint="1" /> <!-- Man-Eating Plant of Palatanos -->
-				<npc id="25251" count="1" respawnTime="360" weightPoint="1" /> <!-- Sapling of Palatanos -->
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="8" /> <!-- Hold -->
 		</parameters>
@@ -2313,10 +2253,6 @@
 	</npc>
 	<npc id="25252" level="85" type="RaidBoss" name="Palibati Queen Themis" title="High Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25253" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25254" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="DDMagic_a" id="4191" level="7" />
 			<skill name="SelfRangeDebuff_a" id="4183" level="7" />
@@ -2529,10 +2465,6 @@
 	</npc>
 	<npc id="25256" level="70" type="RaidBoss" name="High Prefect Arak" title="Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25257" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25258" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4741" level="6" />
 		</parameters>
@@ -2695,10 +2627,6 @@
 	</npc>
 	<npc id="25260" level="75" type="RaidBoss" name="Iron Giant Totem" title="High Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25261" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25262" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="PhysicalSpecial_b" id="4745" level="4" />
 		</parameters>
@@ -2852,10 +2780,6 @@
 	</npc>
 	<npc id="25263" level="67" type="RaidBoss" name="Kernon's Faithful Servant Kelone" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25264" count="3" respawnTime="360" weightPoint="1" /> <!-- Kelone's Assassin -->
-				<npc id="25265" count="1" respawnTime="360" weightPoint="1" /> <!-- Kelone's Secret Knight -->
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="6" /> <!-- Hold -->
 		</parameters>
@@ -3031,10 +2955,6 @@
 	</npc>
 	<npc id="25266" level="75" type="RaidBoss" name="Bloody Empress Decarbia" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25267" count="4" respawnTime="360" weightPoint="1" />
-				<npc id="25268" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="DDMagic_a" id="4192" level="8" />
 			<skill name="SelfRangeDebuff_a" id="4188" level="8" />
@@ -3165,10 +3085,6 @@
 	</npc>
 	<npc id="25269" level="70" type="RaidBoss" name="Beast Lord Behemoth" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25270" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25271" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4744" level="7" />
 		</parameters>
@@ -3338,10 +3254,6 @@
 	</npc>
 	<npc id="25273" level="50" type="RaidBoss" name="Carnamakos" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25274" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25275" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="RangeHold_a" id="4197" level="5" />
 		</parameters>
@@ -3512,10 +3424,6 @@
 	</npc>
 	<npc id="25277" level="50" type="RaidBoss" name="Lilith' Witch Marilion" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25278" count="2" respawnTime="360" weightPoint="1" />
-				<npc id="25279" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<param name="SSQLoserTeleport" value="1" />
 			<skill name="RangeDDMagic_a" id="4178" level="5" />
@@ -3791,10 +3699,6 @@
 	</npc>
 	<npc id="25283" level="82" type="RaidBoss" name="Lilith" title="Apostle">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25284" count="4" respawnTime="360" weightPoint="1" />
-				<npc id="25285" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<param name="SSQLoserTeleport" value="1" />
 			<skill name="RangeHold_a" id="4197" level="9" />
@@ -3999,11 +3903,6 @@
 	</npc>
 	<npc id="25286" level="82" type="RaidBoss" name="Anakim" title="Fallen Angel">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25287" count="4" respawnTime="360" weightPoint="1" />
-				<npc id="25288" count="4" respawnTime="360" weightPoint="1" />
-				<npc id="25289" count="4" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<param name="SSQLoserTeleport" value="1" />
 			<skill name="RangeDDMagic_a" id="4314" level="9" />
@@ -4236,10 +4135,6 @@
 	</npc>
 	<npc id="25290" level="78" type="RaidBoss" name="Daimon the White-eyed" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25291" count="3" respawnTime="360" weightPoint="1" /> <!-- Family of Daimon -->
-				<npc id="25292" count="1" respawnTime="360" weightPoint="1" /> <!-- Family of Daimon -->
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="DDMagic_a" id="4192" level="8" /> <!-- BOSS HP Drain -->
 			<skill name="SelfRangeDebuff_a" id="4185" level="8" /> <!-- Sleep -->
@@ -4367,10 +4262,6 @@
 	</npc>
 	<npc id="25293" level="78" type="RaidBoss" name="Hestia, Guardian Deity of the Hot Springs" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25294" count="1" respawnTime="360" weightPoint="1" />
-				<npc id="25295" count="4" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="DDMagic_a" id="4194" level="8" />
 			<skill name="SelfRangeDebuff_a" id="4187" level="8" />
@@ -4489,10 +4380,6 @@
 	</npc>
 	<npc id="25296" level="74" type="RaidBoss" name="Icicle Emperor Bumbalump" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25297" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25298" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm03_A" />
 			<skill name="RangeHold_a" id="4197" level="7" />
 		</parameters>
@@ -4619,10 +4506,6 @@
 	</npc>
 	<npc id="25299" level="80" type="RaidBoss" name="Ketra's Hero Hekaton" title="Raid Boss">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25300" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25301" count="2" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="PhysicalSpecial_b" id="4746" level="9" />
 		</parameters>

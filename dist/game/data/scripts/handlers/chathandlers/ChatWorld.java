@@ -27,6 +27,8 @@ import org.l2jmobius.gameserver.enums.PlayerCondOverride;
 import org.l2jmobius.gameserver.handler.IChatHandler;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.itemcontainer.Inventory;
+import org.l2jmobius.gameserver.model.zone.ZoneId;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 import org.l2jmobius.gameserver.network.serverpackets.CreatureSay;
 import org.l2jmobius.gameserver.network.serverpackets.ExWorldChatCnt;
@@ -46,7 +48,7 @@ public class ChatWorld implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
 	{
 		if (!Config.ENABLE_WORLD_CHAT)
 		{
@@ -77,6 +79,14 @@ public class ChatWorld implements IChatHandler
 		{
 			activeChar.sendPacket(SystemMessageId.YOU_HAVE_SPENT_YOUR_WORLD_CHAT_QUOTA_FOR_THE_DAY_IT_IS_RESET_DAILY_AT_7_A_M);
 		}
+		else if ((isLocSharing == 1) && (activeChar.getInventory().getInventoryItemCount(Inventory.LCOIN_ID, -1) < Config.SHARING_LOCATION_COST))
+		{
+			activeChar.sendPacket(SystemMessageId.THERE_ARE_NOT_ENOUGH_L_COINS);
+		}
+		else if ((isLocSharing == 1) && (activeChar.isInInstance() || activeChar.isInsideZone(ZoneId.SIEGE)))
+		{
+			activeChar.sendPacket(SystemMessageId.LOCATION_CANNOT_BE_SHARED_SINCE_THE_CONDITIONS_ARE_NOT_MET);
+		}
 		else
 		{
 			// Verify if player is not spaming.
@@ -93,7 +103,12 @@ public class ChatWorld implements IChatHandler
 				}
 			}
 			
-			final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text);
+			if (isLocSharing == 1)
+			{
+				activeChar.destroyItemByItemId("TeleToSharedLoc", Inventory.LCOIN_ID, Config.SHARING_LOCATION_COST, activeChar, true);
+			}
+			
+			final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing);
 			if (Config.FACTION_SYSTEM_ENABLED && Config.FACTION_SPECIFIC_CHAT)
 			{
 				if (activeChar.isGood())

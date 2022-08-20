@@ -279,12 +279,6 @@
 			<npc id="20455" x="-44505" y="47150" z="-5451" heading="0" respawnTime="60sec" /> <!-- Doom Soldier -->
 			<npc id="20455" x="-44203" y="47684" z="-5451" heading="0" respawnTime="60sec" /> <!-- Doom Soldier -->
 			<npc id="20348" x="-44304" y="47150" z="-5451" heading="0" respawnTime="60sec" /> <!-- Cave Spider -->
-			<npc id="20348" x="-44765" y="48826" z="-5960" heading="0" respawnTime="60sec" /> <!-- Cave Spider -->
-			<npc id="20348" x="-43960" y="49182" z="-5960" heading="0" respawnTime="60sec" /> <!-- Cave Spider -->
-			<npc id="20348" x="-44866" y="49360" z="-5960" heading="0" respawnTime="60sec" /> <!-- Cave Spider -->
-			<npc id="20348" x="-43860" y="49004" z="-5960" heading="0" respawnTime="60sec" /> <!-- Cave Spider -->
-			<npc id="20350" x="-44060" y="49360" z="-5960" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
-			<npc id="20350" x="-44262" y="49004" z="-5960" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
 			<npc id="20350" x="-44593" y="44374" z="-5459" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
 			<npc id="20350" x="-44492" y="44908" z="-5459" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
 			<npc id="20350" x="-43988" y="45086" z="-5459" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
@@ -360,16 +354,7 @@
 			<npc id="20348" x="-50319" y="49187" z="-5975" heading="0" respawnTime="60sec" /> <!-- Cave Spider -->
 			<npc id="20350" x="-51025" y="49721" z="-5975" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
 			<npc id="20350" x="-50319" y="48831" z="-5975" heading="0" respawnTime="60sec" /> <!-- Cave Fang Spider -->
-			<npc id="20052" x="-48120" y="48206" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Turen -->
-			<npc id="20052" x="-47717" y="48206" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Turen -->
-			<npc id="20052" x="-47717" y="48562" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Turen -->
-			<npc id="20057" x="-47616" y="48740" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Tilfo -->
-			<npc id="20057" x="-47415" y="48028" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Tilfo -->
-			<npc id="20057" x="-47516" y="48206" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Tilfo -->
-			<npc id="20057" x="-47818" y="48384" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Tilfo -->
-			<npc id="20057" x="-47918" y="48562" z="-5774" heading="0" respawnTime="60sec" /> <!-- Lesser Succubus Tilfo -->
 			<npc id="27036" x="-51606" y="39692" z="-3476" heading="0" respawnTime="480sec" /> <!-- Calpico -->
-			<npc id="27022" x="-48120" y="48206" z="-5774" heading="0" respawnTime="50sec" /> <!-- Merkenis -->
 			<npc id="20392" x="-33373" y="65696" z="-3587" heading="16158" respawnTime="16sec" /> <!-- Red Eye Bat -->
 			<npc id="20034" x="-38383" y="67167" z="-3366" heading="18889" respawnTime="20sec" /> <!-- Prowler -->
 			<npc id="20380" x="-39886" y="71340" z="-3329" heading="38996" respawnTime="20sec" /> <!-- Stone Giant Guardian -->
@@ -1889,15 +1874,11 @@
 			<npc id="20558" x="57678" y="25731" z="-4987" heading="25542" respawnTime="27sec" /> <!-- Rotting Tree -->
 			<npc id="20555" x="62490" y="25828" z="-3765" heading="24103" respawnTime="27sec" /> <!-- Giant Fungus -->
 			<npc id="20555" x="61612" y="24154" z="-3819" heading="50730" respawnTime="27sec" /> <!-- Giant Fungus -->
-			<npc id="20556" x="62411" y="22971" z="-3788" heading="42306" respawnTime="27sec" /> <!-- Giant Monster Eye -->
-			<npc id="20556" x="62617" y="23881" z="-3788" heading="44176" respawnTime="27sec" /> <!-- Giant Monster Eye -->
 			<npc id="20557" x="63222" y="23651" z="-3774" heading="62277" respawnTime="27sec" /> <!-- Dire Wyrm -->
 			<npc id="20555" x="61028" y="27217" z="-3812" heading="23717" respawnTime="27sec" /> <!-- Giant Fungus -->
-			<npc id="20555" x="62517" y="27184" z="-3764" heading="37846" respawnTime="27sec" /> <!-- Giant Fungus -->
 			<npc id="20555" x="60155" y="28516" z="-3796" heading="15087" respawnTime="27sec" /> <!-- Giant Fungus -->
 			<npc id="20556" x="62132" y="27760" z="-3739" heading="18423" respawnTime="27sec" /> <!-- Giant Monster Eye -->
 			<npc id="20556" x="63214" y="25368" z="-3768" heading="56920" respawnTime="27sec" /> <!-- Giant Monster Eye -->
-			<npc id="20556" x="61694" y="25208" z="-3805" heading="46507" respawnTime="27sec" /> <!-- Giant Monster Eye -->
 			<npc id="20557" x="61902" y="26274" z="-3769" heading="13910" respawnTime="27sec" /> <!-- Dire Wyrm -->
 			<npc id="20557" x="60987" y="29592" z="-3729" heading="13339" respawnTime="27sec" /> <!-- Dire Wyrm -->
 			<npc id="20557" x="60685" y="28420" z="-3752" heading="2314" respawnTime="27sec" /> <!-- Dire Wyrm -->
@@ -1955,7 +1936,6 @@
 			<npc id="29017" x="43504" y="16644" z="-4352" heading="0" respawnTime="360sec" /> <!-- Riba -->
 			<npc id="29017" x="43196" y="17580" z="-4352" heading="0" respawnTime="360sec" /> <!-- Riba -->
 			<npc id="29017" x="44176" y="17240" z="-4352" heading="0" respawnTime="360sec" /> <!-- Riba -->
-			<npc id="27166" x="63707" y="31164" z="-3736" heading="0" respawnTime="180sec" /> <!-- Abyssal Jewel 2 -->
 			<npc id="20530" x="49115" y="43138" z="-3511" heading="54942" respawnTime="20sec" /> <!-- Young Red Keltir -->
 			<npc id="20530" x="49506" y="41440" z="-3485" heading="2226" respawnTime="20sec" /> <!-- Young Red Keltir -->
 			<npc id="20534" x="48959" y="42194" z="-3491" heading="11568" respawnTime="20sec" /> <!-- Red Keltir -->
@@ -2630,30 +2610,16 @@
 			<npc id="20570" x="98002" y="8113" z="-3708" heading="34895" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20570" x="97164" y="5598" z="-3453" heading="42278" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20571" x="97193" y="6424" z="-3583" heading="19103" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20569" x="90504" y="8966" z="-3393" heading="41256" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="94529" y="8420" z="-4008" heading="0" respawnTime="25sec" /> <!-- Formor Elder -->
-			<npc id="20569" x="93896" y="11631" z="-3600" heading="45329" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="94730" y="9132" z="-4008" heading="0" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20570" x="92957" y="9011" z="-3902" heading="37086" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20570" x="93384" y="8701" z="-3902" heading="14832" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20570" x="91618" y="9976" z="-3496" heading="38569" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20570" x="94485" y="10056" z="-3687" heading="40938" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20570" x="96357" y="9511" z="-3676" heading="59512" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20571" x="93322" y="9844" z="-4008" heading="0" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20571" x="93572" y="9451" z="-3849" heading="64548" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20571" x="95518" y="10430" z="-3637" heading="19610" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20571" x="92170" y="11179" z="-3499" heading="28035" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
 			<npc id="20571" x="93670" y="13448" z="-3579" heading="19611" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20571" x="93975" y="11266" z="-3632" heading="45739" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20569" x="95144" y="11930" z="-3720" heading="0" respawnTime="25sec" /> <!-- Formor Elder -->
-			<npc id="20569" x="92709" y="11656" z="-3512" heading="14499" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="96852" y="13458" z="-3225" heading="18655" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20570" x="94092" y="15384" z="-3602" heading="14761" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20570" x="94839" y="13525" z="-3602" heading="2597" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20570" x="96640" y="12485" z="-3350" heading="26854" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20571" x="95703" y="11557" z="-3497" heading="43748" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
 			<npc id="20571" x="95446" y="12820" z="-3720" heading="0" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20571" x="94540" y="12286" z="-3720" heading="0" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
 			<npc id="20568" x="94854" y="17161" z="-3640" heading="54946" respawnTime="25sec" /> <!-- Formor -->
 			<npc id="20568" x="93960" y="22413" z="-3264" heading="28502" respawnTime="25sec" /> <!-- Formor -->
 			<npc id="20569" x="93576" y="17290" z="-3826" heading="45750" respawnTime="25sec" /> <!-- Formor Elder -->
@@ -2846,12 +2812,7 @@
 			<npc id="20570" x="88591" y="6066" z="-2947" heading="15841" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20571" x="88513" y="5146" z="-2857" heading="20180" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
 			<npc id="20571" x="91612" y="6069" z="-2989" heading="54509" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20569" x="89702" y="7051" z="-3085" heading="62296" respawnTime="25sec" /> <!-- Formor Elder -->
 			<npc id="20569" x="87101" y="7808" z="-3118" heading="5194" respawnTime="25sec" /> <!-- Formor Elder -->
-			<npc id="20570" x="88353" y="7484" z="-3484" heading="0" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20570" x="90860" y="7995" z="-3294" heading="52982" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
-			<npc id="20571" x="89108" y="7842" z="-3160" heading="34531" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
-			<npc id="20571" x="88394" y="8125" z="-3168" heading="31639" respawnTime="25sec" /> <!-- Tarlk Bugbear Warrior -->
 			<npc id="20570" x="92114" y="3696" z="-3124" heading="0" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20570" x="90773" y="5482" z="-2933" heading="14176" respawnTime="25sec" /> <!-- Tarlk Bugbear -->
 			<npc id="20570" x="91926" y="5087" z="-2875" heading="52419" respawnTime="25sec" /> <!-- Tarlk Bugbear -->

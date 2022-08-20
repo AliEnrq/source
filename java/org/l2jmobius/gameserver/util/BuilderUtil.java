@@ -42,7 +42,7 @@ public class BuilderUtil
 	{
 		if (Config.GM_STARTUP_BUILDER_HIDE)
 		{
-			player.sendPacket(new CreatureSay(null, ChatType.GENERAL, "SYS", SendMessageLocalisationData.getLocalisation(player, message)));
+			player.sendPacket(new CreatureSay(null, ChatType.GENERAL, "SYS", SendMessageLocalisationData.getLocalisation(player, message), 0));
 		}
 		else
 		{
@@ -57,7 +57,7 @@ public class BuilderUtil
 	 */
 	public static void sendHtmlMessage(Player player, String message)
 	{
-		player.sendPacket(new CreatureSay(null, ChatType.GENERAL, "HTML", message));
+		player.sendPacket(new CreatureSay(null, ChatType.GENERAL, "HTML", message, 0));
 	}
 	
 	/**

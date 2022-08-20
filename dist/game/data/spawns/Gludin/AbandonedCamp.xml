@@ -207,133 +207,54 @@
 			<npc id="20439" x="-50060" y="149462" z="-2751" heading="39850" respawnTime="60sec" /> <!-- Ol Mahum Sergeant -->
 			<npc id="20439" x="-50411" y="149098" z="-2751" heading="47466" respawnTime="60sec" /> <!-- Ol Mahum Sergeant -->
 			<npc id="20439" x="-50477" y="148422" z="-2742" heading="46704" respawnTime="60sec" /> <!-- Ol Mahum Sergeant -->
-			<npc id="22237" x="-49592" y="140600" z="-2840" heading="24509" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-49960" y="140936" z="-2924" heading="125" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-50168" y="138680" z="-2924" heading="56238" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-50184" y="140344" z="-2919" heading="35594" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-50216" y="137368" z="-2881" heading="54199" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-50280" y="139064" z="-2911" heading="4753" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-50408" y="138424" z="-2923" heading="46374" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-50520" y="137064" z="-2872" heading="61351" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-50584" y="140072" z="-2895" heading="59700" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-50677" y="138020" z="-2921" heading="24336" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-50760" y="139800" z="-2856" heading="29744" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-50968" y="137912" z="-2908" heading="1904" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-51137" y="136932" z="-2894" heading="28206" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-51256" y="139944" z="-2865" heading="51755" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-51286" y="138119" z="-2890" heading="43932" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-51288" y="139592" z="-2881" heading="20920" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-51416" y="137144" z="-2882" heading="52729" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-51535" y="140048" z="-2884" heading="10810" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-51573" y="140691" z="-2859" heading="24602" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-51752" y="139064" z="-2947" heading="36222" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-51755" y="138289" z="-2894" heading="24264" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-51800" y="137528" z="-2874" heading="45183" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-52184" y="140456" z="-2915" heading="51562" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-52296" y="138888" z="-2938" heading="45713" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-52488" y="139720" z="-2945" heading="28780" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-52703" y="137243" z="-2911" heading="30076" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-52896" y="139790" z="-2920" heading="50056" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-53096" y="138664" z="-2916" heading="24129" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22237" x="-53322" y="140128" z="-2863" heading="21816" respawnTime="60sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-49416" y="140552" z="-2891" heading="19783" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-49992" y="138808" z="-2926" heading="57582" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-50080" y="140430" z="-2856" heading="18643" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50086" y="140822" z="-2856" heading="39759" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50456" y="137288" z="-2871" heading="36228" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50504" y="140296" z="-2908" heading="33772" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-50520" y="136888" z="-2885" heading="49397" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50536" y="138648" z="-2925" heading="15298" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50568" y="138136" z="-2923" heading="41897" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50648" y="137672" z="-2905" heading="51412" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50728" y="139960" z="-2881" heading="37421" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-50784" y="139209" z="-2906" heading="58801" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-50936" y="139928" z="-2856" heading="27294" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51011" y="140401" z="-2856" heading="2438" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51112" y="138840" z="-2926" heading="60486" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51126" y="139651" z="-2864" heading="64013" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51154" y="138107" z="-2899" heading="24965" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51192" y="137208" z="-2891" heading="18181" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51336" y="137432" z="-2881" heading="12957" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51336" y="137832" z="-2886" heading="50171" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51528" y="138488" z="-2892" heading="5979" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51536" y="137189" z="-2864" heading="42325" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51580" y="140369" z="-2882" heading="21043" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51665" y="137814" z="-2873" heading="11245" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51704" y="139384" z="-2943" heading="14755" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51880" y="140744" z="-2864" heading="33703" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-51976" y="140184" z="-2918" heading="55442" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-52306" y="138055" z="-2920" heading="51850" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-52579" y="140104" z="-2937" heading="19112" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-52777" y="139417" z="-2936" heading="53210" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-52854" y="137552" z="-2919" heading="15135" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-52888" y="140440" z="-2925" heading="34506" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-53131" y="139136" z="-2919" heading="18137" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-53307" y="140779" z="-2856" heading="7391" respawnTime="60sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22239" x="-49512" y="140520" z="-2895" heading="48683" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50030" y="140394" z="-2856" heading="496" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-50152" y="140952" z="-2918" heading="18603" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-50248" y="138776" z="-2925" heading="60027" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-50360" y="137601" z="-2873" heading="4786" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50376" y="138520" z="-2923" heading="64490" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50440" y="138984" z="-2923" heading="53866" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-50534" y="137834" z="-2906" heading="44173" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50696" y="139784" z="-2866" heading="42841" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50696" y="140136" z="-2892" heading="57343" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50744" y="137128" z="-2876" heading="49895" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-50776" y="136776" z="-2886" heading="50056" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51067" y="140176" z="-2856" heading="27131" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-51102" y="140723" z="-2856" heading="42553" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-51160" y="137736" z="-2893" heading="22156" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51166" y="138364" z="-2903" heading="37400" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51224" y="139464" z="-2898" heading="29735" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51448" y="138760" z="-2916" heading="22287" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51480" y="137448" z="-2865" heading="47518" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51510" y="139127" z="-2941" heading="33006" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51605" y="138113" z="-2878" heading="4547" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51707" y="137429" z="-2852" heading="13296" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-51752" y="139768" z="-2905" heading="39989" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-52217" y="139694" z="-2945" heading="47459" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-52232" y="140632" z="-2904" heading="44451" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-52257" y="137197" z="-2900" heading="50238" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-52360" y="138680" z="-2924" heading="44349" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-52802" y="138307" z="-2920" heading="11639" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-52936" y="140184" z="-2908" heading="46596" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-53196" y="139785" z="-2896" heading="14428" respawnTime="60sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22240" x="-49512" y="140696" z="-2906" heading="22947" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50107" y="140551" z="-2856" heading="18643" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50120" y="140808" z="-2856" heading="34975" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50128" y="138887" z="-2924" heading="27197" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50440" y="138008" z="-2907" heading="57225" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50536" y="137512" z="-2877" heading="55359" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50568" y="138536" z="-2924" heading="46641" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50603" y="139171" z="-2908" heading="63861" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50616" y="139896" z="-2880" heading="6188" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50692" y="137301" z="-2873" heading="31866" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-50755" y="136912" z="-2884" heading="31674" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50760" y="140312" z="-2895" heading="31258" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50909" y="140790" z="-2856" heading="27014" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50952" y="138360" z="-2915" heading="6588" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51001" y="139450" z="-2884" heading="54678" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51015" y="140008" z="-2856" heading="39558" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-51082" y="137457" z="-2891" heading="10440" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-51224" y="138904" z="-2930" heading="5256" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51240" y="139176" z="-2936" heading="20299" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51304" y="140488" z="-2875" heading="958" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-51336" y="138584" z="-2908" heading="6447" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51416" y="137640" z="-2868" heading="44834" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-51624" y="139672" z="-2907" heading="13802" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51768" y="137160" z="-2850" heading="27572" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51816" y="138008" z="-2901" heading="26634" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-52130" y="140862" z="-2868" heading="28158" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-52158" y="140035" z="-2925" heading="41622" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-52320" y="138463" z="-2920" heading="40959" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-52327" y="137706" z="-2920" heading="51316" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-52568" y="140488" z="-2933" heading="15692" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-52655" y="139115" z="-2945" heading="53120" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-52888" y="137975" z="-2920" heading="17686" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-53112" y="140760" z="-2856" heading="53246" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-53221" y="139475" z="-2914" heading="17637" respawnTime="60sec" /> <!-- Sel Mahum Mage -->
 		</group>
 	</spawn>
 </list>

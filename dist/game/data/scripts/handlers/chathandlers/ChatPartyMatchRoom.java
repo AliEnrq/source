@@ -37,7 +37,7 @@ public class ChatPartyMatchRoom implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
 	{
 		final MatchingRoom room = activeChar.getMatchingRoom();
 		if (room != null)
@@ -53,7 +53,7 @@ public class ChatPartyMatchRoom implements IChatHandler
 				return;
 			}
 			
-			final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text);
+			final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing);
 			for (Player _member : room.getMembers())
 			{
 				if (Config.FACTION_SYSTEM_ENABLED)

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_18">
+		<group>
+			<npc id="25925" x="66405" y="31363" z="-3720" heading="28524" respawnTime="60sec" /> <!-- Jisra -->
+			<npc id="25463" x="66405" y="31363" z="-3720" heading="28524" respawnTime="60sec" /> <!-- Guardian Garangky -->
+			<npc id="25478" x="66405" y="31363" z="-3720" heading="28524" respawnTime="60sec" /> <!-- Shillien's Priest Hisilrome -->
+		</group>
+	</spawn>
+</list>

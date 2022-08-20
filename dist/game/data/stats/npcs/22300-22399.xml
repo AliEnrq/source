@@ -239,14 +239,13 @@
 		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
 		<acquire exp="135866" sp="15207" attributeExp="204" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
 			<speed>
-				<walk ground="56" />
+				<walk ground="70" />
 				<run ground="174" />
 			</speed>
-			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
-			<defence physical="349.77477" magical="255.95" />
-			<hitTime>480</hitTime>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
 		</stats>
 		<skillList>
 			<skill id="4416" level="20" />
@@ -283,14 +282,13 @@
 		<equipment rhand="94664" /> <!-- Dragontroop Lancer Javeline -->
 		<acquire exp="135866" sp="15207" attributeExp="204" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
 			<speed>
-				<walk ground="89" />
+				<walk ground="70" />
 				<run ground="174" />
 			</speed>
-			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
-			<defence physical="349.77477" magical="255.95" />
-			<hitTime>480</hitTime>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
 		</stats>
 		<skillList>
 			<skill id="4416" level="20" />
@@ -326,14 +324,13 @@
 		<sex>MALE</sex>
 		<acquire exp="135866" sp="15207" attributeExp="204" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
 			<speed>
-				<walk ground="100" />
+				<walk ground="70" />
 				<run ground="174" />
 			</speed>
-			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
-			<defence physical="349.77477" magical="255.95" />
-			<hitTime>480</hitTime>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
 		</stats>
 		<skillList>
 			<skill id="4416" level="20" />
@@ -358,38 +355,33 @@
 		</dropLists>
 	</npc>
 	<npc id="22308" level="82" type="Monster" name="Dragontroop Minion" element="EARTH">
-		<parameters>
-			<param name="MoveAroundSocial" value="80" />
-			<param name="MoveAroundSocial1" value="80" />
-			<param name="MoveAroundSocial2" value="80" />
-			<param name="SoulShot" value="200" />
-			<param name="SoulShotRate" value="5" />
-		</parameters>
-		<race>DRAGON</race>
+		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<equipment rhand="68" />
+		<acquire exp="10471" sp="2932" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
-			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
 			<speed>
-				<walk ground="92" />
+				<walk ground="70" />
 				<run ground="174" />
 			</speed>
-			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
-			<defence physical="349.77477" magical="255.95" />
-			<hitTime>480</hitTime>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
 		</stats>
+		<status attackable="false" />
+		<ai isAggressive="true" aggroRange="500" clanHelpRange="500" />
 		<skillList>
-			<skill id="4416" level="20" />
-			<skill id="4116" level="2" />
-			<skill id="48016" level="1" />
-			<skill id="5620" level="3" />
+			<skill id="4416" level="3" /> <!-- Beasts -->
 		</skillList>
-		<status attackable="true" undying="false" />
-		<ai isAggressive="true" aggroRange="350" />
 		<collision>
-			<radius normal="19.6" />
-			<height normal="36.2" />
+			<radius normal="25" />
+			<height normal="65" />
 		</collision>
+		<dropLists>
+			<drop>
+				<item id="92914" min="1" max="1" chance="100" /> <!-- Material: Sack Shreds -->
+			</drop>
+		</dropLists>
 		<dropLists>
 			<drop>
 				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
@@ -399,6 +391,7 @@
 				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
 			</drop>
 		</dropLists>
+
 	</npc>
 	<npc id="22309" level="82" type="Monster" name="Dragontroop Wizard" element="EARTH">
 		<parameters>

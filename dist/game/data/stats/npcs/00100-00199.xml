@@ -17,4 +17,1158 @@
 			<height normal="40" />
 		</collision>
 	</npc>
+								<!--Monastery of Silence 1-->
+	<npc id="56700" level="85" type="Monster" name="Divinity Enchanter" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56701" level="85" type="Monster" name="Divinity Priest" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56702" level="85" type="Monster" name="Divinity Titan" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56703" level="85" type="Monster" name="Divinity Hunter" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56704" level="85" type="Monster" name="Divinity Wizard" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56705" level="85" type="Monster" name="Divinity Protector" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+									<!--Monastery of Silence 2-->
+	<npc id="56718" level="85" type="Monster" name="Fallen Archangel" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56719" level="85" type="Monster" name="Guardian Archangel" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56720" level="85" type="Monster" name="Fighter Archangel" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56721" level="85" type="Monster" name="Archangel of Protection" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56722" level="85" type="Monster" name="Archangel of Light" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+	<npc id="56723" level="85" type="Monster" name="Archangel of Destruction" element="EARTH">
+		<parameters>
+			<param name="MoveAroundSocial" value="5" />
+			<param name="MoveAroundSocial1" value="5" />
+			<param name="MoveAroundSocial2" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Buff" id="4028" level="3" /> <!-- NPC Might -->
+		</parameters>
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="305165" sp="4423" attributeExp="1300" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="72129.4227188082" hpRegen="8.5" mp="2777.05451586656" mpRegen="3" />
+			<attack physical="9327.04039041932" magical="2885.11628279205" random="30" critical="4.75" accuracy="4.75" attackSpeed="250" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="310.919540229885" magical="268.885085528838" />
+			<speed>
+				<walk ground="55" />
+				<run ground="174" />
+			</speed>
+			<hitTime>610</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21" />
+			<height normal="35" />
+		</collision>
+		<skillList>
+			<skill id="4071" level="2" /> <!-- Bow Resistance -->
+			<skill id="4416" level="11" /> <!-- Giants -->
+			<skill id="5601" level="80" /> <!-- Melee Attack Resistance -->
+			<skill id="48047" level="80" /> <!-- Monster of Earth Element -->
+			<skill id="4276" level="3" /> <!-- Bow Vulnerability -->
+			<skill id="4028" level="3" /> <!-- NPC Might -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai aggroRange="500" clanHelpRange="500" />
+		<dropLists>
+			<drop>
+				<item id="57" min="18876" max="44043" chance="70" /> <!-- Adena -->
+				<item id="92995" min="1" max="1" chance="3.196" /> <!-- Thons -->
+				<item id="92915" min="1" max="1" chance="0.75" /> <!-- Material: Bag of Low-grade Stuff -->
+				<item id="92916" min="1" max="1" chance="0.3" /> <!-- Material: Animal Spirit -->
+				<item id="92917" min="1" max="1" chance="0.3" /> <!-- Material: Metal Ingot -->
+				<item id="92994" min="1" max="1" chance="0.3" /> <!-- Asofe -->
+				<item id="92988" min="1" max="1" chance="0.075" /> <!-- Orcish Treasure -->
+				<item id="92989" min="1" max="1" chance="0.003" /> <!-- Orc King's Treasure -->
+			</drop>
+			<spoil>
+				<item id="92999" min="1" max="1" chance="37.51" /> <!-- High-grade Resources -->
+				<item id="92995" min="1" max="1" chance="18.3" /> <!-- Thons -->
+				<item id="92994" min="1" max="1" chance="1.772" /> <!-- Asofe -->
+			</spoil>
+		</dropLists>
+	</npc>
+									<!--Dragon Valley-->
+	<npc id="56706" level="80" type="Monster" name="Royal Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56707" level="80" type="Monster" name="Guard Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56708" level="80" type="Monster" name="Warrior Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56709" level="80" type="Monster" name="Wizard Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56710" level="80" type="Monster" name="Sand Drake">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56711" level="80" type="Monster" name="Zombie Wyvern">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56712" level="80" type="Monster" name="Emerald Wyvern">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="94661" /> <!-- Dragontroop Soldier Sword -->
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="7381.50289017341" hpRegen="10.5" mp="1811.22112211221" mpRegen="3.6" />
+			<speed>
+				<walk ground="70" />
+				<run ground="174" />
+			</speed>
+			<attack physical="467.58282488453" magical="118.638139627086" critical="4.75" attackSpeed="253" range="40" />
+			<defence physical="208.284023668639" magical="96.8617571816353" />
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="22" />
+			<height normal="42" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56713" level="85" type="Monster" name="Behemot Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="100" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="30" />
+			<height normal="55" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56714" level="85" type="Monster" name="Bomber Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="100" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="30" />
+			<height normal="55" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="56715" level="85" type="Monster" name="Spike Dragon">
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="135866" sp="15207" attributeExp="204" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="10">
+			<vitals hp="46859" hpRegen="10.5" mp="2355" mpRegen="3.6" />
+			<speed>
+				<walk ground="100" />
+				<run ground="174" />
+			</speed>
+			<attack physical="4055.28566" magical="1720.6233026" random="30" critical="4.75" accuracy="7.75" attackSpeed="300" range="40" distance="80" width="120" />
+			<defence physical="349.77477" magical="255.95" />
+			<hitTime>480</hitTime>
+		</stats>
+		<skillList>
+			<skill id="4416" level="20" />
+			<skill id="4116" level="2" />
+			<skill id="48016" level="80" />
+			<skill id="5620" level="3" />
+		</skillList>
+		<status attackable="true" undying="false" />
+		<ai isAggressive="true" aggroRange="350" />
+		<collision>
+			<radius normal="30" />
+			<height normal="55" />
+		</collision>
+		<dropLists>
+			<drop>
+				<item id="57" min="4520" max="10546" chance="70" /> <!-- Adena -->
+				<item id="730" min="1" max="1" chance="0.75" /> <!-- Scroll: Enchant A-grade Armor (Exchangeable) -->
+				<item id="90013" min="1" max="1" chance="0.3" /> <!-- Mid-grade Life Stone - Weapon -->
+				<item id="729" min="1" max="1" chance="0.075" /> <!-- Scroll: Enchant A-grade Weapon (Exchangeable) -->
+				<item id="90014" min="1" max="1" chance="0.03" /> <!-- High-grade Life Stone - Weapon -->
+			</drop>
+		</dropLists>
+	</npc>
+									<!--Tower of Insolence 1-->
 </list>

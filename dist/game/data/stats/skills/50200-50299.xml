@@ -2105,6 +2105,8 @@
 				<minDamage>1</minDamage>
 				<chance>1</chance>
 				<targetType>ENEMY</targetType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50269</skillId>
@@ -2115,6 +2117,8 @@
 				<minDamage>1</minDamage>
 				<chance>1</chance>
 				<targetType>ENEMY</targetType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50269</skillId>
@@ -2161,7 +2165,7 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="50270" toLevel="10" name="+1 Baium's Thunder Breaker">
+	<skill id="50270" toLevel="10" name="+10 Baium's Thunder Breaker">
 		<!-- Imbued with Baium's Soul. <When triggered> Baium's Thunder Bolt. -->
 		<icon>icon.skill1469</icon>
 		<operateType>P</operateType>
@@ -2183,6 +2187,8 @@
 				</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50269</skillId>
 				<skillLevel>
@@ -2215,6 +2221,8 @@
 				</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50269</skillId>
 				<skillLevel>
@@ -2243,6 +2251,8 @@
 				</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50271</skillId>
 				<skillLevel>
@@ -2267,6 +2277,8 @@
 				</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50271</skillId>
 				<skillLevel>
@@ -2300,7 +2312,7 @@
 					<value level="9">5</value>
 					<value level="10">6</value>
 				</amount>
-				<stat>INT</stat>
+				<stat>DEX</stat>
 			</effect>
 		</effects>
 	</skill>
@@ -2527,7 +2539,7 @@
 					<value level="9">5</value>
 					<value level="10">6</value>
 				</amount>
-				<stat>DEX</stat>
+				<stat>STR</stat>
 			</effect>
 			<effect name="StatUp">
 				<amount>
@@ -2539,7 +2551,7 @@
 					<value level="9">5</value>
 					<value level="10">6</value>
 				</amount>
-				<stat>WIT</stat>
+				<stat>CON</stat>
 			</effect>
 		</effects>
 	</skill>
@@ -2801,7 +2813,7 @@
 					<value level="9">5</value>
 					<value level="10">6</value>
 				</amount>
-				<stat>MEN</stat>
+				<stat>STR</stat>
 			</effect>
 		</effects>
 	</skill>
@@ -3063,7 +3075,7 @@
 					<value level="9">5</value>
 					<value level="10">6</value>
 				</amount>
-				<stat>DEX</stat>
+				<stat>STR</stat>
 			</effect>
 		</effects>
 	</skill>
@@ -3581,8 +3593,10 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50453</skillId> <!-- Baium Power -->
@@ -3591,9 +3605,11 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50453</skillId> <!-- Baium Power -->
 				<skillLevel>1</skillLevel>
@@ -3608,7 +3624,7 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -3620,7 +3636,7 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -3670,7 +3686,7 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -3682,7 +3698,7 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>

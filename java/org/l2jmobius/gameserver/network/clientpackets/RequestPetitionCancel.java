@@ -77,7 +77,7 @@ public class RequestPetitionCancel implements IClientIncomingPacket
 				
 				// Notify all GMs that the player's pending petition has been cancelled.
 				final String msgContent = player.getName() + " has canceled a pending petition.";
-				AdminData.getInstance().broadcastToGMs(new CreatureSay(player, ChatType.HERO_VOICE, "Petition System", msgContent));
+				AdminData.getInstance().broadcastToGMs(new CreatureSay(player, ChatType.HERO_VOICE, "Petition System", msgContent, 0));
 			}
 			else
 			{

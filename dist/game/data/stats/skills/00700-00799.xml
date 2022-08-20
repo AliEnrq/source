@@ -2583,7 +2583,7 @@
 		<abnormalLevel>2</abnormalLevel>
 		<abnormalTime>30</abnormalTime>
 		<abnormalType>AVOID_UP_SPECIAL</abnormalType>
-		<abnormalVisualEffect>ULTIMATE_DEFENCE</abnormalVisualEffect>
+		<abnormalVisualEffect>TORNADO_SLOW</abnormalVisualEffect>
 		<hitTime>1000</hitTime>
 		<magicLevel>80</magicLevel>
 		<mpConsume>36</mpConsume>
@@ -2624,7 +2624,7 @@
 		<abnormalLevel>2</abnormalLevel>
 		<abnormalTime>30</abnormalTime>
 		<abnormalType>AVOID_UP_SPECIAL</abnormalType>
-		<abnormalVisualEffect>ULTIMATE_DEFENCE</abnormalVisualEffect>
+		<abnormalVisualEffect>TORNADO_SLOW</abnormalVisualEffect>
 		<hitTime>1000</hitTime>
 		<magicLevel>80</magicLevel>
 		<mpConsume>36</mpConsume>
@@ -2663,7 +2663,7 @@
 		<abnormalLevel>2</abnormalLevel>
 		<abnormalTime>30</abnormalTime>
 		<abnormalType>AVOID_UP_SPECIAL</abnormalType>
-		<abnormalVisualEffect>ULTIMATE_DEFENCE</abnormalVisualEffect>
+		<abnormalVisualEffect>TORNADO_SLOW</abnormalVisualEffect>
 		<hitTime>1000</hitTime>
 		<magicLevel>80</magicLevel>
 		<mpConsume>36</mpConsume>
@@ -2741,7 +2741,7 @@
 		<icon>icon.skill0772</icon>
 		<affectLimit>5-12</affectLimit>
 		<affectRange>200</affectRange>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<coolTime>1000</coolTime>
 		<effectPoint>-1220</effectPoint>
 		<effectRange>1100</effectRange>
@@ -2780,7 +2780,7 @@
 		<icon>icon.skill0773</icon>
 		<affectLimit>5-12</affectLimit>
 		<affectRange>900</affectRange>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<coolTime>1000</coolTime>
 		<effectPoint>-1220</effectPoint>
 		<effectRange>1400</effectRange>
@@ -3546,7 +3546,7 @@
 		<abnormalVisualEffect>DOT_POISON</abnormalVisualEffect>
 		<activateRate>70</activateRate>
 		<basicProperty>PHYSICAL</basicProperty>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<effectPoint>
 			<value level="1">-460</value>
 			<value level="2">-470</value>
